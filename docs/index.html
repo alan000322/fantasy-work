@@ -549,6 +549,49 @@
     .news-placeholder svg { width: 40px; height: 40px; color: var(--text-muted); margin-bottom: 10px; opacity: 0.5; }
     .news-placeholder p { font-size: 14px; color: var(--text-muted); line-height: 1.6; }
 
+    /* ===== Modal ===== */
+    .modal-overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(15,23,42,0.4);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 100;
+      opacity: 0;
+      transition: opacity 200ms ease;
+      padding: 20px;
+    }
+    .modal-overlay.show { opacity: 1; }
+    .modal-box {
+      background: var(--bg-card);
+      border-radius: var(--radius);
+      padding: 24px;
+      max-width: 320px;
+      width: 100%;
+      box-shadow: var(--shadow-lg);
+      transform: scale(0.95);
+      transition: transform 200ms ease;
+    }
+    .modal-overlay.show .modal-box { transform: scale(1); }
+    .modal-title { font-size: 16px; font-weight: 700; color: var(--text); margin-bottom: 8px; }
+    .modal-msg { font-size: 14px; color: var(--text-secondary); line-height: 1.5; margin-bottom: 20px; }
+    .modal-actions { display: flex; gap: 8px; justify-content: flex-end; }
+    .modal-btn {
+      padding: 8px 20px;
+      border-radius: 8px;
+      font-family: 'Barlow', sans-serif;
+      font-size: 14px;
+      font-weight: 600;
+      cursor: pointer;
+      border: none;
+      transition: background var(--transition);
+    }
+    .modal-btn-cancel { background: var(--bg-muted); color: var(--text-secondary); }
+    .modal-btn-cancel:hover { background: var(--border); }
+    .modal-btn-danger { background: var(--error); color: #fff; }
+    .modal-btn-danger:hover { background: #DC2626; }
+
     /* ===== Reduced motion ===== */
     @media (prefers-reduced-motion: reduce) {
       *, *::before, *::after {
@@ -678,6 +721,18 @@
   <div id="news-list"><div class="loading"><span class="spinner"></span>載入中</div></div>
 </div>
 
+<!-- Modal -->
+<div class="modal-overlay" id="modal" style="display:none;" onclick="if(event.target===this)closeModal()">
+  <div class="modal-box">
+    <div class="modal-title" id="modal-title"></div>
+    <div class="modal-msg" id="modal-msg"></div>
+    <div class="modal-actions">
+      <button class="modal-btn modal-btn-cancel" onclick="closeModal()">取消</button>
+      <button class="modal-btn modal-btn-danger" id="modal-confirm">確認撤單</button>
+    </div>
+  </div>
+</div>
+
 <script>
 // ===== Config =====
 var GAS_URL = 'https://script.google.com/macros/s/AKfycbzw85bh3ov497pp4GGFpvNp44xDWsGIP3Ues8rlxY711VqW6ffkO62sFsUPKr18Datw/exec';
@@ -776,9 +831,51 @@ function loadTrades() {
         '<div style="margin-top:8px;">' + playersHtml + '</div>' +
         (t.want_count ? '<div style="margin-top:8px;font-size:12px;color:var(--primary);font-weight:600;">希望換回 ' + t.want_count + ' 位球員</div>' : '') +
         (t.description ? '<div class="trade-desc">' + t.description + '</div>' : '') +
+        '<div style="margin-top:10px;display:flex;justify-content:flex-end;">' +
+          '<button onclick="cancelTrade(\'' + t.id + '\', this)" style="background:none;border:1px solid var(--border);border-radius:6px;padding:5px 12px;font-size:12px;color:var(--text-muted);cursor:pointer;font-family:Barlow,sans-serif;transition:all 200ms ease;">撤單</button>' +
+        '</div>' +
         '</div>';
     }).join('');
   }).catch(function() { el.innerHTML = '<div class="error">載入失敗</div>'; });
+}
+
+function openModal(title, msg, onConfirm) {
+  document.getElementById('modal-title').textContent = title;
+  document.getElementById('modal-msg').textContent = msg;
+  var confirmBtn = document.getElementById('modal-confirm');
+  var newBtn = confirmBtn.cloneNode(true);
+  confirmBtn.parentNode.replaceChild(newBtn, confirmBtn);
+  newBtn.addEventListener('click', function() { closeModal(); onConfirm(); });
+  var overlay = document.getElementById('modal');
+  overlay.style.display = 'flex';
+  requestAnimationFrame(function() { overlay.classList.add('show'); });
+}
+
+function closeModal() {
+  var overlay = document.getElementById('modal');
+  overlay.classList.remove('show');
+  setTimeout(function() { overlay.style.display = 'none'; }, 200);
+}
+
+function cancelTrade(id, btn) {
+  openModal('撤銷掛單', '確定要撤銷這筆掛單嗎？此操作無法復原。', function() {
+    btn.disabled = true;
+    btn.textContent = '撤銷中...';
+    apiCall('trade-cancel', { id: id }).then(function(data) {
+      if (data.error) {
+        openModal('錯誤', data.error, function() {});
+        btn.disabled = false;
+        btn.textContent = '撤單';
+        return;
+      }
+      var card = btn.closest('.trade-card');
+      if (card) { card.style.opacity = '0'; card.style.transition = 'opacity 300ms'; setTimeout(function() { card.remove(); }, 300); }
+    }).catch(function() {
+      openModal('錯誤', '撤單失敗，請稍後再試', function() {});
+      btn.disabled = false;
+      btn.textContent = '撤單';
+    });
+  });
 }
 
 function showTradeList() {

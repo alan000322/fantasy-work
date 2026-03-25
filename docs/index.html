@@ -1,0 +1,1022 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>天兵聯盟s2 — Trade Market</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&family=Barlow+Condensed:wght@500;600;700&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+    :root {
+      --primary: #0891B2;
+      --primary-light: #22D3EE;
+      --primary-dark: #0E7490;
+      --accent: #0D9488;
+      --cta: #0891B2;
+      --bg: #F8FAFB;
+      --bg-card: #FFFFFF;
+      --bg-muted: #F1F5F9;
+      --text: #0F172A;
+      --text-secondary: #475569;
+      --text-muted: #94A3B8;
+      --border: #E2E8F0;
+      --border-light: #F1F5F9;
+      --success: #10B981;
+      --error: #EF4444;
+      --radius: 16px;
+      --radius-sm: 10px;
+      --shadow-sm: 0 1px 3px rgba(15,23,42,0.04), 0 1px 2px rgba(15,23,42,0.06);
+      --shadow-md: 0 4px 12px rgba(15,23,42,0.06), 0 2px 4px rgba(15,23,42,0.04);
+      --shadow-lg: 0 12px 32px rgba(15,23,42,0.08), 0 4px 8px rgba(15,23,42,0.04);
+      --transition: 200ms ease;
+    }
+
+    body {
+      font-family: 'Barlow', -apple-system, BlinkMacSystemFont, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    /* ===== Header ===== */
+    .header {
+      background: var(--bg-card);
+      padding: 20px 20px 0;
+      border-bottom: 1px solid var(--border);
+    }
+    .header-top {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 20px;
+    }
+    .header-logo {
+      width: 40px;
+      height: 40px;
+      background: linear-gradient(135deg, var(--primary) 0%, var(--primary-light) 100%);
+      border-radius: 12px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .header-logo svg { width: 22px; height: 22px; }
+    .header-title {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-size: 22px;
+      font-weight: 700;
+      letter-spacing: -0.3px;
+      color: var(--text);
+    }
+    .header-subtitle {
+      font-size: 12px;
+      color: var(--text-muted);
+      font-weight: 500;
+      margin-top: 1px;
+    }
+
+    /* ===== Tabs ===== */
+    .tabs {
+      display: flex;
+      gap: 0;
+    }
+    .tab {
+      flex: 1;
+      padding: 12px 0;
+      background: none;
+      border: none;
+      border-bottom: 2.5px solid transparent;
+      font-family: 'Barlow', sans-serif;
+      font-size: 14px;
+      font-weight: 600;
+      color: var(--text-muted);
+      cursor: pointer;
+      transition: color var(--transition), border-color var(--transition);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 6px;
+    }
+    .tab:hover { color: var(--text-secondary); }
+    .tab.active {
+      color: var(--primary);
+      border-bottom-color: var(--primary);
+    }
+    .tab svg { width: 18px; height: 18px; }
+
+    /* ===== Pages ===== */
+    .page { display: none; padding: 20px 16px 32px; max-width: 480px; margin: 0 auto; }
+    .page.active { display: block; }
+
+    /* ===== Cards ===== */
+    .card {
+      background: var(--bg-card);
+      border-radius: var(--radius);
+      padding: 20px;
+      margin-bottom: 12px;
+      box-shadow: var(--shadow-sm);
+      border: 1px solid var(--border-light);
+    }
+    .section-label {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-size: 13px;
+      font-weight: 600;
+      letter-spacing: 0.8px;
+      text-transform: uppercase;
+      color: var(--text-muted);
+      margin-bottom: 14px;
+    }
+
+    /* ===== Stepper ===== */
+    .stepper {
+      display: flex;
+      align-items: center;
+      gap: 0;
+      margin-bottom: 20px;
+      padding: 0 4px;
+    }
+    .step-item {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex: 1;
+    }
+    .step-dot {
+      width: 28px;
+      height: 28px;
+      border-radius: 50%;
+      background: var(--bg-muted);
+      color: var(--text-muted);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 13px;
+      font-weight: 700;
+      flex-shrink: 0;
+      transition: all var(--transition);
+    }
+    .step-item.active .step-dot {
+      background: var(--primary);
+      color: #fff;
+    }
+    .step-item.done .step-dot {
+      background: var(--success);
+      color: #fff;
+    }
+    .step-label {
+      font-size: 12px;
+      font-weight: 500;
+      color: var(--text-muted);
+      transition: color var(--transition);
+      white-space: nowrap;
+    }
+    .step-item.active .step-label { color: var(--text); }
+    .step-item.done .step-label { color: var(--success); }
+    .step-line {
+      flex: 0.5;
+      height: 2px;
+      background: var(--border);
+      margin: 0 4px;
+    }
+    .step-line.done { background: var(--success); }
+
+    /* ===== Team Item ===== */
+    .team-item {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 14px 16px;
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      margin-bottom: 8px;
+      cursor: pointer;
+      transition: border-color var(--transition), box-shadow var(--transition);
+    }
+    .team-item:hover, .team-item:active {
+      border-color: var(--primary-light);
+      box-shadow: var(--shadow-sm);
+    }
+    .team-name { font-size: 15px; font-weight: 600; color: var(--text); }
+    .team-manager { font-size: 12px; color: var(--text-muted); margin-top: 2px; }
+    .team-arrow { color: var(--text-muted); }
+    .team-arrow svg { width: 16px; height: 16px; }
+
+    /* ===== Player Row ===== */
+    .player-row {
+      display: grid;
+      grid-template-columns: 42px 1fr 24px;
+      gap: 10px;
+      align-items: center;
+      padding: 10px 0;
+      border-bottom: 1px solid var(--border-light);
+    }
+    .player-row:last-child { border-bottom: none; }
+    .player-pos {
+      font-size: 11px;
+      font-weight: 700;
+      text-align: center;
+      padding: 4px 2px;
+      border-radius: 6px;
+      background: var(--bg-muted);
+      color: var(--text-secondary);
+      letter-spacing: 0.3px;
+    }
+    .player-pos.SP, .player-pos.RP, .player-pos.P { background: #EDE9FE; color: #7C3AED; }
+    .player-pos.C, .player-pos.SS { background: #E0F2FE; color: #0369A1; }
+    .player-pos.OF { background: #DCFCE7; color: #15803D; }
+    .player-pos.BN { background: #F5F5F4; color: #78716C; }
+    .player-pos.NA { background: #F5F5F4; color: #A8A29E; }
+    .player-pos.Util { background: #FEF3C7; color: #B45309; }
+    .player-name { font-size: 14px; font-weight: 500; color: var(--text); }
+    .player-team-info { font-size: 12px; color: var(--text-muted); margin-top: 1px; }
+
+    .player-row.selectable {
+      cursor: pointer;
+      border-radius: var(--radius-sm);
+      padding: 10px 12px;
+      margin: 0 -12px;
+      border-bottom: none;
+      transition: background var(--transition), border-color var(--transition);
+      border: 2px solid transparent;
+    }
+    .player-row.selectable + .player-row.selectable { margin-top: -1px; }
+    .player-row.selectable:hover, .player-row.selectable:active { background: var(--bg-muted); }
+    .player-row.selectable.selected {
+      background: #ECFEFF;
+      border-color: var(--primary-light);
+    }
+    .player-row .check-icon {
+      width: 22px;
+      height: 22px;
+      border-radius: 50%;
+      border: 2px solid var(--border);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: all var(--transition);
+      flex-shrink: 0;
+    }
+    .player-row.selected .check-icon {
+      background: var(--primary);
+      border-color: var(--primary);
+    }
+    .player-row .check-icon svg { opacity: 0; transition: opacity var(--transition); }
+    .player-row.selected .check-icon svg { opacity: 1; }
+
+    /* ===== Want Count ===== */
+    .want-count-row {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 14px;
+      color: var(--text-secondary);
+      margin-bottom: 16px;
+    }
+    .count-stepper {
+      display: inline-flex;
+      align-items: center;
+      border: 1.5px solid var(--border);
+      border-radius: 8px;
+      overflow: hidden;
+      background: var(--bg-card);
+    }
+    .count-stepper button {
+      width: 32px;
+      height: 32px;
+      border: none;
+      background: none;
+      font-size: 16px;
+      font-weight: 600;
+      color: var(--text-secondary);
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background var(--transition);
+    }
+    .count-stepper button:hover { background: var(--bg-muted); }
+    .count-stepper button:disabled { color: var(--border); cursor: not-allowed; }
+    .count-stepper .count-val {
+      width: 28px;
+      text-align: center;
+      font-size: 15px;
+      font-weight: 700;
+      color: var(--text);
+      border-left: 1.5px solid var(--border);
+      border-right: 1.5px solid var(--border);
+      line-height: 32px;
+    }
+
+    /* ===== Position Chips ===== */
+    .pos-chips { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; }
+    .pos-chip {
+      padding: 6px 14px;
+      border-radius: 20px;
+      border: 1.5px solid var(--border);
+      background: var(--bg-card);
+      font-family: 'Barlow', sans-serif;
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--text-secondary);
+      cursor: pointer;
+      transition: all var(--transition);
+    }
+    .pos-chip:hover { border-color: var(--primary-light); }
+    .pos-chip.selected {
+      background: var(--primary);
+      border-color: var(--primary);
+      color: #fff;
+    }
+
+    /* ===== Selected Players List ===== */
+    .selected-players-list { display: flex; flex-direction: column; gap: 8px; }
+    .selected-player-chip {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      background: linear-gradient(135deg, #F0FDFA 0%, #ECFEFF 100%);
+      border: 1px solid #A5F3FC;
+      border-radius: var(--radius-sm);
+      padding: 12px 14px;
+    }
+    .selected-player-chip .sp-name {
+      font-size: 15px;
+      font-weight: 600;
+      color: var(--text);
+    }
+    .selected-player-chip .sp-detail {
+      font-size: 12px;
+      color: var(--text-muted);
+    }
+
+    /* Step 2 footer */
+    .step2-footer {
+      position: sticky;
+      bottom: 0;
+      background: var(--bg);
+      padding: 12px 0 4px;
+      margin-top: 12px;
+    }
+    .step2-footer .btn-primary { font-size: 14px; padding: 12px; }
+
+    /* ===== Trade Listing Card ===== */
+    .trade-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 16px;
+      margin-bottom: 10px;
+      transition: box-shadow var(--transition);
+    }
+    .trade-card:hover { box-shadow: var(--shadow-md); }
+    .trade-card-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+    }
+    .trade-player-name { font-size: 16px; font-weight: 700; color: var(--text); }
+    .trade-meta { font-size: 12px; color: var(--text-muted); margin-top: 3px; }
+    .trade-date { font-size: 11px; color: var(--text-muted); white-space: nowrap; }
+    .trade-desc {
+      font-size: 13px;
+      color: var(--text-secondary);
+      background: var(--bg-muted);
+      padding: 10px 12px;
+      border-radius: 8px;
+      margin-top: 10px;
+      line-height: 1.5;
+    }
+
+    /* ===== Selected Player Preview ===== */
+    .selected-player-card {
+      background: linear-gradient(135deg, #F0FDFA 0%, #ECFEFF 100%);
+      border: 1px solid #A5F3FC;
+      border-radius: var(--radius);
+      padding: 20px;
+      text-align: center;
+    }
+    .selected-player-card .player-name-lg {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-size: 22px;
+      font-weight: 700;
+      color: var(--text);
+    }
+    .selected-player-card .player-detail {
+      font-size: 13px;
+      color: var(--text-secondary);
+      margin-top: 4px;
+    }
+    .selected-player-card .team-badge {
+      display: inline-block;
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--primary-dark);
+      background: #CFFAFE;
+      padding: 4px 10px;
+      border-radius: 20px;
+      margin-top: 8px;
+    }
+
+    /* ===== Buttons ===== */
+    .btn-primary {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      width: 100%;
+      padding: 14px;
+      background: var(--primary);
+      color: #fff;
+      border: none;
+      border-radius: var(--radius-sm);
+      font-family: 'Barlow', sans-serif;
+      font-size: 15px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: background var(--transition), transform 80ms ease;
+      box-shadow: 0 2px 8px rgba(8,145,178,0.25);
+    }
+    .btn-primary:hover { background: var(--primary-dark); }
+    .btn-primary:active { transform: scale(0.98); }
+    .btn-primary svg { width: 18px; height: 18px; }
+
+    .btn-success {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 6px;
+      padding: 10px 24px;
+      background: var(--primary);
+      color: #fff;
+      border: none;
+      border-radius: 8px;
+      font-family: 'Barlow', sans-serif;
+      font-size: 14px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: background var(--transition), transform 80ms ease;
+    }
+    .btn-success:hover { background: var(--primary-dark); }
+    .btn-success:active { transform: scale(0.98); }
+    .btn-success:disabled { background: var(--border); color: var(--text-muted); cursor: not-allowed; }
+
+    .back-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      color: var(--text-secondary);
+      font-family: 'Barlow', sans-serif;
+      font-size: 13px;
+      font-weight: 500;
+      margin-bottom: 16px;
+      cursor: pointer;
+      background: none;
+      border: none;
+      transition: color var(--transition);
+    }
+    .back-btn:hover { color: var(--primary); }
+    .back-btn svg { width: 16px; height: 16px; }
+
+    /* ===== Form ===== */
+    .form-label {
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--text-secondary);
+      display: block;
+      margin-bottom: 6px;
+    }
+    .form-textarea {
+      width: 100%;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      color: var(--text);
+      padding: 12px 14px;
+      font-family: 'Barlow', sans-serif;
+      font-size: 14px;
+      resize: none;
+      transition: border-color var(--transition);
+      line-height: 1.5;
+    }
+    .form-textarea:focus { outline: none; border-color: var(--primary-light); }
+    .form-textarea::placeholder { color: var(--text-muted); }
+
+    /* ===== Empty & Loading & Error ===== */
+    .empty-state {
+      text-align: center;
+      padding: 40px 20px;
+    }
+    .empty-state svg { width: 48px; height: 48px; color: var(--border); margin-bottom: 12px; }
+    .empty-state p { font-size: 14px; color: var(--text-muted); }
+
+    .loading {
+      text-align: center;
+      padding: 40px;
+      color: var(--text-muted);
+      font-size: 14px;
+    }
+    .spinner {
+      display: inline-block;
+      width: 20px;
+      height: 20px;
+      border: 2.5px solid var(--border);
+      border-top-color: var(--primary);
+      border-radius: 50%;
+      animation: spin 0.7s linear infinite;
+      margin-right: 8px;
+      vertical-align: middle;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    .error { color: var(--error); text-align: center; padding: 20px; font-size: 14px; }
+
+    .success-msg {
+      color: var(--success);
+      text-align: center;
+      margin-top: 14px;
+      font-size: 14px;
+      font-weight: 600;
+    }
+
+    /* ===== News ===== */
+    .news-placeholder {
+      text-align: center;
+      padding: 32px 20px;
+    }
+    .news-placeholder svg { width: 40px; height: 40px; color: var(--text-muted); margin-bottom: 10px; opacity: 0.5; }
+    .news-placeholder p { font-size: 14px; color: var(--text-muted); line-height: 1.6; }
+
+    /* ===== Reduced motion ===== */
+    @media (prefers-reduced-motion: reduce) {
+      *, *::before, *::after {
+        animation-duration: 0.01ms !important;
+        transition-duration: 0.01ms !important;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<!-- Header -->
+<div class="header">
+  <div class="header-top">
+    <div class="header-logo">
+      <svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="12" cy="12" r="10"/><path d="M2 12c3-3 5.5-3 10 0s7 3 10 0"/><path d="M2 12c3 3 5.5 3 10 0s7-3 10 0"/>
+      </svg>
+    </div>
+    <div>
+      <div class="header-title">天兵聯盟 s2</div>
+      <div class="header-subtitle">2026 Fantasy Baseball</div>
+    </div>
+  </div>
+  <div class="tabs">
+    <button class="tab active" onclick="switchTab('trade', this)">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="17 1 21 5 17 9"/><path d="M3 11V9a4 4 0 0 1 4-4h14"/><polyline points="7 23 3 19 7 15"/><path d="M21 13v2a4 4 0 0 1-4 4H3"/></svg>
+      交易市場
+    </button>
+    <button class="tab" onclick="switchTab('news', this)">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 22h16a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v16a2 2 0 0 1-2 2Zm0 0a2 2 0 0 1-2-2v-9c0-1.1.9-2 2-2h2"/><path d="M18 14h-8"/><path d="M15 18h-5"/><path d="M10 6h8v4h-8V6Z"/></svg>
+      球員動態
+    </button>
+  </div>
+</div>
+
+<!-- Trade Market -->
+<div id="page-trade" class="page active">
+  <!-- Listing View -->
+  <div id="trade-list-view">
+    <button class="btn-primary" onclick="showTradeCreate()" style="margin-bottom:16px;">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg>
+      我要掛單交易
+    </button>
+    <div class="section-label">目前掛單</div>
+    <div id="trade-list"><div class="loading"><span class="spinner"></span>載入中</div></div>
+  </div>
+
+  <!-- Step 1: Pick team -->
+  <div id="trade-step1" style="display:none;">
+    <button class="back-btn" onclick="showTradeList()">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"/></svg>
+      返回交易市場
+    </button>
+    <div id="trade-stepper-1"></div>
+    <div class="card">
+      <div class="section-label">選擇你的隊伍</div>
+      <div id="trade-teams-list"><div class="loading"><span class="spinner"></span>載入中</div></div>
+    </div>
+  </div>
+
+  <!-- Step 2: Pick player -->
+  <div id="trade-step2" style="display:none;">
+    <button class="back-btn" onclick="showTradeStep1()">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"/></svg>
+      返回選擇隊伍
+    </button>
+    <div id="trade-stepper-2"></div>
+    <div class="card">
+      <div class="section-label">選擇要交易的球員（可多選）</div>
+      <div id="trade-roster"><div class="loading"><span class="spinner"></span>載入中</div></div>
+      <div class="step2-footer" id="step2-footer" style="display:none;">
+        <button class="btn-primary" onclick="goToStep3()">
+          下一步：填寫需求 <span id="selected-count-badge" style="background:rgba(255,255,255,0.25);padding:2px 8px;border-radius:12px;font-size:12px;margin-left:4px;"></span>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Step 3: Confirm & submit -->
+  <div id="trade-step3" style="display:none;">
+    <button class="back-btn" onclick="showTradeStep2()">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"/></svg>
+      返回選擇球員
+    </button>
+    <div id="trade-stepper-3"></div>
+    <div class="card">
+      <div class="section-label">掛單球員</div>
+      <div id="trade-selected-player" style="margin-bottom:20px;"></div>
+
+      <div class="section-label">想要的回報</div>
+      <div class="want-count-row">
+        <span>希望換回</span>
+        <div class="count-stepper">
+          <button onclick="adjustCount('min',-1)">-</button>
+          <div class="count-val" id="want-min">1</div>
+          <button onclick="adjustCount('min',1)">+</button>
+        </div>
+        <span>~</span>
+        <div class="count-stepper">
+          <button onclick="adjustCount('max',-1)">-</button>
+          <div class="count-val" id="want-max">1</div>
+          <button onclick="adjustCount('max',1)">+</button>
+        </div>
+        <span>位球員</span>
+      </div>
+
+      <div class="section-label">想要的位置</div>
+      <div class="pos-chips" id="pos-chips"></div>
+
+      <div style="margin-bottom:16px;">
+        <label class="form-label" for="trade-description">其他需求說明（選填）</label>
+        <textarea id="trade-description" class="form-textarea" placeholder="例如：希望是高打擊率的外野手" rows="2"></textarea>
+      </div>
+
+      <div style="display:flex;justify-content:flex-end;align-items:center;gap:12px;">
+        <div id="trade-submit-status" style="font-size:13px;"></div>
+        <button class="btn-success submit-btn" onclick="submitTrade()">送出掛單</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- News -->
+<div id="page-news" class="page">
+  <div class="section-label">Player News</div>
+  <div id="news-list"><div class="loading"><span class="spinner"></span>載入中</div></div>
+</div>
+
+<script>
+// ===== Config =====
+var GAS_URL = 'https://script.google.com/macros/s/AKfycbzw85bh3ov497pp4GGFpvNp44xDWsGIP3Ues8rlxY711VqW6ffkO62sFsUPKr18Datw/exec';
+
+function apiCall(action, params) {
+  var url = GAS_URL + '?action=' + action;
+  if (params) {
+    Object.keys(params).forEach(function(key) {
+      url += '&' + encodeURIComponent(key) + '=' + encodeURIComponent(params[key]);
+    });
+  }
+  return fetch(url).then(function(r) { return r.json(); });
+}
+
+// ===== Tab switching =====
+function switchTab(page, el) {
+  document.querySelectorAll('.page').forEach(function(p) { p.classList.remove('active'); });
+  document.querySelectorAll('.tab').forEach(function(t) { t.classList.remove('active'); });
+  document.getElementById('page-' + page).classList.add('active');
+  el.classList.add('active');
+  if (page === 'trade') loadTrades();
+  if (page === 'news') loadNews();
+}
+
+// ===== Stepper helper =====
+function renderStepper(currentStep) {
+  var steps = ['隊伍', '球員', '送出'];
+  return '<div class="stepper">' + steps.map(function(label, i) {
+    var n = i + 1;
+    var cls = n < currentStep ? 'done' : (n === currentStep ? 'active' : '');
+    var dot = n < currentStep
+      ? '<svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>'
+      : n;
+    var line = i < steps.length - 1
+      ? '<div class="step-line' + (n < currentStep ? ' done' : '') + '"></div>'
+      : '';
+    return '<div class="step-item ' + cls + '"><div class="step-dot">' + dot + '</div><div class="step-label">' + label + '</div></div>' + line;
+  }).join('') + '</div>';
+}
+
+// ===== Teams cache (sessionStorage, 30 min TTL) =====
+var TEAMS_CACHE_KEY = 'fantasy_teams';
+var TEAMS_CACHE_TTL = 30 * 60 * 1000;
+var teamsCache = null;
+
+function loadTeamsCache() {
+  try {
+    var cached = sessionStorage.getItem(TEAMS_CACHE_KEY);
+    if (cached) {
+      var parsed = JSON.parse(cached);
+      if (Date.now() - parsed.ts < TEAMS_CACHE_TTL) {
+        teamsCache = parsed.data;
+        return;
+      }
+    }
+  } catch(e) {}
+  // Prefetch teams
+  apiCall('teams').then(function(data) {
+    if (!data.error) {
+      teamsCache = data;
+      try { sessionStorage.setItem(TEAMS_CACHE_KEY, JSON.stringify({ ts: Date.now(), data: data })); } catch(e) {}
+    }
+  });
+}
+
+// ===== Trade Market =====
+var tradeState = { teamKey: '', teamName: '', managerName: '', players: [], wantedPositions: [] };
+var POSITION_OPTIONS = ['C', '1B', '2B', '3B', 'SS', 'OF', 'Util', 'SP', 'RP', 'P'];
+
+function loadTrades() {
+  var el = document.getElementById('trade-list');
+  el.innerHTML = '<div class="loading"><span class="spinner"></span>載入中</div>';
+  apiCall('trade-market').then(function(data) {
+    if (data.error) { el.innerHTML = '<div class="error">' + data.error + '</div>'; return; }
+    var active = data.filter(function(t) { return t.status === 'active'; });
+    if (active.length === 0) {
+      el.innerHTML = '<div class="empty-state">' +
+        '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="17 1 21 5 17 9"/><path d="M3 11V9a4 4 0 0 1 4-4h14"/><polyline points="7 23 3 19 7 15"/><path d="M21 13v2a4 4 0 0 1-4 4H3"/></svg>' +
+        '<p>目前沒有掛單</p></div>';
+      return;
+    }
+    el.innerHTML = active.map(function(t) {
+      var names = (t.player_name || '').split(',');
+      var positions = (t.position || '').split(',');
+      var playersHtml = names.map(function(name, i) {
+        var pos = (positions[i] || '').trim();
+        return '<div style="display:flex;align-items:center;gap:8px;padding:4px 0;">' +
+          '<span class="player-pos ' + pos + '" style="font-size:10px;padding:2px 6px;flex-shrink:0;">' + pos + '</span>' +
+          '<span style="font-size:14px;font-weight:600;">' + name.trim() + '</span></div>';
+      }).join('');
+      return '<div class="trade-card">' +
+        '<div class="trade-card-header">' +
+          '<div style="font-size:12px;color:var(--text-muted);">' + t.team_name + '</div>' +
+          '<div class="trade-date">' + (t.created_at || '').slice(0, 10) + '</div>' +
+        '</div>' +
+        '<div style="margin-top:8px;">' + playersHtml + '</div>' +
+        (t.want_count ? '<div style="margin-top:8px;font-size:12px;color:var(--primary);font-weight:600;">希望換回 ' + t.want_count + ' 位球員</div>' : '') +
+        (t.description ? '<div class="trade-desc">' + t.description + '</div>' : '') +
+        '</div>';
+    }).join('');
+  }).catch(function() { el.innerHTML = '<div class="error">載入失敗</div>'; });
+}
+
+function showTradeList() {
+  hideAllTradeViews();
+  document.getElementById('trade-list-view').style.display = 'block';
+  loadTrades();
+}
+
+function hideAllTradeViews() {
+  ['trade-list-view', 'trade-step1', 'trade-step2', 'trade-step3'].forEach(function(id) {
+    document.getElementById(id).style.display = 'none';
+  });
+}
+
+// Step 1: Pick team
+function showTradeCreate() {
+  hideAllTradeViews();
+  document.getElementById('trade-step1').style.display = 'block';
+  document.getElementById('trade-stepper-1').innerHTML = renderStepper(1);
+  var el = document.getElementById('trade-teams-list');
+  if (teamsCache) { renderTradeTeams(teamsCache); return; }
+  el.innerHTML = '<div class="loading"><span class="spinner"></span>載入中</div>';
+  apiCall('teams').then(function(data) {
+    if (data.error) { el.innerHTML = '<div class="error">' + data.error + '</div>'; return; }
+    teamsCache = data;
+    renderTradeTeams(data);
+  });
+}
+
+function renderTradeTeams(teams) {
+  document.getElementById('trade-teams-list').innerHTML = teams.map(function(t) {
+    return '<div class="team-item" onclick="selectTradeTeam(\'' + t.teamKey + '\', \'' +
+      t.name.replace(/'/g, "\\'") + '\', \'' + (t.manager || '').replace(/'/g, "\\'") + '\')">' +
+      '<div><div class="team-name">' + t.name + '</div><div class="team-manager">' + (t.manager || '') + '</div></div>' +
+      '<div class="team-arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"/></svg></div></div>';
+  }).join('');
+}
+
+function selectTradeTeam(teamKey, teamName, managerName) {
+  tradeState.teamKey = teamKey;
+  tradeState.teamName = teamName;
+  tradeState.managerName = managerName;
+  showTradeStep2();
+}
+
+function showTradeStep1() {
+  hideAllTradeViews();
+  document.getElementById('trade-step1').style.display = 'block';
+  document.getElementById('trade-stepper-1').innerHTML = renderStepper(1);
+}
+
+// Step 2: Pick players (multi-select)
+function showTradeStep2() {
+  tradeState.players = [];
+  hideAllTradeViews();
+  document.getElementById('trade-step2').style.display = 'block';
+  document.getElementById('trade-stepper-2').innerHTML = renderStepper(2);
+  document.getElementById('step2-footer').style.display = 'none';
+  var el = document.getElementById('trade-roster');
+  el.innerHTML = '<div class="loading"><span class="spinner"></span>載入中</div>';
+
+  apiCall('roster', { teamKey: tradeState.teamKey }).then(function(data) {
+    if (data.error) { el.innerHTML = '<div class="error">' + data.error + '</div>'; return; }
+    el.innerHTML = data.map(function(p) {
+      var pJson = JSON.stringify(p).replace(/'/g, "\\'").replace(/"/g, '&quot;');
+      return '<div class="player-row selectable" onclick="togglePlayer(this)" data-player="' + pJson + '">' +
+        '<div class="player-pos ' + p.selectedPosition + '">' + p.selectedPosition + '</div>' +
+        '<div><div class="player-name">' + p.name + '</div><div class="player-team-info">' + p.team + ' &middot; ' + p.position + '</div></div>' +
+        '<div class="check-icon"><svg viewBox="0 0 24 24" width="12" height="12" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg></div></div>';
+    }).join('');
+  });
+}
+
+function togglePlayer(el) {
+  var player = JSON.parse(el.dataset.player);
+  var idx = tradeState.players.findIndex(function(p) { return p.playerKey === player.playerKey; });
+  if (idx > -1) {
+    tradeState.players.splice(idx, 1);
+    el.classList.remove('selected');
+  } else {
+    tradeState.players.push(player);
+    el.classList.add('selected');
+  }
+  var count = tradeState.players.length;
+  var footer = document.getElementById('step2-footer');
+  footer.style.display = count > 0 ? 'block' : 'none';
+  document.getElementById('selected-count-badge').textContent = count + ' 位球員';
+}
+
+function goToStep3() {
+  if (tradeState.players.length === 0) return;
+  tradeState.wantedPositions = [];
+  hideAllTradeViews();
+  document.getElementById('trade-step3').style.display = 'block';
+  document.getElementById('trade-stepper-3').innerHTML = renderStepper(3);
+  document.getElementById('trade-description').value = '';
+  document.getElementById('trade-submit-status').innerHTML = '';
+  var btn = document.querySelector('.submit-btn');
+  btn.disabled = false;
+  btn.textContent = '送出掛單';
+  wantMin = 1; wantMax = 1;
+  document.getElementById('want-min').textContent = '1';
+  document.getElementById('want-max').textContent = '1';
+
+  // Render selected players
+  document.getElementById('trade-selected-player').innerHTML =
+    '<div class="selected-players-list">' + tradeState.players.map(function(p) {
+      return '<div class="selected-player-chip">' +
+        '<div class="player-pos ' + p.selectedPosition + '" style="flex-shrink:0">' + p.selectedPosition + '</div>' +
+        '<div><div class="sp-name">' + p.name + '</div>' +
+        '<div class="sp-detail">' + p.team + ' &middot; ' + p.position + '</div></div></div>';
+    }).join('') + '</div>' +
+    '<div style="font-size:12px;color:var(--text-muted);margin-top:8px;">' + tradeState.teamName + '</div>';
+
+  // Render position chips
+  document.getElementById('pos-chips').innerHTML = POSITION_OPTIONS.map(function(pos) {
+    return '<button class="pos-chip" onclick="togglePosChip(this, \'' + pos + '\')">' + pos + '</button>';
+  }).join('');
+}
+
+// Count stepper
+var wantMin = 1, wantMax = 1;
+function adjustCount(which, delta) {
+  if (which === 'min') {
+    wantMin = Math.max(1, Math.min(10, wantMin + delta));
+    if (wantMin > wantMax) wantMax = wantMin;
+  } else {
+    wantMax = Math.max(1, Math.min(10, wantMax + delta));
+    if (wantMax < wantMin) wantMin = wantMax;
+  }
+  document.getElementById('want-min').textContent = wantMin;
+  document.getElementById('want-max').textContent = wantMax;
+}
+
+function togglePosChip(el, pos) {
+  var idx = tradeState.wantedPositions.indexOf(pos);
+  if (idx > -1) {
+    tradeState.wantedPositions.splice(idx, 1);
+    el.classList.remove('selected');
+  } else {
+    tradeState.wantedPositions.push(pos);
+    el.classList.add('selected');
+  }
+}
+
+function submitTrade() {
+  var btn = document.querySelector('.submit-btn');
+  btn.disabled = true;
+  btn.textContent = '送出中...';
+  var statusEl = document.getElementById('trade-submit-status');
+
+  var wantedStr = tradeState.wantedPositions.length > 0
+    ? '想要位置：' + tradeState.wantedPositions.join(', ')
+    : '';
+  var descText = document.getElementById('trade-description').value;
+  var fullDesc = [wantedStr, descText].filter(Boolean).join('\n');
+
+  apiCall('trade-create', {
+    teamKey: tradeState.teamKey,
+    teamName: tradeState.teamName,
+    managerName: tradeState.managerName,
+    playerKeys: tradeState.players.map(function(p) { return p.playerKey; }).join(','),
+    playerNames: tradeState.players.map(function(p) { return p.name; }).join(','),
+    positions: tradeState.players.map(function(p) { return p.position; }).join(','),
+    wantCount: wantMin === wantMax ? String(wantMin) : wantMin + '~' + wantMax,
+    description: fullDesc
+  }).then(function(data) {
+    if (data.error) {
+      statusEl.innerHTML = '<span class="error">' + data.error + '</span>';
+      btn.disabled = false;
+      btn.textContent = '送出掛單';
+      return;
+    }
+    statusEl.innerHTML = '<span class="success-msg">掛單成功！</span>';
+    setTimeout(function() { showTradeList(); }, 1500);
+  }).catch(function() {
+    statusEl.innerHTML = '<span class="error">送出失敗</span>';
+    btn.disabled = false;
+    btn.textContent = '送出掛單';
+  });
+}
+
+// ===== News =====
+// ===== News with sessionStorage cache (10 min TTL) =====
+var NEWS_CACHE_KEY = 'fantasy_news';
+var NEWS_CACHE_TTL = 10 * 60 * 1000; // 10 minutes
+
+function renderNews(data) {
+  var el = document.getElementById('news-list');
+  if (!data || !data.length) {
+    el.innerHTML = '<div class="empty-state">' +
+      '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M4 22h16a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v16a2 2 0 0 1-2 2Zm0 0a2 2 0 0 1-2-2v-9c0-1.1.9-2 2-2h2"/><path d="M18 14h-8"/><path d="M15 18h-5"/><path d="M10 6h8v4h-8V6Z"/></svg>' +
+      '<p>目前沒有新聞</p></div>';
+    return;
+  }
+  el.innerHTML = data.map(function(n) {
+    var dateStr = n.pub_date ? new Date(n.pub_date).toLocaleDateString('en-US', { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' }) : '';
+    return '<a href="' + (n.link || '#') + '" target="_blank" rel="noopener" style="text-decoration:none;display:block;">' +
+      '<div class="trade-card" style="cursor:pointer;">' +
+        '<div style="display:flex;justify-content:space-between;align-items:flex-start;gap:8px;">' +
+          '<div style="font-size:14px;font-weight:600;color:var(--text);line-height:1.4;">' + (n.title || '') + '</div>' +
+          '<div style="font-size:11px;color:var(--text-muted);white-space:nowrap;flex-shrink:0;">' + dateStr + '</div>' +
+        '</div>' +
+        (n.description ? '<div style="font-size:13px;color:var(--text-secondary);margin-top:6px;line-height:1.5;">' + n.description + '</div>' : '') +
+      '</div></a>';
+  }).join('');
+}
+
+function loadNews() {
+  var el = document.getElementById('news-list');
+
+  // Check cache
+  try {
+    var cached = sessionStorage.getItem(NEWS_CACHE_KEY);
+    if (cached) {
+      var parsed = JSON.parse(cached);
+      if (Date.now() - parsed.ts < NEWS_CACHE_TTL) {
+        renderNews(parsed.data);
+        return;
+      }
+    }
+  } catch(e) {}
+
+  el.innerHTML = '<div class="loading"><span class="spinner"></span>載入中</div>';
+  apiCall('news', { limit: 20 }).then(function(data) {
+    if (data.error) { el.innerHTML = '<div class="error">' + data.error + '</div>'; return; }
+    // Save to cache
+    try { sessionStorage.setItem(NEWS_CACHE_KEY, JSON.stringify({ ts: Date.now(), data: data })); } catch(e) {}
+    renderNews(data);
+  }).catch(function() { el.innerHTML = '<div class="error">載入失敗</div>'; });
+}
+
+// ===== Init: 同時載入交易市場和球員動態 =====
+if (GAS_URL) {
+  loadTeamsCache();
+  loadTrades();
+  loadNews();
+}
+</script>
+</body>
+</html>

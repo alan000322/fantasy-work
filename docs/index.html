@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>天兵聯盟s2 — Trade Market</title>
+  <title>天兵聯盟 s2</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&family=Barlow+Condensed:wght@500;600;700&display=swap" rel="stylesheet">
   <style>
@@ -119,6 +119,13 @@
       box-shadow: var(--shadow-sm);
       border: 1px solid var(--border-light);
     }
+
+    .card.accent-card {
+      background:
+        radial-gradient(circle at top right, rgba(34, 211, 238, 0.18), transparent 42%),
+        linear-gradient(160deg, #ecfeff 0%, #f8fafb 55%, #ffffff 100%);
+      border-color: #bae6fd;
+    }
     .section-label {
       font-family: 'Barlow Condensed', sans-serif;
       font-size: 13px;
@@ -127,6 +134,47 @@
       text-transform: uppercase;
       color: var(--text-muted);
       margin-bottom: 14px;
+    }
+
+    .section-head {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 12px;
+      margin-bottom: 14px;
+    }
+    .section-kicker {
+      font-size: 11px;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--primary-dark);
+      font-weight: 700;
+      margin-bottom: 6px;
+    }
+    .section-title {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-size: 28px;
+      line-height: 0.95;
+      color: var(--text);
+    }
+    .section-caption {
+      font-size: 13px;
+      color: var(--text-secondary);
+      line-height: 1.5;
+      margin-top: 8px;
+      max-width: 26ch;
+    }
+    .pill-note {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 8px 12px;
+      border-radius: 999px;
+      background: rgba(8,145,178,0.08);
+      color: var(--primary-dark);
+      font-size: 12px;
+      font-weight: 700;
+      white-space: nowrap;
     }
 
     /* ===== Stepper ===== */
@@ -390,6 +438,280 @@
       line-height: 1.5;
     }
 
+    /* ===== Team Analysis ===== */
+    .analysis-toolbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      margin-bottom: 14px;
+    }
+    .analysis-week-meta {
+      font-size: 12px;
+      color: var(--text-muted);
+      font-weight: 600;
+    }
+    .week-switcher {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 16px;
+    }
+    .week-chip {
+      border: 1px solid var(--border);
+      background: var(--bg-card);
+      color: var(--text-secondary);
+      border-radius: 999px;
+      padding: 8px 12px;
+      font-family: 'Barlow', sans-serif;
+      font-size: 12px;
+      font-weight: 700;
+      cursor: pointer;
+      transition: all var(--transition);
+    }
+    .week-chip:hover { border-color: var(--primary-light); color: var(--primary-dark); }
+    .week-chip.active {
+      background: var(--primary);
+      border-color: var(--primary);
+      color: #fff;
+      box-shadow: 0 8px 20px rgba(8,145,178,0.18);
+    }
+    .analysis-summary-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 10px;
+      margin-top: 16px;
+    }
+    .analysis-stat {
+      padding: 12px 14px;
+      border-radius: 14px;
+      background: rgba(255,255,255,0.72);
+      border: 1px solid rgba(186,230,253,0.9);
+    }
+    .analysis-stat-label {
+      font-size: 11px;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      margin-bottom: 4px;
+    }
+    .analysis-stat-value {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-size: 24px;
+      font-weight: 700;
+      color: var(--text);
+    }
+    .analysis-story-list {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      margin-top: 14px;
+    }
+    .story-row {
+      display: grid;
+      grid-template-columns: 76px 1fr;
+      gap: 10px;
+      align-items: start;
+      font-size: 13px;
+      line-height: 1.5;
+    }
+    .story-label {
+      color: var(--primary-dark);
+      font-weight: 700;
+    }
+    .story-text { color: var(--text-secondary); }
+    .team-analysis-list {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+    .analysis-team-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      overflow: hidden;
+      box-shadow: var(--shadow-sm);
+    }
+    .analysis-team-button {
+      width: 100%;
+      background: none;
+      border: none;
+      text-align: left;
+      padding: 18px 18px 16px;
+      cursor: pointer;
+      font-family: 'Barlow', sans-serif;
+    }
+    .analysis-team-top {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+    }
+    .analysis-rank-group {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      min-width: 0;
+    }
+    .rank-badge {
+      width: 46px;
+      height: 46px;
+      border-radius: 14px;
+      background: linear-gradient(135deg, #0f766e 0%, #0891b2 100%);
+      color: #fff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      flex-shrink: 0;
+      box-shadow: 0 10px 24px rgba(8,145,178,0.18);
+    }
+    .rank-badge span { font-size: 10px; opacity: 0.8; }
+    .rank-badge strong {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-size: 20px;
+      line-height: 1;
+    }
+    .analysis-team-name {
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--text);
+      line-height: 1.15;
+    }
+    .analysis-team-sub {
+      font-size: 12px;
+      color: var(--text-muted);
+      margin-top: 4px;
+    }
+    .analysis-team-total {
+      text-align: right;
+      flex-shrink: 0;
+    }
+    .analysis-team-total .value {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-size: 32px;
+      line-height: 1;
+      color: var(--text);
+    }
+    .analysis-team-total .caption {
+      font-size: 11px;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      margin-top: 4px;
+    }
+    .analysis-split-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 10px;
+      margin-top: 14px;
+    }
+    .split-stat {
+      padding: 10px 12px;
+      border-radius: 14px;
+      background: var(--bg);
+      border: 1px solid var(--border-light);
+    }
+    .split-stat .meta {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+      font-size: 11px;
+      color: var(--text-muted);
+      margin-bottom: 4px;
+    }
+    .split-stat .num {
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--text);
+    }
+    .delta {
+      font-size: 12px;
+      font-weight: 700;
+    }
+    .delta.up { color: var(--success); }
+    .delta.down { color: var(--error); }
+    .delta.flat { color: var(--text-muted); }
+    .analysis-toggle {
+      color: var(--text-muted);
+      transition: transform var(--transition), color var(--transition);
+      flex-shrink: 0;
+    }
+    .analysis-team-card.open .analysis-toggle {
+      transform: rotate(180deg);
+      color: var(--primary-dark);
+    }
+    .analysis-team-detail {
+      display: grid;
+      grid-template-rows: 0fr;
+      transition: grid-template-rows 220ms ease;
+    }
+    .analysis-team-card.open .analysis-team-detail {
+      grid-template-rows: 1fr;
+    }
+    .analysis-team-detail-inner {
+      overflow: hidden;
+      border-top: 1px solid var(--border-light);
+      padding: 0 18px;
+    }
+    .detail-block {
+      padding: 16px 0;
+      border-bottom: 1px solid var(--border-light);
+    }
+    .detail-block:last-child { border-bottom: none; }
+    .detail-title {
+      font-size: 11px;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      margin-bottom: 8px;
+      font-weight: 700;
+    }
+    .trend-lines {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      font-size: 13px;
+      color: var(--text-secondary);
+    }
+    .contrib-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 10px;
+    }
+    .contrib-box {
+      background: var(--bg);
+      border: 1px solid var(--border-light);
+      border-radius: 14px;
+      padding: 12px;
+    }
+    .contrib-box.top { background: linear-gradient(180deg, #f0fdfa 0%, #ffffff 100%); }
+    .contrib-box.bottom { background: linear-gradient(180deg, #fff7ed 0%, #ffffff 100%); }
+    .contrib-box-title {
+      font-size: 12px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 8px;
+    }
+    .contrib-item {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+      font-size: 13px;
+      color: var(--text-secondary);
+      padding: 6px 0;
+      border-bottom: 1px solid var(--border-light);
+    }
+    .contrib-item:last-child { border-bottom: none; }
+    .contrib-item strong { color: var(--text); font-weight: 600; }
+    .mini-note {
+      font-size: 12px;
+      color: var(--text-muted);
+      line-height: 1.5;
+    }
+
     /* ===== Selected Player Preview ===== */
     .selected-player-card {
       background: linear-gradient(135deg, #F0FDFA 0%, #ECFEFF 100%);
@@ -599,6 +921,24 @@
         transition-duration: 0.01ms !important;
       }
     }
+
+    @media (max-width: 420px) {
+      .analysis-summary-grid,
+      .contrib-grid,
+      .analysis-split-grid {
+        grid-template-columns: 1fr;
+      }
+      .story-row {
+        grid-template-columns: 1fr;
+        gap: 2px;
+      }
+      .analysis-team-top {
+        align-items: flex-start;
+      }
+      .analysis-team-total .value {
+        font-size: 28px;
+      }
+    }
   </style>
 </head>
 <body>
@@ -624,6 +964,10 @@
     <button class="tab" onclick="switchTab('news', this)">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 22h16a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v16a2 2 0 0 1-2 2Zm0 0a2 2 0 0 1-2-2v-9c0-1.1.9-2 2-2h2"/><path d="M18 14h-8"/><path d="M15 18h-5"/><path d="M10 6h8v4h-8V6Z"/></svg>
       球員動態
+    </button>
+    <button class="tab" onclick="switchTab('analysis', this)">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 3v18h18"/><path d="M7 14l3-3 3 2 4-6"/></svg>
+      每週分析
     </button>
   </div>
 </div>
@@ -721,6 +1065,19 @@
   <div id="news-list"><div class="loading"><span class="spinner"></span>載入中</div></div>
 </div>
 
+<!-- Team Analysis -->
+<div id="page-analysis" class="page">
+  <div class="analysis-toolbar">
+    <div>
+      <div class="section-label" style="margin-bottom:4px;">Team Analysis</div>
+      <div class="analysis-week-meta" id="analysis-week-meta">讀取每週戰況中</div>
+    </div>
+    <div class="pill-note" id="analysis-latest-pill">Weekly View</div>
+  </div>
+  <div id="analysis-week-switcher" class="week-switcher"><div class="loading"><span class="spinner"></span>載入中</div></div>
+  <div id="analysis-content"><div class="loading"><span class="spinner"></span>載入中</div></div>
+</div>
+
 <!-- Modal -->
 <div class="modal-overlay" id="modal" style="display:none;" onclick="if(event.target===this)closeModal()">
   <div class="modal-box">
@@ -755,6 +1112,284 @@ function switchTab(page, el) {
   el.classList.add('active');
   if (page === 'trade') loadTrades();
   if (page === 'news') loadNews();
+  if (page === 'analysis') loadTeamAnalysisPage();
+}
+
+// ===== Team Analysis =====
+var analysisState = {
+  weeks: [],
+  selectedWeek: null,
+  loadedWeek: null,
+  currentData: null,
+  openTeams: {}
+};
+
+function loadTeamAnalysisPage() {
+  if (analysisState.weeks.length) {
+    renderWeekSwitcher();
+    if (analysisState.loadedWeek !== analysisState.selectedWeek) {
+      loadTeamAnalysisWeek(analysisState.selectedWeek);
+    }
+    return;
+  }
+
+  document.getElementById('analysis-week-switcher').innerHTML = '<div class="loading"><span class="spinner"></span>載入中</div>';
+  document.getElementById('analysis-content').innerHTML = '<div class="loading"><span class="spinner"></span>載入中</div>';
+  apiCall('team-analysis-weeks').then(function(data) {
+    if (data.error) {
+      document.getElementById('analysis-week-switcher').innerHTML = '<div class="error">' + data.error + '</div>';
+      document.getElementById('analysis-content').innerHTML = '<div class="error">讀取每週分析失敗</div>';
+      return;
+    }
+    analysisState.weeks = data.weeks || [];
+    analysisState.selectedWeek = data.latestWeek || null;
+    renderWeekSwitcher();
+    if (!analysisState.selectedWeek) {
+      renderTeamAnalysisEmpty();
+      return;
+    }
+    loadTeamAnalysisWeek(analysisState.selectedWeek);
+  }).catch(function() {
+    document.getElementById('analysis-week-switcher').innerHTML = '<div class="error">載入週次失敗</div>';
+    document.getElementById('analysis-content').innerHTML = '<div class="error">讀取每週分析失敗</div>';
+  });
+}
+
+function renderWeekSwitcher() {
+  var el = document.getElementById('analysis-week-switcher');
+  if (!analysisState.weeks.length) {
+    el.innerHTML = '';
+    return;
+  }
+  el.innerHTML = analysisState.weeks.map(function(week) {
+    var cls = week === analysisState.selectedWeek ? 'week-chip active' : 'week-chip';
+    return '<button class="' + cls + '" onclick="selectAnalysisWeek(' + week + ')">Week ' + week + '</button>';
+  }).join('');
+}
+
+function selectAnalysisWeek(week) {
+  if (analysisState.selectedWeek === week) return;
+  analysisState.selectedWeek = week;
+  analysisState.openTeams = {};
+  renderWeekSwitcher();
+  loadTeamAnalysisWeek(week);
+}
+
+function loadTeamAnalysisWeek(week) {
+  document.getElementById('analysis-week-meta').textContent = '讀取第 ' + week + ' 週資料中';
+  document.getElementById('analysis-latest-pill').textContent = 'Week ' + week;
+  document.getElementById('analysis-content').innerHTML = '<div class="loading"><span class="spinner"></span>載入中</div>';
+  apiCall('team-analysis-week', { week: week }).then(function(data) {
+    if (data.error) {
+      document.getElementById('analysis-content').innerHTML = '<div class="error">' + data.error + '</div>';
+      return;
+    }
+    analysisState.loadedWeek = data.week;
+    analysisState.currentData = data;
+    renderTeamAnalysisWeek(data);
+  }).catch(function() {
+    document.getElementById('analysis-content').innerHTML = '<div class="error">讀取週報失敗</div>';
+  });
+}
+
+function renderTeamAnalysisEmpty() {
+  document.getElementById('analysis-week-meta').textContent = '尚未產生任何週報';
+  document.getElementById('analysis-latest-pill').textContent = 'No Data';
+  document.getElementById('analysis-content').innerHTML = '<div class="empty-state">' +
+    '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 3v18h18"/><path d="M7 14l3-3 3 2 4-6"/></svg>' +
+    '<p>目前還沒有 team analysis 週資料</p></div>';
+}
+
+function renderTeamAnalysisWeek(payload) {
+  var week = payload.week;
+  var teams = payload.teams || [];
+  var ai = payload.ai;
+  var contributorsByTeam = payload.contributorsByTeam || {};
+  document.getElementById('analysis-week-meta').textContent = teams.length
+    ? ('第 ' + week + ' 週，共 ' + teams.length + ' 隊')
+    : ('第 ' + week + ' 週沒有可顯示資料');
+  document.getElementById('analysis-latest-pill').textContent = analysisState.weeks[0] === week ? 'Latest Week' : ('Week ' + week);
+
+  if (!teams.length) {
+    document.getElementById('analysis-content').innerHTML = '<div class="empty-state">' +
+      '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 3v18h18"/><path d="M7 14l3-3 3 2 4-6"/></svg>' +
+      '<p>這一週尚未產生榜單</p></div>';
+    return;
+  }
+
+  var summaryHtml = renderAnalysisSummaryCard(week, teams, ai);
+  var teamCardsHtml = teams.map(function(team, index) {
+    if (index === 0 && analysisState.openTeams[team.team_key] === undefined) {
+      analysisState.openTeams[team.team_key] = true;
+    }
+    return renderAnalysisTeamCard(team, contributorsByTeam[team.team_key] || { top: [], bottom: [] });
+  }).join('');
+
+  document.getElementById('analysis-content').innerHTML = summaryHtml +
+    '<div class="section-label" style="margin:18px 0 10px;">隊伍細節</div>' +
+    '<div class="team-analysis-list">' + teamCardsHtml + '</div>';
+}
+
+function renderAnalysisSummaryCard(week, teams, ai) {
+  var leader = teams.slice().sort(function(a, b) { return a.total_rank - b.total_rank; })[0];
+  var strongestPitching = teams.slice().sort(function(a, b) { return b.pitcher_points - a.pitcher_points; })[0];
+  var strongestHitting = teams.slice().sort(function(a, b) { return b.hitter_points - a.hitter_points; })[0];
+
+  return '<div class="card accent-card">' +
+    '<div class="section-head">' +
+      '<div>' +
+        '<div class="section-kicker">Week ' + week + '</div>' +
+        '<div class="section-title">League pulse</div>' +
+        '<div class="section-caption">快速看本週榜首、投打主導隊伍，以及 AI 對聯盟走勢的摘要。</div>' +
+      '</div>' +
+      '<div class="pill-note">Snapshot-backed</div>' +
+    '</div>' +
+    '<div class="analysis-summary-grid">' +
+      renderSummaryStat('總分榜首', leader.team_name, formatPoints(leader.team_points)) +
+      renderSummaryStat('投手最強', strongestPitching.team_name, formatPoints(strongestPitching.pitcher_points)) +
+      renderSummaryStat('打者最強', strongestHitting.team_name, formatPoints(strongestHitting.hitter_points)) +
+      renderSummaryStat('聯盟中位數', '總分', formatPoints(leader.league_median_team_points)) +
+    '</div>' +
+    renderAiStoryBlock(ai) +
+  '</div>';
+}
+
+function renderSummaryStat(label, headline, value) {
+  return '<div class="analysis-stat">' +
+    '<div class="analysis-stat-label">' + label + '</div>' +
+    '<div style="font-size:13px;color:var(--text-secondary);margin-bottom:3px;">' + headline + '</div>' +
+    '<div class="analysis-stat-value">' + value + '</div>' +
+  '</div>';
+}
+
+function renderAiStoryBlock(ai) {
+  if (!ai) {
+    return '<div class="analysis-story-list"><div class="mini-note">這一週沒有 AI 摘要，仍可直接查看下方榜單與各隊細節。</div></div>';
+  }
+
+  var rows = [];
+  pushStoryRow(rows, '升溫', ai.rising_teams);
+  pushStoryRow(rows, '降溫', ai.falling_teams);
+  pushStoryRow(rows, '投手', ai.pitching_story);
+  pushStoryRow(rows, '打者', ai.hitting_story);
+  pushStoryRow(rows, '聯盟', ai.league_story);
+
+  if (!rows.length) {
+    return '<div class="analysis-story-list"><div class="mini-note">這一週已有 AI row，但沒有可顯示的 narrative 欄位。</div></div>';
+  }
+  return '<div class="analysis-story-list">' + rows.join('') + '</div>';
+}
+
+function pushStoryRow(rows, label, text) {
+  if (!text) return;
+  rows.push('<div class="story-row"><div class="story-label">' + label + '</div><div class="story-text">' + text + '</div></div>');
+}
+
+function renderAnalysisTeamCard(team, contributors) {
+  var isOpen = !!analysisState.openTeams[team.team_key];
+  var cardClass = isOpen ? 'analysis-team-card open' : 'analysis-team-card';
+  var rankDelta = renderDelta(team.total_rank_delta, true);
+  var pointDelta = renderDelta(team.team_points_delta, false);
+  var pitcherDelta = renderDelta(team.pitcher_points_delta, false);
+  var hitterDelta = renderDelta(team.hitter_points_delta, false);
+
+  return '<div class="' + cardClass + '" id="analysis-team-' + team.team_key.replace(/[^a-zA-Z0-9_-]/g, '-') + '">' +
+    '<button class="analysis-team-button" onclick="toggleAnalysisTeam(\'' + jsString(team.team_key) + '\')">' +
+      '<div class="analysis-team-top">' +
+        '<div class="analysis-rank-group">' +
+          '<div class="rank-badge"><span>Rank</span><strong>#' + team.total_rank + '</strong></div>' +
+          '<div>' +
+            '<div class="analysis-team-name">' + team.team_name + '</div>' +
+            '<div class="analysis-team-sub">P #' + team.pitcher_rank + ' / H #' + team.hitter_rank + ' / ' + (team.trend_label || '樣本不足') + '</div>' +
+          '</div>' +
+        '</div>' +
+        '<div style="display:flex;align-items:center;gap:10px;">' +
+          '<div class="analysis-team-total"><div class="value">' + formatPoints(team.team_points) + '</div><div class="caption">總分</div></div>' +
+          '<div class="analysis-toggle"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg></div>' +
+        '</div>' +
+      '</div>' +
+      '<div class="analysis-split-grid">' +
+        '<div class="split-stat"><div class="meta"><span>排名變化</span>' + rankDelta + '</div><div class="num">' + formatSigned(team.team_points_vs_avg) + '<span style="font-size:12px;color:var(--text-muted);font-weight:600;"> vs avg</span></div></div>' +
+        '<div class="split-stat"><div class="meta"><span>本週變化</span>' + pointDelta + '</div><div class="num">' + team.player_count_used + '<span style="font-size:12px;color:var(--text-muted);font-weight:600;"> players</span></div></div>' +
+        '<div class="split-stat"><div class="meta"><span>投手</span>' + pitcherDelta + '</div><div class="num">' + formatPoints(team.pitcher_points) + '</div></div>' +
+        '<div class="split-stat"><div class="meta"><span>打者</span>' + hitterDelta + '</div><div class="num">' + formatPoints(team.hitter_points) + '</div></div>' +
+      '</div>' +
+    '</button>' +
+    '<div class="analysis-team-detail"><div class="analysis-team-detail-inner">' +
+      '<div class="detail-block"><div class="detail-title">近三週趨勢</div><div class="trend-lines">' +
+        '<div>總分: ' + safeText(team.trend_3w_team_points, '無') + '</div>' +
+        '<div>投手: ' + safeText(team.trend_3w_pitcher_points, '無') + '</div>' +
+        '<div>打者: ' + safeText(team.trend_3w_hitter_points, '無') + '</div>' +
+      '</div></div>' +
+      '<div class="detail-block"><div class="detail-title">結構觀察</div><div class="trend-lines">' +
+        '<div>投手占比 ' + formatPercent(team.pitcher_share) + '，高於聯盟平均 ' + formatSigned(team.pitcher_points_vs_avg) + '</div>' +
+        '<div>打者占比 ' + formatPercent(team.hitter_share) + '，高於聯盟平均 ' + formatSigned(team.hitter_points_vs_avg) + '</div>' +
+      '</div></div>' +
+      '<div class="detail-block"><div class="detail-title">關鍵球員</div>' +
+        '<div class="contrib-grid">' +
+          renderContributorBox('top', 'Top contributors', contributors.top) +
+          renderContributorBox('bottom', 'Bottom contributors', contributors.bottom) +
+        '</div>' +
+      '</div>' +
+    '</div></div>' +
+  '</div>';
+}
+
+function renderContributorBox(type, title, rows) {
+  var items = rows && rows.length
+    ? rows.map(function(row) {
+      return '<div class="contrib-item"><strong>' + row.player_name + '</strong><span>' + formatPoints(row.player_points) + '</span></div>';
+    }).join('')
+    : '<div class="mini-note">無資料</div>';
+  return '<div class="contrib-box ' + type + '"><div class="contrib-box-title">' + title + '</div>' + items + '</div>';
+}
+
+function toggleAnalysisTeam(teamKey) {
+  analysisState.openTeams[teamKey] = !analysisState.openTeams[teamKey];
+  if (analysisState.currentData) {
+    renderTeamAnalysisWeek(analysisState.currentData);
+  }
+}
+
+function formatPoints(value) {
+  var num = parseFloat(value);
+  if (!isFinite(num)) return '0';
+  return (Math.round(num * 10) / 10).toFixed(1).replace(/\.0$/, '');
+}
+
+function formatSigned(value) {
+  if (value === '' || value === null || value === undefined) return '0';
+  var num = parseFloat(value);
+  if (!isFinite(num)) return '0';
+  num = Math.round(num * 10) / 10;
+  return num > 0 ? ('+' + String(num).replace(/\.0$/, '')) : String(num).replace(/\.0$/, '');
+}
+
+function formatPercent(value) {
+  var num = parseFloat(value);
+  if (!isFinite(num)) return '0%';
+  return Math.round(num * 100) + '%';
+}
+
+function renderDelta(value, invert) {
+  if (value === '' || value === null || value === undefined) {
+    return '<span class="delta flat">--</span>';
+  }
+  var num = parseFloat(value);
+  if (!isFinite(num) || num === 0) {
+    return '<span class="delta flat">0</span>';
+  }
+  var isUp = invert ? num > 0 : num > 0;
+  var cls = isUp ? 'up' : 'down';
+  return '<span class="delta ' + cls + '">' + formatSigned(num) + '</span>';
+}
+
+function safeText(value, fallback) {
+  return value ? value : fallback;
+}
+
+function jsString(text) {
+  return String(text || '').replace(/\\/g, '\\\\').replace(/'/g, "\\'");
 }
 
 // ===== Stepper helper =====

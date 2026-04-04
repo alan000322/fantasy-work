@@ -1,0 +1,27 @@
+{
+  "generated_at": "2026-04-03T14:29:00+00:00",
+  "latest_week_by_type": {
+    "sleeper_hitters": 2,
+    "sleeper_pitchers": 3
+  },
+  "articles": [
+    {
+      "article_type": "sleeper_pitchers",
+      "week": 3,
+      "title_en": "Fantasy Baseball Week 3 Preview: Top 10 sleeper pitchers include Jose Soriano, Reynaldo Lopez",
+      "published_at": "2026-04-03T14:29:00+00:00",
+      "source_url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-3-preview-top-10-sleeper-pitchers-include-jose-soriano-reynaldo-lopez/",
+      "path": "./data/cbs-news/articles/2026-04-03-fantasy-baseball-week-3-preview-top-10-sleeper-pitchers-include-jose-soriano-reynaldo-lopez.json",
+      "player_count": 10
+    },
+    {
+      "article_type": "sleeper_hitters",
+      "week": 2,
+      "title_en": "Fantasy Baseball Week 2 Preview: Top 10 sleeper hitters highlight Carson Benge, Brett Baty",
+      "published_at": "2026-03-30T10:56:00+00:00",
+      "source_url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-2-preview-top-10-sleeper-hitters/",
+      "path": "./data/cbs-news/articles/2026-03-30-fantasy-baseball-week-2-preview-top-10-sleeper-hitters.json",
+      "player_count": 10
+    }
+  ]
+}

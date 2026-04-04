@@ -870,6 +870,172 @@
     }
     .news-placeholder svg { width: 40px; height: 40px; color: var(--text-muted); margin-bottom: 10px; opacity: 0.5; }
     .news-placeholder p { font-size: 14px; color: var(--text-muted); line-height: 1.6; }
+    .news-subsection {
+      margin-top: 22px;
+    }
+    .news-subsection:first-child {
+      margin-top: 0;
+    }
+    .news-subsection-head {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 12px;
+      margin-bottom: 12px;
+    }
+    .news-subsection-copy {
+      min-width: 0;
+    }
+    .news-subsection-copy .section-label {
+      margin-bottom: 4px;
+    }
+    .news-subsection-title {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-size: 24px;
+      line-height: 0.95;
+      color: var(--text);
+    }
+    .news-subsection-caption {
+      font-size: 13px;
+      color: var(--text-secondary);
+      line-height: 1.5;
+      margin-top: 8px;
+    }
+    .cbs-news-list {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+    .cbs-article-card {
+      background: linear-gradient(180deg, #f0fdfa 0%, #ffffff 100%);
+      border: 1px solid #bfdbfe;
+      border-radius: 20px;
+      padding: 16px;
+      box-shadow: var(--shadow-sm);
+    }
+    .cbs-article-head {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 10px;
+      margin-bottom: 12px;
+    }
+    .cbs-article-title {
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--text);
+      line-height: 1.2;
+    }
+    .cbs-article-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 8px;
+      font-size: 12px;
+      color: var(--text-muted);
+      font-weight: 600;
+    }
+    .cbs-type-pill {
+      display: inline-flex;
+      align-items: center;
+      padding: 6px 10px;
+      border-radius: 999px;
+      background: rgba(8,145,178,0.12);
+      color: var(--primary-dark);
+      font-size: 11px;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      white-space: nowrap;
+    }
+    .cbs-article-summary {
+      font-size: 13px;
+      color: var(--text-secondary);
+      line-height: 1.6;
+      padding: 12px 14px;
+      border-radius: 14px;
+      background: rgba(255,255,255,0.7);
+      border: 1px solid rgba(226,232,240,0.9);
+    }
+    .cbs-player-list {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      margin-top: 14px;
+    }
+    .cbs-player-row {
+      display: grid;
+      grid-template-columns: 36px 1fr;
+      gap: 10px;
+      align-items: start;
+      padding: 12px 0;
+      border-bottom: 1px solid var(--border-light);
+    }
+    .cbs-player-row:last-child {
+      border-bottom: none;
+      padding-bottom: 0;
+    }
+    .cbs-rank {
+      width: 36px;
+      height: 36px;
+      border-radius: 12px;
+      background: linear-gradient(135deg, #0f766e 0%, #0891b2 100%);
+      color: #fff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: 'Barlow Condensed', sans-serif;
+      font-size: 20px;
+      font-weight: 700;
+      box-shadow: 0 8px 18px rgba(8,145,178,0.16);
+    }
+    .cbs-player-main {
+      min-width: 0;
+    }
+    .cbs-player-name {
+      font-size: 15px;
+      font-weight: 700;
+      color: var(--text);
+    }
+    .cbs-player-summary {
+      font-size: 13px;
+      line-height: 1.55;
+      color: var(--text-secondary);
+      margin-top: 4px;
+    }
+    .cbs-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-top: 8px;
+    }
+    .cbs-tag {
+      display: inline-flex;
+      align-items: center;
+      padding: 4px 8px;
+      border-radius: 999px;
+      background: var(--bg-muted);
+      color: var(--text-secondary);
+      font-size: 11px;
+      font-weight: 700;
+    }
+    .cbs-article-footer {
+      display: flex;
+      justify-content: flex-end;
+      margin-top: 14px;
+    }
+    .cbs-source-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      color: var(--primary-dark);
+      text-decoration: none;
+      font-size: 12px;
+      font-weight: 700;
+    }
+    .cbs-source-link:hover {
+      color: var(--primary);
+    }
 
     /* ===== Modal ===== */
     .modal-overlay {
@@ -964,6 +1130,10 @@
     <button class="tab" onclick="switchTab('news', this)">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 22h16a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v16a2 2 0 0 1-2 2Zm0 0a2 2 0 0 1-2-2v-9c0-1.1.9-2 2-2h2"/><path d="M18 14h-8"/><path d="M15 18h-5"/><path d="M10 6h8v4h-8V6Z"/></svg>
       球員動態
+    </button>
+    <button class="tab" onclick="switchTab('cbs', this)">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 0 6.5 22H20"/><path d="M20 2H8a2 2 0 0 0-2 2v15.5"/><path d="M8 7h8"/><path d="M8 11h8"/><path d="M8 15h5"/></svg>
+      CBS Sleepers
     </button>
     <button class="tab" onclick="switchTab('analysis', this)">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 3v18h18"/><path d="M7 14l3-3 3 2 4-6"/></svg>
@@ -1065,6 +1235,21 @@
   <div id="news-list"><div class="loading"><span class="spinner"></span>載入中</div></div>
 </div>
 
+<!-- CBS Sleepers -->
+<div id="page-cbs" class="page">
+  <div class="news-subsection">
+    <div class="news-subsection-head">
+      <div class="news-subsection-copy">
+        <div class="section-label">CBS Sleeper Board</div>
+        <div class="news-subsection-title">Sleepers</div>
+        <div class="news-subsection-caption">直接讀取 GitHub 上的 sleeper hitters / sleeper pitchers JSON，展開每位球員的一句中文摘要。</div>
+      </div>
+      <div class="pill-note">JSON Feed</div>
+    </div>
+    <div id="cbs-news-list"><div class="loading"><span class="spinner"></span>載入中</div></div>
+  </div>
+</div>
+
 <!-- Team Analysis -->
 <div id="page-analysis" class="page">
   <div class="analysis-toolbar">
@@ -1110,8 +1295,10 @@ function switchTab(page, el) {
   document.querySelectorAll('.tab').forEach(function(t) { t.classList.remove('active'); });
   document.getElementById('page-' + page).classList.add('active');
   el.classList.add('active');
+  try { sessionStorage.setItem('fantasy_active_tab', page); } catch(e) {}
   if (page === 'trade') loadTrades();
   if (page === 'news') loadNews();
+  if (page === 'cbs') loadCbsNews();
   if (page === 'analysis') loadTeamAnalysisPage();
 }
 
@@ -1240,7 +1427,7 @@ function renderAnalysisSummaryCard(week, teams, ai) {
       '<div>' +
         '<div class="section-kicker">Week ' + week + '</div>' +
         '<div class="section-title">League pulse</div>' +
-        '<div class="section-caption">快速看本週榜首、投打主導隊伍，以及 AI 對聯盟走勢的摘要。</div>' +
+        '<div class="section-caption"></div>' +
       '</div>' +
       '<div class="pill-note">Snapshot-backed</div>' +
     '</div>' +
@@ -1697,6 +1884,9 @@ function submitTrade() {
 // ===== News with sessionStorage cache (10 min TTL) =====
 var NEWS_CACHE_KEY = 'fantasy_news';
 var NEWS_CACHE_TTL = 10 * 60 * 1000; // 10 minutes
+var CBS_NEWS_CACHE_KEY = 'fantasy_cbs_sleepers';
+var CBS_NEWS_CACHE_TTL = 10 * 60 * 1000; // 10 minutes
+var CBS_NEWS_INDEX_URL = './data/cbs-news/index.json';
 
 function renderNews(data) {
   var el = document.getElementById('news-list');
@@ -1717,6 +1907,122 @@ function renderNews(data) {
         (n.description ? '<div style="font-size:13px;color:var(--text-secondary);margin-top:6px;line-height:1.5;">' + n.description + '</div>' : '') +
       '</div></a>';
   }).join('');
+}
+
+function escapeHtml(value) {
+  return String(value || '')
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
+}
+
+function fetchJson(url) {
+  return fetch(url).then(function(r) {
+    if (!r.ok) throw new Error('HTTP ' + r.status);
+    return r.json();
+  });
+}
+
+function formatCbsArticleType(articleType) {
+  if (articleType === 'sleeper_pitchers') return 'Sleeper Pitchers';
+  if (articleType === 'sleeper_hitters') return 'Sleeper Hitters';
+  return articleType || 'CBS Article';
+}
+
+function normalizeCbsArticle(doc) {
+  if (!doc || !doc.source_article) return null;
+  var players = Array.isArray(doc.players) ? doc.players : [];
+  var source = doc.source_article || {};
+  if (source.article_type !== 'sleeper_pitchers' && source.article_type !== 'sleeper_hitters') {
+    return null;
+  }
+  return {
+    articleType: source.article_type,
+    week: source.week,
+    title: source.title_en,
+    url: source.url,
+    publishedAt: source.published_at,
+    players: players
+  };
+}
+
+function renderCbsNews(data) {
+  var el = document.getElementById('cbs-news-list');
+  if (!data || !data.length) {
+    el.innerHTML = '<div class="empty-state">' +
+      '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 0 6.5 22H20"/><path d="M20 2H8a2 2 0 0 0-2 2v15.5"/><path d="M8 7h8"/><path d="M8 11h8"/><path d="M8 15h5"/></svg>' +
+      '<p>目前沒有 CBS sleeper JSON</p></div>';
+    return;
+  }
+
+  el.innerHTML = '<div class="cbs-news-list">' + data.map(function(article) {
+    var dateStr = article.publishedAt
+      ? new Date(article.publishedAt).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })
+      : '';
+    var playerHtml = (article.players || []).map(function(player) {
+      var tags = (player.tags || []).map(function(tag) {
+        return '<span class="cbs-tag">' + escapeHtml(tag) + '</span>';
+      }).join('');
+      return '<div class="cbs-player-row">' +
+        '<div class="cbs-rank">#' + escapeHtml(player.rank) + '</div>' +
+        '<div class="cbs-player-main">' +
+          '<div class="cbs-player-name">' + escapeHtml(player.name_en) + '</div>' +
+          '<div class="cbs-player-summary">' + escapeHtml(player.summary_zh_tw) + '</div>' +
+          (tags ? '<div class="cbs-tags">' + tags + '</div>' : '') +
+        '</div>' +
+      '</div>';
+    }).join('');
+
+    return '<div class="cbs-article-card">' +
+      '<div class="cbs-article-head">' +
+        '<div>' +
+          '<div class="cbs-article-title">' + escapeHtml(article.title) + '</div>' +
+          '<div class="cbs-article-meta">' +
+            '<span>Week ' + escapeHtml(article.week) + '</span>' +
+            (dateStr ? '<span>' + escapeHtml(dateStr) + '</span>' : '') +
+            '<span>' + escapeHtml((article.players || []).length) + ' players</span>' +
+          '</div>' +
+        '</div>' +
+        '<div class="cbs-type-pill">' + escapeHtml(formatCbsArticleType(article.articleType)) + '</div>' +
+      '</div>' +
+      '<div class="cbs-player-list">' + playerHtml + '</div>' +
+      '<div class="cbs-article-footer"><a class="cbs-source-link" href="' + escapeHtml(article.url) + '" target="_blank" rel="noopener">原文連結</a></div>' +
+    '</div>';
+  }).join('') + '</div>';
+}
+
+function loadCbsNews() {
+  var el = document.getElementById('cbs-news-list');
+  try {
+    var cached = sessionStorage.getItem(CBS_NEWS_CACHE_KEY);
+    if (cached) {
+      var parsed = JSON.parse(cached);
+      if (Date.now() - parsed.ts < CBS_NEWS_CACHE_TTL) {
+        renderCbsNews(parsed.data);
+        return;
+      }
+    }
+  } catch(e) {}
+
+  el.innerHTML = '<div class="loading"><span class="spinner"></span>載入中</div>';
+  fetchJson(CBS_NEWS_INDEX_URL).then(function(index) {
+    var entries = (index.articles || []).filter(function(article) {
+      return article.article_type === 'sleeper_hitters' || article.article_type === 'sleeper_pitchers';
+    });
+    return Promise.all(entries.map(function(entry) {
+      return fetchJson(entry.path).then(normalizeCbsArticle);
+    }));
+  }).then(function(items) {
+    var articles = items.filter(Boolean).sort(function(a, b) {
+      return new Date(b.publishedAt || 0).getTime() - new Date(a.publishedAt || 0).getTime();
+    });
+    try { sessionStorage.setItem(CBS_NEWS_CACHE_KEY, JSON.stringify({ ts: Date.now(), data: articles })); } catch(e) {}
+    renderCbsNews(articles);
+  }).catch(function() {
+    el.innerHTML = '<div class="error">CBS sleeper JSON 載入失敗</div>';
+  });
 }
 
 function loadNews() {
@@ -1746,8 +2052,23 @@ function loadNews() {
 // ===== Init: 同時載入交易市場和球員動態 =====
 if (GAS_URL) {
   loadTeamsCache();
-  loadTrades();
-  loadNews();
+  var initialTab = 'trade';
+  try {
+    var savedTab = sessionStorage.getItem('fantasy_active_tab');
+    if (savedTab && document.getElementById('page-' + savedTab)) {
+      initialTab = savedTab;
+    }
+  } catch(e) {}
+
+  var tabButtons = document.querySelectorAll('.tab');
+  for (var i = 0; i < tabButtons.length; i++) {
+    var btn = tabButtons[i];
+    var onclickText = btn.getAttribute('onclick') || '';
+    if (onclickText.indexOf("switchTab('" + initialTab + "'") !== -1) {
+      switchTab(initialTab, btn);
+      break;
+    }
+  }
 }
 </script>
 </body>

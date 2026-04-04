@@ -1,0 +1,343 @@
+{
+  "source_article": {
+    "source": "CBS Sports",
+    "article_type": "sleeper_hitters",
+    "week": 2,
+    "title_en": "Fantasy Baseball Week 2 Preview: Top 10 sleeper hitters highlight Carson Benge, Brett Baty",
+    "url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-2-preview-top-10-sleeper-hitters/",
+    "canonical_url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-2-preview-top-10-sleeper-hitters/",
+    "slug": "fantasy-baseball-week-2-preview-top-10-sleeper-hitters",
+    "author": "Scott White",
+    "published_at": "2026-03-30T10:56:00+00:00",
+    "dek_en": "Find the best Week 2 fantasy baseball waiver wire hitters including top matchup plays to target.",
+    "body_en": "Note that Week 2 isn't the same for every league. If yours opted to combine the first half-week with the first full week for an extra-long Week 1, then your Week 2 doesn't begin until April 6, and these recommendations aren't for you.\n\nIf, however, your league opted to treat the first half-week as a week unto itself, then your Week 2 begins Monday and these recommendations are for you.\n\nAs always, I've limited my selection to those rostered in less than 80 percent of CBS Sports leagues. These players are, by the nature of this exercise, not the surest of things, so don't go sitting your studs for them or anything. But if you have a need, they could perhaps help you to meet it.\n\nAll information is up to date as of early Monday.\n\n1. Blue Jays COL3, @CHW3 2. Phillies WAS3, @COL3 3. Braves ATH3, @ARI4 4. Mets @STL3, @SF4 5. Tigers @ARI3, STL3\n\n1. Guardians @LAD3, CHC3 2. Reds PIT3, @TEX3 3. Yankees @SEA3, MIA3 4. Padres SF3, @BOS3 5. Pirates @CIN3, BAL3\n\n1. Dansby Swanson (SS) - A perennial 20/20 threat like Dansby Swanson shouldn't be so available, but if that's the case in your league, then this week's matchups are ones to take advantage of. That's especially true since three of the pitchers on tap are left-handed. Swanson hit 50 points better with an OPS 150 points higher against lefties than righties last year.\n2. Carson Benge (RF) - Carson Benge immediately showed the major league stage wasn't too big by homering and stealing a base in his debut Thursday. He'll get to enjoy the fourth-best hitter matchups in his first full week on the job, with the Mets being one of just four teams scheduled for seven games.\n3. Justin Crawford (CF) - Another rookie hitter who's already demonstrated his competence, Justin Crawford will get to enjoy a full week of whatever bottom-feeders the Nationals and Rockies run out there, complete with a trip to Coors Field. He might claim the top spot here if he had legitimate over-the-fence power.\n4. Gabriel Moreno (C) - Gabriel Moreno is only available in one-catcher leagues, of course, but the surplus in such formats is so great that there may be some justification for streaming. With the Diamondbacks being in line for seven games, including all the non-Chris Sale parts of the Braves rotation, Moreno is primed for significant production.\n5. Brett Baty (3B) - Brett Baty is at risk of sitting against left-handed pitchers, but the five righties on the schedule this week mean he won't be at much of a playing time disadvantage. Those righties include mashables like Kyle Leahy, Andre Pallante, Tyler Mahle, and Landen Roupp.\n6. Josh H. Smith (SS) - Josh Smith showed unfamiliar power this spring, tallying six home runs if you count an exhibition game against Team Brazil, and talked about how he's swinging with more intent rather than just looking to make contact. The Rangers' matchups this week are inviting enough to try him out, particularly with only one left-hander on the schedule.\n7. Jordan Lawlar (SS) - I've mentioned that the Diamondbacks are one of just four teams in line for seven games this week, and apart from the one against Tarik Skubal, the opposing pitchers are no great shakes. It's a fine time to try out Jordan Lawlar, then, the former top prospect who finally landed an everyday role with an impressive spring in which he homered four times and reached at a .448 clip.\n8. Gleyber Torres (2B) - Gleyber Torres is a pretty fringy starter even at a weak position like second base, but a little better in points leagues, where he's more likely to be available. It's best to play him when the matchups are right, which is clearly the case this week, with the Diamondbacks and Cardinals on tap.\n9. Colt Keith (3B) - What makes those Diamondbacks and Cardinals matchups so inviting? Well, they consist of Michael Soroka, Brandon Pfaadt, Zac Gallen, Michael McGreevy, Dustin May, and Kyle Leahy, who you may notice all throw right-handed. The left-handed-hitting Colt Keith was actually quite competent against righties last year, slashing .267/.346/.439.\n10. Mike Yastrzemski (RF) - Mike Yastrzemski is likely to sit against most left-handers, but that puts him in line to start five games in a week when most teams are playing only six. The Braves' matchups are the third-best, too, which makes this week a good time to see if Yastrzemski's spring power surge (six home runs) carries over to the regular season.",
+    "fetched_at": "2026-04-04T14:38:14+00:00",
+    "player_cards": [
+      {
+        "rank": 1,
+        "name_en": "Dansby Swanson",
+        "position": "SS",
+        "mlb_team": "CHC",
+        "matchup": null,
+        "rostered_pct": "75%",
+        "blurb_en": "A perennial 20/20 threat like Dansby Swanson shouldn't be so available, but if that's the case in your league, then this week's matchups are ones to take advantage of. That's especially true since three of the pitchers on tap are left-handed. Swanson hit 50 points better with an OPS 150 points higher against lefties than righties last year."
+      },
+      {
+        "rank": 2,
+        "name_en": "Carson Benge",
+        "position": "RF",
+        "mlb_team": "NYM",
+        "matchup": null,
+        "rostered_pct": "78%",
+        "blurb_en": "Carson Benge immediately showed the major league stage wasn't too big by homering and stealing a base in his debut Thursday. He'll get to enjoy the fourth-best hitter matchups in his first full week on the job, with the Mets being one of just four teams scheduled for seven games."
+      },
+      {
+        "rank": 3,
+        "name_en": "Justin Crawford",
+        "position": "CF",
+        "mlb_team": "PHI",
+        "matchup": null,
+        "rostered_pct": "76%",
+        "blurb_en": "Another rookie hitter who's already demonstrated his competence, Justin Crawford will get to enjoy a full week of whatever bottom-feeders the Nationals and Rockies run out there, complete with a trip to Coors Field. He might claim the top spot here if he had legitimate over-the-fence power."
+      },
+      {
+        "rank": 4,
+        "name_en": "Gabriel Moreno",
+        "position": "C",
+        "mlb_team": "ARI",
+        "matchup": null,
+        "rostered_pct": "60%",
+        "blurb_en": "Gabriel Moreno is only available in one-catcher leagues, of course, but the surplus in such formats is so great that there may be some justification for streaming. With the Diamondbacks being in line for seven games, including all the non-Chris Sale parts of the Braves rotation, Moreno is primed for significant production."
+      },
+      {
+        "rank": 5,
+        "name_en": "Brett Baty",
+        "position": "3B",
+        "mlb_team": "NYM",
+        "matchup": null,
+        "rostered_pct": "42%",
+        "blurb_en": "Brett Baty is at risk of sitting against left-handed pitchers, but the five righties on the schedule this week mean he won't be at much of a playing time disadvantage. Those righties include mashables like Kyle Leahy, Andre Pallante, Tyler Mahle, and Landen Roupp."
+      },
+      {
+        "rank": 6,
+        "name_en": "Josh H. Smith",
+        "position": "SS",
+        "mlb_team": "TEX",
+        "matchup": null,
+        "rostered_pct": "42%",
+        "blurb_en": "Josh Smith showed unfamiliar power this spring, tallying six home runs if you count an exhibition game against Team Brazil, and talked about how he's swinging with more intent rather than just looking to make contact. The Rangers' matchups this week are inviting enough to try him out, particularly with only one left-hander on the schedule."
+      },
+      {
+        "rank": 7,
+        "name_en": "Jordan Lawlar",
+        "position": "SS",
+        "mlb_team": "ARI",
+        "matchup": null,
+        "rostered_pct": "54%",
+        "blurb_en": "I've mentioned that the Diamondbacks are one of just four teams in line for seven games this week, and apart from the one against Tarik Skubal, the opposing pitchers are no great shakes. It's a fine time to try out Jordan Lawlar, then, the former top prospect who finally landed an everyday role with an impressive spring in which he homered four times and reached at a .448 clip."
+      },
+      {
+        "rank": 8,
+        "name_en": "Gleyber Torres",
+        "position": "2B",
+        "mlb_team": "DET",
+        "matchup": null,
+        "rostered_pct": "75%",
+        "blurb_en": "Gleyber Torres is a pretty fringy starter even at a weak position like second base, but a little better in points leagues, where he's more likely to be available. It's best to play him when the matchups are right, which is clearly the case this week, with the Diamondbacks and Cardinals on tap."
+      },
+      {
+        "rank": 9,
+        "name_en": "Colt Keith",
+        "position": "3B",
+        "mlb_team": "DET",
+        "matchup": null,
+        "rostered_pct": "40%",
+        "blurb_en": "What makes those Diamondbacks and Cardinals matchups so inviting? Well, they consist of Michael Soroka, Brandon Pfaadt, Zac Gallen, Michael McGreevy, Dustin May, and Kyle Leahy, who you may notice all throw right-handed. The left-handed-hitting Colt Keith was actually quite competent against righties last year, slashing .267/.346/.439."
+      },
+      {
+        "rank": 10,
+        "name_en": "Mike Yastrzemski",
+        "position": "RF",
+        "mlb_team": "ATL",
+        "matchup": null,
+        "rostered_pct": "13%",
+        "blurb_en": "Mike Yastrzemski is likely to sit against most left-handers, but that puts him in line to start five games in a week when most teams are playing only six. The Braves' matchups are the third-best, too, which makes this week a good time to see if Yastrzemski's spring power surge (six home runs) carries over to the regular season."
+      }
+    ]
+  },
+  "ai_article": {
+    "article_type": "sleeper_hitters",
+    "week": 2,
+    "article_summary_zh_tw": "本週第2週打者睡美人名單聚焦於能把握有利對戰與出賽場次的低持有率球員，適合有需求的幻想棒球玩家撿用。",
+    "players": [
+      {
+        "rank": 1,
+        "name_en": "Dansby Swanson",
+        "summary_en": "Perennial 20/20 threat with favorable matchups this week, especially against left-handed pitchers.",
+        "summary_zh_tw": "Swanson 本週對上多名左投且對左投表現較佳，因此是值得把握的 20/20 型低持有率打者。",
+        "tags": [
+          "middle_infield",
+          "platoon_advantage",
+          "lefty_mash"
+        ]
+      },
+      {
+        "rank": 2,
+        "name_en": "Carson Benge",
+        "summary_en": "Homered and stole a base in his debut and has one of the best hitter matchups in a seven-game week.",
+        "summary_zh_tw": "Benge 初登場就開轟又盜壘，而大都會本週有七場比賽讓他成為值得追蹤的新秀打者。",
+        "tags": [
+          "rookie",
+          "speed_power",
+          "seven_games"
+        ]
+      },
+      {
+        "rank": 3,
+        "name_en": "Justin Crawford",
+        "summary_en": "Rookie outfielder with a full week of soft matchups, including a trip to Coors Field, though power limits his ceiling.",
+        "summary_zh_tw": "Crawford 將面對國民與洛磯等較弱對手並造訪 Coors Field，但缺乏長打能力讓他的上限受限。",
+        "tags": [
+          "rookie",
+          "coors_field",
+          "soft_schedule"
+        ]
+      },
+      {
+        "rank": 4,
+        "name_en": "Gabriel Moreno",
+        "summary_en": "Available in one-catcher leagues and set up for production with seven games and a favorable slate.",
+        "summary_zh_tw": "Moreno 在單捕手聯盟中可作串流使用，因為響尾蛇本週有七場比賽且賽程相當友善。",
+        "tags": [
+          "catcher",
+          "seven_games",
+          "streaming"
+        ]
+      },
+      {
+        "rank": 5,
+        "name_en": "Brett Baty",
+        "summary_en": "Could avoid most platoon risk thanks to five right-handed pitchers on the schedule this week.",
+        "summary_zh_tw": "Baty 雖有可能對左投坐板凳，但本週五位右投的賽程讓他的出賽壓力大減。",
+        "tags": [
+          "third_base",
+          "platoon_risk",
+          "righty_heavy_schedule"
+        ]
+      },
+      {
+        "rank": 6,
+        "name_en": "Josh H. Smith",
+        "summary_en": "Showed unexpected spring power and gets an inviting matchup slate with only one left-hander on the schedule.",
+        "summary_zh_tw": "Josh H. Smith 春訓展現意外長打火力，而遊騎兵本週僅遇到一位左投的賽程相當適合試用。",
+        "tags": [
+          "power_surge",
+          "shortstop",
+          "righty_heavy_schedule"
+        ]
+      },
+      {
+        "rank": 7,
+        "name_en": "Jordan Lawlar",
+        "summary_en": "Finally has an everyday role and benefits from a seven-game week with only one tough pitching matchup.",
+        "summary_zh_tw": "Lawlar 終於拿到固定先發位置，且響尾蛇七場賽程中只有對 Tarik Skubal 一場特別難打。",
+        "tags": [
+          "everyday_role",
+          "rookie",
+          "seven_games"
+        ]
+      },
+      {
+        "rank": 8,
+        "name_en": "Gleyber Torres",
+        "summary_en": "A fringy starter at second base, but a better play when the matchup slate is right.",
+        "summary_zh_tw": "Torres 在二壘屬於邊緣先發，但面對響尾蛇與紅雀的本週賽程讓他更值得使用。",
+        "tags": [
+          "second_base",
+          "matchup_play",
+          "points_league"
+        ]
+      },
+      {
+        "rank": 9,
+        "name_en": "Colt Keith",
+        "summary_en": "Left-handed bat who handled righties well last year and draws a run of right-handed pitchers.",
+        "summary_zh_tw": "Keith 去年對右投表現不差，而本週對手多為右投讓他具備不錯的對戰優勢。",
+        "tags": [
+          "lefty_bat",
+          "righty_mash",
+          "third_base"
+        ]
+      },
+      {
+        "rank": 10,
+        "name_en": "Mike Yastrzemski",
+        "summary_en": "Likely to sit against most lefties but should still start five games in a week with a strong Braves matchup.",
+        "summary_zh_tw": "Yastrzemski 雖可能避開多數左投，但本週仍有五場先發機會且對勇士的賽程相當有利。",
+        "tags": [
+          "outfield",
+          "platoon_risk",
+          "five_games"
+        ]
+      }
+    ],
+    "model": "gpt-5.4-mini",
+    "generated_at": "2026-04-04T14:38:32+00:00"
+  },
+  "players": [
+    {
+      "rank": 1,
+      "name_en": "Dansby Swanson",
+      "summary_en": "Perennial 20/20 threat with favorable matchups this week, especially against left-handed pitchers.",
+      "summary_zh_tw": "Swanson 本週對上多名左投且對左投表現較佳，因此是值得把握的 20/20 型低持有率打者。",
+      "tags": [
+        "middle_infield",
+        "platoon_advantage",
+        "lefty_mash"
+      ]
+    },
+    {
+      "rank": 2,
+      "name_en": "Carson Benge",
+      "summary_en": "Homered and stole a base in his debut and has one of the best hitter matchups in a seven-game week.",
+      "summary_zh_tw": "Benge 初登場就開轟又盜壘，而大都會本週有七場比賽讓他成為值得追蹤的新秀打者。",
+      "tags": [
+        "rookie",
+        "speed_power",
+        "seven_games"
+      ]
+    },
+    {
+      "rank": 3,
+      "name_en": "Justin Crawford",
+      "summary_en": "Rookie outfielder with a full week of soft matchups, including a trip to Coors Field, though power limits his ceiling.",
+      "summary_zh_tw": "Crawford 將面對國民與洛磯等較弱對手並造訪 Coors Field，但缺乏長打能力讓他的上限受限。",
+      "tags": [
+        "rookie",
+        "coors_field",
+        "soft_schedule"
+      ]
+    },
+    {
+      "rank": 4,
+      "name_en": "Gabriel Moreno",
+      "summary_en": "Available in one-catcher leagues and set up for production with seven games and a favorable slate.",
+      "summary_zh_tw": "Moreno 在單捕手聯盟中可作串流使用，因為響尾蛇本週有七場比賽且賽程相當友善。",
+      "tags": [
+        "catcher",
+        "seven_games",
+        "streaming"
+      ]
+    },
+    {
+      "rank": 5,
+      "name_en": "Brett Baty",
+      "summary_en": "Could avoid most platoon risk thanks to five right-handed pitchers on the schedule this week.",
+      "summary_zh_tw": "Baty 雖有可能對左投坐板凳，但本週五位右投的賽程讓他的出賽壓力大減。",
+      "tags": [
+        "third_base",
+        "platoon_risk",
+        "righty_heavy_schedule"
+      ]
+    },
+    {
+      "rank": 6,
+      "name_en": "Josh H. Smith",
+      "summary_en": "Showed unexpected spring power and gets an inviting matchup slate with only one left-hander on the schedule.",
+      "summary_zh_tw": "Josh H. Smith 春訓展現意外長打火力，而遊騎兵本週僅遇到一位左投的賽程相當適合試用。",
+      "tags": [
+        "power_surge",
+        "shortstop",
+        "righty_heavy_schedule"
+      ]
+    },
+    {
+      "rank": 7,
+      "name_en": "Jordan Lawlar",
+      "summary_en": "Finally has an everyday role and benefits from a seven-game week with only one tough pitching matchup.",
+      "summary_zh_tw": "Lawlar 終於拿到固定先發位置，且響尾蛇七場賽程中只有對 Tarik Skubal 一場特別難打。",
+      "tags": [
+        "everyday_role",
+        "rookie",
+        "seven_games"
+      ]
+    },
+    {
+      "rank": 8,
+      "name_en": "Gleyber Torres",
+      "summary_en": "A fringy starter at second base, but a better play when the matchup slate is right.",
+      "summary_zh_tw": "Torres 在二壘屬於邊緣先發，但面對響尾蛇與紅雀的本週賽程讓他更值得使用。",
+      "tags": [
+        "second_base",
+        "matchup_play",
+        "points_league"
+      ]
+    },
+    {
+      "rank": 9,
+      "name_en": "Colt Keith",
+      "summary_en": "Left-handed bat who handled righties well last year and draws a run of right-handed pitchers.",
+      "summary_zh_tw": "Keith 去年對右投表現不差，而本週對手多為右投讓他具備不錯的對戰優勢。",
+      "tags": [
+        "lefty_bat",
+        "righty_mash",
+        "third_base"
+      ]
+    },
+    {
+      "rank": 10,
+      "name_en": "Mike Yastrzemski",
+      "summary_en": "Likely to sit against most lefties but should still start five games in a week with a strong Braves matchup.",
+      "summary_zh_tw": "Yastrzemski 雖可能避開多數左投，但本週仍有五場先發機會且對勇士的賽程相當有利。",
+      "tags": [
+        "outfield",
+        "platoon_risk",
+        "five_games"
+      ]
+    }
+  ],
+  "pipeline": {
+    "version": "1.0",
+    "status": "complete"
+  }
+}

@@ -1,0 +1,343 @@
+{
+  "source_article": {
+    "source": "CBS Sports",
+    "article_type": "sleeper_hitters",
+    "week": 3,
+    "title_en": "Fantasy Baseball Week 3 Preview: Top 10 sleeper hitters highlight TJ Rumfield, Daylen Lile",
+    "url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-3-preview-top-10-sleeper-hitters-highlight-tj-rumfield-daylen-lile/",
+    "canonical_url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-3-preview-top-10-sleeper-hitters-highlight-tj-rumfield-daylen-lile/",
+    "slug": "fantasy-baseball-week-3-preview-top-10-sleeper-hitters-highlight-tj-rumfield-daylen-lile",
+    "author": "Scott White",
+    "published_at": "2026-04-04T19:20:36+00:00",
+    "dek_en": "Best hitter matchups for this week include the Rockies, Padres and Reds",
+    "body_en": "Whether you're in need of an injury fill-in or just a hot-hand play, Scott White has you covered with 10 sleeper hitters for the upcoming scoring period, all rostered in less than 80 percent of CBS Sports leagues. They're not must-starts by any estimation, but they're often the best you'll find off the waiver wire.\n\nBe sure to check back Sunday for the latest updates.\n\n1. Rockies HOU3, @SD4 2. Padres @PIT3, COL4 3. Reds @MIA4, LAA3 4. Marlins CIN4, @DET3 5. Royals @CLE3, CHW4\n\n1. Rangers SEA3, @LAD3 2. Dodgers @TOR3, TEX3 3. Rays CHC3, NYY3 4. Angels ATL3, @CIN3 5. Athletics @NYY3, @NYM3\n\n1. TJ Rumfield (3B) - The Rockies are scheduled to face their first left-hander over the weekend, at which point we'll discover if they intend to platoon TJ Rumfield, but it's a moot point in Week 3 as, once again, not a single left-hander is on the schedule. The Yankees castoff has piled up hits in the early going and will benefit from having the most favorable hitter matchups.\n2. Daylen Lile (RF) - Speaking of piling up hits, Daylen Lile carries a .407 batting average into the weekend, once again thriving on high contact and line drive rates. The Nationals fell just short of placing among the five best hitter matchups, scheduled to face pitchers like Andre Pallante, Matthew LIberatore, Michael McGreevy and Brandon Sproat.\n3. Adolis Garcia (RF) - The Phillies' reclamation of Adolis Garcia is going well so far, with him already hitting a home run and impacting the ball at an average of 94.3 mph. That pop should play well against fly-ball and/or homer-prone pitchers like Robbie Ray, Tyler Mahle,Michael Soroka and Brandon Pfaadt.\n4. Carter Jensen (C) - Carter Jensen slept through his alarm Thursday and was excluded from the lineup as a result, but otherwise, he's started every game for the Royals. It's why you could justify using him even in a utility spot with matchups as favorable as the Royals have this week.\n5. TJ Friedl (CF) - Despite his slow start, TJ Friedl continues to lead off every game for the Reds and has the sort of matchups this week that could help him find his footing finally. Not only is he facing hittable pitchers like Janson Junk, Max Meyer, Jack Kochanowicz and Ryan Johnson, but everyone on the schedule throws right-handed, which, at least in recent years, has made a difference for him.\n6. Justin Crawford (CF) - Even all the lefties the Phillies have faced early on haven't prevented the left-handed-hitting Justin Crawford from piling up hits the way he did in the minors. Five of the six pitchers on the schedule this week are righties, and between Adrian Houser, Tyler Mahle, Brandon Pfaadt and Zac Gallen, they're not the most bat-missing bunch.\n7. Otto Lopez (SS) - Otto Lopez has been an early standout for the Marlins, collecting multiple extra-base hits and showing a willingness to run, which makes him the likeliest choice (among those widely available, anyway) to take advantage of the team's fourth-best hitter matchups. You could make a case instead for Owen Caissie or Liam Hicks if not for the fact that three of the seven pitchers on tap throw left-handed.\n8. Colt Keith (3B) - Colt Keith has been one of the biggest gainers in bat speed so far, and though it hasn't translated to more home runs yet, the expected stats paint a promising picture. The Tigers face nothing but righties in their seven games this week, which matters for a guy who hit .163 with a .403 OPS against lefties last year.\n9. Jordan Walker (RF) - Jordan Walker's early exit velocity readings are off the charts, verging on a 98 mph average, and he's doing a better job of elevating the ball than in years past as well. Those could be early indicators that the 23-year-old is finally on the verge of maxing out his potential, small though the sample is, and the Cardinals' matchups this week are favorable enough for you to put that idea to the test.\n10. Jake McCarthy (RF) - Jake McCarthy has settled into the leadoff spot for the Rockies, and while he has yet to do much at the plate, he hasn't gotten a turn at Coors Field yet. That changes this weekend and continues into Week 3 with a series against the Astros. The seven righties on the schedule for the Rockies should ensure that the left-handed-hitting McCarthy remains in the lineup.",
+    "fetched_at": "2026-04-05T00:09:32+00:00",
+    "player_cards": [
+      {
+        "rank": 1,
+        "name_en": "TJ Rumfield",
+        "position": "3B",
+        "mlb_team": "COL",
+        "matchup": "HOU3, @SD4",
+        "rostered_pct": "27%",
+        "blurb_en": "The Rockies are scheduled to face their first left-hander over the weekend, at which point we'll discover if they intend to platoon TJ Rumfield, but it's a moot point in Week 3 as, once again, not a single left-hander is on the schedule. The Yankees castoff has piled up hits in the early going and will benefit from having the most favorable hitter matchups."
+      },
+      {
+        "rank": 2,
+        "name_en": "Daylen Lile",
+        "position": "RF",
+        "mlb_team": "WAS",
+        "matchup": null,
+        "rostered_pct": "73%",
+        "blurb_en": "Speaking of piling up hits, Daylen Lile carries a .407 batting average into the weekend, once again thriving on high contact and line drive rates. The Nationals fell just short of placing among the five best hitter matchups, scheduled to face pitchers like Andre Pallante, Matthew LIberatore, Michael McGreevy and Brandon Sproat."
+      },
+      {
+        "rank": 3,
+        "name_en": "Adolis Garcia",
+        "position": "RF",
+        "mlb_team": "PHI",
+        "matchup": null,
+        "rostered_pct": "78%",
+        "blurb_en": "The Phillies' reclamation of Adolis Garcia is going well so far, with him already hitting a home run and impacting the ball at an average of 94.3 mph. That pop should play well against fly-ball and/or homer-prone pitchers like Robbie Ray, Tyler Mahle,Michael Soroka and Brandon Pfaadt."
+      },
+      {
+        "rank": 4,
+        "name_en": "Carter Jensen",
+        "position": "C",
+        "mlb_team": "KC",
+        "matchup": null,
+        "rostered_pct": "65%",
+        "blurb_en": "Carter Jensen slept through his alarm Thursday and was excluded from the lineup as a result, but otherwise, he's started every game for the Royals. It's why you could justify using him even in a utility spot with matchups as favorable as the Royals have this week."
+      },
+      {
+        "rank": 5,
+        "name_en": "TJ Friedl",
+        "position": "CF",
+        "mlb_team": "CIN",
+        "matchup": null,
+        "rostered_pct": "38%",
+        "blurb_en": "Despite his slow start, TJ Friedl continues to lead off every game for the Reds and has the sort of matchups this week that could help him find his footing finally. Not only is he facing hittable pitchers like Janson Junk, Max Meyer, Jack Kochanowicz and Ryan Johnson, but everyone on the schedule throws right-handed, which, at least in recent years, has made a difference for him."
+      },
+      {
+        "rank": 6,
+        "name_en": "Justin Crawford",
+        "position": "CF",
+        "mlb_team": "PHI",
+        "matchup": null,
+        "rostered_pct": "77%",
+        "blurb_en": "Even all the lefties the Phillies have faced early on haven't prevented the left-handed-hitting Justin Crawford from piling up hits the way he did in the minors. Five of the six pitchers on the schedule this week are righties, and between Adrian Houser, Tyler Mahle, Brandon Pfaadt and Zac Gallen, they're not the most bat-missing bunch."
+      },
+      {
+        "rank": 7,
+        "name_en": "Otto Lopez",
+        "position": "SS",
+        "mlb_team": "MIA",
+        "matchup": null,
+        "rostered_pct": "65%",
+        "blurb_en": "Otto Lopez has been an early standout for the Marlins, collecting multiple extra-base hits and showing a willingness to run, which makes him the likeliest choice (among those widely available, anyway) to take advantage of the team's fourth-best hitter matchups. You could make a case instead for Owen Caissie or Liam Hicks if not for the fact that three of the seven pitchers on tap throw left-handed."
+      },
+      {
+        "rank": 8,
+        "name_en": "Colt Keith",
+        "position": "3B",
+        "mlb_team": "DET",
+        "matchup": null,
+        "rostered_pct": "45%",
+        "blurb_en": "Colt Keith has been one of the biggest gainers in bat speed so far, and though it hasn't translated to more home runs yet, the expected stats paint a promising picture. The Tigers face nothing but righties in their seven games this week, which matters for a guy who hit .163 with a .403 OPS against lefties last year."
+      },
+      {
+        "rank": 9,
+        "name_en": "Jordan Walker",
+        "position": "RF",
+        "mlb_team": "STL",
+        "matchup": null,
+        "rostered_pct": null,
+        "blurb_en": "Jordan Walker's early exit velocity readings are off the charts, verging on a 98 mph average, and he's doing a better job of elevating the ball than in years past as well. Those could be early indicators that the 23-year-old is finally on the verge of maxing out his potential, small though the sample is, and the Cardinals' matchups this week are favorable enough for you to put that idea to the test."
+      },
+      {
+        "rank": 10,
+        "name_en": "Jake McCarthy",
+        "position": "RF",
+        "mlb_team": "COL",
+        "matchup": null,
+        "rostered_pct": "13%",
+        "blurb_en": "Jake McCarthy has settled into the leadoff spot for the Rockies, and while he has yet to do much at the plate, he hasn't gotten a turn at Coors Field yet. That changes this weekend and continues into Week 3 with a series against the Astros. The seven righties on the schedule for the Rockies should ensure that the left-handed-hitting McCarthy remains in the lineup."
+      }
+    ]
+  },
+  "ai_article": {
+    "article_type": "sleeper_hitters",
+    "week": 3,
+    "article_summary_zh_tw": "本週的深度打者名單以TJ Rumfield、Daylen Lile等10人為主，作者看好他們在本週對位中受惠於多組有利投手安排。",
+    "players": [
+      {
+        "rank": 1,
+        "name_en": "TJ Rumfield",
+        "summary_en": "The Rockies are scheduled to face their first left-hander over the weekend, but Week 3 has no lefties on the schedule, so Rumfield should benefit from the most favorable hitter matchups after piling up early hits.",
+        "summary_zh_tw": "TJ Rumfield本週因為落磯沒有左投對戰而受惠於最有利的打者賽程，且他開季已累積不少安打。",
+        "tags": [
+          "hits",
+          "favorable matchups",
+          "platoon watch"
+        ]
+      },
+      {
+        "rank": 2,
+        "name_en": "Daylen Lile",
+        "summary_en": "Lile enters the week batting .407 and continues to thrive on contact and line drives, with a Nationals schedule that includes pitchers such as Andre Pallante, Matthew Liberatore, Michael McGreevy and Brandon Sproat.",
+        "summary_zh_tw": "Daylen Lile帶著.407打擊率進入本週，並將面對包括Andre Pallante、Matthew Liberatore、Michael McGreevy和Brandon Sproat在內的投手群。",
+        "tags": [
+          "batting average",
+          "contact",
+          "line drives"
+        ]
+      },
+      {
+        "rank": 3,
+        "name_en": "Adolis Garcia",
+        "summary_en": "Garcia has already homered and is impacting the ball at 94.3 mph on average, with power-friendly matchups against pitchers like Robbie Ray, Tyler Mahle, Michael Soroka and Brandon Pfaadt.",
+        "summary_zh_tw": "Adolis Garcia已經開轟且平均擊球初速達94.3 mph，本週對上多位容易挨長打的投手有利於他的長打火力。",
+        "tags": [
+          "power",
+          "exit velocity",
+          "matchups"
+        ]
+      },
+      {
+        "rank": 4,
+        "name_en": "Carter Jensen",
+        "summary_en": "Jensen has started every game for the Royals aside from one lineup miss due to oversleeping, and his favorable team matchups make him usable even in a utility spot.",
+        "summary_zh_tw": "Carter Jensen幾乎場場先發，而皇家隊本週的有利對戰讓他連工具人位置都值得考慮。",
+        "tags": [
+          "playing time",
+          "utility",
+          "favorable matchups"
+        ]
+      },
+      {
+        "rank": 5,
+        "name_en": "TJ Friedl",
+        "summary_en": "Friedl continues to lead off for the Reds despite a slow start, and his week features only right-handed pitchers such as Janson Junk, Max Meyer, Jack Kochanowicz and Ryan Johnson.",
+        "summary_zh_tw": "TJ Friedl持續擔任紅人開路先鋒，本週面對的投手全是右投，可能有助他找回手感。",
+        "tags": [
+          "leadoff",
+          "platoon advantage",
+          "matchups"
+        ]
+      },
+      {
+        "rank": 6,
+        "name_en": "Justin Crawford",
+        "summary_en": "Crawford has been piling up hits for the Phillies, and five of his six scheduled opponents this week are right-handers, including Adrian Houser, Tyler Mahle, Brandon Pfaadt and Zac Gallen.",
+        "summary_zh_tw": "Justin Crawford延續他在小聯盟時期的安打能力，而且本週六場先發中有五場面對右投。",
+        "tags": [
+          "hits",
+          "right-handed pitchers",
+          "contact"
+        ]
+      },
+      {
+        "rank": 7,
+        "name_en": "Otto Lopez",
+        "summary_en": "Lopez has stood out early for the Marlins with multiple extra-base hits and some running ability, giving him a strong chance to capitalize on the team's fourth-best hitter matchups.",
+        "summary_zh_tw": "Otto Lopez開季已展現長打與跑壘能力，並有機會把馬林魚的第四佳打者賽程轉化為產出。",
+        "tags": [
+          "extra-base hits",
+          "speed",
+          "matchups"
+        ]
+      },
+      {
+        "rank": 8,
+        "name_en": "Colt Keith",
+        "summary_en": "Keith has been one of the biggest bat-speed gainers so far, and the Tigers' seven games against all right-handed pitching help his case after a poor showing versus lefties last year.",
+        "summary_zh_tw": "Colt Keith的揮棒速度提升明顯，而老虎本週七戰全對右投也放大了他的可用性。",
+        "tags": [
+          "bat speed",
+          "platoon advantage",
+          "expected stats"
+        ]
+      },
+      {
+        "rank": 9,
+        "name_en": "Jordan Walker",
+        "summary_en": "Walker is showing elite early exit velocities and better ball elevation, which could signal a breakout as the Cardinals' matchups this week are favorable enough to test that upside.",
+        "summary_zh_tw": "Jordan Walker本季初的擊球初速和仰角表現都很亮眼，紅雀本週較有利的賽程正好可用來檢驗他的潛力。",
+        "tags": [
+          "exit velocity",
+          "launch angle",
+          "upside"
+        ]
+      },
+      {
+        "rank": 10,
+        "name_en": "Jake McCarthy",
+        "summary_en": "McCarthy has moved into the leadoff spot for the Rockies, has yet to see Coors Field this year, and should stay in the lineup against seven scheduled right-handers.",
+        "summary_zh_tw": "Jake McCarthy已站上落磯第一棒，而本週開始的高原球場行程與大量右投對手都對他有利。",
+        "tags": [
+          "leadoff",
+          "Coors Field",
+          "platoon advantage"
+        ]
+      }
+    ],
+    "model": "gpt-5.4-mini",
+    "generated_at": "2026-04-05T00:09:40+00:00"
+  },
+  "players": [
+    {
+      "rank": 1,
+      "name_en": "TJ Rumfield",
+      "summary_en": "The Rockies are scheduled to face their first left-hander over the weekend, but Week 3 has no lefties on the schedule, so Rumfield should benefit from the most favorable hitter matchups after piling up early hits.",
+      "summary_zh_tw": "TJ Rumfield本週因為落磯沒有左投對戰而受惠於最有利的打者賽程，且他開季已累積不少安打。",
+      "tags": [
+        "hits",
+        "favorable matchups",
+        "platoon watch"
+      ]
+    },
+    {
+      "rank": 2,
+      "name_en": "Daylen Lile",
+      "summary_en": "Lile enters the week batting .407 and continues to thrive on contact and line drives, with a Nationals schedule that includes pitchers such as Andre Pallante, Matthew Liberatore, Michael McGreevy and Brandon Sproat.",
+      "summary_zh_tw": "Daylen Lile帶著.407打擊率進入本週，並將面對包括Andre Pallante、Matthew Liberatore、Michael McGreevy和Brandon Sproat在內的投手群。",
+      "tags": [
+        "batting average",
+        "contact",
+        "line drives"
+      ]
+    },
+    {
+      "rank": 3,
+      "name_en": "Adolis Garcia",
+      "summary_en": "Garcia has already homered and is impacting the ball at 94.3 mph on average, with power-friendly matchups against pitchers like Robbie Ray, Tyler Mahle, Michael Soroka and Brandon Pfaadt.",
+      "summary_zh_tw": "Adolis Garcia已經開轟且平均擊球初速達94.3 mph，本週對上多位容易挨長打的投手有利於他的長打火力。",
+      "tags": [
+        "power",
+        "exit velocity",
+        "matchups"
+      ]
+    },
+    {
+      "rank": 4,
+      "name_en": "Carter Jensen",
+      "summary_en": "Jensen has started every game for the Royals aside from one lineup miss due to oversleeping, and his favorable team matchups make him usable even in a utility spot.",
+      "summary_zh_tw": "Carter Jensen幾乎場場先發，而皇家隊本週的有利對戰讓他連工具人位置都值得考慮。",
+      "tags": [
+        "playing time",
+        "utility",
+        "favorable matchups"
+      ]
+    },
+    {
+      "rank": 5,
+      "name_en": "TJ Friedl",
+      "summary_en": "Friedl continues to lead off for the Reds despite a slow start, and his week features only right-handed pitchers such as Janson Junk, Max Meyer, Jack Kochanowicz and Ryan Johnson.",
+      "summary_zh_tw": "TJ Friedl持續擔任紅人開路先鋒，本週面對的投手全是右投，可能有助他找回手感。",
+      "tags": [
+        "leadoff",
+        "platoon advantage",
+        "matchups"
+      ]
+    },
+    {
+      "rank": 6,
+      "name_en": "Justin Crawford",
+      "summary_en": "Crawford has been piling up hits for the Phillies, and five of his six scheduled opponents this week are right-handers, including Adrian Houser, Tyler Mahle, Brandon Pfaadt and Zac Gallen.",
+      "summary_zh_tw": "Justin Crawford延續他在小聯盟時期的安打能力，而且本週六場先發中有五場面對右投。",
+      "tags": [
+        "hits",
+        "right-handed pitchers",
+        "contact"
+      ]
+    },
+    {
+      "rank": 7,
+      "name_en": "Otto Lopez",
+      "summary_en": "Lopez has stood out early for the Marlins with multiple extra-base hits and some running ability, giving him a strong chance to capitalize on the team's fourth-best hitter matchups.",
+      "summary_zh_tw": "Otto Lopez開季已展現長打與跑壘能力，並有機會把馬林魚的第四佳打者賽程轉化為產出。",
+      "tags": [
+        "extra-base hits",
+        "speed",
+        "matchups"
+      ]
+    },
+    {
+      "rank": 8,
+      "name_en": "Colt Keith",
+      "summary_en": "Keith has been one of the biggest bat-speed gainers so far, and the Tigers' seven games against all right-handed pitching help his case after a poor showing versus lefties last year.",
+      "summary_zh_tw": "Colt Keith的揮棒速度提升明顯，而老虎本週七戰全對右投也放大了他的可用性。",
+      "tags": [
+        "bat speed",
+        "platoon advantage",
+        "expected stats"
+      ]
+    },
+    {
+      "rank": 9,
+      "name_en": "Jordan Walker",
+      "summary_en": "Walker is showing elite early exit velocities and better ball elevation, which could signal a breakout as the Cardinals' matchups this week are favorable enough to test that upside.",
+      "summary_zh_tw": "Jordan Walker本季初的擊球初速和仰角表現都很亮眼，紅雀本週較有利的賽程正好可用來檢驗他的潛力。",
+      "tags": [
+        "exit velocity",
+        "launch angle",
+        "upside"
+      ]
+    },
+    {
+      "rank": 10,
+      "name_en": "Jake McCarthy",
+      "summary_en": "McCarthy has moved into the leadoff spot for the Rockies, has yet to see Coors Field this year, and should stay in the lineup against seven scheduled right-handers.",
+      "summary_zh_tw": "Jake McCarthy已站上落磯第一棒，而本週開始的高原球場行程與大量右投對手都對他有利。",
+      "tags": [
+        "leadoff",
+        "Coors Field",
+        "platoon advantage"
+      ]
+    }
+  ],
+  "pipeline": {
+    "version": "1.0",
+    "status": "complete"
+  }
+}

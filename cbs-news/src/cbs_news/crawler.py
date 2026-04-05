@@ -21,6 +21,20 @@ def iso_now() -> str:
     return datetime.now(timezone.utc).replace(microsecond=0).isoformat()
 
 
+def parse_published_at(value: str | None) -> datetime:
+    if not value:
+        return datetime.min.replace(tzinfo=timezone.utc)
+
+    try:
+        parsed = datetime.fromisoformat(value)
+    except ValueError:
+        return datetime.min.replace(tzinfo=timezone.utc)
+
+    if parsed.tzinfo is None:
+        return parsed.replace(tzinfo=timezone.utc)
+    return parsed
+
+
 def extract_week(text: str) -> int | None:
     match = re.search(r"\bweek\s+(\d+)\b", text, re.I)
     if match:
@@ -239,6 +253,15 @@ def parse_article(link: ArticleLink) -> SourceArticle:
 def fetch_target_articles(limit: int | None = None) -> list[SourceArticle]:
     listing_html = fetch_html(BASE_URL)
     links = parse_listing(listing_html)
+    articles = [parse_article(link) for link in links]
+    articles.sort(
+        key=lambda article: (
+            parse_published_at(article.published_at),
+            article.week or -1,
+            article.slug,
+        ),
+        reverse=True,
+    )
     if limit is not None:
-        links = links[: max(limit, 0)]
-    return [parse_article(link) for link in links]
+        return articles[: max(limit, 0)]
+    return articles

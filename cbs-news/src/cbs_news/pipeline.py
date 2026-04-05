@@ -76,6 +76,10 @@ def write_document(output_dir: Path, payload: dict, article: SourceArticle) -> P
     return path
 
 
+def existing_document_path(output_dir: Path, article: SourceArticle) -> Path:
+    return output_dir / output_filename(article)
+
+
 def run_pipeline(
     *,
     limit: int | None = None,
@@ -88,6 +92,11 @@ def run_pipeline(
     base_path = Path(output_dir)
 
     for article in articles:
+        existing_path = existing_document_path(base_path, article)
+        if existing_path.exists():
+            written_paths.append(existing_path)
+            continue
+
         ai_article = None
         if not skip_ai and article.article_type in AI_ENABLED_TYPES:
             ai_article = generate_ai_article(article, model=model)

@@ -1479,6 +1479,9 @@ function renderAnalysisTeamCard(team, contributors) {
   var pointDelta = renderDelta(team.team_points_delta, false);
   var pitcherDelta = renderDelta(team.pitcher_points_delta, false);
   var hitterDelta = renderDelta(team.hitter_points_delta, false);
+  var trendCaption = team.history_status === 'cold_start'
+    ? '首週樣本'
+    : (team.trend_label || '樣本不足');
 
   return '<div class="' + cardClass + '" id="analysis-team-' + team.team_key.replace(/[^a-zA-Z0-9_-]/g, '-') + '">' +
     '<button class="analysis-team-button" onclick="toggleAnalysisTeam(\'' + jsString(team.team_key) + '\')">' +
@@ -1487,7 +1490,7 @@ function renderAnalysisTeamCard(team, contributors) {
           '<div class="rank-badge"><span>Rank</span><strong>#' + team.total_rank + '</strong></div>' +
           '<div>' +
             '<div class="analysis-team-name">' + team.team_name + '</div>' +
-            '<div class="analysis-team-sub">P #' + team.pitcher_rank + ' / H #' + team.hitter_rank + ' / ' + (team.trend_label || '樣本不足') + '</div>' +
+            '<div class="analysis-team-sub">P #' + team.pitcher_rank + ' / H #' + team.hitter_rank + ' / ' + trendCaption + '</div>' +
           '</div>' +
         '</div>' +
         '<div style="display:flex;align-items:center;gap:10px;">' +
@@ -1527,7 +1530,7 @@ function renderContributorBox(type, title, rows) {
     ? rows.map(function(row) {
       return '<div class="contrib-item"><strong>' + row.player_name + '</strong><span>' + formatPoints(row.player_points) + '</span></div>';
     }).join('')
-    : '<div class="mini-note">無資料</div>';
+    : '<div class="mini-note">無符合條件球員</div>';
   return '<div class="contrib-box ' + type + '"><div class="contrib-box-title">' + title + '</div>' + items + '</div>';
 }
 

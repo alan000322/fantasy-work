@@ -1419,8 +1419,13 @@ function renderTeamAnalysisWeek(payload) {
 
 function renderAnalysisSummaryCard(week, teams, ai) {
   var leader = teams.slice().sort(function(a, b) { return a.total_rank - b.total_rank; })[0];
-  var strongestPitching = teams.slice().sort(function(a, b) { return b.pitcher_points - a.pitcher_points; })[0];
-  var strongestHitting = teams.slice().sort(function(a, b) { return b.hitter_points - a.hitter_points; })[0];
+  var completeTeams = teams.filter(function(team) { return team.data_status === 'complete'; });
+  var strongestPitching = completeTeams.length
+    ? completeTeams.slice().sort(function(a, b) { return (parseFloat(b.pitcher_points) || 0) - (parseFloat(a.pitcher_points) || 0); })[0]
+    : null;
+  var strongestHitting = completeTeams.length
+    ? completeTeams.slice().sort(function(a, b) { return (parseFloat(b.hitter_points) || 0) - (parseFloat(a.hitter_points) || 0); })[0]
+    : null;
 
   return '<div class="card accent-card">' +
     '<div class="section-head">' +
@@ -1433,8 +1438,8 @@ function renderAnalysisSummaryCard(week, teams, ai) {
     '</div>' +
     '<div class="analysis-summary-grid">' +
       renderSummaryStat('總分榜首', leader.team_name, formatPoints(leader.team_points)) +
-      renderSummaryStat('投手最強', strongestPitching.team_name, formatPoints(strongestPitching.pitcher_points)) +
-      renderSummaryStat('打者最強', strongestHitting.team_name, formatPoints(strongestHitting.hitter_points)) +
+      renderSummaryStat('投手最強', strongestPitching ? strongestPitching.team_name : '資料不足', strongestPitching ? formatPoints(strongestPitching.pitcher_points) : '—') +
+      renderSummaryStat('打者最強', strongestHitting ? strongestHitting.team_name : '資料不足', strongestHitting ? formatPoints(strongestHitting.hitter_points) : '—') +
       renderSummaryStat('聯盟中位數', '總分', formatPoints(leader.league_median_team_points)) +
     '</div>' +
     renderAiStoryBlock(ai) +
@@ -1479,9 +1484,19 @@ function renderAnalysisTeamCard(team, contributors) {
   var pointDelta = renderDelta(team.team_points_delta, false);
   var pitcherDelta = renderDelta(team.pitcher_points_delta, false);
   var hitterDelta = renderDelta(team.hitter_points_delta, false);
-  var trendCaption = team.history_status === 'cold_start'
+  var trendCaption = team.data_status !== 'complete'
+    ? '快照不足'
+    : team.history_status === 'cold_start'
     ? '首週樣本'
     : (team.trend_label || '樣本不足');
+  var splitPitcher = team.data_status === 'complete' ? formatPoints(team.pitcher_points) : '—';
+  var splitHitter = team.data_status === 'complete' ? formatPoints(team.hitter_points) : '—';
+  var pitcherSubRank = team.data_status === 'complete' ? ('P #' + team.pitcher_rank) : 'P N/A';
+  var hitterSubRank = team.data_status === 'complete' ? ('H #' + team.hitter_rank) : 'H N/A';
+  var structureHtml = team.data_status === 'complete'
+    ? ('<div>投手占比 ' + formatPercent(team.pitcher_share) + '，高於聯盟平均 ' + formatSigned(team.pitcher_points_vs_avg) + '</div>' +
+      '<div>打者占比 ' + formatPercent(team.hitter_share) + '，高於聯盟平均 ' + formatSigned(team.hitter_points_vs_avg) + '</div>')
+    : '<div>本週快照不足，投打拆分與 contributors 未提供。</div>';
 
   return '<div class="' + cardClass + '" id="analysis-team-' + team.team_key.replace(/[^a-zA-Z0-9_-]/g, '-') + '">' +
     '<button class="analysis-team-button" onclick="toggleAnalysisTeam(\'' + jsString(team.team_key) + '\')">' +
@@ -1490,7 +1505,7 @@ function renderAnalysisTeamCard(team, contributors) {
           '<div class="rank-badge"><span>Rank</span><strong>#' + team.total_rank + '</strong></div>' +
           '<div>' +
             '<div class="analysis-team-name">' + team.team_name + '</div>' +
-            '<div class="analysis-team-sub">P #' + team.pitcher_rank + ' / H #' + team.hitter_rank + ' / ' + trendCaption + '</div>' +
+            '<div class="analysis-team-sub">' + pitcherSubRank + ' / ' + hitterSubRank + ' / ' + trendCaption + '</div>' +
           '</div>' +
         '</div>' +
         '<div style="display:flex;align-items:center;gap:10px;">' +
@@ -1501,8 +1516,8 @@ function renderAnalysisTeamCard(team, contributors) {
       '<div class="analysis-split-grid">' +
         '<div class="split-stat"><div class="meta"><span>排名變化</span>' + rankDelta + '</div><div class="num">' + formatSigned(team.team_points_vs_avg) + '<span style="font-size:12px;color:var(--text-muted);font-weight:600;"> vs avg</span></div></div>' +
         '<div class="split-stat"><div class="meta"><span>本週變化</span>' + pointDelta + '</div><div class="num">' + team.player_count_used + '<span style="font-size:12px;color:var(--text-muted);font-weight:600;"> players</span></div></div>' +
-        '<div class="split-stat"><div class="meta"><span>投手</span>' + pitcherDelta + '</div><div class="num">' + formatPoints(team.pitcher_points) + '</div></div>' +
-        '<div class="split-stat"><div class="meta"><span>打者</span>' + hitterDelta + '</div><div class="num">' + formatPoints(team.hitter_points) + '</div></div>' +
+        '<div class="split-stat"><div class="meta"><span>投手</span>' + pitcherDelta + '</div><div class="num">' + splitPitcher + '</div></div>' +
+        '<div class="split-stat"><div class="meta"><span>打者</span>' + hitterDelta + '</div><div class="num">' + splitHitter + '</div></div>' +
       '</div>' +
     '</button>' +
     '<div class="analysis-team-detail"><div class="analysis-team-detail-inner">' +
@@ -1512,8 +1527,7 @@ function renderAnalysisTeamCard(team, contributors) {
         '<div>打者: ' + safeText(team.trend_3w_hitter_points, '無') + '</div>' +
       '</div></div>' +
       '<div class="detail-block"><div class="detail-title">結構觀察</div><div class="trend-lines">' +
-        '<div>投手占比 ' + formatPercent(team.pitcher_share) + '，高於聯盟平均 ' + formatSigned(team.pitcher_points_vs_avg) + '</div>' +
-        '<div>打者占比 ' + formatPercent(team.hitter_share) + '，高於聯盟平均 ' + formatSigned(team.hitter_points_vs_avg) + '</div>' +
+        structureHtml +
       '</div></div>' +
       '<div class="detail-block"><div class="detail-title">關鍵球員</div>' +
         '<div class="contrib-grid">' +
@@ -1542,22 +1556,24 @@ function toggleAnalysisTeam(teamKey) {
 }
 
 function formatPoints(value) {
+  if (value === '' || value === null || value === undefined) return '—';
   var num = parseFloat(value);
-  if (!isFinite(num)) return '0';
+  if (!isFinite(num)) return '—';
   return (Math.round(num * 10) / 10).toFixed(1).replace(/\.0$/, '');
 }
 
 function formatSigned(value) {
-  if (value === '' || value === null || value === undefined) return '0';
+  if (value === '' || value === null || value === undefined) return '—';
   var num = parseFloat(value);
-  if (!isFinite(num)) return '0';
+  if (!isFinite(num)) return '—';
   num = Math.round(num * 10) / 10;
   return num > 0 ? ('+' + String(num).replace(/\.0$/, '')) : String(num).replace(/\.0$/, '');
 }
 
 function formatPercent(value) {
+  if (value === '' || value === null || value === undefined) return '—';
   var num = parseFloat(value);
-  if (!isFinite(num)) return '0%';
+  if (!isFinite(num)) return '—';
   return Math.round(num * 100) + '%';
 }
 

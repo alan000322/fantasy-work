@@ -23,8 +23,10 @@ def export_articles_to_docs(source_dir: Path, docs_dir: Path) -> dict:
     docs_articles_dir = docs_dir / "articles"
     docs_articles_dir.mkdir(parents=True, exist_ok=True)
 
-    exported_entries: list[dict] = []
     latest_week_by_type: dict[str, int] = {}
+    # Keep only the newest article per (article_type, week)
+    best_by_key: dict[tuple, dict] = {}
+    best_path_by_key: dict[tuple, Path] = {}
 
     for source_path in sorted(source_dir.glob("*.json")):
         payload = load_json(source_path)
@@ -36,26 +38,35 @@ def export_articles_to_docs(source_dir: Path, docs_dir: Path) -> dict:
         if not payload.get("players"):
             continue
 
-        destination_path = docs_articles_dir / source_path.name
-        shutil.copyfile(source_path, destination_path)
-
         week = source_article.get("week")
         if isinstance(week, int):
             latest_week_by_type[article_type] = max(latest_week_by_type.get(article_type, 0), week)
 
-        exported_entries.append(
-            {
-                "article_type": article_type,
-                "week": week,
-                "title_en": source_article.get("title_en"),
-                "published_at": source_article.get("published_at"),
-                "source_url": source_article.get("url"),
-                "path": "./data/cbs-news/articles/" + source_path.name,
-                "player_count": len(payload.get("players", [])),
-            }
-        )
+        entry = {
+            "article_type": article_type,
+            "week": week,
+            "title_en": source_article.get("title_en"),
+            "published_at": source_article.get("published_at"),
+            "source_url": source_article.get("url"),
+            "path": "./data/cbs-news/articles/" + source_path.name,
+            "player_count": len(payload.get("players", [])),
+        }
 
+        key = (article_type, week)
+        prev = best_by_key.get(key)
+        if prev is None or article_sort_key(entry) > article_sort_key(prev):
+            best_by_key[key] = entry
+            best_path_by_key[key] = source_path
+
+    exported_entries: list[dict] = list(best_by_key.values())
     exported_entries.sort(key=article_sort_key, reverse=True)
+
+    # Remove old articles then copy only the winning files
+    for old_file in docs_articles_dir.glob("*.json"):
+        old_file.unlink()
+    for key, source_path in best_path_by_key.items():
+        destination_path = docs_articles_dir / source_path.name
+        shutil.copyfile(source_path, destination_path)
 
     index_payload = {
         "generated_at": exported_entries[0]["published_at"] if exported_entries else None,

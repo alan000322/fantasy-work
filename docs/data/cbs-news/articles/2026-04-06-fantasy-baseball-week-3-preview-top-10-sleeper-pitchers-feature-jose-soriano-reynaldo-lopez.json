@@ -1,0 +1,337 @@
+{
+  "source_article": {
+    "source": "CBS Sports",
+    "article_type": "sleeper_pitchers",
+    "week": 3,
+    "title_en": "Fantasy Baseball Week 3 Preview: Top 10 sleeper pitchers feature Jose Soriano, Reynaldo Lopez",
+    "url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-3-preview-top-10-sleeper-pitchers-feature-jose-soriano-reynaldo-lopez/",
+    "canonical_url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-3-preview-top-10-sleeper-pitchers-feature-jose-soriano-reynaldo-lopez/",
+    "slug": "fantasy-baseball-week-3-preview-top-10-sleeper-pitchers-feature-jose-soriano-reynaldo-lopez",
+    "author": "Scott White",
+    "published_at": "2026-04-06T02:01:00+00:00",
+    "dek_en": "Target top fantasy baseball streamers at pitcher with matchup-based upside.",
+    "body_en": "Streaming pitchers isn't for the faint of heart, but if you find yourself without enough reliable options in a given scoring period, it may be what you need to stay afloat. Scott White has 10 recommendations for the upcoming scoring period, all rostered in less than 80 percent of CBS Sports leagues. Generally, only the top two or three are full-throated endorsements, while the rest are more about making the best of a bad situation.\n\nAll information is up to date as of Sunday evening.\n\n1. Michael Wacha (SP) - Michael Wacha was scratched Friday with an illness, which sets him up for a week with two plush matchups, a Guardians lineup that's pitiful beyond its 1-4 batters and a White Sox lineup that ranked in the bottom five last year in runs scored.\n2. Jose Soriano (RP) - Though he's already one of the league's premier ground ball pitchers, Jose Soriano's increased use of a four-seamer has improved his bat-missing in the early going. His matchups this week could be better, but after back-to-back starts with six shutout innings, you don't pass on a two-start week.\n3. Grant Holmes (RP) - The Athletics lineup came out of its first series with a commanding lead in strikeouts, but it didn't take long for the Angels lineup to claim its rightful place at the top of that list. Grant Holmes is one of the league's more underrated bat-missers and could do real damage with this matchup, provided he keeps his walks under control.\n4. Michael Burrows (SP) - The Rockies lineup is such that I don't think Coors Field needs to be a source of great anxiety for opposing pitchers anymore, as Aaron Nola and Jesus Luzardo just showed. Michael Burrows' second turn went much better than his first, and I trust him to take advantage of this matchup.\n5. Reynaldo Lopez (RP) - Reynaldo Lopez's fastball velocity is down a couple miles per hour from his excellent 2024 -- a year that itself seemed too good to be true -- but he's managed to limit damage so far this year as well. It likely won't last, but he's worth a roll of the dice against the league's most strikeout-prone lineup.\n6. Taj Bradley (SP) - Taj Bradley struck out nine in his first start and then threw six shutout innings in his second. His arsenal wasn't as effective in the second, which is why I'm skeptical that he's having any sort of breakthrough, and even though he's in line for two starts, the matchups are shaky enough that I can only rank him this high.\n7. Max Scherzer (SP) - Max Scherzer delivered on his streamer appeal against the Rockies in his first outing but is no sure thing at his age and has the misfortune of opening this two-start week against the Dodgers. It's the second matchup against the Twins that saves him.\n8. Will Warren (P) - After an impressive spring showing, Will Warren was held to only 4 1/3 innings in his season debut but followed it up with a strong outing against the Marlins over the weekend. He's worth using against an Athletics lineup that's struggled with strikeouts in the early going.\n9. Eric Lauer (SP) - With Cody Ponce joining Trey Yesavage and Shane Bieber on the IL, Eric Lauer's rotation spot is secure for the foreseeable future. He struck out nine in his first start but didn't last long against the White Sox over the weekend. His matchup against the Twins this week is an inviting one, but it's not without risk, clearly.\n10. Jameson Taillon (SP) - Jameson Taillon offers more downside than upside, but he's often streamable in points leagues because he tends to work deep into his starts. The matchups here are inviting enough for you to roll the dice on him in that format.",
+    "fetched_at": "2026-04-12T09:00:30+00:00",
+    "player_cards": [
+      {
+        "rank": 1,
+        "name_en": "Michael Wacha",
+        "position": "SP",
+        "mlb_team": "KC",
+        "matchup": "at CLE, vs. CHW",
+        "rostered_pct": "68%",
+        "blurb_en": "Michael Wacha was scratched Friday with an illness, which sets him up for a week with two plush matchups, a Guardians lineup that's pitiful beyond its 1-4 batters and a White Sox lineup that ranked in the bottom five last year in runs scored."
+      },
+      {
+        "rank": 2,
+        "name_en": "Jose Soriano",
+        "position": "RP",
+        "mlb_team": "LAA",
+        "matchup": null,
+        "rostered_pct": "73%",
+        "blurb_en": "Though he's already one of the league's premier ground ball pitchers, Jose Soriano's increased use of a four-seamer has improved his bat-missing in the early going. His matchups this week could be better, but after back-to-back starts with six shutout innings, you don't pass on a two-start week."
+      },
+      {
+        "rank": 3,
+        "name_en": "Grant Holmes",
+        "position": "RP",
+        "mlb_team": "ATL",
+        "matchup": "at LAA",
+        "rostered_pct": "54%",
+        "blurb_en": "The Athletics lineup came out of its first series with a commanding lead in strikeouts, but it didn't take long for the Angels lineup to claim its rightful place at the top of that list. Grant Holmes is one of the league's more underrated bat-missers and could do real damage with this matchup, provided he keeps his walks under control."
+      },
+      {
+        "rank": 4,
+        "name_en": "Michael Burrows",
+        "position": "SP",
+        "mlb_team": "HOU",
+        "matchup": "at COL",
+        "rostered_pct": "62%",
+        "blurb_en": "The Rockies lineup is such that I don't think Coors Field needs to be a source of great anxiety for opposing pitchers anymore, as Aaron Nola and Jesus Luzardo just showed. Michael Burrows' second turn went much better than his first, and I trust him to take advantage of this matchup."
+      },
+      {
+        "rank": 5,
+        "name_en": "Reynaldo Lopez",
+        "position": "RP",
+        "mlb_team": "ATL",
+        "matchup": "at LAA",
+        "rostered_pct": "60%",
+        "blurb_en": "Reynaldo Lopez's fastball velocity is down a couple miles per hour from his excellent 2024 -- a year that itself seemed too good to be true -- but he's managed to limit damage so far this year as well. It likely won't last, but he's worth a roll of the dice against the league's most strikeout-prone lineup."
+      },
+      {
+        "rank": 6,
+        "name_en": "Taj Bradley",
+        "position": "SP",
+        "mlb_team": "MIN",
+        "matchup": null,
+        "rostered_pct": "43%",
+        "blurb_en": "Taj Bradley struck out nine in his first start and then threw six shutout innings in his second. His arsenal wasn't as effective in the second, which is why I'm skeptical that he's having any sort of breakthrough, and even though he's in line for two starts, the matchups are shaky enough that I can only rank him this high."
+      },
+      {
+        "rank": 7,
+        "name_en": "Max Scherzer",
+        "position": "SP",
+        "mlb_team": "TOR",
+        "matchup": null,
+        "rostered_pct": "40%",
+        "blurb_en": "Max Scherzer delivered on his streamer appeal against the Rockies in his first outing but is no sure thing at his age and has the misfortune of opening this two-start week against the Dodgers. It's the second matchup against the Twins that saves him."
+      },
+      {
+        "rank": 8,
+        "name_en": "Will Warren",
+        "position": "P",
+        "mlb_team": "NYY",
+        "matchup": "vs. ATH",
+        "rostered_pct": "65%",
+        "blurb_en": "After an impressive spring showing, Will Warren was held to only 4 1/3 innings in his season debut but followed it up with a strong outing against the Marlins over the weekend. He's worth using against an Athletics lineup that's struggled with strikeouts in the early going."
+      },
+      {
+        "rank": 9,
+        "name_en": "Eric Lauer",
+        "position": "SP",
+        "mlb_team": "TOR",
+        "matchup": "vs. MIN",
+        "rostered_pct": "32%",
+        "blurb_en": "With Cody Ponce joining Trey Yesavage and Shane Bieber on the IL, Eric Lauer's rotation spot is secure for the foreseeable future. He struck out nine in his first start but didn't last long against the White Sox over the weekend. His matchup against the Twins this week is an inviting one, but it's not without risk, clearly."
+      },
+      {
+        "rank": 10,
+        "name_en": "Jameson Taillon",
+        "position": "SP",
+        "mlb_team": "CHC",
+        "matchup": null,
+        "rostered_pct": "60%",
+        "blurb_en": "Jameson Taillon offers more downside than upside, but he's often streamable in points leagues because he tends to work deep into his starts. The matchups here are inviting enough for you to roll the dice on him in that format."
+      }
+    ]
+  },
+  "ai_article": {
+    "article_type": "sleeper_pitchers",
+    "week": 3,
+    "article_summary_zh_tw": "本週 CBS Sports 提供 10 位可串流的睡眠型投手建議，重點在於對戰組合帶來的上限與風險平衡。",
+    "players": [
+      {
+        "rank": 1,
+        "name_en": "Michael Wacha",
+        "summary_en": "A two-start week with very favorable matchups against the Guardians and White Sox makes him the top streamer, despite a recent illness scratch.",
+        "summary_zh_tw": "Michael Wacha 雖然因病曾被臨時撤下先發，但本週面對守護者與白襪兩個對戰極佳的先發安排仍是最佳串流選擇。",
+        "tags": [
+          "two-start",
+          "strong matchups",
+          "streamer"
+        ]
+      },
+      {
+        "rank": 2,
+        "name_en": "Jose Soriano",
+        "summary_en": "His increased use of a four-seamer has helped his bat-missing, and back-to-back six-inning shutout starts make his two-start week too appealing to pass up.",
+        "summary_zh_tw": "Jose Soriano 近期增加四縫線使用後提升了製造揮空能力，加上連兩場六局無失分讓他的兩先發週值得直接使用。",
+        "tags": [
+          "two-start",
+          "strikeout upside",
+          "ground balls"
+        ]
+      },
+      {
+        "rank": 3,
+        "name_en": "Grant Holmes",
+        "summary_en": "An underrated bat-misser who could take advantage of the Angels' strikeout-heavy lineup if he keeps his walks under control.",
+        "summary_zh_tw": "Grant Holmes 是被低估的揮空型投手，只要控球別失控，就有機會在對天使的對戰中繳出好表現。",
+        "tags": [
+          "matchup upside",
+          "strikeouts",
+          "walk risk"
+        ]
+      },
+      {
+        "rank": 4,
+        "name_en": "Michael Burrows",
+        "summary_en": "He showed improvement in his second turn and gets a matchup against a Rockies lineup that no longer makes Coors Field feel as intimidating for pitchers.",
+        "summary_zh_tw": "Michael Burrows 第二次登板表現比首次明顯進步，而對上落磯的對戰也讓他有機會把握這次先發。",
+        "tags": [
+          "matchup upside",
+          "improving"
+        ]
+      },
+      {
+        "rank": 5,
+        "name_en": "Reynaldo Lopez",
+        "summary_en": "His velocity is down, but he has limited damage so far and is worth a gamble against the league's most strikeout-prone lineup.",
+        "summary_zh_tw": "Reynaldo Lopez 球速雖然下滑，但目前仍能壓制失分，面對全聯盟最容易三振的打線仍值得賭一把。",
+        "tags": [
+          "strikeout upside",
+          "risk",
+          "matchup"
+        ]
+      },
+      {
+        "rank": 6,
+        "name_en": "Taj Bradley",
+        "summary_en": "He has shown both strikeout ability and strong run prevention early, but the shaky matchups keep him from ranking higher despite two projected starts.",
+        "summary_zh_tw": "Taj Bradley 早期展現出三振與壓制失分能力，但在兩場先發預期下，偏不穩的對戰組合限制了他的排名。",
+        "tags": [
+          "two-start",
+          "risk",
+          "strikeouts"
+        ]
+      },
+      {
+        "rank": 7,
+        "name_en": "Max Scherzer",
+        "summary_en": "He has streamer appeal, but age and an opening matchup against the Dodgers make him risky, with the Twins start providing the main appeal.",
+        "summary_zh_tw": "Max Scherzer 仍有串流價值，但先碰道奇的風險不小，主要是第二場對雙城的對戰支撐他的排名。",
+        "tags": [
+          "two-start",
+          "risk",
+          "matchup"
+        ]
+      },
+      {
+        "rank": 8,
+        "name_en": "Will Warren",
+        "summary_en": "After a strong follow-up outing against the Marlins, he is usable against an Athletics lineup that has struggled with strikeouts.",
+        "summary_zh_tw": "Will Warren 在對馬林魚投出好內容後，本週面對三振問題明顯的運動家打線仍可考慮使用。",
+        "tags": [
+          "matchup upside",
+          "strikeouts"
+        ]
+      },
+      {
+        "rank": 9,
+        "name_en": "Eric Lauer",
+        "summary_en": "His rotation spot is secure for now, and a matchup with the Twins is appealing, though there is still clear risk.",
+        "summary_zh_tw": "Eric Lauer 目前輪值位置相對穩固，而對雙城的先發雖有吸引力但仍伴隨明顯風險。",
+        "tags": [
+          "matchup",
+          "risk"
+        ]
+      },
+      {
+        "rank": 10,
+        "name_en": "Jameson Taillon",
+        "summary_en": "He offers more downside than upside, but his tendency to work deep into games makes him streamable in points leagues.",
+        "summary_zh_tw": "Jameson Taillon 雖然下限高於上限，但因為常能投得夠深，在積分聯盟仍算可串流的選項。",
+        "tags": [
+          "points leagues",
+          "deep outings",
+          "risk"
+        ]
+      }
+    ],
+    "model": "gpt-5.4-mini",
+    "generated_at": "2026-04-12T09:01:07+00:00"
+  },
+  "players": [
+    {
+      "rank": 1,
+      "name_en": "Michael Wacha",
+      "summary_en": "A two-start week with very favorable matchups against the Guardians and White Sox makes him the top streamer, despite a recent illness scratch.",
+      "summary_zh_tw": "Michael Wacha 雖然因病曾被臨時撤下先發，但本週面對守護者與白襪兩個對戰極佳的先發安排仍是最佳串流選擇。",
+      "tags": [
+        "two-start",
+        "strong matchups",
+        "streamer"
+      ]
+    },
+    {
+      "rank": 2,
+      "name_en": "Jose Soriano",
+      "summary_en": "His increased use of a four-seamer has helped his bat-missing, and back-to-back six-inning shutout starts make his two-start week too appealing to pass up.",
+      "summary_zh_tw": "Jose Soriano 近期增加四縫線使用後提升了製造揮空能力，加上連兩場六局無失分讓他的兩先發週值得直接使用。",
+      "tags": [
+        "two-start",
+        "strikeout upside",
+        "ground balls"
+      ]
+    },
+    {
+      "rank": 3,
+      "name_en": "Grant Holmes",
+      "summary_en": "An underrated bat-misser who could take advantage of the Angels' strikeout-heavy lineup if he keeps his walks under control.",
+      "summary_zh_tw": "Grant Holmes 是被低估的揮空型投手，只要控球別失控，就有機會在對天使的對戰中繳出好表現。",
+      "tags": [
+        "matchup upside",
+        "strikeouts",
+        "walk risk"
+      ]
+    },
+    {
+      "rank": 4,
+      "name_en": "Michael Burrows",
+      "summary_en": "He showed improvement in his second turn and gets a matchup against a Rockies lineup that no longer makes Coors Field feel as intimidating for pitchers.",
+      "summary_zh_tw": "Michael Burrows 第二次登板表現比首次明顯進步，而對上落磯的對戰也讓他有機會把握這次先發。",
+      "tags": [
+        "matchup upside",
+        "improving"
+      ]
+    },
+    {
+      "rank": 5,
+      "name_en": "Reynaldo Lopez",
+      "summary_en": "His velocity is down, but he has limited damage so far and is worth a gamble against the league's most strikeout-prone lineup.",
+      "summary_zh_tw": "Reynaldo Lopez 球速雖然下滑，但目前仍能壓制失分，面對全聯盟最容易三振的打線仍值得賭一把。",
+      "tags": [
+        "strikeout upside",
+        "risk",
+        "matchup"
+      ]
+    },
+    {
+      "rank": 6,
+      "name_en": "Taj Bradley",
+      "summary_en": "He has shown both strikeout ability and strong run prevention early, but the shaky matchups keep him from ranking higher despite two projected starts.",
+      "summary_zh_tw": "Taj Bradley 早期展現出三振與壓制失分能力，但在兩場先發預期下，偏不穩的對戰組合限制了他的排名。",
+      "tags": [
+        "two-start",
+        "risk",
+        "strikeouts"
+      ]
+    },
+    {
+      "rank": 7,
+      "name_en": "Max Scherzer",
+      "summary_en": "He has streamer appeal, but age and an opening matchup against the Dodgers make him risky, with the Twins start providing the main appeal.",
+      "summary_zh_tw": "Max Scherzer 仍有串流價值，但先碰道奇的風險不小，主要是第二場對雙城的對戰支撐他的排名。",
+      "tags": [
+        "two-start",
+        "risk",
+        "matchup"
+      ]
+    },
+    {
+      "rank": 8,
+      "name_en": "Will Warren",
+      "summary_en": "After a strong follow-up outing against the Marlins, he is usable against an Athletics lineup that has struggled with strikeouts.",
+      "summary_zh_tw": "Will Warren 在對馬林魚投出好內容後，本週面對三振問題明顯的運動家打線仍可考慮使用。",
+      "tags": [
+        "matchup upside",
+        "strikeouts"
+      ]
+    },
+    {
+      "rank": 9,
+      "name_en": "Eric Lauer",
+      "summary_en": "His rotation spot is secure for now, and a matchup with the Twins is appealing, though there is still clear risk.",
+      "summary_zh_tw": "Eric Lauer 目前輪值位置相對穩固，而對雙城的先發雖有吸引力但仍伴隨明顯風險。",
+      "tags": [
+        "matchup",
+        "risk"
+      ]
+    },
+    {
+      "rank": 10,
+      "name_en": "Jameson Taillon",
+      "summary_en": "He offers more downside than upside, but his tendency to work deep into games makes him streamable in points leagues.",
+      "summary_zh_tw": "Jameson Taillon 雖然下限高於上限，但因為常能投得夠深，在積分聯盟仍算可串流的選項。",
+      "tags": [
+        "points leagues",
+        "deep outings",
+        "risk"
+      ]
+    }
+  ],
+  "pipeline": {
+    "version": "1.0",
+    "status": "complete"
+  }
+}

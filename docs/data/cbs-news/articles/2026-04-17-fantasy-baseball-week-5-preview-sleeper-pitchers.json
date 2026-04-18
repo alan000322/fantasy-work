@@ -1,0 +1,331 @@
+{
+  "source_article": {
+    "source": "CBS Sports",
+    "article_type": "sleeper_pitchers",
+    "week": 5,
+    "title_en": "Fantasy Baseball Week 5 Preview: Top 10 sleeper pitchers include Mick Abel, Reid Detmers",
+    "url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-5-preview-sleeper-pitchers/",
+    "canonical_url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-5-preview-sleeper-pitchers/",
+    "slug": "fantasy-baseball-week-5-preview-sleeper-pitchers",
+    "author": "Scott White",
+    "published_at": "2026-04-17T13:42:00+00:00",
+    "dek_en": "Target top fantasy baseball streamers like Weathers, Nelson and Springs with favorable matchups and upside",
+    "body_en": "Streaming pitchers isn't for the faint of heart, but if you find yourself without enough reliable options in a given scoring period, it may be what you need to stay afloat. Scott White has 10 recommendations for the upcoming scoring period, all rostered in less than 80 percent of CBS Sports leagues. Generally, only the top two or three are full-throated endorsements, while the rest are more about making the best of a bad situation.\n\nBe sure to check back Sunday for the latest updates.\n\n1. Mick Abel (P) - Mick Abel struck out 10 over seven shutout innings in his last start, and while a week will have passed by the time he takes the mound again Tuesday, it puts him in line for two turns. His fastball is one of the best in the game at generating whiffs, so as long as he keeps the walks under control, he could be in for a breakout season.\n2. Reid Detmers (SP) - Unlike Abel, Reid Detmers will get a chance to follow up his seven-inning gem over the weekend, but provided that goes well, his next turn lines up against a Royals team that ranks near the bottom of the league in runs scored. Detmers has long been a Fantasy tease, but he's added a changeup this year that's quickly become his best pitch and is learning to lean on it more and more.\n3. Ryne Nelson (SP) - The Padres matchup is nothing special, but the bottom line is that Ryne Nelson shouldn't be available enough to qualify for this list. He's been a WHIP standout since the second half of 2024 and, for the leagues where that matters, is one of the best starting pitchers with relief pitcher eligibility. Now that he's bounced back from a bumpy start, you should probably be using him.\n4. Bryce Elder (SP) - Some tweaks to his slider have made it a more effective pitch and positioned Bryce Elder as a competent bat-misser to go along with his existing ground-ball skills. He's sporting a 0.77 ERA going into a two-start week, which should be good enough for you to overlook the difficult matchup against the Phillies.\n5. Kodai Senga (SP) - A jump in velocity has helped Kodai Senga recapture his former bat-missing glory, but walks and home runs remain an issue. The reward would seem to outweigh the risk, though, against an unimpressive Twins lineup that's due for a downturn.\n6. Spencer Arrighetti (P) - Spencer Arrighetti's return to the majors Wednesday came with an acknowledgment that his secondary offerings are the key to his success. Heavy curveball usage led to him striking out 10 against the Rockies (albeit with four walks and two hit batters), and the Guardians lineup that he'll be facing this week is similarly vulnerable.\n7. Reynaldo Lopez (RP) - Reynaldo Lopez's latest start against the Marlins was his worst one, but it only raised his ERA to 2.18. He's come back from an injury-marred season with less velocity and is allowing more contact than anyone would like to see, but so far, that contact has been weak enough to make him a success. Here's hoping it'll continue for another week.\n8. Eduardo Rodriguez (SP) - After sporting a 0.50 ERA through three turns, Eduardo Rodriguez came back to earth in his latest one due to his changeup, an early standout, reverting to its earlier shape. It's worth holding out hope in him regaining that changeup, though, against a bottom-feeder White Sox lineup.\n9. Rhett Lowder (SP) - While lacking in strikeout ability, Rhett Lowder has the look of a competent innings-eater who generally throws strikes and limits damage. He's exactly the sort of pitcher worth streaming in points leagues whenever he's in line for two starts.\n10. Max Meyer (SP) - Max Meyer has yet to deliver a start of much significance in Fantasy, but his slider, which he's featuring more than any other pitch, has been a nightmare for opposing hitters, generating a 56 percent whiff rate. He'll get two chances to make good on it this week, and the matchups are pretty favorable.",
+    "fetched_at": "2026-04-18T12:58:34+00:00",
+    "player_cards": [
+      {
+        "rank": 1,
+        "name_en": "Mick Abel",
+        "position": "P",
+        "mlb_team": "MIN",
+        "matchup": null,
+        "rostered_pct": "63%",
+        "blurb_en": "Mick Abel struck out 10 over seven shutout innings in his last start, and while a week will have passed by the time he takes the mound again Tuesday, it puts him in line for two turns. His fastball is one of the best in the game at generating whiffs, so as long as he keeps the walks under control, he could be in for a breakout season."
+      },
+      {
+        "rank": 2,
+        "name_en": "Reid Detmers",
+        "position": "SP",
+        "mlb_team": "LAA",
+        "matchup": "at KC",
+        "rostered_pct": "52%",
+        "blurb_en": "Unlike Abel, Reid Detmers will get a chance to follow up his seven-inning gem over the weekend, but provided that goes well, his next turn lines up against a Royals team that ranks near the bottom of the league in runs scored. Detmers has long been a Fantasy tease, but he's added a changeup this year that's quickly become his best pitch and is learning to lean on it more and more."
+      },
+      {
+        "rank": 3,
+        "name_en": "Ryne Nelson",
+        "position": "SP",
+        "mlb_team": "ARI",
+        "matchup": "vs. SD",
+        "rostered_pct": "78%",
+        "blurb_en": "The Padres matchup is nothing special, but the bottom line is that Ryne Nelson shouldn't be available enough to qualify for this list. He's been a WHIP standout since the second half of 2024 and, for the leagues where that matters, is one of the best starting pitchers with relief pitcher eligibility. Now that he's bounced back from a bumpy start, you should probably be using him."
+      },
+      {
+        "rank": 4,
+        "name_en": "Bryce Elder",
+        "position": "SP",
+        "mlb_team": "ATL",
+        "matchup": null,
+        "rostered_pct": "77%",
+        "blurb_en": "Some tweaks to his slider have made it a more effective pitch and positioned Bryce Elder as a competent bat-misser to go along with his existing ground-ball skills. He's sporting a 0.77 ERA going into a two-start week, which should be good enough for you to overlook the difficult matchup against the Phillies."
+      },
+      {
+        "rank": 5,
+        "name_en": "Kodai Senga",
+        "position": "SP",
+        "mlb_team": "NYM",
+        "matchup": "vs. MIN",
+        "rostered_pct": "76%",
+        "blurb_en": "A jump in velocity has helped Kodai Senga recapture his former bat-missing glory, but walks and home runs remain an issue. The reward would seem to outweigh the risk, though, against an unimpressive Twins lineup that's due for a downturn."
+      },
+      {
+        "rank": 6,
+        "name_en": "Spencer Arrighetti",
+        "position": "P",
+        "mlb_team": "HOU",
+        "matchup": "at CLE",
+        "rostered_pct": "53%",
+        "blurb_en": "Spencer Arrighetti's return to the majors Wednesday came with an acknowledgment that his secondary offerings are the key to his success. Heavy curveball usage led to him striking out 10 against the Rockies (albeit with four walks and two hit batters), and the Guardians lineup that he'll be facing this week is similarly vulnerable."
+      },
+      {
+        "rank": 7,
+        "name_en": "Reynaldo Lopez",
+        "position": "RP",
+        "mlb_team": "ATL",
+        "matchup": null,
+        "rostered_pct": "74%",
+        "blurb_en": "Reynaldo Lopez's latest start against the Marlins was his worst one, but it only raised his ERA to 2.18. He's come back from an injury-marred season with less velocity and is allowing more contact than anyone would like to see, but so far, that contact has been weak enough to make him a success. Here's hoping it'll continue for another week."
+      },
+      {
+        "rank": 8,
+        "name_en": "Eduardo Rodriguez",
+        "position": "SP",
+        "mlb_team": "ARI",
+        "matchup": "vs. CHW",
+        "rostered_pct": "47%",
+        "blurb_en": "After sporting a 0.50 ERA through three turns, Eduardo Rodriguez came back to earth in his latest one due to his changeup, an early standout, reverting to its earlier shape. It's worth holding out hope in him regaining that changeup, though, against a bottom-feeder White Sox lineup."
+      },
+      {
+        "rank": 9,
+        "name_en": "Rhett Lowder",
+        "position": "SP",
+        "mlb_team": "CIN",
+        "matchup": null,
+        "rostered_pct": "49%",
+        "blurb_en": "While lacking in strikeout ability, Rhett Lowder has the look of a competent innings-eater who generally throws strikes and limits damage. He's exactly the sort of pitcher worth streaming in points leagues whenever he's in line for two starts."
+      },
+      {
+        "rank": 10,
+        "name_en": "Max Meyer",
+        "position": "SP",
+        "mlb_team": "MIA",
+        "matchup": null,
+        "rostered_pct": "53%",
+        "blurb_en": "Max Meyer has yet to deliver a start of much significance in Fantasy, but his slider, which he's featuring more than any other pitch, has been a nightmare for opposing hitters, generating a 56 percent whiff rate. He'll get two chances to make good on it this week, and the matchups are pretty favorable."
+      }
+    ]
+  },
+  "ai_article": {
+    "article_type": "sleeper_pitchers",
+    "week": 5,
+    "article_summary_zh_tw": "本週 CBS Sports 針對第 5 週推薦 10 位先發/救援投手串流名單，重點放在具備兩次先發、近期狀態回升或對戰面有利的投手。",
+    "players": [
+      {
+        "rank": 1,
+        "name_en": "Mick Abel",
+        "summary_en": "He struck out 10 over seven shutout innings in his last start, and his whiff-generating fastball plus a likely two-start week give him breakout appeal if he can limit walks.",
+        "summary_zh_tw": "Mick Abel 上一場先發投出 7 局無失分並送出 10 次三振，若能控制保送，搭配可能的兩次登板讓他具備爆發潛力。",
+        "tags": [
+          "two-start",
+          "strikeout upside",
+          "breakout candidate"
+        ]
+      },
+      {
+        "rank": 2,
+        "name_en": "Reid Detmers",
+        "summary_en": "He is coming off a seven-inning gem and his next turn lines up against a Royals offense that ranks near the bottom of the league in runs scored.",
+        "summary_zh_tw": "Reid Detmers 剛完成 7 局好投，而下一次登板對上得分火力偏弱的 Royals，對幻想球隊相當有吸引力。",
+        "tags": [
+          "favorable matchup",
+          "strikeout upside"
+        ]
+      },
+      {
+        "rank": 3,
+        "name_en": "Ryne Nelson",
+        "summary_en": "He has been a WHIP standout since the second half of 2024 and, after bouncing back from a rough start, is worth using despite a not-special Padres matchup.",
+        "summary_zh_tw": "Ryne Nelson 自 2024 下半季以來在 WHIP 表現突出，且已從低潮回穩，即使對手是 Padres 仍值得使用。",
+        "tags": [
+          "WHIP help",
+          "steady starter"
+        ]
+      },
+      {
+        "rank": 4,
+        "name_en": "Bryce Elder",
+        "summary_en": "Slider tweaks have made him a more effective bat-misser, and his 0.77 ERA entering a two-start week helps offset a difficult Phillies matchup.",
+        "summary_zh_tw": "Bryce Elder 透過滑球調整提升了三振能力，帶著 0.77 防禦率迎接兩次先發，足以部分抵消對費城人的艱難對戰。",
+        "tags": [
+          "two-start",
+          "ERA help",
+          "ground balls"
+        ]
+      },
+      {
+        "rank": 5,
+        "name_en": "Kodai Senga",
+        "summary_en": "A velocity jump has helped him rediscover his bat-missing stuff, and the upside may outweigh the risk against an unimpressive Twins lineup.",
+        "summary_zh_tw": "Kodai Senga 的球速提升幫助他找回製造揮空的能力，面對狀態平平的 Twins 打線時報酬大於風險。",
+        "tags": [
+          "strikeout upside",
+          "risk/reward"
+        ]
+      },
+      {
+        "rank": 6,
+        "name_en": "Spencer Arrighetti",
+        "summary_en": "His secondary pitches are central to his success, and a heavy curveball approach produced 10 strikeouts in his return, with a similarly vulnerable Guardians lineup ahead.",
+        "summary_zh_tw": "Spencer Arrighetti 回到大聯盟後靠大量曲球送出 10 次三振，而本週面對同樣脆弱的 Guardians 打線仍有可串流價值。",
+        "tags": [
+          "strikeout upside",
+          "favorable matchup"
+        ]
+      },
+      {
+        "rank": 7,
+        "name_en": "Reynaldo Lopez",
+        "summary_en": "He has a 2.18 ERA despite less velocity and more contact than ideal, and the weak contact has been good enough to keep him successful so far.",
+        "summary_zh_tw": "Reynaldo Lopez 雖然球速下降且被打到更多球，但目前仍以 2.18 防禦率維持成功表現。",
+        "tags": [
+          "run prevention",
+          "ratio help"
+        ]
+      },
+      {
+        "rank": 8,
+        "name_en": "Eduardo Rodriguez",
+        "summary_en": "After a strong early run, he regressed when his changeup flattened out, but there is still hope he can rebound against the White Sox.",
+        "summary_zh_tw": "Eduardo Rodriguez 前期表現亮眼後因變速球走樣而回落，但對上 White Sox 時仍有反彈空間。",
+        "tags": [
+          "bounce-back candidate",
+          "favorable matchup"
+        ]
+      },
+      {
+        "rank": 9,
+        "name_en": "Rhett Lowder",
+        "summary_en": "He does not offer much strikeout upside, but he profiles as a competent innings-eater who throws strikes and limits damage, especially in two-start points-league weeks.",
+        "summary_zh_tw": "Rhett Lowder 雖然三振能力有限，但他是能吃局數、控球穩定且適合積分制兩先發週串流的投手。",
+        "tags": [
+          "two-start",
+          "innings eater",
+          "points league"
+        ]
+      },
+      {
+        "rank": 10,
+        "name_en": "Max Meyer",
+        "summary_en": "His slider has been a major whiff pitch, and with two chances this week plus favorable matchups, he has a path to making good on his upside.",
+        "summary_zh_tw": "Max Meyer 的滑球具備很強的揮空效果，本週又有兩次機會加上有利對戰，讓他有機會兌現潛力。",
+        "tags": [
+          "two-start",
+          "strikeout upside",
+          "favorable matchup"
+        ]
+      }
+    ],
+    "model": "gpt-5.4-mini",
+    "generated_at": "2026-04-18T12:58:59+00:00"
+  },
+  "players": [
+    {
+      "rank": 1,
+      "name_en": "Mick Abel",
+      "summary_en": "He struck out 10 over seven shutout innings in his last start, and his whiff-generating fastball plus a likely two-start week give him breakout appeal if he can limit walks.",
+      "summary_zh_tw": "Mick Abel 上一場先發投出 7 局無失分並送出 10 次三振，若能控制保送，搭配可能的兩次登板讓他具備爆發潛力。",
+      "tags": [
+        "two-start",
+        "strikeout upside",
+        "breakout candidate"
+      ]
+    },
+    {
+      "rank": 2,
+      "name_en": "Reid Detmers",
+      "summary_en": "He is coming off a seven-inning gem and his next turn lines up against a Royals offense that ranks near the bottom of the league in runs scored.",
+      "summary_zh_tw": "Reid Detmers 剛完成 7 局好投，而下一次登板對上得分火力偏弱的 Royals，對幻想球隊相當有吸引力。",
+      "tags": [
+        "favorable matchup",
+        "strikeout upside"
+      ]
+    },
+    {
+      "rank": 3,
+      "name_en": "Ryne Nelson",
+      "summary_en": "He has been a WHIP standout since the second half of 2024 and, after bouncing back from a rough start, is worth using despite a not-special Padres matchup.",
+      "summary_zh_tw": "Ryne Nelson 自 2024 下半季以來在 WHIP 表現突出，且已從低潮回穩，即使對手是 Padres 仍值得使用。",
+      "tags": [
+        "WHIP help",
+        "steady starter"
+      ]
+    },
+    {
+      "rank": 4,
+      "name_en": "Bryce Elder",
+      "summary_en": "Slider tweaks have made him a more effective bat-misser, and his 0.77 ERA entering a two-start week helps offset a difficult Phillies matchup.",
+      "summary_zh_tw": "Bryce Elder 透過滑球調整提升了三振能力，帶著 0.77 防禦率迎接兩次先發，足以部分抵消對費城人的艱難對戰。",
+      "tags": [
+        "two-start",
+        "ERA help",
+        "ground balls"
+      ]
+    },
+    {
+      "rank": 5,
+      "name_en": "Kodai Senga",
+      "summary_en": "A velocity jump has helped him rediscover his bat-missing stuff, and the upside may outweigh the risk against an unimpressive Twins lineup.",
+      "summary_zh_tw": "Kodai Senga 的球速提升幫助他找回製造揮空的能力，面對狀態平平的 Twins 打線時報酬大於風險。",
+      "tags": [
+        "strikeout upside",
+        "risk/reward"
+      ]
+    },
+    {
+      "rank": 6,
+      "name_en": "Spencer Arrighetti",
+      "summary_en": "His secondary pitches are central to his success, and a heavy curveball approach produced 10 strikeouts in his return, with a similarly vulnerable Guardians lineup ahead.",
+      "summary_zh_tw": "Spencer Arrighetti 回到大聯盟後靠大量曲球送出 10 次三振，而本週面對同樣脆弱的 Guardians 打線仍有可串流價值。",
+      "tags": [
+        "strikeout upside",
+        "favorable matchup"
+      ]
+    },
+    {
+      "rank": 7,
+      "name_en": "Reynaldo Lopez",
+      "summary_en": "He has a 2.18 ERA despite less velocity and more contact than ideal, and the weak contact has been good enough to keep him successful so far.",
+      "summary_zh_tw": "Reynaldo Lopez 雖然球速下降且被打到更多球，但目前仍以 2.18 防禦率維持成功表現。",
+      "tags": [
+        "run prevention",
+        "ratio help"
+      ]
+    },
+    {
+      "rank": 8,
+      "name_en": "Eduardo Rodriguez",
+      "summary_en": "After a strong early run, he regressed when his changeup flattened out, but there is still hope he can rebound against the White Sox.",
+      "summary_zh_tw": "Eduardo Rodriguez 前期表現亮眼後因變速球走樣而回落，但對上 White Sox 時仍有反彈空間。",
+      "tags": [
+        "bounce-back candidate",
+        "favorable matchup"
+      ]
+    },
+    {
+      "rank": 9,
+      "name_en": "Rhett Lowder",
+      "summary_en": "He does not offer much strikeout upside, but he profiles as a competent innings-eater who throws strikes and limits damage, especially in two-start points-league weeks.",
+      "summary_zh_tw": "Rhett Lowder 雖然三振能力有限，但他是能吃局數、控球穩定且適合積分制兩先發週串流的投手。",
+      "tags": [
+        "two-start",
+        "innings eater",
+        "points league"
+      ]
+    },
+    {
+      "rank": 10,
+      "name_en": "Max Meyer",
+      "summary_en": "His slider has been a major whiff pitch, and with two chances this week plus favorable matchups, he has a path to making good on his upside.",
+      "summary_zh_tw": "Max Meyer 的滑球具備很強的揮空效果，本週又有兩次機會加上有利對戰，讓他有機會兌現潛力。",
+      "tags": [
+        "two-start",
+        "strikeout upside",
+        "favorable matchup"
+      ]
+    }
+  ],
+  "pipeline": {
+    "version": "1.0",
+    "status": "complete"
+  }
+}

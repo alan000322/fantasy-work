@@ -1,0 +1,343 @@
+{
+  "source_article": {
+    "source": "CBS Sports",
+    "article_type": "sleeper_pitchers",
+    "week": 4,
+    "title_en": "Fantasy Baseball Week 4 Preview: Top 10 sleeper pitchers include Ryan Weathers, Randy Vasquez",
+    "url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-4-preview-top-10-sleeper-pitchers-include-ryan-weathers-randy-vasquez/",
+    "canonical_url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-4-preview-top-10-sleeper-pitchers-include-ryan-weathers-randy-vasquez/",
+    "slug": "fantasy-baseball-week-4-preview-top-10-sleeper-pitchers-include-ryan-weathers-randy-vasquez",
+    "author": "Scott White",
+    "published_at": "2026-04-12T23:16:00+00:00",
+    "dek_en": "Target top fantasy baseball streamers like Weathers, Nelson and Springs with favorable matchups and upside",
+    "body_en": "Streaming pitchers isn't for the faint of heart, but if you find yourself without enough reliable options in a given scoring period, it may be what you need to stay afloat. Scott White has 10 recommendations for the upcoming scoring period, all rostered in less than 80 percent of CBS Sports leagues. Generally, only the top two or three are full-throated endorsements, while the rest are more about making the best of a bad situation.\n\nAll information is up to date as of Sunday evening.\n\n1. Ryan Weathers (SP) - Ryan Weathers took a little off his pitches to focus on better strike-throwing in his latest outing and ended up delivering an eight-inning gem against the Athletics. He has two favorable matchups this week, particularly the first against the most strikeout-prone lineup in baseball.\n2. Braxton Ashcraft (P) - Braxton Ashcraft is a ground-ball pitcher who misses bats better than most, which gives him a high floor. His matchup against the Nationals this week gives him a high ceiling.\n3. Grant Holmes (RP) - After three starts, Grant Holmes has already put to rest the concerns about his elbow coming into the season, and he should enjoy an uptick in strikeouts soon enough, given that his slider is sporting a 50 percent whiff rate. His second matchup against the Phillies could be tough, but you'll take two however you can get them.\n4. Joey Cantillo (SP) - Joey Cantillo hasn't been around as long as Holmes, but he profiles similarly as a quality bat-misser whose outings will tend to run short and WHIP will tend to run high. Also like Holmes, he has one good matchup and one bad one this week.\n5. Ryne Nelson (SP) - Ryne Nelson righted the ship against a tough Mets lineup in his most recent start, which makes me less fearful of his tough matchups this week. A pitcher with a 3.33 ERA, 1.05 WHIP, and 8.0 K/9 over his past 251 2/3 innings is basically a must when he's in line for two starts. The remaining question would be if Merrill Kelly's return Tuesday causes the Diamondbacks to go six-man this week, costing Nelson his second start.\n6. Noah Schultz (SP) - It's not 100 percent clear yet if Noah Schultz will become part of a conventional five-man rotation or even if he'll stick around beyond his Tuesday debut, but provided the answer to both is yes (which I'm presuming), then this prospect with ace potential will line up for two turns right away. He stumbled last year while pitching through a knee issue but was dominating at Triple-A this year with a 1.29 ERA, 0.43 WHIP and 12.2 K/9.\n7. Jeffrey Springs (SP) - Jeffrey Springs' fastball is up only a little this year, but judging by the early results, it seems to have made a world of difference. He's allowed a combined three hits in his past two starts, striking out 13 over 13 innings, and has two inviting matchups this week.\n8. Mitch Keller (SP) - Though he's been effective so far, Mitch Keller presents a ton of ERA and WHIP risk for categories leagues (and without much strikeout upside), which could obviously be doubly damaging in a two-start week. This recommendation is more for points leagues, where such ratio stats aren't scored directly and Keller's knack for pitching deep into games is of more value.\n9. Will Warren (P) - Though Will Warren hasn't been bad, per se, two of his three starts have fallen short of the five-inning mark that's the minimum threshold for a pitcher to matter in Fantasy. He'll get two bites at the apple this week, though, and both of his matchups are favorable.\n10. Randy Vasquez (RP) - The Mariners lineup is off to a rough start, and part of that is having the third-most strikeouts of any team. Randy Vasquez has been a surprising source of strikeouts early on thanks to a fastball that's up about 1 mph and features an additional inch of induced vertical break.",
+    "fetched_at": "2026-04-18T12:58:39+00:00",
+    "player_cards": [
+      {
+        "rank": 1,
+        "name_en": "Ryan Weathers",
+        "position": "SP",
+        "mlb_team": "NYY",
+        "matchup": null,
+        "rostered_pct": "78%",
+        "blurb_en": "Ryan Weathers took a little off his pitches to focus on better strike-throwing in his latest outing and ended up delivering an eight-inning gem against the Athletics. He has two favorable matchups this week, particularly the first against the most strikeout-prone lineup in baseball."
+      },
+      {
+        "rank": 2,
+        "name_en": "Braxton Ashcraft",
+        "position": "P",
+        "mlb_team": "PIT",
+        "matchup": "vs. WAS",
+        "rostered_pct": "78%",
+        "blurb_en": "Braxton Ashcraft is a ground-ball pitcher who misses bats better than most, which gives him a high floor. His matchup against the Nationals this week gives him a high ceiling."
+      },
+      {
+        "rank": 3,
+        "name_en": "Grant Holmes",
+        "position": "RP",
+        "mlb_team": "ATL",
+        "matchup": null,
+        "rostered_pct": "60%",
+        "blurb_en": "After three starts, Grant Holmes has already put to rest the concerns about his elbow coming into the season, and he should enjoy an uptick in strikeouts soon enough, given that his slider is sporting a 50 percent whiff rate. His second matchup against the Phillies could be tough, but you'll take two however you can get them."
+      },
+      {
+        "rank": 4,
+        "name_en": "Joey Cantillo",
+        "position": "SP",
+        "mlb_team": "CLE",
+        "matchup": null,
+        "rostered_pct": "58%",
+        "blurb_en": "Joey Cantillo hasn't been around as long as Holmes, but he profiles similarly as a quality bat-misser whose outings will tend to run short and WHIP will tend to run high. Also like Holmes, he has one good matchup and one bad one this week."
+      },
+      {
+        "rank": 5,
+        "name_en": "Ryne Nelson",
+        "position": "SP",
+        "mlb_team": "ARI",
+        "matchup": null,
+        "rostered_pct": "72%",
+        "blurb_en": "Ryne Nelson righted the ship against a tough Mets lineup in his most recent start, which makes me less fearful of his tough matchups this week. A pitcher with a 3.33 ERA, 1.05 WHIP, and 8.0 K/9 over his past 251 2/3 innings is basically a must when he's in line for two starts. The remaining question would be if Merrill Kelly's return Tuesday causes the Diamondbacks to go six-man this week, costing Nelson his second start."
+      },
+      {
+        "rank": 6,
+        "name_en": "Noah Schultz",
+        "position": "SP",
+        "mlb_team": "CHW",
+        "matchup": null,
+        "rostered_pct": "61%",
+        "blurb_en": "It's not 100 percent clear yet if Noah Schultz will become part of a conventional five-man rotation or even if he'll stick around beyond his Tuesday debut, but provided the answer to both is yes (which I'm presuming), then this prospect with ace potential will line up for two turns right away. He stumbled last year while pitching through a knee issue but was dominating at Triple-A this year with a 1.29 ERA, 0.43 WHIP and 12.2 K/9."
+      },
+      {
+        "rank": 7,
+        "name_en": "Jeffrey Springs",
+        "position": "SP",
+        "mlb_team": "ATH",
+        "matchup": null,
+        "rostered_pct": "42%",
+        "blurb_en": "Jeffrey Springs' fastball is up only a little this year, but judging by the early results, it seems to have made a world of difference. He's allowed a combined three hits in his past two starts, striking out 13 over 13 innings, and has two inviting matchups this week."
+      },
+      {
+        "rank": 8,
+        "name_en": "Mitch Keller",
+        "position": "SP",
+        "mlb_team": "PIT",
+        "matchup": null,
+        "rostered_pct": "65%",
+        "blurb_en": "Though he's been effective so far, Mitch Keller presents a ton of ERA and WHIP risk for categories leagues (and without much strikeout upside), which could obviously be doubly damaging in a two-start week. This recommendation is more for points leagues, where such ratio stats aren't scored directly and Keller's knack for pitching deep into games is of more value."
+      },
+      {
+        "rank": 9,
+        "name_en": "Will Warren",
+        "position": "P",
+        "mlb_team": "NYY",
+        "matchup": null,
+        "rostered_pct": "74%",
+        "blurb_en": "Though Will Warren hasn't been bad, per se, two of his three starts have fallen short of the five-inning mark that's the minimum threshold for a pitcher to matter in Fantasy. He'll get two bites at the apple this week, though, and both of his matchups are favorable."
+      },
+      {
+        "rank": 10,
+        "name_en": "Randy Vasquez",
+        "position": "RP",
+        "mlb_team": "SD",
+        "matchup": "vs. SEA",
+        "rostered_pct": "59%",
+        "blurb_en": "The Mariners lineup is off to a rough start, and part of that is having the third-most strikeouts of any team. Randy Vasquez has been a surprising source of strikeouts early on thanks to a fastball that's up about 1 mph and features an additional inch of induced vertical break."
+      }
+    ]
+  },
+  "ai_article": {
+    "article_type": "sleeper_pitchers",
+    "week": 4,
+    "article_summary_zh_tw": "本週名單聚焦於可作為先發串流的睡眠投手，重點包括 Ryan Weathers、Ryne Nelson 與 Jeffrey Springs 等具對戰優勢或兩場先發潛力的選擇。",
+    "players": [
+      {
+        "rank": 1,
+        "name_en": "Ryan Weathers",
+        "summary_en": "Ryan Weathers took a little off his pitches to focus on better strike-throwing and delivered an eight-inning gem in his last outing, with two favorable matchups this week, especially against a strikeout-prone lineup.",
+        "summary_zh_tw": "Ryan Weathers 上一場靠著更好的控球投出八局好投，本週又有兩個有利對戰，尤其首戰對上三振率偏高的打線。",
+        "tags": [
+          "two-start",
+          "favorable matchups",
+          "strikeout upside"
+        ]
+      },
+      {
+        "rank": 2,
+        "name_en": "Braxton Ashcraft",
+        "summary_en": "Braxton Ashcraft is a ground-ball pitcher who misses bats well, giving him a high floor and a high ceiling in his matchup against the Nationals.",
+        "summary_zh_tw": "Braxton Ashcraft 是能製造滾地球且具備不錯製造揮空能力的投手，對上國民的比賽讓他兼具地板與上限。",
+        "tags": [
+          "ground-ball",
+          "high floor",
+          "favorable matchup"
+        ]
+      },
+      {
+        "rank": 3,
+        "name_en": "Grant Holmes",
+        "summary_en": "Grant Holmes has eased concerns about his elbow after three starts and should see more strikeouts soon, though his second matchup against the Phillies could be tough.",
+        "summary_zh_tw": "Grant Holmes 已用三場先發消除手肘疑慮，而且滑球揮空率高讓他有望提升三振數，但第二場對費城人可能較難投。",
+        "tags": [
+          "two-start",
+          "strikeout upside",
+          "risk"
+        ]
+      },
+      {
+        "rank": 4,
+        "name_en": "Joey Cantillo",
+        "summary_en": "Joey Cantillo profiles as a quality bat-misser whose outings may be short and whose WHIP may be high, with one good matchup and one bad one this week.",
+        "summary_zh_tw": "Joey Cantillo 是具備製造揮空能力但局數可能不長、WHIP 風險偏高的投手，本週同樣會面對一好一壞的對戰。",
+        "tags": [
+          "two-start",
+          "strikeout upside",
+          "WHIP risk"
+        ]
+      },
+      {
+        "rank": 5,
+        "name_en": "Ryne Nelson",
+        "summary_en": "Ryne Nelson has a 3.33 ERA, 1.05 WHIP, and 8.0 K/9 over his past 251 2/3 innings, making him a strong two-start option if he keeps both starts.",
+        "summary_zh_tw": "Ryne Nelson 近 251 又 2/3 局繳出 3.33 防禦率、1.05 WHIP 與 8.0 K/9，若能保住兩場先發就會是很值得使用的選擇。",
+        "tags": [
+          "two-start",
+          "strong ratios",
+          "sleeper"
+        ]
+      },
+      {
+        "rank": 6,
+        "name_en": "Noah Schultz",
+        "summary_en": "Noah Schultz has ace potential and could line up for two starts immediately if he sticks in a conventional rotation, after dominating Triple-A with elite ratios and strikeout rate.",
+        "summary_zh_tw": "Noah Schultz 具備王牌潛力，若能留在正常輪值中就有機會立刻拿到兩場先發，而他在三A的成績也非常亮眼。",
+        "tags": [
+          "prospect",
+          "two-start",
+          "ace upside"
+        ]
+      },
+      {
+        "rank": 7,
+        "name_en": "Jeffrey Springs",
+        "summary_en": "Jeffrey Springs has gotten strong early results with his fastball up slightly, allowing just three hits and striking out 13 over his last two starts, plus two inviting matchups this week.",
+        "summary_zh_tw": "Jeffrey Springs 本季速球小幅提升後效果明顯，近兩場只被敲三安並送出 13 次三振，而且本週還有兩個好對戰。",
+        "tags": [
+          "two-start",
+          "hot streak",
+          "strikeout upside"
+        ]
+      },
+      {
+        "rank": 8,
+        "name_en": "Mitch Keller",
+        "summary_en": "Mitch Keller has been effective, but he brings significant ERA and WHIP risk with limited strikeout upside, making him more appealing in points leagues than categories leagues.",
+        "summary_zh_tw": "Mitch Keller 雖然表現有效率，但 ERA 與 WHIP 風險很高且三振上限有限，因此比起類別聯盟更適合積分制聯盟。",
+        "tags": [
+          "points leagues",
+          "ratio risk",
+          "two-start"
+        ]
+      },
+      {
+        "rank": 9,
+        "name_en": "Will Warren",
+        "summary_en": "Will Warren has not been bad, but two of his three starts have failed to reach five innings; he still gets two favorable matchups this week.",
+        "summary_zh_tw": "Will Warren 表現不算差，但三場先發已有兩場不到五局，不過本週仍將迎來兩個有利對戰。",
+        "tags": [
+          "two-start",
+          "favorable matchups",
+          "innings concern"
+        ]
+      },
+      {
+        "rank": 10,
+        "name_en": "Randy Vasquez",
+        "summary_en": "Randy Vasquez has been a surprising early source of strikeouts, helped by a fastball that is up about 1 mph and has more induced vertical break against a strikeout-heavy Mariners lineup.",
+        "summary_zh_tw": "Randy Vasquez 今年初意外成為三振來源，速球球速約提升 1 英里且垂直位移更好，對上三振偏多的水手打線也有利。",
+        "tags": [
+          "favorable matchup",
+          "strikeout upside",
+          "sleeper"
+        ]
+      }
+    ],
+    "model": "gpt-5.4-mini",
+    "generated_at": "2026-04-18T12:59:15+00:00"
+  },
+  "players": [
+    {
+      "rank": 1,
+      "name_en": "Ryan Weathers",
+      "summary_en": "Ryan Weathers took a little off his pitches to focus on better strike-throwing and delivered an eight-inning gem in his last outing, with two favorable matchups this week, especially against a strikeout-prone lineup.",
+      "summary_zh_tw": "Ryan Weathers 上一場靠著更好的控球投出八局好投，本週又有兩個有利對戰，尤其首戰對上三振率偏高的打線。",
+      "tags": [
+        "two-start",
+        "favorable matchups",
+        "strikeout upside"
+      ]
+    },
+    {
+      "rank": 2,
+      "name_en": "Braxton Ashcraft",
+      "summary_en": "Braxton Ashcraft is a ground-ball pitcher who misses bats well, giving him a high floor and a high ceiling in his matchup against the Nationals.",
+      "summary_zh_tw": "Braxton Ashcraft 是能製造滾地球且具備不錯製造揮空能力的投手，對上國民的比賽讓他兼具地板與上限。",
+      "tags": [
+        "ground-ball",
+        "high floor",
+        "favorable matchup"
+      ]
+    },
+    {
+      "rank": 3,
+      "name_en": "Grant Holmes",
+      "summary_en": "Grant Holmes has eased concerns about his elbow after three starts and should see more strikeouts soon, though his second matchup against the Phillies could be tough.",
+      "summary_zh_tw": "Grant Holmes 已用三場先發消除手肘疑慮，而且滑球揮空率高讓他有望提升三振數，但第二場對費城人可能較難投。",
+      "tags": [
+        "two-start",
+        "strikeout upside",
+        "risk"
+      ]
+    },
+    {
+      "rank": 4,
+      "name_en": "Joey Cantillo",
+      "summary_en": "Joey Cantillo profiles as a quality bat-misser whose outings may be short and whose WHIP may be high, with one good matchup and one bad one this week.",
+      "summary_zh_tw": "Joey Cantillo 是具備製造揮空能力但局數可能不長、WHIP 風險偏高的投手，本週同樣會面對一好一壞的對戰。",
+      "tags": [
+        "two-start",
+        "strikeout upside",
+        "WHIP risk"
+      ]
+    },
+    {
+      "rank": 5,
+      "name_en": "Ryne Nelson",
+      "summary_en": "Ryne Nelson has a 3.33 ERA, 1.05 WHIP, and 8.0 K/9 over his past 251 2/3 innings, making him a strong two-start option if he keeps both starts.",
+      "summary_zh_tw": "Ryne Nelson 近 251 又 2/3 局繳出 3.33 防禦率、1.05 WHIP 與 8.0 K/9，若能保住兩場先發就會是很值得使用的選擇。",
+      "tags": [
+        "two-start",
+        "strong ratios",
+        "sleeper"
+      ]
+    },
+    {
+      "rank": 6,
+      "name_en": "Noah Schultz",
+      "summary_en": "Noah Schultz has ace potential and could line up for two starts immediately if he sticks in a conventional rotation, after dominating Triple-A with elite ratios and strikeout rate.",
+      "summary_zh_tw": "Noah Schultz 具備王牌潛力，若能留在正常輪值中就有機會立刻拿到兩場先發，而他在三A的成績也非常亮眼。",
+      "tags": [
+        "prospect",
+        "two-start",
+        "ace upside"
+      ]
+    },
+    {
+      "rank": 7,
+      "name_en": "Jeffrey Springs",
+      "summary_en": "Jeffrey Springs has gotten strong early results with his fastball up slightly, allowing just three hits and striking out 13 over his last two starts, plus two inviting matchups this week.",
+      "summary_zh_tw": "Jeffrey Springs 本季速球小幅提升後效果明顯，近兩場只被敲三安並送出 13 次三振，而且本週還有兩個好對戰。",
+      "tags": [
+        "two-start",
+        "hot streak",
+        "strikeout upside"
+      ]
+    },
+    {
+      "rank": 8,
+      "name_en": "Mitch Keller",
+      "summary_en": "Mitch Keller has been effective, but he brings significant ERA and WHIP risk with limited strikeout upside, making him more appealing in points leagues than categories leagues.",
+      "summary_zh_tw": "Mitch Keller 雖然表現有效率，但 ERA 與 WHIP 風險很高且三振上限有限，因此比起類別聯盟更適合積分制聯盟。",
+      "tags": [
+        "points leagues",
+        "ratio risk",
+        "two-start"
+      ]
+    },
+    {
+      "rank": 9,
+      "name_en": "Will Warren",
+      "summary_en": "Will Warren has not been bad, but two of his three starts have failed to reach five innings; he still gets two favorable matchups this week.",
+      "summary_zh_tw": "Will Warren 表現不算差，但三場先發已有兩場不到五局，不過本週仍將迎來兩個有利對戰。",
+      "tags": [
+        "two-start",
+        "favorable matchups",
+        "innings concern"
+      ]
+    },
+    {
+      "rank": 10,
+      "name_en": "Randy Vasquez",
+      "summary_en": "Randy Vasquez has been a surprising early source of strikeouts, helped by a fastball that is up about 1 mph and has more induced vertical break against a strikeout-heavy Mariners lineup.",
+      "summary_zh_tw": "Randy Vasquez 今年初意外成為三振來源，速球球速約提升 1 英里且垂直位移更好，對上三振偏多的水手打線也有利。",
+      "tags": [
+        "favorable matchup",
+        "strikeout upside",
+        "sleeper"
+      ]
+    }
+  ],
+  "pipeline": {
+    "version": "1.0",
+    "status": "complete"
+  }
+}

@@ -1,0 +1,343 @@
+{
+  "source_article": {
+    "source": "CBS Sports",
+    "article_type": "sleeper_hitters",
+    "week": 4,
+    "title_en": "Fantasy Baseball Week 4 Preview: Top 10 sleeper hitters highlight Cam Smith, Ryan O'Hearn",
+    "url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-4-preview-top-10-sleeper-hitters-highlight-cam-smith-ryan-ohearn/",
+    "canonical_url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-4-preview-top-10-sleeper-hitters-highlight-cam-smith-ryan-ohearn/",
+    "slug": "fantasy-baseball-week-4-preview-top-10-sleeper-hitters-highlight-cam-smith-ryan-ohearn",
+    "author": "Scott White",
+    "published_at": "2026-04-12T23:41:00+00:00",
+    "dek_en": "Top Week 4 fantasy baseball hitters and waiver wire targets, including Rumfield, Cam Smith",
+    "body_en": "Whether you're in need of an injury fill-in or just a hot-hand play, Scott White has you covered with 10 sleeper hitters for the upcoming scoring period, all rostered in less than 80 percent of CBS Sports leagues. They're not must-starts by any estimation, but they're often the best you'll find off the waiver wire.\n\nAll information is up to date as of Sunday evening.\n\n1. Astros @SEA1, COL3, STL3 2. Pirates WAS4, TB3 3. Guardians @STL3, BAL4 4. White Sox TB3, @ATH3 5. Yankees LAA4, KC3\n\n1. Cubs @PHI3, NYM3 2. Brewers TOR3, @MIA3 3. Tigers KC3, @BOS3 4. Diamondbacks @BAL3, TOR3 5. Mariners HOU1, @SD3, TEX3\n\n1. Cam Smith (3B) - Among hitters, Cam Smith has been one of the biggest early-season risers with his improved bat speed and increased willingness to run. The Astros have the most favorable hitter matchups this week, and if you look at the names in the Rockies and Cardinals rotations, you'll understand why.\n2. Ryan O'Hearn (1B) - Ryan O'Hearn is getting a chance to play every day for the Pirates and has made the most of it so far, entering the weekend with a .333/.419/.549 slash line. The Pirates have the second-best hitter matchups this week, going against pitchers like Cade Cavalli, Miles Mikolas, Jake Irvin, Foster Griffin, and Nick Martinez.\n3. Willson Contreras (C) - Willson Contreras of course has a long history of Fantasy usefulness, and he's been hot since the calendar flipped to April, batting .389 (14 for 36) with three homers and seven walks to 11 strikeouts. The Red Sox's matchup aren't among the most favorable with Tarik Skubal on the slate, but the Contreras' week opens against Bailey Ober, Mick Abel, Simeon Woods Richardson, and Casey Mize.\n4. TJ Rumfield (3B) - TJ Rumfield claims a spot near the top of this list for a second straight week with the Rockies once again having no left-handers on the schedule. He's been an on-base machine in the early going, regardless of whether the Rockies have been at home or away, but the three games at Coors Field couldn't hurt.\n5. Owen Caissie (OF) - Owen Caissie has been throttling the ball so far, just as the scouting reports said he would, but the Marlins have been sitting him against left-handers with regularity. That's not a problem this week with only one such pitcher on the schedule, and the righties, apart from maybe Brandon Woodruff, aren't anything to fear.\n6. Max Muncy (SS) - Though his plate discipline is still a disaster, Max Muncy has hit safely in all but three games so far this season, and his fast-swing rate is up 20 percentage points from a year ago. Those are reasons enough to roll the dice in a seven-game week with the White Sox pitching staff on the schedule.\n7. Spencer Torkelson (1B) - Spencer Torkelson has been dropped in enough leagues to qualify for this list, which obligates me to list him here since I think he'll be better in the long run than most of the hitters you could find on the waiver wire. His matchups aren't even favorable, but he is at least scheduled to face four left-handers, against whom he had an .884 OPS last year.\n8. Troy Johnston (RF) - Like TJ Rumfield, Troy Johnston stands to benefit from the Rockies' full slate of right-handed pitchers, and he's actually been the hotter of the two since the calendar flipped to April, batting .286 (10 for 35) with a homer and three doubles. He doesn't have as much job security as Rumfield and likely won't be as valuable in the long run, but he's hot enough to deserve your consideration this week.\n9. Miguel Vargas (2B) - Miguel Vargas has cooled off from his hot start, but his average bat speed is up a couple miles per hour from a year ago and he's showing more of a willingness to run. With the White Sox having the fourth-best hitter matchups (and they would be higher if they were scheduled for more than six games), he makes for a reasonable spot starter at either first or third base.\n10. Brett Baty (3B) - Brett Baty has actually been playing less than Mark Vientos in the early going, which is disappointing, but he still generally starts against right-handed pitching, is impacting the ball as well as he did last year, and could be in line for more regular playing time with Jorge Polanco battling an Achilles issue. The Mets are scheduled to face only one lefty this week.",
+    "fetched_at": "2026-04-18T12:58:37+00:00",
+    "player_cards": [
+      {
+        "rank": 1,
+        "name_en": "Cam Smith",
+        "position": "3B",
+        "mlb_team": "HOU",
+        "matchup": null,
+        "rostered_pct": "77%",
+        "blurb_en": "Among hitters, Cam Smith has been one of the biggest early-season risers with his improved bat speed and increased willingness to run. The Astros have the most favorable hitter matchups this week, and if you look at the names in the Rockies and Cardinals rotations, you'll understand why."
+      },
+      {
+        "rank": 2,
+        "name_en": "Ryan O'Hearn",
+        "position": "1B",
+        "mlb_team": "PIT",
+        "matchup": null,
+        "rostered_pct": "73%",
+        "blurb_en": "Ryan O'Hearn is getting a chance to play every day for the Pirates and has made the most of it so far, entering the weekend with a .333/.419/.549 slash line. The Pirates have the second-best hitter matchups this week, going against pitchers like Cade Cavalli, Miles Mikolas, Jake Irvin, Foster Griffin, and Nick Martinez."
+      },
+      {
+        "rank": 3,
+        "name_en": "Willson Contreras",
+        "position": "C",
+        "mlb_team": "BOS",
+        "matchup": null,
+        "rostered_pct": "72%",
+        "blurb_en": "Willson Contreras of course has a long history of Fantasy usefulness, and he's been hot since the calendar flipped to April, batting .389 (14 for 36) with three homers and seven walks to 11 strikeouts. The Red Sox's matchup aren't among the most favorable with Tarik Skubal on the slate, but the Contreras' week opens against Bailey Ober, Mick Abel, Simeon Woods Richardson, and Casey Mize."
+      },
+      {
+        "rank": 4,
+        "name_en": "TJ Rumfield",
+        "position": "3B",
+        "mlb_team": "COL",
+        "matchup": null,
+        "rostered_pct": "43%",
+        "blurb_en": "TJ Rumfield claims a spot near the top of this list for a second straight week with the Rockies once again having no left-handers on the schedule. He's been an on-base machine in the early going, regardless of whether the Rockies have been at home or away, but the three games at Coors Field couldn't hurt."
+      },
+      {
+        "rank": 5,
+        "name_en": "Owen Caissie",
+        "position": "OF",
+        "mlb_team": "MIA",
+        "matchup": null,
+        "rostered_pct": "69%",
+        "blurb_en": "Owen Caissie has been throttling the ball so far, just as the scouting reports said he would, but the Marlins have been sitting him against left-handers with regularity. That's not a problem this week with only one such pitcher on the schedule, and the righties, apart from maybe Brandon Woodruff, aren't anything to fear."
+      },
+      {
+        "rank": 6,
+        "name_en": "Max Muncy",
+        "position": "SS",
+        "mlb_team": "ATH",
+        "matchup": null,
+        "rostered_pct": "53%",
+        "blurb_en": "Though his plate discipline is still a disaster, Max Muncy has hit safely in all but three games so far this season, and his fast-swing rate is up 20 percentage points from a year ago. Those are reasons enough to roll the dice in a seven-game week with the White Sox pitching staff on the schedule."
+      },
+      {
+        "rank": 7,
+        "name_en": "Spencer Torkelson",
+        "position": "1B",
+        "mlb_team": "DET",
+        "matchup": null,
+        "rostered_pct": "75%",
+        "blurb_en": "Spencer Torkelson has been dropped in enough leagues to qualify for this list, which obligates me to list him here since I think he'll be better in the long run than most of the hitters you could find on the waiver wire. His matchups aren't even favorable, but he is at least scheduled to face four left-handers, against whom he had an .884 OPS last year."
+      },
+      {
+        "rank": 8,
+        "name_en": "Troy Johnston",
+        "position": "RF",
+        "mlb_team": "COL",
+        "matchup": null,
+        "rostered_pct": "13%",
+        "blurb_en": "Like TJ Rumfield, Troy Johnston stands to benefit from the Rockies' full slate of right-handed pitchers, and he's actually been the hotter of the two since the calendar flipped to April, batting .286 (10 for 35) with a homer and three doubles. He doesn't have as much job security as Rumfield and likely won't be as valuable in the long run, but he's hot enough to deserve your consideration this week."
+      },
+      {
+        "rank": 9,
+        "name_en": "Miguel Vargas",
+        "position": "2B",
+        "mlb_team": "CHW",
+        "matchup": null,
+        "rostered_pct": "75%",
+        "blurb_en": "Miguel Vargas has cooled off from his hot start, but his average bat speed is up a couple miles per hour from a year ago and he's showing more of a willingness to run. With the White Sox having the fourth-best hitter matchups (and they would be higher if they were scheduled for more than six games), he makes for a reasonable spot starter at either first or third base."
+      },
+      {
+        "rank": 10,
+        "name_en": "Brett Baty",
+        "position": "3B",
+        "mlb_team": "NYM",
+        "matchup": null,
+        "rostered_pct": "44%",
+        "blurb_en": "Brett Baty has actually been playing less than Mark Vientos in the early going, which is disappointing, but he still generally starts against right-handed pitching, is impacting the ball as well as he did last year, and could be in line for more regular playing time with Jorge Polanco battling an Achilles issue. The Mets are scheduled to face only one lefty this week."
+      }
+    ]
+  },
+  "ai_article": {
+    "article_type": "sleeper_hitters",
+    "week": 4,
+    "article_summary_zh_tw": "本週 CBS Sports 精選 10 位深度聯盟可用的打者睡美人，重點包括 Cam Smith、Ryan O'Hearn 與 TJ Rumfield 等人。",
+    "players": [
+      {
+        "rank": 1,
+        "name_en": "Cam Smith",
+        "summary_en": "Cam Smith has been one of the biggest early-season risers, boosted by improved bat speed and a greater willingness to run, and Houston has the best hitter matchups this week.",
+        "summary_zh_tw": "Cam Smith 受惠於揮棒速度提升與更積極盜壘的傾向，加上 Astros 本週對戰組合最有利，因此值得關注。",
+        "tags": [
+          "3B",
+          "HOU",
+          "Week 4"
+        ]
+      },
+      {
+        "rank": 2,
+        "name_en": "Ryan O'Hearn",
+        "summary_en": "Ryan O'Hearn is playing every day for the Pirates and has produced a strong early slash line, with Pittsburgh carrying the second-best hitter matchups this week.",
+        "summary_zh_tw": "Ryan O'Hearn 目前獲得 Pirates 每天出賽機會且開季表現穩定，而球隊本週的打者對戰組合也相當理想。",
+        "tags": [
+          "1B",
+          "PIT",
+          "Week 4"
+        ]
+      },
+      {
+        "rank": 3,
+        "name_en": "Willson Contreras",
+        "summary_en": "Willson Contreras has been hot since April began, though the matchup is less ideal overall despite favorable early opponents to start the week.",
+        "summary_zh_tw": "Willson Contreras 進入四月後火力升溫，但整體對戰條件並非特別完美。",
+        "tags": [
+          "C",
+          "BOS",
+          "Week 4"
+        ]
+      },
+      {
+        "rank": 4,
+        "name_en": "TJ Rumfield",
+        "summary_en": "TJ Rumfield remains near the top of the list because the Rockies again do not have a left-hander on the schedule, and the games at Coors Field help his case.",
+        "summary_zh_tw": "TJ Rumfield 因為 Rockies 本週沒有左投對手而持續上榜，且 Coors Field 的賽程也對他有利。",
+        "tags": [
+          "3B",
+          "COL",
+          "Week 4"
+        ]
+      },
+      {
+        "rank": 5,
+        "name_en": "Owen Caissie",
+        "summary_en": "Owen Caissie has been hitting the ball hard, and this week’s schedule is friendlier because the Marlins only face one left-handed pitcher.",
+        "summary_zh_tw": "Owen Caissie 擊球品質出色，而本週左投對手稀少讓他的出賽環境更有利。",
+        "tags": [
+          "OF",
+          "MIA",
+          "Week 4"
+        ]
+      },
+      {
+        "rank": 6,
+        "name_en": "Max Muncy",
+        "summary_en": "Max Muncy’s plate discipline remains shaky, but his contact has been steady enough and the White Sox staff gives him a playable seven-game week.",
+        "summary_zh_tw": "Max Muncy 雖然選球仍不穩，但持續把球打進場內，面對 White Sox 投手群的七戰週仍可考慮。",
+        "tags": [
+          "SS",
+          "ATH",
+          "Week 4"
+        ]
+      },
+      {
+        "rank": 7,
+        "name_en": "Spencer Torkelson",
+        "summary_en": "Spencer Torkelson qualifies for the list because he is widely available and could still be better long term, with four left-handers on the schedule.",
+        "summary_zh_tw": "Spencer Torkelson 因為多數聯盟仍可撿到而入榜，且本週將面對四位左投對手。",
+        "tags": [
+          "1B",
+          "DET",
+          "Week 4"
+        ]
+      },
+      {
+        "rank": 8,
+        "name_en": "Troy Johnston",
+        "summary_en": "Troy Johnston has been hotter than TJ Rumfield since April began and benefits from the Rockies' full slate of right-handed pitchers, though he lacks Rumfield's job security.",
+        "summary_zh_tw": "Troy Johnston 近期手感火燙且受惠於 Rockies 全右投的賽程，但他的出賽穩定性不如 Rumfield。",
+        "tags": [
+          "RF",
+          "COL",
+          "Week 4"
+        ]
+      },
+      {
+        "rank": 9,
+        "name_en": "Miguel Vargas",
+        "summary_en": "Miguel Vargas has cooled off, but his bat speed is up and he is showing more willingness to run, making him a reasonable spot starter with a solid matchup set.",
+        "summary_zh_tw": "Miguel Vargas 雖然稍微降溫，但揮棒速度與跑壘企圖都有進步，本週仍可作為合理的短期先發選擇。",
+        "tags": [
+          "2B",
+          "CHW",
+          "Week 4"
+        ]
+      },
+      {
+        "rank": 10,
+        "name_en": "Brett Baty",
+        "summary_en": "Brett Baty is playing less than expected, but he still starts against righties, is hitting the ball well, and could gain more playing time this week.",
+        "summary_zh_tw": "Brett Baty 目前出賽時間不算多，但他對右投仍有先發機會，且本週有望獲得更多上場時間。",
+        "tags": [
+          "3B",
+          "NYM",
+          "Week 4"
+        ]
+      }
+    ],
+    "model": "gpt-5.4-mini",
+    "generated_at": "2026-04-18T12:59:07+00:00"
+  },
+  "players": [
+    {
+      "rank": 1,
+      "name_en": "Cam Smith",
+      "summary_en": "Cam Smith has been one of the biggest early-season risers, boosted by improved bat speed and a greater willingness to run, and Houston has the best hitter matchups this week.",
+      "summary_zh_tw": "Cam Smith 受惠於揮棒速度提升與更積極盜壘的傾向，加上 Astros 本週對戰組合最有利，因此值得關注。",
+      "tags": [
+        "3B",
+        "HOU",
+        "Week 4"
+      ]
+    },
+    {
+      "rank": 2,
+      "name_en": "Ryan O'Hearn",
+      "summary_en": "Ryan O'Hearn is playing every day for the Pirates and has produced a strong early slash line, with Pittsburgh carrying the second-best hitter matchups this week.",
+      "summary_zh_tw": "Ryan O'Hearn 目前獲得 Pirates 每天出賽機會且開季表現穩定，而球隊本週的打者對戰組合也相當理想。",
+      "tags": [
+        "1B",
+        "PIT",
+        "Week 4"
+      ]
+    },
+    {
+      "rank": 3,
+      "name_en": "Willson Contreras",
+      "summary_en": "Willson Contreras has been hot since April began, though the matchup is less ideal overall despite favorable early opponents to start the week.",
+      "summary_zh_tw": "Willson Contreras 進入四月後火力升溫，但整體對戰條件並非特別完美。",
+      "tags": [
+        "C",
+        "BOS",
+        "Week 4"
+      ]
+    },
+    {
+      "rank": 4,
+      "name_en": "TJ Rumfield",
+      "summary_en": "TJ Rumfield remains near the top of the list because the Rockies again do not have a left-hander on the schedule, and the games at Coors Field help his case.",
+      "summary_zh_tw": "TJ Rumfield 因為 Rockies 本週沒有左投對手而持續上榜，且 Coors Field 的賽程也對他有利。",
+      "tags": [
+        "3B",
+        "COL",
+        "Week 4"
+      ]
+    },
+    {
+      "rank": 5,
+      "name_en": "Owen Caissie",
+      "summary_en": "Owen Caissie has been hitting the ball hard, and this week’s schedule is friendlier because the Marlins only face one left-handed pitcher.",
+      "summary_zh_tw": "Owen Caissie 擊球品質出色，而本週左投對手稀少讓他的出賽環境更有利。",
+      "tags": [
+        "OF",
+        "MIA",
+        "Week 4"
+      ]
+    },
+    {
+      "rank": 6,
+      "name_en": "Max Muncy",
+      "summary_en": "Max Muncy’s plate discipline remains shaky, but his contact has been steady enough and the White Sox staff gives him a playable seven-game week.",
+      "summary_zh_tw": "Max Muncy 雖然選球仍不穩，但持續把球打進場內，面對 White Sox 投手群的七戰週仍可考慮。",
+      "tags": [
+        "SS",
+        "ATH",
+        "Week 4"
+      ]
+    },
+    {
+      "rank": 7,
+      "name_en": "Spencer Torkelson",
+      "summary_en": "Spencer Torkelson qualifies for the list because he is widely available and could still be better long term, with four left-handers on the schedule.",
+      "summary_zh_tw": "Spencer Torkelson 因為多數聯盟仍可撿到而入榜，且本週將面對四位左投對手。",
+      "tags": [
+        "1B",
+        "DET",
+        "Week 4"
+      ]
+    },
+    {
+      "rank": 8,
+      "name_en": "Troy Johnston",
+      "summary_en": "Troy Johnston has been hotter than TJ Rumfield since April began and benefits from the Rockies' full slate of right-handed pitchers, though he lacks Rumfield's job security.",
+      "summary_zh_tw": "Troy Johnston 近期手感火燙且受惠於 Rockies 全右投的賽程，但他的出賽穩定性不如 Rumfield。",
+      "tags": [
+        "RF",
+        "COL",
+        "Week 4"
+      ]
+    },
+    {
+      "rank": 9,
+      "name_en": "Miguel Vargas",
+      "summary_en": "Miguel Vargas has cooled off, but his bat speed is up and he is showing more willingness to run, making him a reasonable spot starter with a solid matchup set.",
+      "summary_zh_tw": "Miguel Vargas 雖然稍微降溫，但揮棒速度與跑壘企圖都有進步，本週仍可作為合理的短期先發選擇。",
+      "tags": [
+        "2B",
+        "CHW",
+        "Week 4"
+      ]
+    },
+    {
+      "rank": 10,
+      "name_en": "Brett Baty",
+      "summary_en": "Brett Baty is playing less than expected, but he still starts against righties, is hitting the ball well, and could gain more playing time this week.",
+      "summary_zh_tw": "Brett Baty 目前出賽時間不算多，但他對右投仍有先發機會，且本週有望獲得更多上場時間。",
+      "tags": [
+        "3B",
+        "NYM",
+        "Week 4"
+      ]
+    }
+  ],
+  "pipeline": {
+    "version": "1.0",
+    "status": "complete"
+  }
+}

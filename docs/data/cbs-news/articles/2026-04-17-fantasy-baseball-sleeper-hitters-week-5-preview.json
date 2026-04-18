@@ -1,0 +1,341 @@
+{
+  "source_article": {
+    "source": "CBS Sports",
+    "article_type": "sleeper_hitters",
+    "week": 5,
+    "title_en": "Fantasy Baseball Week 5 Preview: Top 10 sleeper hitters highlight Angel Martinez, Mauricio Dubon",
+    "url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-sleeper-hitters-week-5-preview/",
+    "canonical_url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-sleeper-hitters-week-5-preview/",
+    "slug": "fantasy-baseball-sleeper-hitters-week-5-preview",
+    "author": "Scott White",
+    "published_at": "2026-04-17T13:43:53+00:00",
+    "dek_en": "Top Week 4 fantasy baseball hitters and waiver wire targets, including Rumfield, Cam Smith",
+    "body_en": "Whether you're in need of an injury fill-in or just a hot-hand play, Scott White has you covered with 10 sleeper hitters for the upcoming scoring period, all rostered in less than 80 percent of CBS Sports leagues. They're not must-starts by any estimation, but they're often the best you'll find off the waiver wire.\n\nBe sure to check back Sunday for the latest updates.\n\n1. Mariners ATH3, @STL3 2. White Sox @ARI3, WAS3 3. Tigers @BOS1, MIL3, @CIN3 4. Rockies LAD1, SD3, @NYM3 5. Marlins STL3, @SF3\n\n1. Giants LAD3, MIA3 2. Orioles @KC3, BOS3 3. Pirates @TEX3, @MIL3 4. Athletics @SEA3, @TEX3 5. Rays CIN3, MIN3\n\n1. Otto Lopez (SS) - You won't find too many middle infielders hotter than Otto Lopez, whose exit velocities and pull-air rate are both way up from a year ago. Why sit him against a slate of mashables that includes Michael McGreevy, Dustin May, Kyle Leahy, Adrian Houser and Tyler Mahle?\n2. Angel Martinez (SS) - Eligible at both second base and the outfield, Angel Martinez has been a surprise standout so far with a high pull-air rate, a microscopic strikeout rate and better exit velocities than expected. The switch-hitter has been especially productive against right-handers, batting .294 with an .885 OPS, and that's all the Guardians are scheduled to face this week.\n3. Colt Keith (3B) - Colt Keith's average bat speed has jumped 2 mph this year, and while it's mostly translated to doubles so far, the home runs are coming. The Tigers' third-ranked hitter matchups this week might be enough to make it happen.\n4. Mauricio Dubon (2B) - Mauricio Dubon has already been a surprise performer for the Braves and anyone who needs help at the four positions where he's eligible. He's always hit lefties better than righties in his career, picking up about 35 points of batting average and 125 points of OPS, and he's scheduled to face three in a seven-game slate this week.\n5. Jake Burger (3B) - An injury-marred season seemed to mess with Jake Burger's swing a year ago, undermining his considerable power potential, but his pull-air rate is back where it belongs this year. He enters the weekend on one of his familiar power binges, having homered three times in four games, and has some pretty good matchups in Week 5, particularly in the Athletics series.\n6. Gleyber Torres (2B) - Those favorable matchups for Colt Keith -- which include Chad Patrick, Brandon Sproat, Brady Singer and Rhett Lowder -- also apply to Gleyber Torres, who was gaining steam heading into the weekend with back-to-back multi-hit games. His on-base skills make him particularly useful for Head-to-Head points leagues.\n7. Spencer Torkelson (1B) - It seems to me that the Fantasy-playing world has given up on Spencer Torkelson too quickly, which is why he cracked this list even with unfavorable matchups a week ago. Now that he has favorable matchups (the third-best, some are saying), I'm going to predict that this is the week he begins tapping into his 30-homer potential.\n8. Luke Raley (RF) - Luke Raley opened the year by homering in three consecutive games and has been just as hot heading into the weekend, going 11 for 19 with a home run in five games, which makes him a prime candidate to take advantage of the Mariners' top-ranked hitter matchups this week. The problem is he never faces left-handed pitchers, getting just two at-bats against them so far, which puts him in line to start only four of his team's six games.\n9. Cole Young (SS) - This week might represent the last hurrah for Cole Young in standard mixed leagues if he can't take advantage of a favorable slate in which the best opposing pitcher is Aaron Civale. Young had a huge spring that seemed to introduce him as a power hitter, but his exit velocities in the regular season have so far been even worse than last year.\n10. Sam Antonacci (SS) - Sam Antonacci just came up to the majors Wednesday, but already we've seen him start against a righty (playing second base) and a lefty (playing left field), which suggests he's going to be an everyday player. We don't know yet how well he'll acclimate to the majors, but his superlative on-base skills and base-stealing could theoretically pay dividends with this week's second-best hitter slate.",
+    "fetched_at": "2026-04-18T12:58:35+00:00",
+    "player_cards": [
+      {
+        "rank": 1,
+        "name_en": "Otto Lopez",
+        "position": "SS",
+        "mlb_team": "MIA",
+        "matchup": null,
+        "rostered_pct": "79%",
+        "blurb_en": "You won't find too many middle infielders hotter than Otto Lopez, whose exit velocities and pull-air rate are both way up from a year ago. Why sit him against a slate of mashables that includes Michael McGreevy, Dustin May, Kyle Leahy, Adrian Houser and Tyler Mahle?"
+      },
+      {
+        "rank": 2,
+        "name_en": "Angel Martinez",
+        "position": "SS",
+        "mlb_team": "CLE",
+        "matchup": "HOU3, @TOR3",
+        "rostered_pct": "59%",
+        "blurb_en": "Eligible at both second base and the outfield, Angel Martinez has been a surprise standout so far with a high pull-air rate, a microscopic strikeout rate and better exit velocities than expected. The switch-hitter has been especially productive against right-handers, batting .294 with an .885 OPS, and that's all the Guardians are scheduled to face this week."
+      },
+      {
+        "rank": 3,
+        "name_en": "Colt Keith",
+        "position": "3B",
+        "mlb_team": "DET",
+        "matchup": null,
+        "rostered_pct": "65%",
+        "blurb_en": "Colt Keith's average bat speed has jumped 2 mph this year, and while it's mostly translated to doubles so far, the home runs are coming. The Tigers' third-ranked hitter matchups this week might be enough to make it happen."
+      },
+      {
+        "rank": 4,
+        "name_en": "Mauricio Dubon",
+        "position": "2B",
+        "mlb_team": "ATL",
+        "matchup": null,
+        "rostered_pct": "71%",
+        "blurb_en": "Mauricio Dubon has already been a surprise performer for the Braves and anyone who needs help at the four positions where he's eligible. He's always hit lefties better than righties in his career, picking up about 35 points of batting average and 125 points of OPS, and he's scheduled to face three in a seven-game slate this week."
+      },
+      {
+        "rank": 5,
+        "name_en": "Jake Burger",
+        "position": "3B",
+        "mlb_team": "TEX",
+        "matchup": null,
+        "rostered_pct": "50%",
+        "blurb_en": "An injury-marred season seemed to mess with Jake Burger's swing a year ago, undermining his considerable power potential, but his pull-air rate is back where it belongs this year. He enters the weekend on one of his familiar power binges, having homered three times in four games, and has some pretty good matchups in Week 5, particularly in the Athletics series."
+      },
+      {
+        "rank": 6,
+        "name_en": "Gleyber Torres",
+        "position": "2B",
+        "mlb_team": "DET",
+        "matchup": null,
+        "rostered_pct": "71%",
+        "blurb_en": "Those favorable matchups for Colt Keith -- which include Chad Patrick, Brandon Sproat, Brady Singer and Rhett Lowder -- also apply to Gleyber Torres, who was gaining steam heading into the weekend with back-to-back multi-hit games. His on-base skills make him particularly useful for Head-to-Head points leagues."
+      },
+      {
+        "rank": 7,
+        "name_en": "Spencer Torkelson",
+        "position": "1B",
+        "mlb_team": "DET",
+        "matchup": null,
+        "rostered_pct": "71%",
+        "blurb_en": "It seems to me that the Fantasy-playing world has given up on Spencer Torkelson too quickly, which is why he cracked this list even with unfavorable matchups a week ago. Now that he has favorable matchups (the third-best, some are saying), I'm going to predict that this is the week he begins tapping into his 30-homer potential."
+      },
+      {
+        "rank": 8,
+        "name_en": "Luke Raley",
+        "position": "RF",
+        "mlb_team": "SEA",
+        "matchup": null,
+        "rostered_pct": "27%",
+        "blurb_en": "Luke Raley opened the year by homering in three consecutive games and has been just as hot heading into the weekend, going 11 for 19 with a home run in five games, which makes him a prime candidate to take advantage of the Mariners' top-ranked hitter matchups this week. The problem is he never faces left-handed pitchers, getting just two at-bats against them so far, which puts him in line to start only four of his team's six games."
+      },
+      {
+        "rank": 9,
+        "name_en": "Cole Young",
+        "position": "SS",
+        "mlb_team": "SEA",
+        "matchup": null,
+        "rostered_pct": "43%",
+        "blurb_en": "This week might represent the last hurrah for Cole Young in standard mixed leagues if he can't take advantage of a favorable slate in which the best opposing pitcher is Aaron Civale. Young had a huge spring that seemed to introduce him as a power hitter, but his exit velocities in the regular season have so far been even worse than last year."
+      },
+      {
+        "rank": 10,
+        "name_en": "Sam Antonacci",
+        "position": "SS",
+        "mlb_team": "CHW",
+        "matchup": null,
+        "rostered_pct": "31%",
+        "blurb_en": "Sam Antonacci just came up to the majors Wednesday, but already we've seen him start against a righty (playing second base) and a lefty (playing left field), which suggests he's going to be an everyday player. We don't know yet how well he'll acclimate to the majors, but his superlative on-base skills and base-stealing could theoretically pay dividends with this week's second-best hitter slate."
+      }
+    ]
+  },
+  "ai_article": {
+    "article_type": "sleeper_hitters",
+    "week": 5,
+    "article_summary_zh_tw": "這篇文章列出第 5 週 10 位可在免權池撿來使用的打者睡美人，重點包括近期手感火熱、對位有利與多位置資格的球員。",
+    "players": [
+      {
+        "rank": 1,
+        "name_en": "Otto Lopez",
+        "summary_en": "Hot middle infielder with improved exit velocities and pull-air rate facing a favorable slate of hittable pitchers.",
+        "summary_zh_tw": "Otto Lopez 的擊球初速與拉打飛球率都較去年提升，面對一串相對好打的投手對位值得繼續先發。",
+        "tags": [
+          "hot_hitter",
+          "middle_infield",
+          "favorable_matchup"
+        ]
+      },
+      {
+        "rank": 2,
+        "name_en": "Angel Martinez",
+        "summary_en": "Multi-position eligible switch-hitter with strong pull-air rate, low strikeout rate, and strong production against righties.",
+        "summary_zh_tw": "Angel Martinez 具備二壘與外野資格，靠著高拉打飛球率與低三振率，且本週對右投的表現特別值得期待。",
+        "tags": [
+          "multi_position",
+          "switch_hitter",
+          "strong_vs_righties"
+        ]
+      },
+      {
+        "rank": 3,
+        "name_en": "Colt Keith",
+        "summary_en": "Bat speed is up and the matchups are good enough that his home run breakout could start this week.",
+        "summary_zh_tw": "Colt Keith 的揮棒速度明顯提升，而本週對位也夠理想，讓他有機會把長打轉成全壘打。",
+        "tags": [
+          "power_potential",
+          "good_matchups"
+        ]
+      },
+      {
+        "rank": 4,
+        "name_en": "Mauricio Dubon",
+        "summary_en": "Versatile Braves bat who has long hit lefties better and faces multiple left-handed starters this week.",
+        "summary_zh_tw": "Mauricio Dubon 具備多守位資格，且一向比起右投更能打左投，本週又將面對多名左投先發。",
+        "tags": [
+          "multi_position",
+          "vs_lefties",
+          "seven_game_week"
+        ]
+      },
+      {
+        "rank": 5,
+        "name_en": "Jake Burger",
+        "summary_en": "Power surge is back with his pull-air rate restored and three homers in four games heading into a favorable week.",
+        "summary_zh_tw": "Jake Burger 的拉打飛球型態已回到正軌，且近期四戰三轟，讓他在這週有不錯的長打期待。",
+        "tags": [
+          "power_surge",
+          "hot_streak",
+          "favorable_matchup"
+        ]
+      },
+      {
+        "rank": 6,
+        "name_en": "Gleyber Torres",
+        "summary_en": "Back-to-back multi-hit games and strong on-base skills make him useful, especially in points leagues.",
+        "summary_zh_tw": "Gleyber Torres 近期連兩場多安打且上壘能力穩定，因此在積分制聯盟特別實用。",
+        "tags": [
+          "multi_hit_streak",
+          "on_base_skills",
+          "points_league"
+        ]
+      },
+      {
+        "rank": 7,
+        "name_en": "Spencer Torkelson",
+        "summary_en": "Now gets favorable matchups and could finally tap into his 30-homer upside.",
+        "summary_zh_tw": "Spencer Torkelson 這週終於迎來較有利的對位，作者看好他有機會開始兌現 30 轟潛力。",
+        "tags": [
+          "power_upside",
+          "favorable_matchup"
+        ]
+      },
+      {
+        "rank": 8,
+        "name_en": "Luke Raley",
+        "summary_en": "Very hot lately and well positioned against strong team hitter matchups, though he may sit against lefties.",
+        "summary_zh_tw": "Luke Raley 近況火燙且球隊對位優勢不錯，但因為對左投出賽受限，出賽場次可能只有四場。",
+        "tags": [
+          "hot_streak",
+          "platoon_risk",
+          "favorable_matchup"
+        ]
+      },
+      {
+        "rank": 9,
+        "name_en": "Cole Young",
+        "summary_en": "Needs to capitalize on a favorable slate or risk losing standard mixed-league relevance.",
+        "summary_zh_tw": "Cole Young 若無法把握這週相對有利的賽程，可能就會開始失去標準混合聯盟的價值。",
+        "tags": [
+          "needs_production",
+          "favorable_matchup",
+          "mixed_league_risk"
+        ]
+      },
+      {
+        "rank": 10,
+        "name_en": "Sam Antonacci",
+        "summary_en": "Newly called-up player whose on-base skills and speed could pay off with an everyday role and a strong hitter slate.",
+        "summary_zh_tw": "Sam Antonacci 剛升上大聯盟就展現出先發跡象，而他的上壘能力與盜壘速度也可能在本週帶來收益。",
+        "tags": [
+          "new_callup",
+          "on_base_skills",
+          "speed",
+          "everyday_role"
+        ]
+      }
+    ],
+    "model": "gpt-5.4-mini",
+    "generated_at": "2026-04-18T12:58:51+00:00"
+  },
+  "players": [
+    {
+      "rank": 1,
+      "name_en": "Otto Lopez",
+      "summary_en": "Hot middle infielder with improved exit velocities and pull-air rate facing a favorable slate of hittable pitchers.",
+      "summary_zh_tw": "Otto Lopez 的擊球初速與拉打飛球率都較去年提升，面對一串相對好打的投手對位值得繼續先發。",
+      "tags": [
+        "hot_hitter",
+        "middle_infield",
+        "favorable_matchup"
+      ]
+    },
+    {
+      "rank": 2,
+      "name_en": "Angel Martinez",
+      "summary_en": "Multi-position eligible switch-hitter with strong pull-air rate, low strikeout rate, and strong production against righties.",
+      "summary_zh_tw": "Angel Martinez 具備二壘與外野資格，靠著高拉打飛球率與低三振率，且本週對右投的表現特別值得期待。",
+      "tags": [
+        "multi_position",
+        "switch_hitter",
+        "strong_vs_righties"
+      ]
+    },
+    {
+      "rank": 3,
+      "name_en": "Colt Keith",
+      "summary_en": "Bat speed is up and the matchups are good enough that his home run breakout could start this week.",
+      "summary_zh_tw": "Colt Keith 的揮棒速度明顯提升，而本週對位也夠理想，讓他有機會把長打轉成全壘打。",
+      "tags": [
+        "power_potential",
+        "good_matchups"
+      ]
+    },
+    {
+      "rank": 4,
+      "name_en": "Mauricio Dubon",
+      "summary_en": "Versatile Braves bat who has long hit lefties better and faces multiple left-handed starters this week.",
+      "summary_zh_tw": "Mauricio Dubon 具備多守位資格，且一向比起右投更能打左投，本週又將面對多名左投先發。",
+      "tags": [
+        "multi_position",
+        "vs_lefties",
+        "seven_game_week"
+      ]
+    },
+    {
+      "rank": 5,
+      "name_en": "Jake Burger",
+      "summary_en": "Power surge is back with his pull-air rate restored and three homers in four games heading into a favorable week.",
+      "summary_zh_tw": "Jake Burger 的拉打飛球型態已回到正軌，且近期四戰三轟，讓他在這週有不錯的長打期待。",
+      "tags": [
+        "power_surge",
+        "hot_streak",
+        "favorable_matchup"
+      ]
+    },
+    {
+      "rank": 6,
+      "name_en": "Gleyber Torres",
+      "summary_en": "Back-to-back multi-hit games and strong on-base skills make him useful, especially in points leagues.",
+      "summary_zh_tw": "Gleyber Torres 近期連兩場多安打且上壘能力穩定，因此在積分制聯盟特別實用。",
+      "tags": [
+        "multi_hit_streak",
+        "on_base_skills",
+        "points_league"
+      ]
+    },
+    {
+      "rank": 7,
+      "name_en": "Spencer Torkelson",
+      "summary_en": "Now gets favorable matchups and could finally tap into his 30-homer upside.",
+      "summary_zh_tw": "Spencer Torkelson 這週終於迎來較有利的對位，作者看好他有機會開始兌現 30 轟潛力。",
+      "tags": [
+        "power_upside",
+        "favorable_matchup"
+      ]
+    },
+    {
+      "rank": 8,
+      "name_en": "Luke Raley",
+      "summary_en": "Very hot lately and well positioned against strong team hitter matchups, though he may sit against lefties.",
+      "summary_zh_tw": "Luke Raley 近況火燙且球隊對位優勢不錯，但因為對左投出賽受限，出賽場次可能只有四場。",
+      "tags": [
+        "hot_streak",
+        "platoon_risk",
+        "favorable_matchup"
+      ]
+    },
+    {
+      "rank": 9,
+      "name_en": "Cole Young",
+      "summary_en": "Needs to capitalize on a favorable slate or risk losing standard mixed-league relevance.",
+      "summary_zh_tw": "Cole Young 若無法把握這週相對有利的賽程，可能就會開始失去標準混合聯盟的價值。",
+      "tags": [
+        "needs_production",
+        "favorable_matchup",
+        "mixed_league_risk"
+      ]
+    },
+    {
+      "rank": 10,
+      "name_en": "Sam Antonacci",
+      "summary_en": "Newly called-up player whose on-base skills and speed could pay off with an everyday role and a strong hitter slate.",
+      "summary_zh_tw": "Sam Antonacci 剛升上大聯盟就展現出先發跡象，而他的上壘能力與盜壘速度也可能在本週帶來收益。",
+      "tags": [
+        "new_callup",
+        "on_base_skills",
+        "speed",
+        "everyday_role"
+      ]
+    }
+  ],
+  "pipeline": {
+    "version": "1.0",
+    "status": "complete"
+  }
+}

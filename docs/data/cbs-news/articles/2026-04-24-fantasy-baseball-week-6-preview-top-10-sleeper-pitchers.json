@@ -1,0 +1,347 @@
+{
+  "source_article": {
+    "source": "CBS Sports",
+    "article_type": "sleeper_pitchers",
+    "week": 6,
+    "title_en": "Fantasy Baseball Week 6 Preview: Top 10 sleeper pitchers feature Payton Tolle, Randy Vasquez",
+    "url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-6-preview-top-10-sleeper-pitchers/",
+    "canonical_url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-6-preview-top-10-sleeper-pitchers/",
+    "slug": "fantasy-baseball-week-6-preview-top-10-sleeper-pitchers",
+    "author": "Scott White",
+    "published_at": "2026-04-24T13:58:00+00:00",
+    "dek_en": "Two-start pitchers for Fantasy Week 6, with rankings, matchups and top streaming options",
+    "body_en": "Streaming pitchers isn't for the faint of heart, but if you find yourself without enough reliable options in a given scoring period, it may be what you need to stay afloat. Scott White has 10 recommendations for the upcoming scoring period, all rostered in less than 80 percent of CBS Sports leagues. Generally, only the top two or three are full-throated endorsements, while the rest are more about making the best of a bad situation.\n\nBe sure to check back Sunday for the latest updates.\n\n1. Payton Tolle (SP) - Payton Tolle's season debut saw him strike out 11 batters with an expanded arsenal that allowed his 80-grade fastball to shine (and the curveball, it turns out, was pretty good as well). It was the sort of eye-opening performance that makes him a must the next time out, particularly with him facing an injury-depleted Blue Jays lineup.\n2. Noah Schultz (SP) - After a shaky debut, Noah Schultz's second outing at the Athletics offered a much better glimpse of his upside. If he shines against the Nationals over the weekend, you'll probably want him active for Week 6 regardless of the matchup (not that the Padres make for a bad one).\n3. Andrew Abbott (SP) - Andrew Abbott's past couple outings haven't gone well, but there's enough history of success here to bet on him bouncing back. That's particularly true against the Rockies away from Coors Field, which remains as favorable of a matchup as there is.\n4. Randy Vasquez (RP) - With an additional mile per hour of velocity and an inch of induced vertical break, Randy Vasquez's fastball has become a real weapon, leading to more than a strikeout per inning and four starts in which he's allowed one earned run or fewer. Here's to two more this week.\n5. Reid Detmers (SP) - Armed with a new changeup that's immediately become his best swing-and-miss pitch, Reid Detmers is deserving of renewed hype even if his performance through five starts has been up and down. He's facing a Mets lineup this week that just lost Francisco Lindor and ranks in the bottom five in runs scored.\n6. Joey Cantillo (SP) - Joey Cantillo's shaky control will sometimes lead to an early hook, but he's proven to be a solid bat-misser when he does keep the pitch count in check. He'll be facing an Athletics lineup this week that's particularly strikeout-prone.\n7. Bailey Ober (SP) - Bailey Ober may be throwing in the high 80s this year rather than the low 90s, but he's been pretty effective in spite of it, actually striking out 10 against the Reds last time out. If he comes through in his Saturday start at Tampa Bay, then he'll be worth using against a struggling Blue Jays lineup.\n8. Steven Matz (SP) - Steven Matz has been leaning more on his top pitch, the changeup, in his first year with the Rays, and the results were looking pretty strong before a misfire last time out. He'll get two bites at the apple this week, and the matchups are favorable.\n9. Clay Holmes (RP) - Clay Holmes has quietly had a strong start to the season, having yet to allow more than two earned runs while twice going seven innings. The ground-ball specialist gets two turns this week, and while the Nationals and Angels both rank in the top six in runs scored, I'm not sure anyone expects them to stay there.\n10. Nick Martinez (RP) - The Rays may have figured out how to get the most out of Nick Martinez, having him swap out some four-seamers for two-seamers while emphasizing his changeup more. He'll bring a 2.10 ERA into a favorable matchup at Cleveland, having thrown an eight-inning gem last time out.",
+    "fetched_at": "2026-04-25T07:18:14+00:00",
+    "player_cards": [
+      {
+        "rank": 1,
+        "name_en": "Payton Tolle",
+        "position": "SP",
+        "mlb_team": "BOS",
+        "matchup": "at TOR",
+        "rostered_pct": "55%",
+        "blurb_en": "Payton Tolle's season debut saw him strike out 11 batters with an expanded arsenal that allowed his 80-grade fastball to shine (and the curveball, it turns out, was pretty good as well). It was the sort of eye-opening performance that makes him a must the next time out, particularly with him facing an injury-depleted Blue Jays lineup."
+      },
+      {
+        "rank": 2,
+        "name_en": "Noah Schultz",
+        "position": "SP",
+        "mlb_team": "CHW",
+        "matchup": "at SD",
+        "rostered_pct": "76%",
+        "blurb_en": "After a shaky debut, Noah Schultz's second outing at the Athletics offered a much better glimpse of his upside. If he shines against the Nationals over the weekend, you'll probably want him active for Week 6 regardless of the matchup (not that the Padres make for a bad one)."
+      },
+      {
+        "rank": 3,
+        "name_en": "Andrew Abbott",
+        "position": "SP",
+        "mlb_team": "CIN",
+        "matchup": "vs. COL",
+        "rostered_pct": "71%",
+        "blurb_en": "Andrew Abbott's past couple outings haven't gone well, but there's enough history of success here to bet on him bouncing back. That's particularly true against the Rockies away from Coors Field, which remains as favorable of a matchup as there is."
+      },
+      {
+        "rank": 4,
+        "name_en": "Randy Vasquez",
+        "position": "RP",
+        "mlb_team": "SD",
+        "matchup": null,
+        "rostered_pct": "72%",
+        "blurb_en": "With an additional mile per hour of velocity and an inch of induced vertical break, Randy Vasquez's fastball has become a real weapon, leading to more than a strikeout per inning and four starts in which he's allowed one earned run or fewer. Here's to two more this week."
+      },
+      {
+        "rank": 5,
+        "name_en": "Reid Detmers",
+        "position": "SP",
+        "mlb_team": "LAA",
+        "matchup": "vs. NYM",
+        "rostered_pct": "68%",
+        "blurb_en": "Armed with a new changeup that's immediately become his best swing-and-miss pitch, Reid Detmers is deserving of renewed hype even if his performance through five starts has been up and down. He's facing a Mets lineup this week that just lost Francisco Lindor and ranks in the bottom five in runs scored."
+      },
+      {
+        "rank": 6,
+        "name_en": "Joey Cantillo",
+        "position": "SP",
+        "mlb_team": "CLE",
+        "matchup": "at ATH",
+        "rostered_pct": "75%",
+        "blurb_en": "Joey Cantillo's shaky control will sometimes lead to an early hook, but he's proven to be a solid bat-misser when he does keep the pitch count in check. He'll be facing an Athletics lineup this week that's particularly strikeout-prone."
+      },
+      {
+        "rank": 7,
+        "name_en": "Bailey Ober",
+        "position": "SP",
+        "mlb_team": "MIN",
+        "matchup": "vs. TOR",
+        "rostered_pct": "48%",
+        "blurb_en": "Bailey Ober may be throwing in the high 80s this year rather than the low 90s, but he's been pretty effective in spite of it, actually striking out 10 against the Reds last time out. If he comes through in his Saturday start at Tampa Bay, then he'll be worth using against a struggling Blue Jays lineup."
+      },
+      {
+        "rank": 8,
+        "name_en": "Steven Matz",
+        "position": "SP",
+        "mlb_team": "TB",
+        "matchup": null,
+        "rostered_pct": "55%",
+        "blurb_en": "Steven Matz has been leaning more on his top pitch, the changeup, in his first year with the Rays, and the results were looking pretty strong before a misfire last time out. He'll get two bites at the apple this week, and the matchups are favorable."
+      },
+      {
+        "rank": 9,
+        "name_en": "Clay Holmes",
+        "position": "RP",
+        "mlb_team": "NYM",
+        "matchup": null,
+        "rostered_pct": "70%",
+        "blurb_en": "Clay Holmes has quietly had a strong start to the season, having yet to allow more than two earned runs while twice going seven innings. The ground-ball specialist gets two turns this week, and while the Nationals and Angels both rank in the top six in runs scored, I'm not sure anyone expects them to stay there."
+      },
+      {
+        "rank": 10,
+        "name_en": "Nick Martinez",
+        "position": "RP",
+        "mlb_team": "TB",
+        "matchup": "at CLE",
+        "rostered_pct": "43%",
+        "blurb_en": "The Rays may have figured out how to get the most out of Nick Martinez, having him swap out some four-seamers for two-seamers while emphasizing his changeup more. He'll bring a 2.10 ERA into a favorable matchup at Cleveland, having thrown an eight-inning gem last time out."
+      }
+    ]
+  },
+  "ai_article": {
+    "article_type": "sleeper_pitchers",
+    "week": 6,
+    "article_summary_zh_tw": "本週的投手串流推薦聚焦於10位擁有雙先發或有利對戰的睡眠型投手，前段名單特別看好Payton Tolle、Noah Schultz與Andrew Abbott。",
+    "players": [
+      {
+        "rank": 1,
+        "name_en": "Payton Tolle",
+        "summary_en": "Payton Tolle's season debut saw him strike out 11 batters with an expanded arsenal that allowed his 80-grade fastball to shine, and he draws an injury-depleted Blue Jays lineup next time out.",
+        "summary_zh_tw": "Payton Tolle初登板就飆出11次三振，並將對上受傷兵影響的Blue Jays打線。",
+        "tags": [
+          "SP",
+          "start",
+          "strikeouts",
+          "favorable matchup"
+        ]
+      },
+      {
+        "rank": 2,
+        "name_en": "Noah Schultz",
+        "summary_en": "After a shaky debut, Noah Schultz showed more upside in his second outing and could be worth activating if he keeps it going against the Nationals and Padres.",
+        "summary_zh_tw": "Noah Schultz在第二場先發展現更好的潛力，若再有好表現就值得在第6週啟用。",
+        "tags": [
+          "SP",
+          "upside",
+          "week 6 consideration"
+        ]
+      },
+      {
+        "rank": 3,
+        "name_en": "Andrew Abbott",
+        "summary_en": "Andrew Abbott has had a rough couple of outings, but his track record suggests a bounce-back is likely, especially against the Rockies away from Coors Field.",
+        "summary_zh_tw": "Andrew Abbott近期表現不佳，但面對離開Coors Field的Rockies仍是極佳的反彈機會。",
+        "tags": [
+          "SP",
+          "bounce-back",
+          "favorable matchup"
+        ]
+      },
+      {
+        "rank": 4,
+        "name_en": "Randy Vasquez",
+        "summary_en": "Randy Vasquez has added velocity and movement to his fastball, leading to more than a strikeout per inning and four starts allowing one earned run or fewer.",
+        "summary_zh_tw": "Randy Vasquez的速球威力提升後已有每局超過一K的表現，且本季已有四場僅失一分或更少。",
+        "tags": [
+          "RP",
+          "velocity gain",
+          "strikeouts"
+        ]
+      },
+      {
+        "rank": 5,
+        "name_en": "Reid Detmers",
+        "summary_en": "Reid Detmers' new changeup has quickly become his best swing-and-miss pitch, and he faces a Mets lineup that just lost Francisco Lindor and ranks near the bottom in runs scored.",
+        "summary_zh_tw": "Reid Detmers的新變速球已成為最佳製造揮空武器，而他將面對少了Francisco Lindor的低得分Mets打線。",
+        "tags": [
+          "SP",
+          "new pitch",
+          "strikeouts",
+          "favorable matchup"
+        ]
+      },
+      {
+        "rank": 6,
+        "name_en": "Joey Cantillo",
+        "summary_en": "Joey Cantillo's control can be shaky, but he misses bats well when he keeps the pitch count down, and the Athletics are a strikeout-prone opponent.",
+        "summary_zh_tw": "Joey Cantillo控球雖不穩，但只要能壓低球數就有不錯的製造揮空能力，且對手Athletics三振率偏高。",
+        "tags": [
+          "SP",
+          "control risk",
+          "strikeouts"
+        ]
+      },
+      {
+        "rank": 7,
+        "name_en": "Bailey Ober",
+        "summary_en": "Bailey Ober has been effective despite diminished velocity, and if he handles his start at Tampa Bay he could be usable against a struggling Blue Jays lineup.",
+        "summary_zh_tw": "Bailey Ober即使球速下滑仍維持效率，若能過關星期六先發就可考慮用來對付疲弱的Blue Jays。",
+        "tags": [
+          "SP",
+          "streaming",
+          "favorable matchup"
+        ]
+      },
+      {
+        "rank": 8,
+        "name_en": "Steven Matz",
+        "summary_en": "Steven Matz has leaned more on his changeup in his first year with the Rays, and he gets two starts this week with favorable matchups.",
+        "summary_zh_tw": "Steven Matz本季更倚賴變速球，且本週將獲得兩次先發機會並擁有有利對戰。",
+        "tags": [
+          "SP",
+          "two-start",
+          "favorable matchups"
+        ]
+      },
+      {
+        "rank": 9,
+        "name_en": "Clay Holmes",
+        "summary_en": "Clay Holmes has quietly been strong with no start allowing more than two earned runs and two outings of seven innings, and he gets two turns this week.",
+        "summary_zh_tw": "Clay Holmes本季表現穩健且尚未有單場失超過兩分的先發，本週還將獲得兩次登板。",
+        "tags": [
+          "RP",
+          "two-start",
+          "strong start"
+        ]
+      },
+      {
+        "rank": 10,
+        "name_en": "Nick Martinez",
+        "summary_en": "Nick Martinez has benefited from more two-seamers and changeups, carries a 2.10 ERA, and draws a favorable matchup at Cleveland.",
+        "summary_zh_tw": "Nick Martinez透過增加二縫線與變速球獲得成效，帶著2.10防禦率前往Cleveland出賽。",
+        "tags": [
+          "RP",
+          "pitch mix change",
+          "favorable matchup"
+        ]
+      }
+    ],
+    "model": "gpt-5.4-mini",
+    "generated_at": "2026-04-25T07:18:33+00:00"
+  },
+  "players": [
+    {
+      "rank": 1,
+      "name_en": "Payton Tolle",
+      "summary_en": "Payton Tolle's season debut saw him strike out 11 batters with an expanded arsenal that allowed his 80-grade fastball to shine, and he draws an injury-depleted Blue Jays lineup next time out.",
+      "summary_zh_tw": "Payton Tolle初登板就飆出11次三振，並將對上受傷兵影響的Blue Jays打線。",
+      "tags": [
+        "SP",
+        "start",
+        "strikeouts",
+        "favorable matchup"
+      ]
+    },
+    {
+      "rank": 2,
+      "name_en": "Noah Schultz",
+      "summary_en": "After a shaky debut, Noah Schultz showed more upside in his second outing and could be worth activating if he keeps it going against the Nationals and Padres.",
+      "summary_zh_tw": "Noah Schultz在第二場先發展現更好的潛力，若再有好表現就值得在第6週啟用。",
+      "tags": [
+        "SP",
+        "upside",
+        "week 6 consideration"
+      ]
+    },
+    {
+      "rank": 3,
+      "name_en": "Andrew Abbott",
+      "summary_en": "Andrew Abbott has had a rough couple of outings, but his track record suggests a bounce-back is likely, especially against the Rockies away from Coors Field.",
+      "summary_zh_tw": "Andrew Abbott近期表現不佳，但面對離開Coors Field的Rockies仍是極佳的反彈機會。",
+      "tags": [
+        "SP",
+        "bounce-back",
+        "favorable matchup"
+      ]
+    },
+    {
+      "rank": 4,
+      "name_en": "Randy Vasquez",
+      "summary_en": "Randy Vasquez has added velocity and movement to his fastball, leading to more than a strikeout per inning and four starts allowing one earned run or fewer.",
+      "summary_zh_tw": "Randy Vasquez的速球威力提升後已有每局超過一K的表現，且本季已有四場僅失一分或更少。",
+      "tags": [
+        "RP",
+        "velocity gain",
+        "strikeouts"
+      ]
+    },
+    {
+      "rank": 5,
+      "name_en": "Reid Detmers",
+      "summary_en": "Reid Detmers' new changeup has quickly become his best swing-and-miss pitch, and he faces a Mets lineup that just lost Francisco Lindor and ranks near the bottom in runs scored.",
+      "summary_zh_tw": "Reid Detmers的新變速球已成為最佳製造揮空武器，而他將面對少了Francisco Lindor的低得分Mets打線。",
+      "tags": [
+        "SP",
+        "new pitch",
+        "strikeouts",
+        "favorable matchup"
+      ]
+    },
+    {
+      "rank": 6,
+      "name_en": "Joey Cantillo",
+      "summary_en": "Joey Cantillo's control can be shaky, but he misses bats well when he keeps the pitch count down, and the Athletics are a strikeout-prone opponent.",
+      "summary_zh_tw": "Joey Cantillo控球雖不穩，但只要能壓低球數就有不錯的製造揮空能力，且對手Athletics三振率偏高。",
+      "tags": [
+        "SP",
+        "control risk",
+        "strikeouts"
+      ]
+    },
+    {
+      "rank": 7,
+      "name_en": "Bailey Ober",
+      "summary_en": "Bailey Ober has been effective despite diminished velocity, and if he handles his start at Tampa Bay he could be usable against a struggling Blue Jays lineup.",
+      "summary_zh_tw": "Bailey Ober即使球速下滑仍維持效率，若能過關星期六先發就可考慮用來對付疲弱的Blue Jays。",
+      "tags": [
+        "SP",
+        "streaming",
+        "favorable matchup"
+      ]
+    },
+    {
+      "rank": 8,
+      "name_en": "Steven Matz",
+      "summary_en": "Steven Matz has leaned more on his changeup in his first year with the Rays, and he gets two starts this week with favorable matchups.",
+      "summary_zh_tw": "Steven Matz本季更倚賴變速球，且本週將獲得兩次先發機會並擁有有利對戰。",
+      "tags": [
+        "SP",
+        "two-start",
+        "favorable matchups"
+      ]
+    },
+    {
+      "rank": 9,
+      "name_en": "Clay Holmes",
+      "summary_en": "Clay Holmes has quietly been strong with no start allowing more than two earned runs and two outings of seven innings, and he gets two turns this week.",
+      "summary_zh_tw": "Clay Holmes本季表現穩健且尚未有單場失超過兩分的先發，本週還將獲得兩次登板。",
+      "tags": [
+        "RP",
+        "two-start",
+        "strong start"
+      ]
+    },
+    {
+      "rank": 10,
+      "name_en": "Nick Martinez",
+      "summary_en": "Nick Martinez has benefited from more two-seamers and changeups, carries a 2.10 ERA, and draws a favorable matchup at Cleveland.",
+      "summary_zh_tw": "Nick Martinez透過增加二縫線與變速球獲得成效，帶著2.10防禦率前往Cleveland出賽。",
+      "tags": [
+        "RP",
+        "pitch mix change",
+        "favorable matchup"
+      ]
+    }
+  ],
+  "pipeline": {
+    "version": "1.0",
+    "status": "complete"
+  }
+}

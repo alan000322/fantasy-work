@@ -1,10 +1,28 @@
 {
-  "generated_at": "2026-04-17T13:43:53+00:00",
+  "generated_at": "2026-04-24T14:13:00+00:00",
   "latest_week_by_type": {
-    "sleeper_hitters": 5,
-    "sleeper_pitchers": 5
+    "sleeper_hitters": 6,
+    "sleeper_pitchers": 6
   },
   "articles": [
+    {
+      "article_type": "sleeper_hitters",
+      "week": 6,
+      "title_en": "Fantasy Baseball Week 6 Preview: Top 10 sleeper hitters include Moises Ballesteros, Miguel Vargas",
+      "published_at": "2026-04-24T14:13:00+00:00",
+      "source_url": "https://www.cbssports.com/fantasy/baseball/news/week-6-preview-top-10-sleeper-hitters-include-moises-ballesteros-miguel-vargas/",
+      "path": "./data/cbs-news/articles/2026-04-24-week-6-preview-top-10-sleeper-hitters-include-moises-ballesteros-miguel-vargas.json",
+      "player_count": 10
+    },
+    {
+      "article_type": "sleeper_pitchers",
+      "week": 6,
+      "title_en": "Fantasy Baseball Week 6 Preview: Top 10 sleeper pitchers feature Payton Tolle, Randy Vasquez",
+      "published_at": "2026-04-24T13:58:00+00:00",
+      "source_url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-6-preview-top-10-sleeper-pitchers/",
+      "path": "./data/cbs-news/articles/2026-04-24-fantasy-baseball-week-6-preview-top-10-sleeper-pitchers.json",
+      "player_count": 10
+    },
     {
       "article_type": "sleeper_hitters",
       "week": 5,

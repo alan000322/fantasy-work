@@ -1,0 +1,343 @@
+{
+  "source_article": {
+    "source": "CBS Sports",
+    "article_type": "sleeper_hitters",
+    "week": 6,
+    "title_en": "Fantasy Baseball Week 6 Preview: Top 10 sleeper hitters include Moises Ballesteros, Miguel Vargas",
+    "url": "https://www.cbssports.com/fantasy/baseball/news/week-6-preview-top-10-sleeper-hitters-include-moises-ballesteros-miguel-vargas/",
+    "canonical_url": "https://www.cbssports.com/fantasy/baseball/news/week-6-preview-top-10-sleeper-hitters-include-moises-ballesteros-miguel-vargas/",
+    "slug": "week-6-preview-top-10-sleeper-hitters-include-moises-ballesteros-miguel-vargas",
+    "author": "Scott White",
+    "published_at": "2026-04-24T14:13:00+00:00",
+    "dek_en": "Sleeper hitters for Fantasy Week 6, waiver wire targets, and breakout candidates",
+    "body_en": "Whether you're in need of an injury fill-in or just a hot-hand play, Scott White has you covered with 10 sleeper hitters for the upcoming scoring period, all rostered in less than 80 percent of CBS Sports leagues. They're not must-starts by any estimation, but they're often the best you'll find off the waiver wire.\n\nBe sure to check back Sunday for the latest updates.\n\n1. Pirates STL4, CIN3 2. Dodgers MIA3, @STL3 3. Mets WAS3, @LAA3 4. Red Sox @TOR3, HOU3 5. Brewers ARI3, @WAS3\n\n1. Marlins @LAD3, PHI3 2. Yankees @TEX3, BAL3 3. Mariners @MIN3, KC3 4. Twins SEA3, TOR4 5. Rays @CLE3, SF3\n\n1. Carter Jensen (C) - Since having to sit out a few days for a disciplinary matter in early April, Carter Jensen has been a man on a mission, batting .321 with five home runs in his past 17 games. Being a left-handed batter, he does basically all of his damage against righties, and the Royals are scheduled to face five of those this week.\n2. Moises Ballesteros (C) - Moises Ballesteros was renowned for his hit tool in the minors and has lived up to it so far as a rookie, carrying a .392 batting average into the weekend after another multi-hit performance Thursday. The only issue is that he tends to sit against left-handers, but with none on the schedule for Week 6, he should be all systems go.\n3. Miguel Vargas (2B) - Miguel Vargas was also a sleeper hitter in Week 5 (April 20-26), and that recommendation has paid off handsomely so far. He's batting .276 (8 for 29) with four homers in his past six games and has decent enough matchups against the Angels and Padres pitching staffs.\n4. Daylen Lile (RF) - There have been some ups and downs already this season, but Daylen Lile appears to be rolling again, with his combination of a high line-drive rate and a low strikeout rate yielding a .370 (10 for 27) batting average and three home runs over his past seven games.\n5. Heliot Ramos (LF) - Heliot Ramos' roster rate is surprisingly low given that he's coming off back-to-back 20-homer seasons, and by the time Week 6 is done, I may not be the only one who feels that way. He's in line to face four lefties in the upcoming scoring period and has a batting average about 30 points higher and an OPS about 160 points higher against lefties than righties in his career.\n6. Mauricio Dubon (2B) - Mauricio Dubon's impossibly hot start has slowed a little, but he's on the one team that's paying a visit to Coors Field this week. He's also in line to face four lefties, against whom his batting average is about 40 points higher and his OPS about 130 points higher over the course of his career.\n7. Ildemaro Vargas (3B) - If Dubon is already rostered in your league, then Ildemaro Vargas makes for a reasonable fallback choice. The 34-year-old utility man, who is currently eligible at first and second base but is on the road to gaining third base as well, is getting a chance to play every day for the Diamondbacks and is doing surprisingly well with it thanks to a much higher pull-air rate than usual.\n8. Spencer Torkelson (1B) - Spencer Torkelson's slow start has gotten him dropped in about one-third of CBS Sports leagues, but he's showing signs of coming around with a home run both Wednesday and Thursday. He's reached 30 homers two of the past three years and is a good bet to do so again this year.\n9. Dalton Rushing (C) - Dalton Rushing has had the magic touch for the Dodgers, homering seemingly every time he plays, which has led to manager Dave Roberts sitting Will Smith more and more for him. I need to identify someone who can take advantage of the Dodgers' second-ranked hitter matchups this week, and seeing as no pitchers on the scheduled throw left-handed, I'm guessing the left-handed-hitting Rushing might be able to finagle an equal timeshare with Smith.\n10. Carson Benge (RF) - Carson Benge finally showed signs of life with a double and a home run Thursday, and he has optimal matchups this week against two of the worst pitching staffs in baseball. The exit velocity and plate discipline readings have been fine, even if he's put the ball on the ground too much, and with only one left-hander on the schedule, he should get enough playing time.",
+    "fetched_at": "2026-04-25T07:18:13+00:00",
+    "player_cards": [
+      {
+        "rank": 1,
+        "name_en": "Carter Jensen",
+        "position": "C",
+        "mlb_team": "KC",
+        "matchup": null,
+        "rostered_pct": "70%",
+        "blurb_en": "Since having to sit out a few days for a disciplinary matter in early April, Carter Jensen has been a man on a mission, batting .321 with five home runs in his past 17 games. Being a left-handed batter, he does basically all of his damage against righties, and the Royals are scheduled to face five of those this week."
+      },
+      {
+        "rank": 2,
+        "name_en": "Moises Ballesteros",
+        "position": "C",
+        "mlb_team": "CHC",
+        "matchup": null,
+        "rostered_pct": "45%",
+        "blurb_en": "Moises Ballesteros was renowned for his hit tool in the minors and has lived up to it so far as a rookie, carrying a .392 batting average into the weekend after another multi-hit performance Thursday. The only issue is that he tends to sit against left-handers, but with none on the schedule for Week 6, he should be all systems go."
+      },
+      {
+        "rank": 3,
+        "name_en": "Miguel Vargas",
+        "position": "2B",
+        "mlb_team": "CHW",
+        "matchup": null,
+        "rostered_pct": "69%",
+        "blurb_en": "Miguel Vargas was also a sleeper hitter in Week 5 (April 20-26), and that recommendation has paid off handsomely so far. He's batting .276 (8 for 29) with four homers in his past six games and has decent enough matchups against the Angels and Padres pitching staffs."
+      },
+      {
+        "rank": 4,
+        "name_en": "Daylen Lile",
+        "position": "RF",
+        "mlb_team": "WAS",
+        "matchup": null,
+        "rostered_pct": "75%",
+        "blurb_en": "There have been some ups and downs already this season, but Daylen Lile appears to be rolling again, with his combination of a high line-drive rate and a low strikeout rate yielding a .370 (10 for 27) batting average and three home runs over his past seven games."
+      },
+      {
+        "rank": 5,
+        "name_en": "Heliot Ramos",
+        "position": "LF",
+        "mlb_team": "SF",
+        "matchup": null,
+        "rostered_pct": "50%",
+        "blurb_en": "Heliot Ramos' roster rate is surprisingly low given that he's coming off back-to-back 20-homer seasons, and by the time Week 6 is done, I may not be the only one who feels that way. He's in line to face four lefties in the upcoming scoring period and has a batting average about 30 points higher and an OPS about 160 points higher against lefties than righties in his career."
+      },
+      {
+        "rank": 6,
+        "name_en": "Mauricio Dubon",
+        "position": "2B",
+        "mlb_team": "ATL",
+        "matchup": null,
+        "rostered_pct": "72%",
+        "blurb_en": "Mauricio Dubon's impossibly hot start has slowed a little, but he's on the one team that's paying a visit to Coors Field this week. He's also in line to face four lefties, against whom his batting average is about 40 points higher and his OPS about 130 points higher over the course of his career."
+      },
+      {
+        "rank": 7,
+        "name_en": "Ildemaro Vargas",
+        "position": "3B",
+        "mlb_team": "ARI",
+        "matchup": null,
+        "rostered_pct": "26%",
+        "blurb_en": "If Dubon is already rostered in your league, then Ildemaro Vargas makes for a reasonable fallback choice. The 34-year-old utility man, who is currently eligible at first and second base but is on the road to gaining third base as well, is getting a chance to play every day for the Diamondbacks and is doing surprisingly well with it thanks to a much higher pull-air rate than usual."
+      },
+      {
+        "rank": 8,
+        "name_en": "Spencer Torkelson",
+        "position": "1B",
+        "mlb_team": "DET",
+        "matchup": null,
+        "rostered_pct": "66%",
+        "blurb_en": "Spencer Torkelson's slow start has gotten him dropped in about one-third of CBS Sports leagues, but he's showing signs of coming around with a home run both Wednesday and Thursday. He's reached 30 homers two of the past three years and is a good bet to do so again this year."
+      },
+      {
+        "rank": 9,
+        "name_en": "Dalton Rushing",
+        "position": "C",
+        "mlb_team": "LAD",
+        "matchup": null,
+        "rostered_pct": "47%",
+        "blurb_en": "Dalton Rushing has had the magic touch for the Dodgers, homering seemingly every time he plays, which has led to manager Dave Roberts sitting Will Smith more and more for him. I need to identify someone who can take advantage of the Dodgers' second-ranked hitter matchups this week, and seeing as no pitchers on the scheduled throw left-handed, I'm guessing the left-handed-hitting Rushing might be able to finagle an equal timeshare with Smith."
+      },
+      {
+        "rank": 10,
+        "name_en": "Carson Benge",
+        "position": "RF",
+        "mlb_team": "NYM",
+        "matchup": null,
+        "rostered_pct": "58%",
+        "blurb_en": "Carson Benge finally showed signs of life with a double and a home run Thursday, and he has optimal matchups this week against two of the worst pitching staffs in baseball. The exit velocity and plate discipline readings have been fine, even if he's put the ball on the ground too much, and with only one left-hander on the schedule, he should get enough playing time."
+      }
+    ]
+  },
+  "ai_article": {
+    "article_type": "sleeper_hitters",
+    "week": 6,
+    "article_summary_zh_tw": "本週的打者睡眠名單聚焦於狀態火燙、對左投或弱投手群有利，且大多仍可從免簽名單撿來的 10 位球員。",
+    "players": [
+      {
+        "rank": 1,
+        "name_en": "Carter Jensen",
+        "summary_en": "Carter Jensen has hit .321 with five home runs over his past 17 games and should benefit from five matchups against righties this week.",
+        "summary_zh_tw": "Carter Jensen 近 17 場打出 .321 並敲出 5 支全壘打，而且本週皇家隊預計要面對 5 位右投手，對他相當有利。",
+        "tags": [
+          "hot_streak",
+          "platoon_advantage",
+          "power"
+        ]
+      },
+      {
+        "rank": 2,
+        "name_en": "Moises Ballesteros",
+        "summary_en": "Moises Ballesteros is carrying a .392 average into the weekend and should play regularly since Week 6 has no left-handed pitching on the schedule.",
+        "summary_zh_tw": "Moises Ballesteros 帶著 .392 的打擊率進入週末，而且 Week 6 賽程中沒有左投，讓他有望穩定上場。",
+        "tags": [
+          "batting_average",
+          "rookie",
+          "platoon_advantage"
+        ]
+      },
+      {
+        "rank": 3,
+        "name_en": "Miguel Vargas",
+        "summary_en": "Miguel Vargas has gone 8-for-29 with four homers in his past six games and has decent matchups against the Angels and Padres staffs.",
+        "summary_zh_tw": "Miguel Vargas 近 6 場 29 打數敲出 8 安並有 4 轟，而且對天使與教士投手群的對戰組合不錯。",
+        "tags": [
+          "hot_streak",
+          "power",
+          "good_matchups"
+        ]
+      },
+      {
+        "rank": 4,
+        "name_en": "Daylen Lile",
+        "summary_en": "Daylen Lile is rolling again, batting .370 with three home runs over his past seven games thanks to strong contact and low strikeouts.",
+        "summary_zh_tw": "Daylen Lile 近期再度升溫，近 7 場繳出 .370 打擊率與 3 轟，得益於高平飛率與低三振率。",
+        "tags": [
+          "hot_streak",
+          "contact_hitters",
+          "power"
+        ]
+      },
+      {
+        "rank": 5,
+        "name_en": "Heliot Ramos",
+        "summary_en": "Heliot Ramos is coming off back-to-back 20-homer seasons and is set to face four lefties, against whom he has been much better in his career.",
+        "summary_zh_tw": "Heliot Ramos 連兩季都有 20 轟以上，本週還要面對 4 位左投，而他生涯對左投的表現明顯更好。",
+        "tags": [
+          "power",
+          "platoon_advantage",
+          "upside"
+        ]
+      },
+      {
+        "rank": 6,
+        "name_en": "Mauricio Dubon",
+        "summary_en": "Mauricio Dubon is headed to Coors Field and is slated to face four lefties, which fits his career splits well.",
+        "summary_zh_tw": "Mauricio Dubon 本週要造訪 Coors Field，並預計對上 4 位左投，這與他的生涯對戰分裂相當契合。",
+        "tags": [
+          "coors_field",
+          "platoon_advantage",
+          "multi_position"
+        ]
+      },
+      {
+        "rank": 7,
+        "name_en": "Ildemaro Vargas",
+        "summary_en": "Ildemaro Vargas is getting everyday playing time for the Diamondbacks and has been productive thanks to a stronger pull-air profile.",
+        "summary_zh_tw": "Ildemaro Vargas 目前獲得響尾蛇的每日出賽機會，而且靠著更強的拉打飛球型態打出不錯表現。",
+        "tags": [
+          "everyday_role",
+          "multi_position",
+          "contact_hitters"
+        ]
+      },
+      {
+        "rank": 8,
+        "name_en": "Spencer Torkelson",
+        "summary_en": "Spencer Torkelson has homered in consecutive games and is showing signs of turning around after a slow start.",
+        "summary_zh_tw": "Spencer Torkelson 已連兩場開轟，並在慢熱開局後開始出現回升跡象。",
+        "tags": [
+          "power",
+          "buy_low",
+          "recent_form"
+        ]
+      },
+      {
+        "rank": 9,
+        "name_en": "Dalton Rushing",
+        "summary_en": "Dalton Rushing keeps homering for the Dodgers and may see more playing time because of the way Dave Roberts has used Will Smith.",
+        "summary_zh_tw": "Dalton Rushing 持續為道奇開轟，也可能因為 Dave Roberts 對 Will Smith 的使用方式而獲得更多出賽時間。",
+        "tags": [
+          "power",
+          "playing_time",
+          "catcher"
+        ]
+      },
+      {
+        "rank": 10,
+        "name_en": "Carson Benge",
+        "summary_en": "Carson Benge showed life with a double and a homer Thursday and has favorable matchups against two weak pitching staffs this week.",
+        "summary_zh_tw": "Carson Benge 週四以二壘打和全壘打展現回溫，而本週對上兩個弱投手群的對戰組合也很理想。",
+        "tags": [
+          "good_matchups",
+          "power",
+          "playing_time"
+        ]
+      }
+    ],
+    "model": "gpt-5.4-mini",
+    "generated_at": "2026-04-25T07:18:25+00:00"
+  },
+  "players": [
+    {
+      "rank": 1,
+      "name_en": "Carter Jensen",
+      "summary_en": "Carter Jensen has hit .321 with five home runs over his past 17 games and should benefit from five matchups against righties this week.",
+      "summary_zh_tw": "Carter Jensen 近 17 場打出 .321 並敲出 5 支全壘打，而且本週皇家隊預計要面對 5 位右投手，對他相當有利。",
+      "tags": [
+        "hot_streak",
+        "platoon_advantage",
+        "power"
+      ]
+    },
+    {
+      "rank": 2,
+      "name_en": "Moises Ballesteros",
+      "summary_en": "Moises Ballesteros is carrying a .392 average into the weekend and should play regularly since Week 6 has no left-handed pitching on the schedule.",
+      "summary_zh_tw": "Moises Ballesteros 帶著 .392 的打擊率進入週末，而且 Week 6 賽程中沒有左投，讓他有望穩定上場。",
+      "tags": [
+        "batting_average",
+        "rookie",
+        "platoon_advantage"
+      ]
+    },
+    {
+      "rank": 3,
+      "name_en": "Miguel Vargas",
+      "summary_en": "Miguel Vargas has gone 8-for-29 with four homers in his past six games and has decent matchups against the Angels and Padres staffs.",
+      "summary_zh_tw": "Miguel Vargas 近 6 場 29 打數敲出 8 安並有 4 轟，而且對天使與教士投手群的對戰組合不錯。",
+      "tags": [
+        "hot_streak",
+        "power",
+        "good_matchups"
+      ]
+    },
+    {
+      "rank": 4,
+      "name_en": "Daylen Lile",
+      "summary_en": "Daylen Lile is rolling again, batting .370 with three home runs over his past seven games thanks to strong contact and low strikeouts.",
+      "summary_zh_tw": "Daylen Lile 近期再度升溫，近 7 場繳出 .370 打擊率與 3 轟，得益於高平飛率與低三振率。",
+      "tags": [
+        "hot_streak",
+        "contact_hitters",
+        "power"
+      ]
+    },
+    {
+      "rank": 5,
+      "name_en": "Heliot Ramos",
+      "summary_en": "Heliot Ramos is coming off back-to-back 20-homer seasons and is set to face four lefties, against whom he has been much better in his career.",
+      "summary_zh_tw": "Heliot Ramos 連兩季都有 20 轟以上，本週還要面對 4 位左投，而他生涯對左投的表現明顯更好。",
+      "tags": [
+        "power",
+        "platoon_advantage",
+        "upside"
+      ]
+    },
+    {
+      "rank": 6,
+      "name_en": "Mauricio Dubon",
+      "summary_en": "Mauricio Dubon is headed to Coors Field and is slated to face four lefties, which fits his career splits well.",
+      "summary_zh_tw": "Mauricio Dubon 本週要造訪 Coors Field，並預計對上 4 位左投，這與他的生涯對戰分裂相當契合。",
+      "tags": [
+        "coors_field",
+        "platoon_advantage",
+        "multi_position"
+      ]
+    },
+    {
+      "rank": 7,
+      "name_en": "Ildemaro Vargas",
+      "summary_en": "Ildemaro Vargas is getting everyday playing time for the Diamondbacks and has been productive thanks to a stronger pull-air profile.",
+      "summary_zh_tw": "Ildemaro Vargas 目前獲得響尾蛇的每日出賽機會，而且靠著更強的拉打飛球型態打出不錯表現。",
+      "tags": [
+        "everyday_role",
+        "multi_position",
+        "contact_hitters"
+      ]
+    },
+    {
+      "rank": 8,
+      "name_en": "Spencer Torkelson",
+      "summary_en": "Spencer Torkelson has homered in consecutive games and is showing signs of turning around after a slow start.",
+      "summary_zh_tw": "Spencer Torkelson 已連兩場開轟，並在慢熱開局後開始出現回升跡象。",
+      "tags": [
+        "power",
+        "buy_low",
+        "recent_form"
+      ]
+    },
+    {
+      "rank": 9,
+      "name_en": "Dalton Rushing",
+      "summary_en": "Dalton Rushing keeps homering for the Dodgers and may see more playing time because of the way Dave Roberts has used Will Smith.",
+      "summary_zh_tw": "Dalton Rushing 持續為道奇開轟，也可能因為 Dave Roberts 對 Will Smith 的使用方式而獲得更多出賽時間。",
+      "tags": [
+        "power",
+        "playing_time",
+        "catcher"
+      ]
+    },
+    {
+      "rank": 10,
+      "name_en": "Carson Benge",
+      "summary_en": "Carson Benge showed life with a double and a homer Thursday and has favorable matchups against two weak pitching staffs this week.",
+      "summary_zh_tw": "Carson Benge 週四以二壘打和全壘打展現回溫，而本週對上兩個弱投手群的對戰組合也很理想。",
+      "tags": [
+        "good_matchups",
+        "power",
+        "playing_time"
+      ]
+    }
+  ],
+  "pipeline": {
+    "version": "1.0",
+    "status": "complete"
+  }
+}

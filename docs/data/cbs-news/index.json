@@ -1,10 +1,28 @@
 {
-  "generated_at": "2026-04-24T14:13:00+00:00",
+  "generated_at": "2026-05-04T02:24:00+00:00",
   "latest_week_by_type": {
-    "sleeper_hitters": 6,
-    "sleeper_pitchers": 6
+    "sleeper_hitters": 7,
+    "sleeper_pitchers": 7
   },
   "articles": [
+    {
+      "article_type": "sleeper_hitters",
+      "week": 7,
+      "title_en": "Fantasy Baseball Week 7 Preview: Top 10 sleeper hitters include Moises Ballesteros, Nathaniel Lowe",
+      "published_at": "2026-05-04T02:24:00+00:00",
+      "source_url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-7-preview-top-10-sleeper-hitters-include-moises-ballesteros-nathaniel-lowe/",
+      "path": "./data/cbs-news/articles/2026-05-04-fantasy-baseball-week-7-preview-top-10-sleeper-hitters-include-moises-ballesteros-nathaniel-lowe.json",
+      "player_count": 10
+    },
+    {
+      "article_type": "sleeper_pitchers",
+      "week": 7,
+      "title_en": "Fantasy Baseball Week 7 Preview: Top 10 sleeper pitchers feature Chase Dollander, Noah Schultz",
+      "published_at": "2026-05-04T01:58:00+00:00",
+      "source_url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-7-preview-top-10-sleeper-pitchers-feature-chase-dollander-noah-schultz/",
+      "path": "./data/cbs-news/articles/2026-05-04-fantasy-baseball-week-7-preview-top-10-sleeper-pitchers-feature-chase-dollander-noah-schultz.json",
+      "player_count": 10
+    },
     {
       "article_type": "sleeper_hitters",
       "week": 6,

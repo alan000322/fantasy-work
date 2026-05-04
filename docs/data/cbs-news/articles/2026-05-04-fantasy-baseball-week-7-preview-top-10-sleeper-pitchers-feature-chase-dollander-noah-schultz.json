@@ -1,0 +1,343 @@
+{
+  "source_article": {
+    "source": "CBS Sports",
+    "article_type": "sleeper_pitchers",
+    "week": 7,
+    "title_en": "Fantasy Baseball Week 7 Preview: Top 10 sleeper pitchers feature Chase Dollander, Noah Schultz",
+    "url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-7-preview-top-10-sleeper-pitchers-feature-chase-dollander-noah-schultz/",
+    "canonical_url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-7-preview-top-10-sleeper-pitchers-feature-chase-dollander-noah-schultz/",
+    "slug": "fantasy-baseball-week-7-preview-top-10-sleeper-pitchers-feature-chase-dollander-noah-schultz",
+    "author": "Scott White",
+    "published_at": "2026-05-04T01:58:00+00:00",
+    "dek_en": "Two-start pitchers for Fantasy Week 7, with rankings, matchups and top streaming options",
+    "body_en": "Streaming pitchers isn't for the faint of heart, but if you find yourself without enough reliable options in a given scoring period, it may be what you need to stay afloat. Scott White has 10 recommendations for the upcoming scoring period, all rostered in less than 80 percent of CBS Sports leagues. Generally, only the top two or three are full-throated endorsements, while the rest are more about making the best of a bad situation.\n\nAll information is up to date as of Sunday evening.\n\n1. Chase Dollander (SP) - Chase Dollander took a wrong step against the Braves on Saturday that, but his three turns prior to that were dominant in a way rarely observed in Rockies history (a combined 25 strikeouts with just one run allowed). Whether his fastball-heavy approach can find consistent success in the thin-air environment of Coors Field remains to be seen (Saturday's outing was a step in the wrong direction), but in any case, he's on the road this week, facing a Phillies lineup that's been miserable so far.\n2. Cade Cavalli (SP) - Cade Cavalli has recorded double-digit strikeouts in back-to-back starts, mostly on the strength of his curveball. Whether he's genuinely unlocked something still needs to be sorted out, but a two-start week is too inviting to pass up, particularly with the matchups being more favorable than not.\n3. Davis Martin (SP) - Davis Martin has found success on the strength of a new cutter, which has mostly served to bolster his other offerings. His 1.95 ERA is obviously too good to be true, perhaps by two full runs, but he's deserving of your attention in a two-start week regardless.\n4. Noah Schultz (SP) - A mid-April call-up, Noah Schultz has performed pretty well so far, and if not for all the walks, I might even say excellently. The Angels lineup can be dangerous, but it's also the most strikeout-prone, which works to the advantage of a bat-misser like Schultz.\n5. Ryne Nelson (SP) - After a couple rough outings -- including one in the 7,000-foot elevation of Mexico City -- Ryne Nelson bounced back Saturday, allowing just one run with six baserunners in 5 2/3 innings. His history still suggests he's likely to be a WHIP standout, and I'm betting he delivers such an outing against a Mets lineup that enters the weekend ranking second-to-last in runs scored.\n6. Aaron Nola (SP) - Aaron Nola is sporting an ERA over 6.00 for the second straight year and is rightfully trending toward being dropped in a bunch of leagues. You may want to hold out one more week, though, with the pair of matchups he has ahead of him. He should at least provide solid volume for points leagues.\n7. JR Ritchie (SP) - JR Ritchie's first two starts have positioned him as a high-floor pitcher capable of gobbling up innings. That makes him almost automatic in points leagues when he's in line for two starts, even if one is against the Dodgers.\n8. Nick Martinez (RP) - The Rays have tweaked Nick Martinez's arsenal to feature more changeups and sinkers, and it's had a big effect so far, leading to a 1.70 ERA and back-to-back starts of seven-plus innings. There will be some clunkers at some point, but it's hard to pass up two starts against lineups that rank in the bottom 10 in runs scored.\n9. Reid Detmers (SP) - The under-the-hood numbers look pretty good for Reid Detmers, with his new changeup rounding out his arsenal nicely, and though there have been some ups and downs performance-wise, his last outing over the weekend was solid. He performed reasonably well the last time he faced the Blue Jays, who continue to disappoint offensively.\n10. Joey Cantillo (SP) - Joey Cantillo isn't an efficient pitcher, but he misses bats at a better-than-average rate thanks to a wipeout changeup and should be able to limit damage well enough against an underwhelming Royals lineup.",
+    "fetched_at": "2026-05-04T02:59:27+00:00",
+    "player_cards": [
+      {
+        "rank": 1,
+        "name_en": "Chase Dollander",
+        "position": "SP",
+        "mlb_team": "COL",
+        "matchup": "at PHI",
+        "rostered_pct": "61%",
+        "blurb_en": "Chase Dollander took a wrong step against the Braves on Saturday that, but his three turns prior to that were dominant in a way rarely observed in Rockies history (a combined 25 strikeouts with just one run allowed). Whether his fastball-heavy approach can find consistent success in the thin-air environment of Coors Field remains to be seen (Saturday's outing was a step in the wrong direction), but in any case, he's on the road this week, facing a Phillies lineup that's been miserable so far."
+      },
+      {
+        "rank": 2,
+        "name_en": "Cade Cavalli",
+        "position": "SP",
+        "mlb_team": "WAS",
+        "matchup": null,
+        "rostered_pct": "34%",
+        "blurb_en": "Cade Cavalli has recorded double-digit strikeouts in back-to-back starts, mostly on the strength of his curveball. Whether he's genuinely unlocked something still needs to be sorted out, but a two-start week is too inviting to pass up, particularly with the matchups being more favorable than not."
+      },
+      {
+        "rank": 3,
+        "name_en": "Davis Martin",
+        "position": "SP",
+        "mlb_team": "CHW",
+        "matchup": null,
+        "rostered_pct": "70%",
+        "blurb_en": "Davis Martin has found success on the strength of a new cutter, which has mostly served to bolster his other offerings. His 1.95 ERA is obviously too good to be true, perhaps by two full runs, but he's deserving of your attention in a two-start week regardless."
+      },
+      {
+        "rank": 4,
+        "name_en": "Noah Schultz",
+        "position": "SP",
+        "mlb_team": "CHW",
+        "matchup": "at LAA",
+        "rostered_pct": "77%",
+        "blurb_en": "A mid-April call-up, Noah Schultz has performed pretty well so far, and if not for all the walks, I might even say excellently. The Angels lineup can be dangerous, but it's also the most strikeout-prone, which works to the advantage of a bat-misser like Schultz."
+      },
+      {
+        "rank": 5,
+        "name_en": "Ryne Nelson",
+        "position": "SP",
+        "mlb_team": "ARI",
+        "matchup": "vs. NYM",
+        "rostered_pct": "52%",
+        "blurb_en": "After a couple rough outings -- including one in the 7,000-foot elevation of Mexico City -- Ryne Nelson bounced back Saturday, allowing just one run with six baserunners in 5 2/3 innings. His history still suggests he's likely to be a WHIP standout, and I'm betting he delivers such an outing against a Mets lineup that enters the weekend ranking second-to-last in runs scored."
+      },
+      {
+        "rank": 6,
+        "name_en": "Aaron Nola",
+        "position": "SP",
+        "mlb_team": "PHI",
+        "matchup": null,
+        "rostered_pct": "79%",
+        "blurb_en": "Aaron Nola is sporting an ERA over 6.00 for the second straight year and is rightfully trending toward being dropped in a bunch of leagues. You may want to hold out one more week, though, with the pair of matchups he has ahead of him. He should at least provide solid volume for points leagues."
+      },
+      {
+        "rank": 7,
+        "name_en": "JR Ritchie",
+        "position": "SP",
+        "mlb_team": "ATL",
+        "matchup": null,
+        "rostered_pct": "55%",
+        "blurb_en": "JR Ritchie's first two starts have positioned him as a high-floor pitcher capable of gobbling up innings. That makes him almost automatic in points leagues when he's in line for two starts, even if one is against the Dodgers."
+      },
+      {
+        "rank": 8,
+        "name_en": "Nick Martinez",
+        "position": "RP",
+        "mlb_team": "TB",
+        "matchup": null,
+        "rostered_pct": "64%",
+        "blurb_en": "The Rays have tweaked Nick Martinez's arsenal to feature more changeups and sinkers, and it's had a big effect so far, leading to a 1.70 ERA and back-to-back starts of seven-plus innings. There will be some clunkers at some point, but it's hard to pass up two starts against lineups that rank in the bottom 10 in runs scored."
+      },
+      {
+        "rank": 9,
+        "name_en": "Reid Detmers",
+        "position": "SP",
+        "mlb_team": "LAA",
+        "matchup": "at TOR",
+        "rostered_pct": "66%",
+        "blurb_en": "The under-the-hood numbers look pretty good for Reid Detmers, with his new changeup rounding out his arsenal nicely, and though there have been some ups and downs performance-wise, his last outing over the weekend was solid. He performed reasonably well the last time he faced the Blue Jays, who continue to disappoint offensively."
+      },
+      {
+        "rank": 10,
+        "name_en": "Joey Cantillo",
+        "position": "SP",
+        "mlb_team": "CLE",
+        "matchup": "at KC",
+        "rostered_pct": "69%",
+        "blurb_en": "Joey Cantillo isn't an efficient pitcher, but he misses bats at a better-than-average rate thanks to a wipeout changeup and should be able to limit damage well enough against an underwhelming Royals lineup."
+      }
+    ]
+  },
+  "ai_article": {
+    "article_type": "sleeper_pitchers",
+    "week": 7,
+    "article_summary_zh_tw": "本篇整理 Fantasy Week 7 的十大睡眠型投手，主打雙先發或具備串流價值的名單。",
+    "players": [
+      {
+        "rank": 1,
+        "name_en": "Chase Dollander",
+        "summary_en": "Road start at Philadelphia after a dominant stretch, though his last outing was a step in the wrong direction.",
+        "summary_zh_tw": "Dollander 近期曾有壓制力十足的表現，但上場狀況回落，這週在客場對費城人仍具串流吸引力。",
+        "tags": [
+          "SP",
+          "road start",
+          "streaming"
+        ]
+      },
+      {
+        "rank": 2,
+        "name_en": "Cade Cavalli",
+        "summary_en": "Back-to-back double-digit strikeout starts make him a tempting two-start play, with the matchups more favorable than not.",
+        "summary_zh_tw": "Cavalli 連兩場飆出雙位數三振，搭配雙先發賽程使他成為相當誘人的選項。",
+        "tags": [
+          "SP",
+          "two-start",
+          "strikeouts"
+        ]
+      },
+      {
+        "rank": 3,
+        "name_en": "Davis Martin",
+        "summary_en": "He has found success with a new cutter and deserves attention in a two-start week despite ERA regression concerns.",
+        "summary_zh_tw": "Martin 憑藉新滑球型切球取得成效，雖然防禦率可能回落，但雙先發週仍值得關注。",
+        "tags": [
+          "SP",
+          "two-start",
+          "ERA regression"
+        ]
+      },
+      {
+        "rank": 4,
+        "name_en": "Noah Schultz",
+        "summary_en": "A mid-April call-up who has pitched well so far, with walks the main concern and a strikeout-prone Angels lineup on deck.",
+        "summary_zh_tw": "Schultz 自四月中旬升上來後表現不差，雖然保送偏多，但對上三振率高的天使仍有利。",
+        "tags": [
+          "SP",
+          "strikeouts",
+          "walks"
+        ]
+      },
+      {
+        "rank": 5,
+        "name_en": "Ryne Nelson",
+        "summary_en": "Rebounded from rough outings and looks capable of helping in WHIP against a struggling Mets lineup.",
+        "summary_zh_tw": "Nelson 已從前幾場低潮回穩，面對火力低迷的大都會有機會帶來 WHIP 幫助。",
+        "tags": [
+          "SP",
+          "WHIP",
+          "vs NYM"
+        ]
+      },
+      {
+        "rank": 6,
+        "name_en": "Aaron Nola",
+        "summary_en": "Despite an ERA above 6.00, his two-matchup week makes him a hold for one more scoring period, especially in points leagues.",
+        "summary_zh_tw": "Nola 的防禦率仍在 6.00 以上，但因為這週有兩個對戰安排，點數聯盟中仍可再觀察一次。",
+        "tags": [
+          "SP",
+          "two-matchup",
+          "points leagues"
+        ]
+      },
+      {
+        "rank": 7,
+        "name_en": "JR Ritchie",
+        "summary_en": "A high-floor innings eater through his first two starts, making him nearly automatic in points leagues when two starts are lined up.",
+        "summary_zh_tw": "Ritchie 前兩場先發展現吃局數能力，只要排到雙先發，在點數聯盟就非常實用。",
+        "tags": [
+          "SP",
+          "two-start",
+          "innings"
+        ]
+      },
+      {
+        "rank": 8,
+        "name_en": "Nick Martinez",
+        "summary_en": "The Rays' changes to his arsenal have produced strong results, and two starts against low-scoring lineups are hard to ignore.",
+        "summary_zh_tw": "Martinez 因武器庫調整而繳出不錯成績，面對兩支得分偏低的球隊時相當值得考慮。",
+        "tags": [
+          "RP",
+          "two-start",
+          "streaming"
+        ]
+      },
+      {
+        "rank": 9,
+        "name_en": "Reid Detmers",
+        "summary_en": "Underlying metrics and a refined changeup support him, and he has already handled the Blue Jays reasonably well before.",
+        "summary_zh_tw": "Detmers 的進階數據與變化球都看起來不錯，而且他先前對藍鳥的表現也算可接受。",
+        "tags": [
+          "SP",
+          "changeup",
+          "vs TOR"
+        ]
+      },
+      {
+        "rank": 10,
+        "name_en": "Joey Cantillo",
+        "summary_en": "Not efficient, but his bat-missing changeup gives him enough upside to survive against an underwhelming Royals lineup.",
+        "summary_zh_tw": "Cantillo 雖然不算高效率投手，但靠著能製造揮空的變速球，對皇家這類火力普通的對手仍有可用性。",
+        "tags": [
+          "SP",
+          "changeup",
+          "vs KC"
+        ]
+      }
+    ],
+    "model": "gpt-5.4-mini",
+    "generated_at": "2026-05-04T02:59:44+00:00"
+  },
+  "players": [
+    {
+      "rank": 1,
+      "name_en": "Chase Dollander",
+      "summary_en": "Road start at Philadelphia after a dominant stretch, though his last outing was a step in the wrong direction.",
+      "summary_zh_tw": "Dollander 近期曾有壓制力十足的表現，但上場狀況回落，這週在客場對費城人仍具串流吸引力。",
+      "tags": [
+        "SP",
+        "road start",
+        "streaming"
+      ]
+    },
+    {
+      "rank": 2,
+      "name_en": "Cade Cavalli",
+      "summary_en": "Back-to-back double-digit strikeout starts make him a tempting two-start play, with the matchups more favorable than not.",
+      "summary_zh_tw": "Cavalli 連兩場飆出雙位數三振，搭配雙先發賽程使他成為相當誘人的選項。",
+      "tags": [
+        "SP",
+        "two-start",
+        "strikeouts"
+      ]
+    },
+    {
+      "rank": 3,
+      "name_en": "Davis Martin",
+      "summary_en": "He has found success with a new cutter and deserves attention in a two-start week despite ERA regression concerns.",
+      "summary_zh_tw": "Martin 憑藉新滑球型切球取得成效，雖然防禦率可能回落，但雙先發週仍值得關注。",
+      "tags": [
+        "SP",
+        "two-start",
+        "ERA regression"
+      ]
+    },
+    {
+      "rank": 4,
+      "name_en": "Noah Schultz",
+      "summary_en": "A mid-April call-up who has pitched well so far, with walks the main concern and a strikeout-prone Angels lineup on deck.",
+      "summary_zh_tw": "Schultz 自四月中旬升上來後表現不差，雖然保送偏多，但對上三振率高的天使仍有利。",
+      "tags": [
+        "SP",
+        "strikeouts",
+        "walks"
+      ]
+    },
+    {
+      "rank": 5,
+      "name_en": "Ryne Nelson",
+      "summary_en": "Rebounded from rough outings and looks capable of helping in WHIP against a struggling Mets lineup.",
+      "summary_zh_tw": "Nelson 已從前幾場低潮回穩，面對火力低迷的大都會有機會帶來 WHIP 幫助。",
+      "tags": [
+        "SP",
+        "WHIP",
+        "vs NYM"
+      ]
+    },
+    {
+      "rank": 6,
+      "name_en": "Aaron Nola",
+      "summary_en": "Despite an ERA above 6.00, his two-matchup week makes him a hold for one more scoring period, especially in points leagues.",
+      "summary_zh_tw": "Nola 的防禦率仍在 6.00 以上，但因為這週有兩個對戰安排，點數聯盟中仍可再觀察一次。",
+      "tags": [
+        "SP",
+        "two-matchup",
+        "points leagues"
+      ]
+    },
+    {
+      "rank": 7,
+      "name_en": "JR Ritchie",
+      "summary_en": "A high-floor innings eater through his first two starts, making him nearly automatic in points leagues when two starts are lined up.",
+      "summary_zh_tw": "Ritchie 前兩場先發展現吃局數能力，只要排到雙先發，在點數聯盟就非常實用。",
+      "tags": [
+        "SP",
+        "two-start",
+        "innings"
+      ]
+    },
+    {
+      "rank": 8,
+      "name_en": "Nick Martinez",
+      "summary_en": "The Rays' changes to his arsenal have produced strong results, and two starts against low-scoring lineups are hard to ignore.",
+      "summary_zh_tw": "Martinez 因武器庫調整而繳出不錯成績，面對兩支得分偏低的球隊時相當值得考慮。",
+      "tags": [
+        "RP",
+        "two-start",
+        "streaming"
+      ]
+    },
+    {
+      "rank": 9,
+      "name_en": "Reid Detmers",
+      "summary_en": "Underlying metrics and a refined changeup support him, and he has already handled the Blue Jays reasonably well before.",
+      "summary_zh_tw": "Detmers 的進階數據與變化球都看起來不錯，而且他先前對藍鳥的表現也算可接受。",
+      "tags": [
+        "SP",
+        "changeup",
+        "vs TOR"
+      ]
+    },
+    {
+      "rank": 10,
+      "name_en": "Joey Cantillo",
+      "summary_en": "Not efficient, but his bat-missing changeup gives him enough upside to survive against an underwhelming Royals lineup.",
+      "summary_zh_tw": "Cantillo 雖然不算高效率投手，但靠著能製造揮空的變速球，對皇家這類火力普通的對手仍有可用性。",
+      "tags": [
+        "SP",
+        "changeup",
+        "vs KC"
+      ]
+    }
+  ],
+  "pipeline": {
+    "version": "1.0",
+    "status": "complete"
+  }
+}

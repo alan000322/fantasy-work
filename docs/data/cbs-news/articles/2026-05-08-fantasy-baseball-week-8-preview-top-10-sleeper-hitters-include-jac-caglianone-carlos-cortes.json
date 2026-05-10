@@ -1,0 +1,363 @@
+{
+  "source_article": {
+    "source": "CBS Sports",
+    "article_type": "sleeper_hitters",
+    "week": 8,
+    "title_en": "Fantasy Baseball Week 8 Preview: Top 10 sleeper hitters include Jac Caglianone, Carlos Cortes",
+    "url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-8-preview-top-10-sleeper-hitters-include-jac-caglianone-carlos-cortes/",
+    "canonical_url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-8-preview-top-10-sleeper-hitters-include-jac-caglianone-carlos-cortes/",
+    "slug": "fantasy-baseball-week-8-preview-top-10-sleeper-hitters-include-jac-caglianone-carlos-cortes",
+    "author": "Scott White",
+    "published_at": "2026-05-08T13:22:57+00:00",
+    "dek_en": "Sleeper hitters for Fantasy Week 8, waiver wire targets, and breakout candidates.",
+    "body_en": "Whether you're in need of an injury fill-in or just a hot-hand play, Scott White has you covered with 10 sleeper hitters for the upcoming scoring period, all rostered in less than 80 percent of CBS Sports leagues. They're not must-starts by any estimation, but they're often the best you'll find off the waiver wire.\n\nBe sure to check back Sunday for the latest updates.\n\n1. Mariners @HOU4, SD3 2. Diamondbacks @TEX3, @COL3 3. Royals @CHW3, @STL3 4. Athletics STL3, SF3 5. Nationals @CIN3, BAL3\n\n1. Padres @MIL3, @SEA3 2. Phillies @BOS3, @PIT3 3. Astros SEA4, TEX3 4. Tigers @NYM3, TOR3 5. Twins MIA3, MIL3\n\n1. Jac Caglianone (1B) - Jac Caglianone hasn't lived up to the spring hype yet, but he continues to throttle the ball, with average and max exit velocities both in the 94th percentile or better, and may be starting to see some results given that all four of his home runs have come in his past 19 games. The Royals have the third-most favorable matchups this week, and only one of the opposing pitchers throws left-handed.\n2. Carlos Cortes (LF) - Carlos Cortes has been incredibly productive for the Athletics so far while boasting an unimpeachable data set, but he almost always sits against left-handers. Fortunately, there's only one of those in what rates as the fourth-best hitter schedule this week, which the Athletics will spend entirely at their hitter-friendly home.\n3. Nate Lowe (1B) - Nate Lowe has cooled off somewhat, but his Baseball Savant page continues to burn a bright red. A week that opens against the Nationals pitching staff -- at home in Great American Ball Park, no less -- is reason enough to roll with a player who seems to have locked up the everyday DH role with Eugenio Suarez sidelined.\n4. Carter Jensen (C) - I keep recommending Carter Jensen here with little payoff, but like teammate Jac Caglianone, he continues to hit the ball hard enough that you would expect his fortunes to turn. Also like Caglianone, he should benefit from there being just one left-hander on a slate that includes bottom-feeders like Erick Fedde, Dustin May, Kyle Leahy and Andre Pallante.\n5. J.J. Bleday (LF) - A 3.5 mph increase in average bat speed has made J.J. Bleday into a wrecking ball wherever he's gone this year, most recently joining the big club at the end of April. The jury's still out on whether he'll play consistently against left-handers, though, which is why he ranks behind teammate Nate Lowe in a week when there's two on the schedule.\n6. Gabriel Moreno (C) - The Diamondbacks are the only team visiting Coors Field this week and have the second-best hitter matchups, which seems like a reasonable time to sing the praises of Gabriel Moreno again. He's struggled to get going since returning from an oblique strain but has always been a good contact hitter and is pulling the ball in the air more than ever this year.\n7. J.P. Crawford (SS) - J.P. Crawford has homered three times while reaching base at a .438 clip in his past seven games. He's peaking at the right time with the Mariners having the most favorable hitter matchups this week. They're facing the injury-depleted Astros and Padres rotations and are one of just four teams scheduled for seven games.\n8. Cole Young (SS) - After a slow start, Cole Young has brought his batting average back into the respectable range with five multi-hit games in his past 11. The Mariners' top-ranked hitter matchups include Peter Lambert, Lance McCullers, Mike Burrows, Walker Buehler and Matt Waldron.\n9. Dominic Canzone (LF) - Not only do the Mariners have the best hitter matchups, but all seven of their games are against left-handers, which is essential for a strict platoon hitter like Dominic Canzone. He's been quiet lately but still has as strong of a data set as you could ask for, including a 99th percentile average exit velocity with a .285 xBA and .509 xSLG.\n10. Luke Raley (RF) - Luke Raley is another Mariners hitter who would be far more interesting in Fantasy if not for his strict platoon role. That's a non-issue with the Mariners facing nothing but left-handers this week. They're one of just four teams scheduled for seven games, too, which means Raley might actually end up playing more than the average hitter.",
+    "fetched_at": "2026-05-10T06:34:03+00:00",
+    "player_cards": [
+      {
+        "rank": 1,
+        "name_en": "Jac Caglianone",
+        "position": "1B",
+        "mlb_team": "KC",
+        "matchup": null,
+        "rostered_pct": "73%",
+        "blurb_en": "Jac Caglianone hasn't lived up to the spring hype yet, but he continues to throttle the ball, with average and max exit velocities both in the 94th percentile or better, and may be starting to see some results given that all four of his home runs have come in his past 19 games. The Royals have the third-most favorable matchups this week, and only one of the opposing pitchers throws left-handed."
+      },
+      {
+        "rank": 2,
+        "name_en": "Carlos Cortes",
+        "position": "LF",
+        "mlb_team": "ATH",
+        "matchup": null,
+        "rostered_pct": "50%",
+        "blurb_en": "Carlos Cortes has been incredibly productive for the Athletics so far while boasting an unimpeachable data set, but he almost always sits against left-handers. Fortunately, there's only one of those in what rates as the fourth-best hitter schedule this week, which the Athletics will spend entirely at their hitter-friendly home."
+      },
+      {
+        "rank": 3,
+        "name_en": "Nate Lowe",
+        "position": "1B",
+        "mlb_team": "CIN",
+        "matchup": null,
+        "rostered_pct": "25%",
+        "blurb_en": "Nate Lowe has cooled off somewhat, but his Baseball Savant page continues to burn a bright red. A week that opens against the Nationals pitching staff -- at home in Great American Ball Park, no less -- is reason enough to roll with a player who seems to have locked up the everyday DH role with Eugenio Suarez sidelined."
+      },
+      {
+        "rank": 4,
+        "name_en": "Carter Jensen",
+        "position": "C",
+        "mlb_team": "KC",
+        "matchup": null,
+        "rostered_pct": "72%",
+        "blurb_en": "I keep recommending Carter Jensen here with little payoff, but like teammate Jac Caglianone, he continues to hit the ball hard enough that you would expect his fortunes to turn. Also like Caglianone, he should benefit from there being just one left-hander on a slate that includes bottom-feeders like Erick Fedde, Dustin May, Kyle Leahy and Andre Pallante."
+      },
+      {
+        "rank": 5,
+        "name_en": "J.J. Bleday",
+        "position": "LF",
+        "mlb_team": "CIN",
+        "matchup": null,
+        "rostered_pct": "19%",
+        "blurb_en": "A 3.5 mph increase in average bat speed has made J.J. Bleday into a wrecking ball wherever he's gone this year, most recently joining the big club at the end of April. The jury's still out on whether he'll play consistently against left-handers, though, which is why he ranks behind teammate Nate Lowe in a week when there's two on the schedule."
+      },
+      {
+        "rank": 6,
+        "name_en": "Gabriel Moreno",
+        "position": "C",
+        "mlb_team": "ARI",
+        "matchup": null,
+        "rostered_pct": "40%",
+        "blurb_en": "The Diamondbacks are the only team visiting Coors Field this week and have the second-best hitter matchups, which seems like a reasonable time to sing the praises of Gabriel Moreno again. He's struggled to get going since returning from an oblique strain but has always been a good contact hitter and is pulling the ball in the air more than ever this year."
+      },
+      {
+        "rank": 7,
+        "name_en": "J.P. Crawford",
+        "position": "SS",
+        "mlb_team": "SEA",
+        "matchup": null,
+        "rostered_pct": "13%",
+        "blurb_en": "J.P. Crawford has homered three times while reaching base at a .438 clip in his past seven games. He's peaking at the right time with the Mariners having the most favorable hitter matchups this week. They're facing the injury-depleted Astros and Padres rotations and are one of just four teams scheduled for seven games."
+      },
+      {
+        "rank": 8,
+        "name_en": "Cole Young",
+        "position": "SS",
+        "mlb_team": "SEA",
+        "matchup": null,
+        "rostered_pct": "55%",
+        "blurb_en": "After a slow start, Cole Young has brought his batting average back into the respectable range with five multi-hit games in his past 11. The Mariners' top-ranked hitter matchups include Peter Lambert, Lance McCullers, Mike Burrows, Walker Buehler and Matt Waldron."
+      },
+      {
+        "rank": 9,
+        "name_en": "Dominic Canzone",
+        "position": "LF",
+        "mlb_team": "SEA",
+        "matchup": null,
+        "rostered_pct": "26%",
+        "blurb_en": "Not only do the Mariners have the best hitter matchups, but all seven of their games are against left-handers, which is essential for a strict platoon hitter like Dominic Canzone. He's been quiet lately but still has as strong of a data set as you could ask for, including a 99th percentile average exit velocity with a .285 xBA and .509 xSLG."
+      },
+      {
+        "rank": 10,
+        "name_en": "Luke Raley",
+        "position": "RF",
+        "mlb_team": "SEA",
+        "matchup": null,
+        "rostered_pct": "25%",
+        "blurb_en": "Luke Raley is another Mariners hitter who would be far more interesting in Fantasy if not for his strict platoon role. That's a non-issue with the Mariners facing nothing but left-handers this week. They're one of just four teams scheduled for seven games, too, which means Raley might actually end up playing more than the average hitter."
+      }
+    ]
+  },
+  "ai_article": {
+    "article_type": "sleeper_hitters",
+    "week": 8,
+    "article_summary_zh_tw": "本週的睡眠打者推薦聚焦於具備強勁擊球品質、合適對戰與賽程優勢的 10 位球員，尤其是水手、皇家與運動家打線受益明顯。",
+    "players": [
+      {
+        "rank": 1,
+        "name_en": "Jac Caglianone",
+        "summary_en": "Caglianone is still underperforming the spring hype, but his elite exit velocities and a favorable Royals schedule make him a buy-on-ability option.",
+        "summary_zh_tw": "Jac Caglianone 仍未完全兌現春訓期待，但他出色的擊球初速與皇家隊本週的有利賽程讓他值得看好。",
+        "tags": [
+          "1B",
+          "KC",
+          "power",
+          "schedule"
+        ]
+      },
+      {
+        "rank": 2,
+        "name_en": "Carlos Cortes",
+        "summary_en": "Cortes has been productive for the Athletics and gets a strong home schedule with only one left-handed opposing pitcher likely to limit him.",
+        "summary_zh_tw": "Carlos Cortes 本季對運動家相當有產出，而球隊本週的主場好賽程也只會遇到一位左投，讓他更具吸引力。",
+        "tags": [
+          "LF",
+          "ATH",
+          "platoon",
+          "home_splits"
+        ]
+      },
+      {
+        "rank": 3,
+        "name_en": "Nate Lowe",
+        "summary_en": "Lowe has cooled off, but his underlying data remains strong and an opening matchup against Washington makes him a solid play.",
+        "summary_zh_tw": "Nate Lowe 雖然近期降溫，但他的底層數據依舊亮眼，且本週開局對上國民先發使他仍是穩定選擇。",
+        "tags": [
+          "1B",
+          "CIN",
+          "underlying_metrics",
+          "matchup"
+        ]
+      },
+      {
+        "rank": 4,
+        "name_en": "Carter Jensen",
+        "summary_en": "Jensen keeps drawing recommendations because of his hard contact and a favorable slate with limited left-handed pitching.",
+        "summary_zh_tw": "Carter Jensen 以強勁擊球持續獲得推薦，而本週左投不多的賽程也有助於他轉運。",
+        "tags": [
+          "C",
+          "KC",
+          "hard_contact",
+          "schedule"
+        ]
+      },
+      {
+        "rank": 5,
+        "name_en": "J.J. Bleday",
+        "summary_en": "Bleday has seen a bat-speed jump and has been productive, though his playing time against lefties remains uncertain.",
+        "summary_zh_tw": "J.J. Bleday 的揮棒速度明顯提升並帶來產出，但他對左投的出賽穩定性仍有疑慮。",
+        "tags": [
+          "LF",
+          "CIN",
+          "bat_speed",
+          "platoon"
+        ]
+      },
+      {
+        "rank": 6,
+        "name_en": "Gabriel Moreno",
+        "summary_en": "Moreno gets a boost from the Diamondbacks' trip to Coors Field and has shown better contact and more lift this year.",
+        "summary_zh_tw": "Gabriel Moreno 因響尾蛇本週作客 Coors Field 而受益，且他今年的聯繫能力與拉打出空傾向也更明顯。",
+        "tags": [
+          "C",
+          "ARI",
+          "Coors_Field",
+          "contact"
+        ]
+      },
+      {
+        "rank": 7,
+        "name_en": "J.P. Crawford",
+        "summary_en": "Crawford is hot with three homers and a strong on-base stretch, and Seattle's favorable seven-game schedule adds appeal.",
+        "summary_zh_tw": "J.P. Crawford 近期火燙，近七戰敲出三轟並保持高上壘率，而水手本週的七戰好賽程更提升了他的價值。",
+        "tags": [
+          "SS",
+          "SEA",
+          "hot_streak",
+          "seven_games"
+        ]
+      },
+      {
+        "rank": 8,
+        "name_en": "Cole Young",
+        "summary_en": "Young has recovered from a slow start and has been collecting multi-hit games against a strong Mariners slate.",
+        "summary_zh_tw": "Cole Young 已從慢熱中回穩，並在水手本週的強勢對戰組合中持續累積多安打表現。",
+        "tags": [
+          "SS",
+          "SEA",
+          "batting_average",
+          "matchup"
+        ]
+      },
+      {
+        "rank": 9,
+        "name_en": "Dominic Canzone",
+        "summary_en": "Canzone's strict platoon role becomes useful this week because Seattle faces only left-handers across seven games.",
+        "summary_zh_tw": "Dominic Canzone 的嚴格左右投分工本週反而成為優勢，因為水手七場比賽全都面對左投。",
+        "tags": [
+          "LF",
+          "SEA",
+          "platoon",
+          "lefty_matchups"
+        ]
+      },
+      {
+        "rank": 10,
+        "name_en": "Luke Raley",
+        "summary_en": "Raley is another Mariners platoon bat who benefits from a week full of left-handed pitching and a seven-game schedule.",
+        "summary_zh_tw": "Luke Raley 也是另一位受惠於水手本週全左投對戰與七場賽程的 platoon 型打者。",
+        "tags": [
+          "RF",
+          "SEA",
+          "platoon",
+          "lefty_matchups"
+        ]
+      }
+    ],
+    "model": "gpt-5.4-mini",
+    "generated_at": "2026-05-10T06:34:26+00:00"
+  },
+  "players": [
+    {
+      "rank": 1,
+      "name_en": "Jac Caglianone",
+      "summary_en": "Caglianone is still underperforming the spring hype, but his elite exit velocities and a favorable Royals schedule make him a buy-on-ability option.",
+      "summary_zh_tw": "Jac Caglianone 仍未完全兌現春訓期待，但他出色的擊球初速與皇家隊本週的有利賽程讓他值得看好。",
+      "tags": [
+        "1B",
+        "KC",
+        "power",
+        "schedule"
+      ]
+    },
+    {
+      "rank": 2,
+      "name_en": "Carlos Cortes",
+      "summary_en": "Cortes has been productive for the Athletics and gets a strong home schedule with only one left-handed opposing pitcher likely to limit him.",
+      "summary_zh_tw": "Carlos Cortes 本季對運動家相當有產出，而球隊本週的主場好賽程也只會遇到一位左投，讓他更具吸引力。",
+      "tags": [
+        "LF",
+        "ATH",
+        "platoon",
+        "home_splits"
+      ]
+    },
+    {
+      "rank": 3,
+      "name_en": "Nate Lowe",
+      "summary_en": "Lowe has cooled off, but his underlying data remains strong and an opening matchup against Washington makes him a solid play.",
+      "summary_zh_tw": "Nate Lowe 雖然近期降溫，但他的底層數據依舊亮眼，且本週開局對上國民先發使他仍是穩定選擇。",
+      "tags": [
+        "1B",
+        "CIN",
+        "underlying_metrics",
+        "matchup"
+      ]
+    },
+    {
+      "rank": 4,
+      "name_en": "Carter Jensen",
+      "summary_en": "Jensen keeps drawing recommendations because of his hard contact and a favorable slate with limited left-handed pitching.",
+      "summary_zh_tw": "Carter Jensen 以強勁擊球持續獲得推薦，而本週左投不多的賽程也有助於他轉運。",
+      "tags": [
+        "C",
+        "KC",
+        "hard_contact",
+        "schedule"
+      ]
+    },
+    {
+      "rank": 5,
+      "name_en": "J.J. Bleday",
+      "summary_en": "Bleday has seen a bat-speed jump and has been productive, though his playing time against lefties remains uncertain.",
+      "summary_zh_tw": "J.J. Bleday 的揮棒速度明顯提升並帶來產出，但他對左投的出賽穩定性仍有疑慮。",
+      "tags": [
+        "LF",
+        "CIN",
+        "bat_speed",
+        "platoon"
+      ]
+    },
+    {
+      "rank": 6,
+      "name_en": "Gabriel Moreno",
+      "summary_en": "Moreno gets a boost from the Diamondbacks' trip to Coors Field and has shown better contact and more lift this year.",
+      "summary_zh_tw": "Gabriel Moreno 因響尾蛇本週作客 Coors Field 而受益，且他今年的聯繫能力與拉打出空傾向也更明顯。",
+      "tags": [
+        "C",
+        "ARI",
+        "Coors_Field",
+        "contact"
+      ]
+    },
+    {
+      "rank": 7,
+      "name_en": "J.P. Crawford",
+      "summary_en": "Crawford is hot with three homers and a strong on-base stretch, and Seattle's favorable seven-game schedule adds appeal.",
+      "summary_zh_tw": "J.P. Crawford 近期火燙，近七戰敲出三轟並保持高上壘率，而水手本週的七戰好賽程更提升了他的價值。",
+      "tags": [
+        "SS",
+        "SEA",
+        "hot_streak",
+        "seven_games"
+      ]
+    },
+    {
+      "rank": 8,
+      "name_en": "Cole Young",
+      "summary_en": "Young has recovered from a slow start and has been collecting multi-hit games against a strong Mariners slate.",
+      "summary_zh_tw": "Cole Young 已從慢熱中回穩，並在水手本週的強勢對戰組合中持續累積多安打表現。",
+      "tags": [
+        "SS",
+        "SEA",
+        "batting_average",
+        "matchup"
+      ]
+    },
+    {
+      "rank": 9,
+      "name_en": "Dominic Canzone",
+      "summary_en": "Canzone's strict platoon role becomes useful this week because Seattle faces only left-handers across seven games.",
+      "summary_zh_tw": "Dominic Canzone 的嚴格左右投分工本週反而成為優勢，因為水手七場比賽全都面對左投。",
+      "tags": [
+        "LF",
+        "SEA",
+        "platoon",
+        "lefty_matchups"
+      ]
+    },
+    {
+      "rank": 10,
+      "name_en": "Luke Raley",
+      "summary_en": "Raley is another Mariners platoon bat who benefits from a week full of left-handed pitching and a seven-game schedule.",
+      "summary_zh_tw": "Luke Raley 也是另一位受惠於水手本週全左投對戰與七場賽程的 platoon 型打者。",
+      "tags": [
+        "RF",
+        "SEA",
+        "platoon",
+        "lefty_matchups"
+      ]
+    }
+  ],
+  "pipeline": {
+    "version": "1.0",
+    "status": "complete"
+  }
+}

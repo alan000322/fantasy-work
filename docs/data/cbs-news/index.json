@@ -1,10 +1,28 @@
 {
-  "generated_at": "2026-05-04T02:24:00+00:00",
+  "generated_at": "2026-05-08T13:35:00+00:00",
   "latest_week_by_type": {
-    "sleeper_hitters": 7,
-    "sleeper_pitchers": 7
+    "sleeper_hitters": 8,
+    "sleeper_pitchers": 8
   },
   "articles": [
+    {
+      "article_type": "sleeper_pitchers",
+      "week": 8,
+      "title_en": "Fantasy Baseball Week 8 Preview: Top 10 sleeper pitchers feature Max Meyer, Logan Henderson",
+      "published_at": "2026-05-08T13:35:00+00:00",
+      "source_url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-8-preview-top-10-sleeper-pitchers-feature-max-meyer-logan-henderson/",
+      "path": "./data/cbs-news/articles/2026-05-08-fantasy-baseball-week-8-preview-top-10-sleeper-pitchers-feature-max-meyer-logan-henderson.json",
+      "player_count": 10
+    },
+    {
+      "article_type": "sleeper_hitters",
+      "week": 8,
+      "title_en": "Fantasy Baseball Week 8 Preview: Top 10 sleeper hitters include Jac Caglianone, Carlos Cortes",
+      "published_at": "2026-05-08T13:22:57+00:00",
+      "source_url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-8-preview-top-10-sleeper-hitters-include-jac-caglianone-carlos-cortes/",
+      "path": "./data/cbs-news/articles/2026-05-08-fantasy-baseball-week-8-preview-top-10-sleeper-hitters-include-jac-caglianone-carlos-cortes.json",
+      "player_count": 10
+    },
     {
       "article_type": "sleeper_hitters",
       "week": 7,

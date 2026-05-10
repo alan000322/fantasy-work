@@ -1,0 +1,317 @@
+{
+  "source_article": {
+    "source": "CBS Sports",
+    "article_type": "sleeper_pitchers",
+    "week": 8,
+    "title_en": "Fantasy Baseball Week 8 Preview: Top 10 sleeper pitchers feature Max Meyer, Logan Henderson",
+    "url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-8-preview-top-10-sleeper-pitchers-feature-max-meyer-logan-henderson/",
+    "canonical_url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-8-preview-top-10-sleeper-pitchers-feature-max-meyer-logan-henderson/",
+    "slug": "fantasy-baseball-week-8-preview-top-10-sleeper-pitchers-feature-max-meyer-logan-henderson",
+    "author": "Scott White",
+    "published_at": "2026-05-08T13:35:00+00:00",
+    "dek_en": "Two-start pitchers for Fantasy Week 8, with rankings, matchups and top streaming options",
+    "body_en": "Streaming pitchers isn't for the faint of heart, but if you find yourself without enough reliable options in a given scoring period, it may be what you need to stay afloat. Scott White has 10 recommendations for the upcoming scoring period, all rostered in less than 80 percent of CBS Sports leagues. Generally, only the top two or three are full-throated endorsements, while the rest are more about making the best of a bad situation.\n\nBe sure to check back Sunday for the latest updates.\n\n1. Max Meyer (SP) - Max Meyer has made a leap this year by pairing an improved sweeper with his trademark slider and probably shouldn't be as available as he is. The Twins lineup has been curiously productive so far, but when you look at the personnel, it's hard not to think of it as a good matchup.\n2. Chase Dollander (SP) - It's another road outing for Chase Dollander, whose last two have seen him allow no runs in 12 1/2 innings with 16 strikeouts. We know his fastball plays there at least. Jury's still out on how it holds up at Coors Field.\n3. Sean Burke (P) - A surprise standout for the White Sox so far, Sean Burke seems to be thriving on superlative control and weak contact. It's a recipe that may have a short shelf life, but you would expect it to continue against Royals lineup that ranks in the bottom third in runs scored.\n4. Logan Henderson (SP) - With the exception of an April 4 outing at the Royals, Logan Henderson has yet to miss as a major league starter, even though the opportunities have been few and far between. We'll see how he does against the Yankees over the weekend, but if he handles them like he handled the Nationals last time out, then you have no reason to fear his upcoming matchup against the Twins.\n5. Mitch Keller (SP) - Mitch Keller has a different movement profile on his sinker this year and is getting weaker contact as a result, which has so far amounted to a 2.87 ERA and 1.04 WHIP. The lack of strikeouts gives reason for pause, but you can't ask for a better matchup than the Rockies away from Coors Field.\n6. Joey Cantillo (SP) - The strikeouts have dried up for Joey Cantillo in recent starts, but his changeup is still running a high whiff rate. Because he gets two bites at the apple this week, one against the strikeout-prone Angels and another against the underwhelming Reds, you may want to give him another whirl.\n7. Peter Lambert (RP) - Though he's a 29-year-old who has spent more time in the minors than the majors in his career, Peter Lambert has been curiously effective so far -- and I don't just mean in terms of ERA. His 11.8 percent swinging-strike rate and 88.8 mph average exit velocity are both solid, and he's scheduled to face two lineups that rank in the bottom six in runs scored.\n8. Jeffrey Springs (SP) - Jeffrey Springs has made himself a respectable option through weakly hit fly balls. It can backfire at times, but he has two chances to get it right this week. The Giants matchup is especially enticing given that they rank dead last in runs scored.\n9. Ryne Nelson (SP) - A pair of ugly outings (including a high-elevation one in Mexico City) have skewed Ryne Nelson's stats, but he appears to be trending the right direction again with a fastball-heavy approach that's proven its mettle over the past couple years. The Rangers, meanwhile, rank third-to-last in runs scored.\n10. Reid Detmers (SP) - Reid Detmers has gotten good results with his new changeup this year, and while it hasn't led to huge success, he has done a respectable job of limiting damage while running up some quality strikeout numbers. The Guardians matchup remains an inviting one.",
+    "fetched_at": "2026-05-10T06:34:05+00:00",
+    "player_cards": [
+      {
+        "rank": 1,
+        "name_en": "Max Meyer",
+        "position": "SP",
+        "mlb_team": "MIA",
+        "matchup": "at MIN",
+        "rostered_pct": "71%",
+        "blurb_en": "Max Meyer has made a leap this year by pairing an improved sweeper with his trademark slider and probably shouldn't be as available as he is. The Twins lineup has been curiously productive so far, but when you look at the personnel, it's hard not to think of it as a good matchup."
+      },
+      {
+        "rank": 2,
+        "name_en": "Chase Dollander",
+        "position": "SP",
+        "mlb_team": "COL",
+        "matchup": "at PIT",
+        "rostered_pct": "62%",
+        "blurb_en": "It's another road outing for Chase Dollander, whose last two have seen him allow no runs in 12 1/2 innings with 16 strikeouts. We know his fastball plays there at least. Jury's still out on how it holds up at Coors Field."
+      },
+      {
+        "rank": 3,
+        "name_en": "Sean Burke",
+        "position": "P",
+        "mlb_team": "CHW",
+        "matchup": "vs. KC",
+        "rostered_pct": "39%",
+        "blurb_en": "A surprise standout for the White Sox so far, Sean Burke seems to be thriving on superlative control and weak contact. It's a recipe that may have a short shelf life, but you would expect it to continue against Royals lineup that ranks in the bottom third in runs scored."
+      },
+      {
+        "rank": 4,
+        "name_en": "Logan Henderson",
+        "position": "SP",
+        "mlb_team": "MIL",
+        "matchup": "at MIN",
+        "rostered_pct": "60%",
+        "blurb_en": "With the exception of an April 4 outing at the Royals, Logan Henderson has yet to miss as a major league starter, even though the opportunities have been few and far between. We'll see how he does against the Yankees over the weekend, but if he handles them like he handled the Nationals last time out, then you have no reason to fear his upcoming matchup against the Twins."
+      },
+      {
+        "rank": 5,
+        "name_en": "Mitch Keller",
+        "position": "SP",
+        "mlb_team": "PIT",
+        "matchup": "vs. COL",
+        "rostered_pct": "78%",
+        "blurb_en": "Mitch Keller has a different movement profile on his sinker this year and is getting weaker contact as a result, which has so far amounted to a 2.87 ERA and 1.04 WHIP. The lack of strikeouts gives reason for pause, but you can't ask for a better matchup than the Rockies away from Coors Field."
+      },
+      {
+        "rank": 6,
+        "name_en": "Joey Cantillo",
+        "position": "SP",
+        "mlb_team": "CLE",
+        "matchup": null,
+        "rostered_pct": "65%",
+        "blurb_en": "The strikeouts have dried up for Joey Cantillo in recent starts, but his changeup is still running a high whiff rate. Because he gets two bites at the apple this week, one against the strikeout-prone Angels and another against the underwhelming Reds, you may want to give him another whirl."
+      },
+      {
+        "rank": 7,
+        "name_en": "Peter Lambert",
+        "position": "RP",
+        "mlb_team": "HOU",
+        "matchup": null,
+        "rostered_pct": "36%",
+        "blurb_en": "Though he's a 29-year-old who has spent more time in the minors than the majors in his career, Peter Lambert has been curiously effective so far -- and I don't just mean in terms of ERA. His 11.8 percent swinging-strike rate and 88.8 mph average exit velocity are both solid, and he's scheduled to face two lineups that rank in the bottom six in runs scored."
+      },
+      {
+        "rank": 8,
+        "name_en": "Jeffrey Springs",
+        "position": "SP",
+        "mlb_team": "ATH",
+        "matchup": null,
+        "rostered_pct": "73%",
+        "blurb_en": "Jeffrey Springs has made himself a respectable option through weakly hit fly balls. It can backfire at times, but he has two chances to get it right this week. The Giants matchup is especially enticing given that they rank dead last in runs scored."
+      },
+      {
+        "rank": 9,
+        "name_en": "Ryne Nelson",
+        "position": "SP",
+        "mlb_team": "ARI",
+        "matchup": "at TEX",
+        "rostered_pct": "48%",
+        "blurb_en": "A pair of ugly outings (including a high-elevation one in Mexico City) have skewed Ryne Nelson's stats, but he appears to be trending the right direction again with a fastball-heavy approach that's proven its mettle over the past couple years. The Rangers, meanwhile, rank third-to-last in runs scored."
+      },
+      {
+        "rank": 10,
+        "name_en": "Reid Detmers",
+        "position": "SP",
+        "mlb_team": "LAA",
+        "matchup": "at CLE",
+        "rostered_pct": "65%",
+        "blurb_en": "Reid Detmers has gotten good results with his new changeup this year, and while it hasn't led to huge success, he has done a respectable job of limiting damage while running up some quality strikeout numbers. The Guardians matchup remains an inviting one."
+      }
+    ]
+  },
+  "ai_article": {
+    "article_type": "sleeper_pitchers",
+    "week": 8,
+    "article_summary_zh_tw": "本週的投手串流名單以兩先發與可用性高的投手為主，重點推薦 Max Meyer 與 Logan Henderson 等十位低持有率選項。",
+    "players": [
+      {
+        "rank": 1,
+        "name_en": "Max Meyer",
+        "summary_en": "Max Meyer has made a leap this year by pairing an improved sweeper with his trademark slider and probably shouldn't be as available as he is. The Twins lineup has been curiously productive so far, but when you look at the personnel, it's hard not to think of it as a good matchup.",
+        "summary_zh_tw": "Max Meyer 本季因新增更好的 sweeper 搭配招牌 slider 而進步明顯，面對人員配置並不理想的雙城算是值得信賴的對戰。",
+        "tags": [
+          "SP",
+          "at MIN"
+        ]
+      },
+      {
+        "rank": 2,
+        "name_en": "Chase Dollander",
+        "summary_en": "It's another road outing for Chase Dollander, whose last two have seen him allow no runs in 12 1/2 innings with 16 strikeouts. We know his fastball plays there at least. Jury's still out on how it holds up at Coors Field.",
+        "summary_zh_tw": "Chase Dollander 近兩場客場先發合計 12 又 1/2 局無失分並送出 16 次三振，但他在 Coors Field 的表現仍待觀察。",
+        "tags": [
+          "SP",
+          "at PIT"
+        ]
+      },
+      {
+        "rank": 3,
+        "name_en": "Sean Burke",
+        "summary_en": "A surprise standout for the White Sox so far, Sean Burke seems to be thriving on superlative control and weak contact. It's a recipe that may have a short shelf life, but you would expect it to continue against Royals lineup that ranks in the bottom third in runs scored.",
+        "summary_zh_tw": "Sean Burke 目前靠出色控球與製造弱擊球表現亮眼，對上得分火力排在後段的皇家應可延續這種優勢。",
+        "tags": [
+          "P",
+          "vs. KC"
+        ]
+      },
+      {
+        "rank": 4,
+        "name_en": "Logan Henderson",
+        "summary_en": "With the exception of an April 4 outing at the Royals, Logan Henderson has yet to miss as a major league starter, even though the opportunities have been few and far between. We'll see how he does against the Yankees over the weekend, but if he handles them like he handled the Nationals last time out, then you have no reason to fear his upcoming matchup against the Twins.",
+        "summary_zh_tw": "Logan Henderson 除了 4 月 4 日對皇家那場外幾乎都能穩定壓制打者，如果他延續上次對國民的內容，接下來面對雙城也不必過度擔心。",
+        "tags": [
+          "SP",
+          "at MIN"
+        ]
+      },
+      {
+        "rank": 5,
+        "name_en": "Mitch Keller",
+        "summary_en": "Mitch Keller has a different movement profile on his sinker this year and is getting weaker contact as a result, which has so far amounted to a 2.87 ERA and 1.04 WHIP. The lack of strikeouts gives reason for pause, but you can't ask for a better matchup than the Rockies away from Coors Field.",
+        "summary_zh_tw": "Mitch Keller 本季沉球型態改變後帶來更弱的擊球，累積出 2.87 防禦率與 1.04 WHIP，但對上離開 Coors 的洛磯仍是極佳對戰。",
+        "tags": [
+          "SP",
+          "vs. COL"
+        ]
+      },
+      {
+        "rank": 6,
+        "name_en": "Joey Cantillo",
+        "summary_en": "The strikeouts have dried up for Joey Cantillo in recent starts, but his changeup is still running a high whiff rate. Because he gets two bites at the apple this week, one against the strikeout-prone Angels and another against the underwhelming Reds, you may want to give him another whirl.",
+        "summary_zh_tw": "Joey Cantillo 近期三振數下滑，但變速球仍有高揮空率，而且本週有兩場對手可用性不錯，值得再試一次。",
+        "tags": [
+          "SP"
+        ]
+      },
+      {
+        "rank": 7,
+        "name_en": "Peter Lambert",
+        "summary_en": "Though he's a 29-year-old who has spent more time in the minors than the majors in his career, Peter Lambert has been curiously effective so far -- and I don't just mean in terms of ERA. His 11.8 percent swinging-strike rate and 88.8 mph average exit velocity are both solid, and he's scheduled to face two lineups that rank in the bottom six in runs scored.",
+        "summary_zh_tw": "Peter Lambert 雖然履歷不起眼，但目前成效相當不錯，且本週還要面對兩個得分能力都在聯盟後段的打線。",
+        "tags": [
+          "RP"
+        ]
+      },
+      {
+        "rank": 8,
+        "name_en": "Jeffrey Springs",
+        "summary_en": "Jeffrey Springs has made himself a respectable option through weakly hit fly balls. It can backfire at times, but he has two chances to get it right this week. The Giants matchup is especially enticing given that they rank dead last in runs scored.",
+        "summary_zh_tw": "Jeffrey Springs 以製造軟弱飛球維持實用性，而對上得分墊底的巨人讓他本週的兩次機會更具吸引力。",
+        "tags": [
+          "SP"
+        ]
+      },
+      {
+        "rank": 9,
+        "name_en": "Ryne Nelson",
+        "summary_en": "A pair of ugly outings (including a high-elevation one in Mexico City) have skewed Ryne Nelson's stats, but he appears to be trending the right direction again with a fastball-heavy approach that's proven its mettle over the past couple years. The Rangers, meanwhile, rank third-to-last in runs scored.",
+        "summary_zh_tw": "Ryne Nelson 雖被兩場失常表現拉低數據，但他正朝正確方向回升，而對上得分倒數的遊騎兵也相當合適。",
+        "tags": [
+          "SP",
+          "at TEX"
+        ]
+      },
+      {
+        "rank": 10,
+        "name_en": "Reid Detmers",
+        "summary_en": "Reid Detmers has gotten good results with his new changeup this year, and while it hasn't led to huge success, he has done a respectable job of limiting damage while running up some quality strikeout numbers. The Guardians matchup remains an inviting one.",
+        "summary_zh_tw": "Reid Detmers 靠新的 changeup 取得不錯成效，雖未大爆發但能控制失分並累積三振，對守護者的對戰仍具吸引力。",
+        "tags": [
+          "SP",
+          "at CLE"
+        ]
+      }
+    ],
+    "model": "gpt-5.4-mini",
+    "generated_at": "2026-05-10T06:34:18+00:00"
+  },
+  "players": [
+    {
+      "rank": 1,
+      "name_en": "Max Meyer",
+      "summary_en": "Max Meyer has made a leap this year by pairing an improved sweeper with his trademark slider and probably shouldn't be as available as he is. The Twins lineup has been curiously productive so far, but when you look at the personnel, it's hard not to think of it as a good matchup.",
+      "summary_zh_tw": "Max Meyer 本季因新增更好的 sweeper 搭配招牌 slider 而進步明顯，面對人員配置並不理想的雙城算是值得信賴的對戰。",
+      "tags": [
+        "SP",
+        "at MIN"
+      ]
+    },
+    {
+      "rank": 2,
+      "name_en": "Chase Dollander",
+      "summary_en": "It's another road outing for Chase Dollander, whose last two have seen him allow no runs in 12 1/2 innings with 16 strikeouts. We know his fastball plays there at least. Jury's still out on how it holds up at Coors Field.",
+      "summary_zh_tw": "Chase Dollander 近兩場客場先發合計 12 又 1/2 局無失分並送出 16 次三振，但他在 Coors Field 的表現仍待觀察。",
+      "tags": [
+        "SP",
+        "at PIT"
+      ]
+    },
+    {
+      "rank": 3,
+      "name_en": "Sean Burke",
+      "summary_en": "A surprise standout for the White Sox so far, Sean Burke seems to be thriving on superlative control and weak contact. It's a recipe that may have a short shelf life, but you would expect it to continue against Royals lineup that ranks in the bottom third in runs scored.",
+      "summary_zh_tw": "Sean Burke 目前靠出色控球與製造弱擊球表現亮眼，對上得分火力排在後段的皇家應可延續這種優勢。",
+      "tags": [
+        "P",
+        "vs. KC"
+      ]
+    },
+    {
+      "rank": 4,
+      "name_en": "Logan Henderson",
+      "summary_en": "With the exception of an April 4 outing at the Royals, Logan Henderson has yet to miss as a major league starter, even though the opportunities have been few and far between. We'll see how he does against the Yankees over the weekend, but if he handles them like he handled the Nationals last time out, then you have no reason to fear his upcoming matchup against the Twins.",
+      "summary_zh_tw": "Logan Henderson 除了 4 月 4 日對皇家那場外幾乎都能穩定壓制打者，如果他延續上次對國民的內容，接下來面對雙城也不必過度擔心。",
+      "tags": [
+        "SP",
+        "at MIN"
+      ]
+    },
+    {
+      "rank": 5,
+      "name_en": "Mitch Keller",
+      "summary_en": "Mitch Keller has a different movement profile on his sinker this year and is getting weaker contact as a result, which has so far amounted to a 2.87 ERA and 1.04 WHIP. The lack of strikeouts gives reason for pause, but you can't ask for a better matchup than the Rockies away from Coors Field.",
+      "summary_zh_tw": "Mitch Keller 本季沉球型態改變後帶來更弱的擊球，累積出 2.87 防禦率與 1.04 WHIP，但對上離開 Coors 的洛磯仍是極佳對戰。",
+      "tags": [
+        "SP",
+        "vs. COL"
+      ]
+    },
+    {
+      "rank": 6,
+      "name_en": "Joey Cantillo",
+      "summary_en": "The strikeouts have dried up for Joey Cantillo in recent starts, but his changeup is still running a high whiff rate. Because he gets two bites at the apple this week, one against the strikeout-prone Angels and another against the underwhelming Reds, you may want to give him another whirl.",
+      "summary_zh_tw": "Joey Cantillo 近期三振數下滑，但變速球仍有高揮空率，而且本週有兩場對手可用性不錯，值得再試一次。",
+      "tags": [
+        "SP"
+      ]
+    },
+    {
+      "rank": 7,
+      "name_en": "Peter Lambert",
+      "summary_en": "Though he's a 29-year-old who has spent more time in the minors than the majors in his career, Peter Lambert has been curiously effective so far -- and I don't just mean in terms of ERA. His 11.8 percent swinging-strike rate and 88.8 mph average exit velocity are both solid, and he's scheduled to face two lineups that rank in the bottom six in runs scored.",
+      "summary_zh_tw": "Peter Lambert 雖然履歷不起眼，但目前成效相當不錯，且本週還要面對兩個得分能力都在聯盟後段的打線。",
+      "tags": [
+        "RP"
+      ]
+    },
+    {
+      "rank": 8,
+      "name_en": "Jeffrey Springs",
+      "summary_en": "Jeffrey Springs has made himself a respectable option through weakly hit fly balls. It can backfire at times, but he has two chances to get it right this week. The Giants matchup is especially enticing given that they rank dead last in runs scored.",
+      "summary_zh_tw": "Jeffrey Springs 以製造軟弱飛球維持實用性，而對上得分墊底的巨人讓他本週的兩次機會更具吸引力。",
+      "tags": [
+        "SP"
+      ]
+    },
+    {
+      "rank": 9,
+      "name_en": "Ryne Nelson",
+      "summary_en": "A pair of ugly outings (including a high-elevation one in Mexico City) have skewed Ryne Nelson's stats, but he appears to be trending the right direction again with a fastball-heavy approach that's proven its mettle over the past couple years. The Rangers, meanwhile, rank third-to-last in runs scored.",
+      "summary_zh_tw": "Ryne Nelson 雖被兩場失常表現拉低數據，但他正朝正確方向回升，而對上得分倒數的遊騎兵也相當合適。",
+      "tags": [
+        "SP",
+        "at TEX"
+      ]
+    },
+    {
+      "rank": 10,
+      "name_en": "Reid Detmers",
+      "summary_en": "Reid Detmers has gotten good results with his new changeup this year, and while it hasn't led to huge success, he has done a respectable job of limiting damage while running up some quality strikeout numbers. The Guardians matchup remains an inviting one.",
+      "summary_zh_tw": "Reid Detmers 靠新的 changeup 取得不錯成效，雖未大爆發但能控制失分並累積三振，對守護者的對戰仍具吸引力。",
+      "tags": [
+        "SP",
+        "at CLE"
+      ]
+    }
+  ],
+  "pipeline": {
+    "version": "1.0",
+    "status": "complete"
+  }
+}

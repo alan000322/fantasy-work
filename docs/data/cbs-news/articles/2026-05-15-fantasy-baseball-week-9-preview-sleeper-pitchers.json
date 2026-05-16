@@ -1,0 +1,333 @@
+{
+  "source_article": {
+    "source": "CBS Sports",
+    "article_type": "sleeper_pitchers",
+    "week": 9,
+    "title_en": "Fantasy Baseball Week 9 Preview: Top 10 sleeper pitchers include Ryne Nelson, Walbert Urena",
+    "url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-9-preview-sleeper-pitchers/",
+    "canonical_url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-9-preview-sleeper-pitchers/",
+    "slug": "fantasy-baseball-week-9-preview-sleeper-pitchers",
+    "author": "Scott White",
+    "published_at": "2026-05-15T10:58:00+00:00",
+    "dek_en": "Two-start pitchers for Fantasy Week 8, with rankings, matchups and top streaming options",
+    "body_en": "Streaming pitchers isn't for the faint of heart, but if you find yourself without enough reliable options in a given scoring period, it may be what you need to stay afloat. Scott White has 10 recommendations for the upcoming scoring period, all rostered in less than 80 percent of CBS Sports leagues. Generally, only the top two or three are full-throated endorsements, while the rest are more about making the best of a bad situation.\n\nBe sure to check back Sunday for the latest updates.\n\n1. Ryne Nelson (SP) - A black sheep start against the Blue Jays on April 19 was followed by an unfair one in the thin air of Mexico City, inflating Ryne Nelson's ERA and cratering his roster rate. But he's looked great since then and has some particularly favorable matchups here against the bottom-ranked Giants and the Rockies away from Coors Field.\n2. Walbert Urena (SP) - Walbert Urena excels at pitching to contact with a high ground-ball rate and basement-level exit velocity readings, and he also has some modest strikeout appeal thanks to a plus changeup. His outings have tended to run short, but he's in line for two of them week, with one being a particularly favorable matchup against the Athletics.\n3. Reid Detmers (SP) - Reid Detmers continues to underperform his peripherals and has become an exhausting inclusion here week after week, but with two starts against strikeout-prone teams, you could hope for at least one quality start and upward of 15 strikeouts.\n4. Andrew Abbott (SP) - Fantasy Baseballers were by and large too quick to abandon Andrew Abbott when he got off to a poor start, and now he heads into the weekend with a 1.02 ERA in his past three starts. Presuming his upcoming turn against the Guardians goes well, he'll be an advisable streamer against a Phillies lineup that still ranks in the bottom five in runs scored.\n5. Cade Cavalli (SP) - Injuries have brought the Mets offense to a state of abject misery, ranking second-to-last in runs scored, and Cade Cavalli has already proven his mettle against them, striking out 10 in a quality start on April 29.\n6. Bailey Ober (SP) - We're getting into more dangerous territory here, seeing as a pitch-to-contact fly-ball guy is inherently dangerous at Fenway Park. But the Red Sox have fallen to third-to-last in runs scored, and Bailey Ober is coming off a complete game shutout (otherwise known as, um, a shutout).\n7. Zac Gallen (SP) - There may be no redeeming Zac Gallen in the long run, but in the short run, he lines up for two of the best matchups you could ask for, with the Giants ranking dead last in runs scored and the Rockies doing what they do away from Coors Field. In points leagues, he's a valid play.\n8. Andrew Painter (SP) - The downside risk remains for Andrew Painter, but he did seem to be on the right track by fading his fastball in his latest start and ended up allowing just one run in five innings. The Reds and Guardians make for some nice matchups.\n9. Eduardo Rodriguez (SP) - I don't trust Eduardo Rodriguez's one earned run over 15 1/3 innings in his last two starts, and his turn at Coors Field this weekend may expose why. If he navigates it adequately, though, he'll have the joy of facing the Rockies away from Coors Field next time out.\n10. Foster Griffin (SP) - Foster Griffin got his comeuppance last time out with nine earned runs in 4 1/3 innings, but he still came away with a 3.53 ERA and 1.14 WHIP. With a respectable K/9 rate (8.7) and a penchant for weak contact, I think he's good enough to use in a two-start week, even with the bipolar matchups.",
+    "fetched_at": "2026-05-16T11:00:47+00:00",
+    "player_cards": [
+      {
+        "rank": 1,
+        "name_en": "Ryne Nelson",
+        "position": "SP",
+        "mlb_team": "ARI",
+        "matchup": null,
+        "rostered_pct": "59%",
+        "blurb_en": "A black sheep start against the Blue Jays on April 19 was followed by an unfair one in the thin air of Mexico City, inflating Ryne Nelson's ERA and cratering his roster rate. But he's looked great since then and has some particularly favorable matchups here against the bottom-ranked Giants and the Rockies away from Coors Field."
+      },
+      {
+        "rank": 2,
+        "name_en": "Walbert Urena",
+        "position": "SP",
+        "mlb_team": "LAA",
+        "matchup": null,
+        "rostered_pct": "11%",
+        "blurb_en": "Walbert Urena excels at pitching to contact with a high ground-ball rate and basement-level exit velocity readings, and he also has some modest strikeout appeal thanks to a plus changeup. His outings have tended to run short, but he's in line for two of them week, with one being a particularly favorable matchup against the Athletics."
+      },
+      {
+        "rank": 3,
+        "name_en": "Reid Detmers",
+        "position": "SP",
+        "mlb_team": "LAA",
+        "matchup": null,
+        "rostered_pct": "62%",
+        "blurb_en": "Reid Detmers continues to underperform his peripherals and has become an exhausting inclusion here week after week, but with two starts against strikeout-prone teams, you could hope for at least one quality start and upward of 15 strikeouts."
+      },
+      {
+        "rank": 4,
+        "name_en": "Andrew Abbott",
+        "position": "SP",
+        "mlb_team": "CIN",
+        "matchup": "at PHI",
+        "rostered_pct": "65%",
+        "blurb_en": "Fantasy Baseballers were by and large too quick to abandon Andrew Abbott when he got off to a poor start, and now he heads into the weekend with a 1.02 ERA in his past three starts. Presuming his upcoming turn against the Guardians goes well, he'll be an advisable streamer against a Phillies lineup that still ranks in the bottom five in runs scored."
+      },
+      {
+        "rank": 5,
+        "name_en": "Cade Cavalli",
+        "position": "SP",
+        "mlb_team": "WAS",
+        "matchup": "vs. NYM",
+        "rostered_pct": "41%",
+        "blurb_en": "Injuries have brought the Mets offense to a state of abject misery, ranking second-to-last in runs scored, and Cade Cavalli has already proven his mettle against them, striking out 10 in a quality start on April 29."
+      },
+      {
+        "rank": 6,
+        "name_en": "Bailey Ober",
+        "position": "SP",
+        "mlb_team": "MIN",
+        "matchup": "at BOS",
+        "rostered_pct": "70%",
+        "blurb_en": "We're getting into more dangerous territory here, seeing as a pitch-to-contact fly-ball guy is inherently dangerous at Fenway Park. But the Red Sox have fallen to third-to-last in runs scored, and Bailey Ober is coming off a complete game shutout (otherwise known as, um, a shutout)."
+      },
+      {
+        "rank": 7,
+        "name_en": "Zac Gallen",
+        "position": "SP",
+        "mlb_team": "ARI",
+        "matchup": null,
+        "rostered_pct": "62%",
+        "blurb_en": "There may be no redeeming Zac Gallen in the long run, but in the short run, he lines up for two of the best matchups you could ask for, with the Giants ranking dead last in runs scored and the Rockies doing what they do away from Coors Field. In points leagues, he's a valid play."
+      },
+      {
+        "rank": 8,
+        "name_en": "Andrew Painter",
+        "position": "SP",
+        "mlb_team": "PHI",
+        "matchup": null,
+        "rostered_pct": "51%",
+        "blurb_en": "The downside risk remains for Andrew Painter, but he did seem to be on the right track by fading his fastball in his latest start and ended up allowing just one run in five innings. The Reds and Guardians make for some nice matchups."
+      },
+      {
+        "rank": 9,
+        "name_en": "Eduardo Rodriguez",
+        "position": "SP",
+        "mlb_team": "ARI",
+        "matchup": "vs. COL",
+        "rostered_pct": "56%",
+        "blurb_en": "I don't trust Eduardo Rodriguez's one earned run over 15 1/3 innings in his last two starts, and his turn at Coors Field this weekend may expose why. If he navigates it adequately, though, he'll have the joy of facing the Rockies away from Coors Field next time out."
+      },
+      {
+        "rank": 10,
+        "name_en": "Foster Griffin",
+        "position": "SP",
+        "mlb_team": "WAS",
+        "matchup": null,
+        "rostered_pct": "79%",
+        "blurb_en": "Foster Griffin got his comeuppance last time out with nine earned runs in 4 1/3 innings, but he still came away with a 3.53 ERA and 1.14 WHIP. With a respectable K/9 rate (8.7) and a penchant for weak contact, I think he's good enough to use in a two-start week, even with the bipolar matchups."
+      }
+    ]
+  },
+  "ai_article": {
+    "article_type": "sleeper_pitchers",
+    "week": 9,
+    "article_summary_zh_tw": "本文推薦CBS體育聯盟登錄率低於80%的10位潛力投手，並詳述他們的比賽對陣和表現分析。",
+    "players": [
+      {
+        "rank": 1,
+        "name_en": "Ryne Nelson",
+        "summary_en": "A black sheep start against the Blue Jays on April 19 was followed by an unfair one in the thin air of Mexico City, inflating Ryne Nelson's ERA and cratering his roster rate. But he's looked great since then and has some particularly favorable matchups here against the bottom-ranked Giants and the Rockies away from Coors Field.",
+        "summary_zh_tw": "林恩·尼爾森近期狀態大好，面對排名靠後的巨人隊和客場非科爾斯球場的洛磯隊有利配對。",
+        "tags": [
+          "ERA inflated",
+          "favorable matchups"
+        ]
+      },
+      {
+        "rank": 2,
+        "name_en": "Walbert Urena",
+        "summary_en": "Walbert Urena excels at pitching to contact with a high ground-ball rate and basement-level exit velocity readings, and he also has some modest strikeout appeal thanks to a plus changeup. His outings have tended to run short, but he's in line for two of them week, with one being a particularly favorable matchup against the Athletics.",
+        "summary_zh_tw": "瓦爾伯特·烏雷納擅長誘使對手接觸球，具有高滾地球率和良好變速球，這週有兩場出賽且面對運動家隊具有利條件。",
+        "tags": [
+          "high ground-ball rate",
+          "plus changeup",
+          "two starts"
+        ]
+      },
+      {
+        "rank": 3,
+        "name_en": "Reid Detmers",
+        "summary_en": "Reid Detmers continues to underperform his peripherals and has become an exhausting inclusion here week after week, but with two starts against strikeout-prone teams, you could hope for at least one quality start and upward of 15 strikeouts.",
+        "summary_zh_tw": "里德·德特默斯近期表現未達預期，但本週有兩場對抗高三振率球隊的比賽，可能有不錯表現。",
+        "tags": [
+          "underperforming peripherals",
+          "two starts",
+          "strikeout potential"
+        ]
+      },
+      {
+        "rank": 4,
+        "name_en": "Andrew Abbott",
+        "summary_en": "Fantasy Baseballers were by and large too quick to abandon Andrew Abbott when he got off to a poor start, and now he heads into the weekend with a 1.02 ERA in his past three starts. Presuming his upcoming turn against the Guardians goes well, he'll be an advisable streamer against a Phillies lineup that still ranks in the bottom five in runs scored.",
+        "summary_zh_tw": "安德魯·亞博特近三場防禦率僅1.02，是對抗守護者隊和得分低位菲律賓隊的推薦選擇。",
+        "tags": [
+          "improved ERA",
+          "favorable matchup against Phillies"
+        ]
+      },
+      {
+        "rank": 5,
+        "name_en": "Cade Cavalli",
+        "summary_en": "Injuries have brought the Mets offense to a state of abject misery, ranking second-to-last in runs scored, and Cade Cavalli has already proven his mettle against them, striking out 10 in a quality start on April 29.",
+        "summary_zh_tw": "凱德·卡瓦利曾在4月29日對戰火腿隊時拿下10次三振，面對受傷嚴重、得分墊底的大都會隊仍有潛力。",
+        "tags": [
+          "quality start",
+          "strikeouts",
+          "favorable matchup"
+        ]
+      },
+      {
+        "rank": 6,
+        "name_en": "Bailey Ober",
+        "summary_en": "We're getting into more dangerous territory here, seeing as a pitch-to-contact fly-ball guy is inherently dangerous at Fenway Park. But the Red Sox have fallen to third-to-last in runs scored, and Bailey Ober is coming off a complete game shutout (otherwise known as, um, a shutout).",
+        "summary_zh_tw": "貝利·奧伯是擅長誘使接觸的飛球投手，雖Fenway球場危險但紅襪得分偏低，他剛完成一場完封勝。",
+        "tags": [
+          "pitch-to-contact",
+          "fly-ball pitcher",
+          "recent complete game shutout"
+        ]
+      },
+      {
+        "rank": 7,
+        "name_en": "Zac Gallen",
+        "summary_en": "There may be no redeeming Zac Gallen in the long run, but in the short run, he lines up for two of the best matchups you could ask for, with the Giants ranking dead last in runs scored and the Rockies doing what they do away from Coors Field. In points leagues, he's a valid play.",
+        "summary_zh_tw": "扎克·加倫本週面對排名墊底的巨人隊及客場非科爾斯球場的洛磯隊，是短期內有效的選擇。",
+        "tags": [
+          "favorable matchups",
+          "points leagues"
+        ]
+      },
+      {
+        "rank": 8,
+        "name_en": "Andrew Painter",
+        "summary_en": "The downside risk remains for Andrew Painter, but he did seem to be on the right track by fading his fastball in his latest start and ended up allowing just one run in five innings. The Reds and Guardians make for some nice matchups.",
+        "summary_zh_tw": "安德魯·潘特積極調整變速，此番對陣紅人及守護者隊配對不錯。",
+        "tags": [
+          "improved pitching",
+          "favorable matchups"
+        ]
+      },
+      {
+        "rank": 9,
+        "name_en": "Eduardo Rodriguez",
+        "summary_en": "I don't trust Eduardo Rodriguez's one earned run over 15 1/3 innings in his last two starts, and his turn at Coors Field this weekend may expose why. If he navigates it adequately, though, he'll have the joy of facing the Rockies away from Coors Field next time out.",
+        "summary_zh_tw": "愛德華多·羅德里格斯近兩場僅失一分，但在科爾斯球場比賽存在風險，隨後將對戰非科爾斯球場的洛磯隊。",
+        "tags": [
+          "low recent runs allowed",
+          "risk at Coors Field"
+        ]
+      },
+      {
+        "rank": 10,
+        "name_en": "Foster Griffin",
+        "summary_en": "Foster Griffin got his comeuppance last time out with nine earned runs in 4 1/3 innings, but he still came away with a 3.53 ERA and 1.14 WHIP. With a respectable K/9 rate (8.7) and a penchant for weak contact, I think he's good enough to use in a two-start week, even with the bipolar matchups.",
+        "summary_zh_tw": "福斯特·格里芬最近一次壞掉但整體防禦率及三振率尚可，適合兩場出賽週使用。",
+        "tags": [
+          "inconsistent recent start",
+          "decent K/9 rate",
+          "weak contact induction"
+        ]
+      }
+    ],
+    "model": "gpt-4.1-mini",
+    "generated_at": "2026-05-16T11:01:13+00:00"
+  },
+  "players": [
+    {
+      "rank": 1,
+      "name_en": "Ryne Nelson",
+      "summary_en": "A black sheep start against the Blue Jays on April 19 was followed by an unfair one in the thin air of Mexico City, inflating Ryne Nelson's ERA and cratering his roster rate. But he's looked great since then and has some particularly favorable matchups here against the bottom-ranked Giants and the Rockies away from Coors Field.",
+      "summary_zh_tw": "林恩·尼爾森近期狀態大好，面對排名靠後的巨人隊和客場非科爾斯球場的洛磯隊有利配對。",
+      "tags": [
+        "ERA inflated",
+        "favorable matchups"
+      ]
+    },
+    {
+      "rank": 2,
+      "name_en": "Walbert Urena",
+      "summary_en": "Walbert Urena excels at pitching to contact with a high ground-ball rate and basement-level exit velocity readings, and he also has some modest strikeout appeal thanks to a plus changeup. His outings have tended to run short, but he's in line for two of them week, with one being a particularly favorable matchup against the Athletics.",
+      "summary_zh_tw": "瓦爾伯特·烏雷納擅長誘使對手接觸球，具有高滾地球率和良好變速球，這週有兩場出賽且面對運動家隊具有利條件。",
+      "tags": [
+        "high ground-ball rate",
+        "plus changeup",
+        "two starts"
+      ]
+    },
+    {
+      "rank": 3,
+      "name_en": "Reid Detmers",
+      "summary_en": "Reid Detmers continues to underperform his peripherals and has become an exhausting inclusion here week after week, but with two starts against strikeout-prone teams, you could hope for at least one quality start and upward of 15 strikeouts.",
+      "summary_zh_tw": "里德·德特默斯近期表現未達預期，但本週有兩場對抗高三振率球隊的比賽，可能有不錯表現。",
+      "tags": [
+        "underperforming peripherals",
+        "two starts",
+        "strikeout potential"
+      ]
+    },
+    {
+      "rank": 4,
+      "name_en": "Andrew Abbott",
+      "summary_en": "Fantasy Baseballers were by and large too quick to abandon Andrew Abbott when he got off to a poor start, and now he heads into the weekend with a 1.02 ERA in his past three starts. Presuming his upcoming turn against the Guardians goes well, he'll be an advisable streamer against a Phillies lineup that still ranks in the bottom five in runs scored.",
+      "summary_zh_tw": "安德魯·亞博特近三場防禦率僅1.02，是對抗守護者隊和得分低位菲律賓隊的推薦選擇。",
+      "tags": [
+        "improved ERA",
+        "favorable matchup against Phillies"
+      ]
+    },
+    {
+      "rank": 5,
+      "name_en": "Cade Cavalli",
+      "summary_en": "Injuries have brought the Mets offense to a state of abject misery, ranking second-to-last in runs scored, and Cade Cavalli has already proven his mettle against them, striking out 10 in a quality start on April 29.",
+      "summary_zh_tw": "凱德·卡瓦利曾在4月29日對戰火腿隊時拿下10次三振，面對受傷嚴重、得分墊底的大都會隊仍有潛力。",
+      "tags": [
+        "quality start",
+        "strikeouts",
+        "favorable matchup"
+      ]
+    },
+    {
+      "rank": 6,
+      "name_en": "Bailey Ober",
+      "summary_en": "We're getting into more dangerous territory here, seeing as a pitch-to-contact fly-ball guy is inherently dangerous at Fenway Park. But the Red Sox have fallen to third-to-last in runs scored, and Bailey Ober is coming off a complete game shutout (otherwise known as, um, a shutout).",
+      "summary_zh_tw": "貝利·奧伯是擅長誘使接觸的飛球投手，雖Fenway球場危險但紅襪得分偏低，他剛完成一場完封勝。",
+      "tags": [
+        "pitch-to-contact",
+        "fly-ball pitcher",
+        "recent complete game shutout"
+      ]
+    },
+    {
+      "rank": 7,
+      "name_en": "Zac Gallen",
+      "summary_en": "There may be no redeeming Zac Gallen in the long run, but in the short run, he lines up for two of the best matchups you could ask for, with the Giants ranking dead last in runs scored and the Rockies doing what they do away from Coors Field. In points leagues, he's a valid play.",
+      "summary_zh_tw": "扎克·加倫本週面對排名墊底的巨人隊及客場非科爾斯球場的洛磯隊，是短期內有效的選擇。",
+      "tags": [
+        "favorable matchups",
+        "points leagues"
+      ]
+    },
+    {
+      "rank": 8,
+      "name_en": "Andrew Painter",
+      "summary_en": "The downside risk remains for Andrew Painter, but he did seem to be on the right track by fading his fastball in his latest start and ended up allowing just one run in five innings. The Reds and Guardians make for some nice matchups.",
+      "summary_zh_tw": "安德魯·潘特積極調整變速，此番對陣紅人及守護者隊配對不錯。",
+      "tags": [
+        "improved pitching",
+        "favorable matchups"
+      ]
+    },
+    {
+      "rank": 9,
+      "name_en": "Eduardo Rodriguez",
+      "summary_en": "I don't trust Eduardo Rodriguez's one earned run over 15 1/3 innings in his last two starts, and his turn at Coors Field this weekend may expose why. If he navigates it adequately, though, he'll have the joy of facing the Rockies away from Coors Field next time out.",
+      "summary_zh_tw": "愛德華多·羅德里格斯近兩場僅失一分，但在科爾斯球場比賽存在風險，隨後將對戰非科爾斯球場的洛磯隊。",
+      "tags": [
+        "low recent runs allowed",
+        "risk at Coors Field"
+      ]
+    },
+    {
+      "rank": 10,
+      "name_en": "Foster Griffin",
+      "summary_en": "Foster Griffin got his comeuppance last time out with nine earned runs in 4 1/3 innings, but he still came away with a 3.53 ERA and 1.14 WHIP. With a respectable K/9 rate (8.7) and a penchant for weak contact, I think he's good enough to use in a two-start week, even with the bipolar matchups.",
+      "summary_zh_tw": "福斯特·格里芬最近一次壞掉但整體防禦率及三振率尚可，適合兩場出賽週使用。",
+      "tags": [
+        "inconsistent recent start",
+        "decent K/9 rate",
+        "weak contact induction"
+      ]
+    }
+  ],
+  "pipeline": {
+    "version": "1.0",
+    "status": "complete"
+  }
+}

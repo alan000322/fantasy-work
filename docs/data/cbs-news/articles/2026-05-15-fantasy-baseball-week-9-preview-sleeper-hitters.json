@@ -1,0 +1,343 @@
+{
+  "source_article": {
+    "source": "CBS Sports",
+    "article_type": "sleeper_hitters",
+    "week": 9,
+    "title_en": "Fantasy Baseball Week 9 Preview: Top 10 sleeper hitters highlight Daylen Lile, A.J. Ewing",
+    "url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-9-preview-sleeper-hitters/",
+    "canonical_url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-9-preview-sleeper-hitters/",
+    "slug": "fantasy-baseball-week-9-preview-sleeper-hitters",
+    "author": "Scott White",
+    "published_at": "2026-05-15T10:58:00+00:00",
+    "dek_en": "Sleeper hitters for Fantasy Week 8, waiver wire targets, and breakout candidates.",
+    "body_en": "Whether you're in need of an injury fill-in or just a hot-hand play, Scott White has you covered with 10 sleeper hitters for the upcoming scoring period, all rostered in less than 80 percent of CBS Sports leagues. They're not must-starts by any estimation, but they're often the best you'll find off the waiver wire.\n\nBe sure to check back Sunday for the latest results.\n\n1. Braves @MIA4, WAS3 2. Athletics @LAA4, @SD3 3. Diamondbacks SF3, COL4 4. Mariners CHW3, @KC3 5. Angels ATH4, TEX3\n\n1. Royals BOS3, SEA3 2. Dodgers @SD3, @MIL3 3. Marlins ATL4, NYM3 4. Blue Jays @NYY4, PIT3 5. Rays BAL3, @NYY3\n\n1. Daylen Lile (RF) - A recent hot streak (8 for 20 with three homers and a steal in his past five games) has moved Daylen Lile into the top 20 outfielders for Head-to-Head points leagues, and while his profile may not be as Roto-friendly, a lot more outfielders are needed in that format. His mathcups are favorable enough, featuring two aces but also five back-end starters.\n2. J.J. Bleday (LF) - J.J. Bleday is hot in a way that seems sustainable by the underlying stats, namely a 3 mph increase in average bat speed. His matchups are only middle of the road, but between spring training, Triple-A and the majors this year, he has yet to miss.\n3. A.J. Ewing (LF) - A.J. Ewing has so far looked like the spark plug he was billed to be, already collecting a home run, a triple and a stolen base in his first three games. The Mets' week opens with four games against the Nationals pitching staff.\n4. Nolan Arenado (3B) - Believe it or not, Nolan Arenado has been swinging a hot bat over the past month or so, showing he may still have a little something left in the tank with a .333 (29 for 87) batting average and six home runs in 27 games. I still wouldn't buy into him for the long haul, but with the Diamondbacks having the third-best hitter matchups this week, I say go for it.\n5. Carlos Cortes (LF) - It may feel like Carlos Cortes has gone quiet for Fantasy, but he's still sporting a .343/.400/.556 slash line with the data to back it up. Not only do the Athletics have the second-best hitter matchups this week, but six of the opposing pitchers are right-handed, which should keep Cortes in the lineup.\n6. Mauricio Dubon (2B) - Mauricio Dubon's plus defense in both the infield and outfield has made him an integral part of the Braves lineup, and though he's being sustained in part by inflated run and especially RBI totals, he's likely to add bunches more of both this week with the Braves having the top-ranked hitter matchups.\n7. Jorge Soler (DH) - Jorge Soler remains a serviceable, if inconsistent, source of power for the Angels and seems like a reasonable choice to take advantage of their fifth-ranked hitter matchups this week. That's partly because Soler has felt most at home at their hitter-friendly home, which is where they're playing all seven of their games.\n8. Ryan Waldschmidt (CF) - Ryan Waldschmidt has performed modestly since his call-up, but he's playing every day and has the matchups this week to break out, particularly with a four-game series against the Rockies pitching staff.\n9. Ezequiel Duran (SS) - Ezequiel Duran has secured the everyday second base job for now (while qualifying at every position but pitcher and catcher) and enters the weekend batting .333 (15 for 45) with seven extra-base hits in his past 13 games. He'd rank higher here, particularly with an upcoming series at Coors Field, if not for the three lefties on the schedule. Though a right-handed hitter, he has historically performed better against righties.\n10. Mike Yastrzemski (RF) - Mike Yastrzemski has begun to show faint signs of life recently, particularly with a big home run Tuesday, and doesn't rate out so differently than he did in San Francisco. He's due, in other words, and a favorable schedule with five righties on it might be enough to snap him back into place if you're desperate for outfield help.",
+    "fetched_at": "2026-05-16T11:00:46+00:00",
+    "player_cards": [
+      {
+        "rank": 1,
+        "name_en": "Daylen Lile",
+        "position": "RF",
+        "mlb_team": "WAS",
+        "matchup": null,
+        "rostered_pct": "76%",
+        "blurb_en": "A recent hot streak (8 for 20 with three homers and a steal in his past five games) has moved Daylen Lile into the top 20 outfielders for Head-to-Head points leagues, and while his profile may not be as Roto-friendly, a lot more outfielders are needed in that format. His mathcups are favorable enough, featuring two aces but also five back-end starters."
+      },
+      {
+        "rank": 2,
+        "name_en": "J.J. Bleday",
+        "position": "LF",
+        "mlb_team": "CIN",
+        "matchup": null,
+        "rostered_pct": "46%",
+        "blurb_en": "J.J. Bleday is hot in a way that seems sustainable by the underlying stats, namely a 3 mph increase in average bat speed. His matchups are only middle of the road, but between spring training, Triple-A and the majors this year, he has yet to miss."
+      },
+      {
+        "rank": 3,
+        "name_en": "A.J. Ewing",
+        "position": "LF",
+        "mlb_team": "NYM",
+        "matchup": null,
+        "rostered_pct": "50%",
+        "blurb_en": "A.J. Ewing has so far looked like the spark plug he was billed to be, already collecting a home run, a triple and a stolen base in his first three games. The Mets' week opens with four games against the Nationals pitching staff."
+      },
+      {
+        "rank": 4,
+        "name_en": "Nolan Arenado",
+        "position": "3B",
+        "mlb_team": "ARI",
+        "matchup": null,
+        "rostered_pct": "67%",
+        "blurb_en": "Believe it or not, Nolan Arenado has been swinging a hot bat over the past month or so, showing he may still have a little something left in the tank with a .333 (29 for 87) batting average and six home runs in 27 games. I still wouldn't buy into him for the long haul, but with the Diamondbacks having the third-best hitter matchups this week, I say go for it."
+      },
+      {
+        "rank": 5,
+        "name_en": "Carlos Cortes",
+        "position": "LF",
+        "mlb_team": "ATH",
+        "matchup": null,
+        "rostered_pct": "46%",
+        "blurb_en": "It may feel like Carlos Cortes has gone quiet for Fantasy, but he's still sporting a .343/.400/.556 slash line with the data to back it up. Not only do the Athletics have the second-best hitter matchups this week, but six of the opposing pitchers are right-handed, which should keep Cortes in the lineup."
+      },
+      {
+        "rank": 6,
+        "name_en": "Mauricio Dubon",
+        "position": "2B",
+        "mlb_team": "ATL",
+        "matchup": null,
+        "rostered_pct": "58%",
+        "blurb_en": "Mauricio Dubon's plus defense in both the infield and outfield has made him an integral part of the Braves lineup, and though he's being sustained in part by inflated run and especially RBI totals, he's likely to add bunches more of both this week with the Braves having the top-ranked hitter matchups."
+      },
+      {
+        "rank": 7,
+        "name_en": "Jorge Soler",
+        "position": "DH",
+        "mlb_team": "LAA",
+        "matchup": null,
+        "rostered_pct": "59%",
+        "blurb_en": "Jorge Soler remains a serviceable, if inconsistent, source of power for the Angels and seems like a reasonable choice to take advantage of their fifth-ranked hitter matchups this week. That's partly because Soler has felt most at home at their hitter-friendly home, which is where they're playing all seven of their games."
+      },
+      {
+        "rank": 8,
+        "name_en": "Ryan Waldschmidt",
+        "position": "CF",
+        "mlb_team": "ARI",
+        "matchup": null,
+        "rostered_pct": "58%",
+        "blurb_en": "Ryan Waldschmidt has performed modestly since his call-up, but he's playing every day and has the matchups this week to break out, particularly with a four-game series against the Rockies pitching staff."
+      },
+      {
+        "rank": 9,
+        "name_en": "Ezequiel Duran",
+        "position": "SS",
+        "mlb_team": "TEX",
+        "matchup": null,
+        "rostered_pct": "29%",
+        "blurb_en": "Ezequiel Duran has secured the everyday second base job for now (while qualifying at every position but pitcher and catcher) and enters the weekend batting .333 (15 for 45) with seven extra-base hits in his past 13 games. He'd rank higher here, particularly with an upcoming series at Coors Field, if not for the three lefties on the schedule. Though a right-handed hitter, he has historically performed better against righties."
+      },
+      {
+        "rank": 10,
+        "name_en": "Mike Yastrzemski",
+        "position": "RF",
+        "mlb_team": "ATL",
+        "matchup": null,
+        "rostered_pct": "6%",
+        "blurb_en": "Mike Yastrzemski has begun to show faint signs of life recently, particularly with a big home run Tuesday, and doesn't rate out so differently than he did in San Francisco. He's due, in other words, and a favorable schedule with five righties on it might be enough to snap him back into place if you're desperate for outfield help."
+      }
+    ]
+  },
+  "ai_article": {
+    "article_type": "sleeper_hitters",
+    "week": 9,
+    "article_summary_zh_tw": "本週十大冷門打者包含近期表現亮眼且擁有良好對戰組合的球員，適合需要替補或追求熱手的幻想棒球玩家挑選。",
+    "players": [
+      {
+        "rank": 1,
+        "name_en": "Daylen Lile",
+        "summary_en": "A recent hot streak (8 for 20 with three homers and a steal in his past five games) has moved Daylen Lile into the top 20 outfielders for Head-to-Head points leagues, and while his profile may not be as Roto-friendly, a lot more outfielders are needed in that format. His mathcups are favorable enough, featuring two aces but also five back-end starters.",
+        "summary_zh_tw": "Daylen Lile近期表現出色的熱潮使他在對戰積分聯盟中成為前20名外野手之一，並擁有有利的對戰組合。",
+        "tags": [
+          "hot streak",
+          "top 20 outfielders",
+          "favorable matchups"
+        ]
+      },
+      {
+        "rank": 2,
+        "name_en": "J.J. Bleday",
+        "summary_en": "J.J. Bleday is hot in a way that seems sustainable by the underlying stats, namely a 3 mph increase in average bat speed. His matchups are only middle of the road, but between spring training, Triple-A and the majors this year, he has yet to miss.",
+        "summary_zh_tw": "J.J. Bleday近期狀態熱絡且基礎數據顯示他的火熱狀態有望持續。",
+        "tags": [
+          "hot hitter",
+          "sustainable stats",
+          "average bat speed up"
+        ]
+      },
+      {
+        "rank": 3,
+        "name_en": "A.J. Ewing",
+        "summary_en": "A.J. Ewing has so far looked like the spark plug he was billed to be, already collecting a home run, a triple and a stolen base in his first three games. The Mets' week opens with four games against the Nationals pitching staff.",
+        "summary_zh_tw": "A.J. Ewing展現出色的爆發力，首三場比賽已有全壘打、三壘打及盜壘。",
+        "tags": [
+          "spark plug",
+          "early production",
+          "favorable Mets lineup"
+        ]
+      },
+      {
+        "rank": 4,
+        "name_en": "Nolan Arenado",
+        "summary_en": "Believe it or not, Nolan Arenado has been swinging a hot bat over the past month or so, showing he may still have a little something left in the tank with a .333 (29 for 87) batting average and six home runs in 27 games. I still wouldn't buy into him for the long haul, but with the Diamondbacks having the third-best hitter matchups this week, I say go for it.",
+        "summary_zh_tw": "Nolan Arenado過去一個月打擊火熱，本週持續有利的對戰環境值得嘗試。",
+        "tags": [
+          "hot bat",
+          ".333 average",
+          "third-best matchups"
+        ]
+      },
+      {
+        "rank": 5,
+        "name_en": "Carlos Cortes",
+        "summary_en": "It may feel like Carlos Cortes has gone quiet for Fantasy, but he's still sporting a .343/.400/.556 slash line with the data to back it up. Not only do the Athletics have the second-best hitter matchups this week, but six of the opposing pitchers are right-handed, which should keep Cortes in the lineup.",
+        "summary_zh_tw": "Carlos Cortes保持高打擊率且本週迎來有利的投手對戰，多半會獲得先發機會。",
+        "tags": [
+          "strong slash line",
+          ".343/.400/.556",
+          "right-handed matchup"
+        ]
+      },
+      {
+        "rank": 6,
+        "name_en": "Mauricio Dubon",
+        "summary_en": "Mauricio Dubon's plus defense in both the infield and outfield has made him an integral part of the Braves lineup, and though he's being sustained in part by inflated run and especially RBI totals, he's likely to add bunches more of both this week with the Braves having the top-ranked hitter matchups.",
+        "summary_zh_tw": "Mauricio Dubon憑藉優異守備和頂級對戰，預期本週可持續貢獻攻守表現。",
+        "tags": [
+          "plus defense",
+          "integral lineup member",
+          "top hitter matchups"
+        ]
+      },
+      {
+        "rank": 7,
+        "name_en": "Jorge Soler",
+        "summary_en": "Jorge Soler remains a serviceable, if inconsistent, source of power for the Angels and seems like a reasonable choice to take advantage of their fifth-ranked hitter matchups this week. That's partly because Soler has felt most at home at their hitter-friendly home, which is where they're playing all seven of their games.",
+        "summary_zh_tw": "Jorge Soler是天使隊有力的打擊選擇，本週主場優勢明顯。",
+        "tags": [
+          "power source",
+          "inconsistent",
+          "hitter-friendly home"
+        ]
+      },
+      {
+        "rank": 8,
+        "name_en": "Ryan Waldschmidt",
+        "summary_en": "Ryan Waldschmidt has performed modestly since his call-up, but he's playing every day and has the matchups this week to break out, particularly with a four-game series against the Rockies pitching staff.",
+        "summary_zh_tw": "Ryan Waldschmidt自升上一軍後持續出賽，本週可藉由對戰洛磯投手群突破表現。",
+        "tags": [
+          "everyday player",
+          "modest performance",
+          "favorablerockies matchup"
+        ]
+      },
+      {
+        "rank": 9,
+        "name_en": "Ezequiel Duran",
+        "summary_en": "Ezequiel Duran has secured the everyday second base job for now (while qualifying at every position but pitcher and catcher) and enters the weekend batting .333 (15 for 45) with seven extra-base hits in his past 13 games. He'd rank higher here, particularly with an upcoming series at Coors Field, if not for the three lefties on the schedule. Though a right-handed hitter, he has historically performed better against righties.",
+        "summary_zh_tw": "Ezequiel Duran已確立為日常二壘手，過去13場打擊率高達.333。",
+        "tags": [
+          "everyday second baseman",
+          ".333 batting average",
+          "better vs righties"
+        ]
+      },
+      {
+        "rank": 10,
+        "name_en": "Mike Yastrzemski",
+        "summary_en": "Mike Yastrzemski has begun to show faint signs of life recently, particularly with a big home run Tuesday, and doesn't rate out so differently than he did in San Francisco. He's due, in other words, and a favorable schedule with five righties on it might be enough to snap him back into place if you're desperate for outfield help.",
+        "summary_zh_tw": "Mike Yastrzemski近期開始回溫，五場對戰右投的行程助其重新發揮。",
+        "tags": [
+          "faint signs of life",
+          "big home run",
+          "favorable righty schedule"
+        ]
+      }
+    ],
+    "model": "gpt-4.1-mini",
+    "generated_at": "2026-05-16T11:01:30+00:00"
+  },
+  "players": [
+    {
+      "rank": 1,
+      "name_en": "Daylen Lile",
+      "summary_en": "A recent hot streak (8 for 20 with three homers and a steal in his past five games) has moved Daylen Lile into the top 20 outfielders for Head-to-Head points leagues, and while his profile may not be as Roto-friendly, a lot more outfielders are needed in that format. His mathcups are favorable enough, featuring two aces but also five back-end starters.",
+      "summary_zh_tw": "Daylen Lile近期表現出色的熱潮使他在對戰積分聯盟中成為前20名外野手之一，並擁有有利的對戰組合。",
+      "tags": [
+        "hot streak",
+        "top 20 outfielders",
+        "favorable matchups"
+      ]
+    },
+    {
+      "rank": 2,
+      "name_en": "J.J. Bleday",
+      "summary_en": "J.J. Bleday is hot in a way that seems sustainable by the underlying stats, namely a 3 mph increase in average bat speed. His matchups are only middle of the road, but between spring training, Triple-A and the majors this year, he has yet to miss.",
+      "summary_zh_tw": "J.J. Bleday近期狀態熱絡且基礎數據顯示他的火熱狀態有望持續。",
+      "tags": [
+        "hot hitter",
+        "sustainable stats",
+        "average bat speed up"
+      ]
+    },
+    {
+      "rank": 3,
+      "name_en": "A.J. Ewing",
+      "summary_en": "A.J. Ewing has so far looked like the spark plug he was billed to be, already collecting a home run, a triple and a stolen base in his first three games. The Mets' week opens with four games against the Nationals pitching staff.",
+      "summary_zh_tw": "A.J. Ewing展現出色的爆發力，首三場比賽已有全壘打、三壘打及盜壘。",
+      "tags": [
+        "spark plug",
+        "early production",
+        "favorable Mets lineup"
+      ]
+    },
+    {
+      "rank": 4,
+      "name_en": "Nolan Arenado",
+      "summary_en": "Believe it or not, Nolan Arenado has been swinging a hot bat over the past month or so, showing he may still have a little something left in the tank with a .333 (29 for 87) batting average and six home runs in 27 games. I still wouldn't buy into him for the long haul, but with the Diamondbacks having the third-best hitter matchups this week, I say go for it.",
+      "summary_zh_tw": "Nolan Arenado過去一個月打擊火熱，本週持續有利的對戰環境值得嘗試。",
+      "tags": [
+        "hot bat",
+        ".333 average",
+        "third-best matchups"
+      ]
+    },
+    {
+      "rank": 5,
+      "name_en": "Carlos Cortes",
+      "summary_en": "It may feel like Carlos Cortes has gone quiet for Fantasy, but he's still sporting a .343/.400/.556 slash line with the data to back it up. Not only do the Athletics have the second-best hitter matchups this week, but six of the opposing pitchers are right-handed, which should keep Cortes in the lineup.",
+      "summary_zh_tw": "Carlos Cortes保持高打擊率且本週迎來有利的投手對戰，多半會獲得先發機會。",
+      "tags": [
+        "strong slash line",
+        ".343/.400/.556",
+        "right-handed matchup"
+      ]
+    },
+    {
+      "rank": 6,
+      "name_en": "Mauricio Dubon",
+      "summary_en": "Mauricio Dubon's plus defense in both the infield and outfield has made him an integral part of the Braves lineup, and though he's being sustained in part by inflated run and especially RBI totals, he's likely to add bunches more of both this week with the Braves having the top-ranked hitter matchups.",
+      "summary_zh_tw": "Mauricio Dubon憑藉優異守備和頂級對戰，預期本週可持續貢獻攻守表現。",
+      "tags": [
+        "plus defense",
+        "integral lineup member",
+        "top hitter matchups"
+      ]
+    },
+    {
+      "rank": 7,
+      "name_en": "Jorge Soler",
+      "summary_en": "Jorge Soler remains a serviceable, if inconsistent, source of power for the Angels and seems like a reasonable choice to take advantage of their fifth-ranked hitter matchups this week. That's partly because Soler has felt most at home at their hitter-friendly home, which is where they're playing all seven of their games.",
+      "summary_zh_tw": "Jorge Soler是天使隊有力的打擊選擇，本週主場優勢明顯。",
+      "tags": [
+        "power source",
+        "inconsistent",
+        "hitter-friendly home"
+      ]
+    },
+    {
+      "rank": 8,
+      "name_en": "Ryan Waldschmidt",
+      "summary_en": "Ryan Waldschmidt has performed modestly since his call-up, but he's playing every day and has the matchups this week to break out, particularly with a four-game series against the Rockies pitching staff.",
+      "summary_zh_tw": "Ryan Waldschmidt自升上一軍後持續出賽，本週可藉由對戰洛磯投手群突破表現。",
+      "tags": [
+        "everyday player",
+        "modest performance",
+        "favorablerockies matchup"
+      ]
+    },
+    {
+      "rank": 9,
+      "name_en": "Ezequiel Duran",
+      "summary_en": "Ezequiel Duran has secured the everyday second base job for now (while qualifying at every position but pitcher and catcher) and enters the weekend batting .333 (15 for 45) with seven extra-base hits in his past 13 games. He'd rank higher here, particularly with an upcoming series at Coors Field, if not for the three lefties on the schedule. Though a right-handed hitter, he has historically performed better against righties.",
+      "summary_zh_tw": "Ezequiel Duran已確立為日常二壘手，過去13場打擊率高達.333。",
+      "tags": [
+        "everyday second baseman",
+        ".333 batting average",
+        "better vs righties"
+      ]
+    },
+    {
+      "rank": 10,
+      "name_en": "Mike Yastrzemski",
+      "summary_en": "Mike Yastrzemski has begun to show faint signs of life recently, particularly with a big home run Tuesday, and doesn't rate out so differently than he did in San Francisco. He's due, in other words, and a favorable schedule with five righties on it might be enough to snap him back into place if you're desperate for outfield help.",
+      "summary_zh_tw": "Mike Yastrzemski近期開始回溫，五場對戰右投的行程助其重新發揮。",
+      "tags": [
+        "faint signs of life",
+        "big home run",
+        "favorable righty schedule"
+      ]
+    }
+  ],
+  "pipeline": {
+    "version": "1.0",
+    "status": "complete"
+  }
+}

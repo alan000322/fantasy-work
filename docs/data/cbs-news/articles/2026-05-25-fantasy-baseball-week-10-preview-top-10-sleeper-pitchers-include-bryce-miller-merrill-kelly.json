@@ -1,0 +1,345 @@
+{
+  "source_article": {
+    "source": "CBS Sports",
+    "article_type": "sleeper_pitchers",
+    "week": 10,
+    "title_en": "Fantasy Baseball Week 10 Preview: Top 10 sleeper pitchers include Bryce Miller, Merrill Kelly",
+    "url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-10-preview-top-10-sleeper-pitchers-include-bryce-miller-merrill-kelly/",
+    "canonical_url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-10-preview-top-10-sleeper-pitchers-include-bryce-miller-merrill-kelly/",
+    "slug": "fantasy-baseball-week-10-preview-top-10-sleeper-pitchers-include-bryce-miller-merrill-kelly",
+    "author": "Scott White",
+    "published_at": "2026-05-25T03:09:00+00:00",
+    "dek_en": "Two-start pitchers for Fantasy Week 10, with rankings, matchups and top streaming options",
+    "body_en": "Streaming pitchers isn't for the faint of heart, but if you find yourself without enough reliable options in a given scoring period, it may be what you need to stay afloat. Scott White has 10 recommendations for the upcoming scoring period, all rostered in less than 80 percent of CBS Sports leagues. Generally, only the top two or three are full-throated endorsements, while the rest are more about making the best of a bad situation.\n\nAll information is up to date as of late Sunday.\n\n1. Bryce Miller (SP) - Bryce Miller is throwing harder than ever and seems to recognize that his fastball is his best weapon again, dominating with 60 percent of them in his latest outing against the White Sox. He may be piggybacking with Luis Castillo rather than starting these games against the Athletics and Nationals, but the innings should be enough to justify the play.\n2. Ryne Nelson (SP) - Ryne Nelson has a 2.36 ERA and 0.93 WHIP in his past five starts starts, so he seems to have recovered from a two-start rough patch that included a high-elevation outing in Mexico City. He makes for a fine play against a Mariners lineup that ranks in the bottom third in runs scored.\n3. Logan Henderson (SP) - Logan Henderson has now made 10 starts in the majors, and only one (April 4 this year) has been a miss. He even came through against the Dodgers over the weekend, so there's nothing to fear about his matchup with the Cardinals.\n4. Merrill Kelly (SP) - Though Merrill Kelly's strikeouts remain down, he's taken advantage of some favorable matchups to deliver three straight quality starts. He has a couple more of those matchups this week, with the Giants ranking dead last in runs scored and the Mariners ranking in the bottom third of the league.\n5. Eduardo Rodriguez (SP) - Eduardo Rodriguez's data set is pretty unimpressive and not befitting of a pitcher with a 2.24 ERA, so my hunch is that he's just been taking advantage of some extremely favorable matchups recently. The good news is that he has another one of those this week against a Giants lineup that ranks dead last in runs scored.\n6. Seth Lugo (SP) - Seth Lugo has been hit or miss this year, with more of the misses coming recently, but he has an optimal matchup this week against a Rangers lineup that ranks fourth-to-last in runs scored. When he's good, he piles on the innings, which makes him an especially attractive play in points leagues.\n7. Andrew Abbott (SP) - Andrew Abbott has seemingly righted the ship after a rough start with a 1.29 ERA in his past five, but the walk and strikeout numbers leave something to be desired. He'll be facing a Mets team, though, that ranks in the bottom third in runs scored and is even worse against lefties.\n8. Ben Brown (RP) - Ben Brown would rank higher if we could trust him to go five innings, which he's done only once during his transition from the bullpen. In a two-start week, though, the cumulative totals should be good enough for a guy with a 2.09 ERA and 0.98 WHIP. Just understand that a win is unlikely.\n9. Zebby Matthews (SP) - Zebby Matthews has delivered back-to-back quality starts since rejoining the Twins rotation. He was struggling at Triple-A but was mixing in his secondaries more down there, perhaps as a developmental matter, and has reverted to a more typical pitch selection in the majors.\n10. Jack Leiter (SP) - Jack Leiter has been more miss than hit lately, but he remains a good bat-misser with 10.4 K/9 in May. For the sake of an extra start, you might consider using him this week, particularly since the matchups are pretty favorable.",
+    "fetched_at": "2026-05-26T15:39:20+00:00",
+    "player_cards": [
+      {
+        "rank": 1,
+        "name_en": "Bryce Miller",
+        "position": "SP",
+        "mlb_team": "SEA",
+        "matchup": null,
+        "rostered_pct": "75%",
+        "blurb_en": "Bryce Miller is throwing harder than ever and seems to recognize that his fastball is his best weapon again, dominating with 60 percent of them in his latest outing against the White Sox. He may be piggybacking with Luis Castillo rather than starting these games against the Athletics and Nationals, but the innings should be enough to justify the play."
+      },
+      {
+        "rank": 2,
+        "name_en": "Ryne Nelson",
+        "position": "SP",
+        "mlb_team": "ARI",
+        "matchup": "at SEA",
+        "rostered_pct": "78%",
+        "blurb_en": "Ryne Nelson has a 2.36 ERA and 0.93 WHIP in his past five starts starts, so he seems to have recovered from a two-start rough patch that included a high-elevation outing in Mexico City. He makes for a fine play against a Mariners lineup that ranks in the bottom third in runs scored."
+      },
+      {
+        "rank": 3,
+        "name_en": "Logan Henderson",
+        "position": "SP",
+        "mlb_team": "MIL",
+        "matchup": "vs. STL",
+        "rostered_pct": "76%",
+        "blurb_en": "Logan Henderson has now made 10 starts in the majors, and only one (April 4 this year) has been a miss. He even came through against the Dodgers over the weekend, so there's nothing to fear about his matchup with the Cardinals."
+      },
+      {
+        "rank": 4,
+        "name_en": "Merrill Kelly",
+        "position": "SP",
+        "mlb_team": "ARI",
+        "matchup": null,
+        "rostered_pct": "73%",
+        "blurb_en": "Though Merrill Kelly's strikeouts remain down, he's taken advantage of some favorable matchups to deliver three straight quality starts. He has a couple more of those matchups this week, with the Giants ranking dead last in runs scored and the Mariners ranking in the bottom third of the league."
+      },
+      {
+        "rank": 5,
+        "name_en": "Eduardo Rodriguez",
+        "position": "SP",
+        "mlb_team": "ARI",
+        "matchup": "at SF",
+        "rostered_pct": "63%",
+        "blurb_en": "Eduardo Rodriguez's data set is pretty unimpressive and not befitting of a pitcher with a 2.24 ERA, so my hunch is that he's just been taking advantage of some extremely favorable matchups recently. The good news is that he has another one of those this week against a Giants lineup that ranks dead last in runs scored."
+      },
+      {
+        "rank": 6,
+        "name_en": "Seth Lugo",
+        "position": "SP",
+        "mlb_team": "KC",
+        "matchup": "at TEX",
+        "rostered_pct": "78%",
+        "blurb_en": "Seth Lugo has been hit or miss this year, with more of the misses coming recently, but he has an optimal matchup this week against a Rangers lineup that ranks fourth-to-last in runs scored. When he's good, he piles on the innings, which makes him an especially attractive play in points leagues."
+      },
+      {
+        "rank": 7,
+        "name_en": "Andrew Abbott",
+        "position": "SP",
+        "mlb_team": "CIN",
+        "matchup": "at NYM",
+        "rostered_pct": "71%",
+        "blurb_en": "Andrew Abbott has seemingly righted the ship after a rough start with a 1.29 ERA in his past five, but the walk and strikeout numbers leave something to be desired. He'll be facing a Mets team, though, that ranks in the bottom third in runs scored and is even worse against lefties."
+      },
+      {
+        "rank": 8,
+        "name_en": "Ben Brown",
+        "position": "RP",
+        "mlb_team": "CHC",
+        "matchup": null,
+        "rostered_pct": "58%",
+        "blurb_en": "Ben Brown would rank higher if we could trust him to go five innings, which he's done only once during his transition from the bullpen. In a two-start week, though, the cumulative totals should be good enough for a guy with a 2.09 ERA and 0.98 WHIP. Just understand that a win is unlikely."
+      },
+      {
+        "rank": 9,
+        "name_en": "Zebby Matthews",
+        "position": "SP",
+        "mlb_team": "MIN",
+        "matchup": null,
+        "rostered_pct": "47%",
+        "blurb_en": "Zebby Matthews has delivered back-to-back quality starts since rejoining the Twins rotation. He was struggling at Triple-A but was mixing in his secondaries more down there, perhaps as a developmental matter, and has reverted to a more typical pitch selection in the majors."
+      },
+      {
+        "rank": 10,
+        "name_en": "Jack Leiter",
+        "position": "SP",
+        "mlb_team": "TEX",
+        "matchup": null,
+        "rostered_pct": "77%",
+        "blurb_en": "Jack Leiter has been more miss than hit lately, but he remains a good bat-misser with 10.4 K/9 in May. For the sake of an extra start, you might consider using him this week, particularly since the matchups are pretty favorable."
+      }
+    ]
+  },
+  "ai_article": {
+    "article_type": "sleeper_pitchers",
+    "week": 10,
+    "article_summary_zh_tw": "本週10大潛力先發投手名單中，Bryce Miller與Merrill Kelly擁有亮眼表現與有利對戰。",
+    "players": [
+      {
+        "rank": 1,
+        "name_en": "Bryce Miller",
+        "summary_en": "Bryce Miller is throwing harder than ever and seems to recognize that his fastball is his best weapon again, dominating with 60 percent of them in his latest outing against the White Sox. He may be piggybacking with Luis Castillo rather than starting these games against the Athletics and Nationals, but the innings should be enough to justify the play.",
+        "summary_zh_tw": "Bryce Miller投球速度提升且以高速球為主武器，本週對戰運動家及國民隊值得關注。",
+        "tags": [
+          "hard throwing",
+          "fastball dominance",
+          "possible piggyback starts",
+          "favorable innings"
+        ]
+      },
+      {
+        "rank": 2,
+        "name_en": "Ryne Nelson",
+        "summary_en": "Ryne Nelson has a 2.36 ERA and 0.93 WHIP in his past five starts starts, so he seems to have recovered from a two-start rough patch that included a high-elevation outing in Mexico City. He makes for a fine play against a Mariners lineup that ranks in the bottom third in runs scored.",
+        "summary_zh_tw": "Ryne Nelson近五場表現穩定，本週對戰得分排名偏低的水手隊適合使用。",
+        "tags": [
+          "recently strong",
+          "low ERA and WHIP",
+          "favorable Mariners matchup"
+        ]
+      },
+      {
+        "rank": 3,
+        "name_en": "Logan Henderson",
+        "summary_en": "Logan Henderson has now made 10 starts in the majors, and only one (April 4 this year) has been a miss. He even came through against the Dodgers over the weekend, so there's nothing to fear about his matchup with the Cardinals.",
+        "summary_zh_tw": "Logan Henderson前10場先發表現穩定，面對紅雀隊無須擔心。",
+        "tags": [
+          "consistent starter",
+          "recent success vs Dodgers",
+          "Cardinals matchup"
+        ]
+      },
+      {
+        "rank": 4,
+        "name_en": "Merrill Kelly",
+        "summary_en": "Though Merrill Kelly's strikeouts remain down, he's taken advantage of some favorable matchups to deliver three straight quality starts. He has a couple more of those matchups this week, with the Giants ranking dead last in runs scored and the Mariners ranking in the bottom third of the league.",
+        "summary_zh_tw": "Merrill Kelly連續三場優質先發，今周對攻擊力低的巨人及水手隊仍有利。",
+        "tags": [
+          "favorable matchups",
+          "low strikeouts",
+          "quality starts streak"
+        ]
+      },
+      {
+        "rank": 5,
+        "name_en": "Eduardo Rodriguez",
+        "summary_en": "Eduardo Rodriguez's data set is pretty unimpressive and not befitting of a pitcher with a 2.24 ERA, so my hunch is that he's just been taking advantage of some extremely favorable matchups recently. The good news is that he has another one of those this week against a Giants lineup that ranks dead last in runs scored.",
+        "summary_zh_tw": "Eduardo Rodriguez靠有利對戰維持低ERA，本週再迎戰得分倒數巨人。",
+        "tags": [
+          "favorable matchups",
+          "low ERA",
+          "Giants matchup"
+        ]
+      },
+      {
+        "rank": 6,
+        "name_en": "Seth Lugo",
+        "summary_en": "Seth Lugo has been hit or miss this year, with more of the misses coming recently, but he has an optimal matchup this week against a Rangers lineup that ranks fourth-to-last in runs scored. When he's good, he piles on the innings, which makes him an especially attractive play in points leagues.",
+        "summary_zh_tw": "Seth Lugo近期不穩，但本週對得分倒數遊騎兵隊，值得考慮。",
+        "tags": [
+          "inconsistent",
+          "favorable Rangers matchup",
+          "high inning potential"
+        ]
+      },
+      {
+        "rank": 7,
+        "name_en": "Andrew Abbott",
+        "summary_en": "Andrew Abbott has seemingly righted the ship after a rough start with a 1.29 ERA in his past five, but the walk and strikeout numbers leave something to be desired. He'll be facing a Mets team, though, that ranks in the bottom third in runs scored and is even worse against lefties.",
+        "summary_zh_tw": "Andrew Abbott近五場ERA1.29，本周對得分偏低且對左投較弱的大都會。",
+        "tags": [
+          "improved recent performance",
+          "low run opponents",
+          "lefty advantage"
+        ]
+      },
+      {
+        "rank": 8,
+        "name_en": "Ben Brown",
+        "summary_en": "Ben Brown would rank higher if we could trust him to go five innings, which he's done only once during his transition from the bullpen. In a two-start week, though, the cumulative totals should be good enough for a guy with a 2.09 ERA and 0.98 WHIP. Just understand that a win is unlikely.",
+        "summary_zh_tw": "Ben Brown過渡期僅一次達五局但ERA和WHIP優秀，兩場出賽週可考慮使用。",
+        "tags": [
+          "reliever transition",
+          "solid ERA and WHIP",
+          "underdog win chance"
+        ]
+      },
+      {
+        "rank": 9,
+        "name_en": "Zebby Matthews",
+        "summary_en": "Zebby Matthews has delivered back-to-back quality starts since rejoining the Twins rotation. He was struggling at Triple-A but was mixing in his secondaries more down there, perhaps as a developmental matter, and has reverted to a more typical pitch selection in the majors.",
+        "summary_zh_tw": "Zebby Matthews重返先發後連兩場優質先發，調整球路奏效。",
+        "tags": [
+          "quality starts streak",
+          "developmental adjustment",
+          "typical pitch mix"
+        ]
+      },
+      {
+        "rank": 10,
+        "name_en": "Jack Leiter",
+        "summary_en": "Jack Leiter has been more miss than hit lately, but he remains a good bat-misser with 10.4 K/9 in May. For the sake of an extra start, you might consider using him this week, particularly since the matchups are pretty favorable.",
+        "summary_zh_tw": "Jack Leiter近期表現不穩但三振率高，本週額外出賽值得一試。",
+        "tags": [
+          "high strikeout rate",
+          "recent inconsistency",
+          "favorable matchups"
+        ]
+      }
+    ],
+    "model": "gpt-4.1-mini",
+    "generated_at": "2026-05-26T15:40:29+00:00"
+  },
+  "players": [
+    {
+      "rank": 1,
+      "name_en": "Bryce Miller",
+      "summary_en": "Bryce Miller is throwing harder than ever and seems to recognize that his fastball is his best weapon again, dominating with 60 percent of them in his latest outing against the White Sox. He may be piggybacking with Luis Castillo rather than starting these games against the Athletics and Nationals, but the innings should be enough to justify the play.",
+      "summary_zh_tw": "Bryce Miller投球速度提升且以高速球為主武器，本週對戰運動家及國民隊值得關注。",
+      "tags": [
+        "hard throwing",
+        "fastball dominance",
+        "possible piggyback starts",
+        "favorable innings"
+      ]
+    },
+    {
+      "rank": 2,
+      "name_en": "Ryne Nelson",
+      "summary_en": "Ryne Nelson has a 2.36 ERA and 0.93 WHIP in his past five starts starts, so he seems to have recovered from a two-start rough patch that included a high-elevation outing in Mexico City. He makes for a fine play against a Mariners lineup that ranks in the bottom third in runs scored.",
+      "summary_zh_tw": "Ryne Nelson近五場表現穩定，本週對戰得分排名偏低的水手隊適合使用。",
+      "tags": [
+        "recently strong",
+        "low ERA and WHIP",
+        "favorable Mariners matchup"
+      ]
+    },
+    {
+      "rank": 3,
+      "name_en": "Logan Henderson",
+      "summary_en": "Logan Henderson has now made 10 starts in the majors, and only one (April 4 this year) has been a miss. He even came through against the Dodgers over the weekend, so there's nothing to fear about his matchup with the Cardinals.",
+      "summary_zh_tw": "Logan Henderson前10場先發表現穩定，面對紅雀隊無須擔心。",
+      "tags": [
+        "consistent starter",
+        "recent success vs Dodgers",
+        "Cardinals matchup"
+      ]
+    },
+    {
+      "rank": 4,
+      "name_en": "Merrill Kelly",
+      "summary_en": "Though Merrill Kelly's strikeouts remain down, he's taken advantage of some favorable matchups to deliver three straight quality starts. He has a couple more of those matchups this week, with the Giants ranking dead last in runs scored and the Mariners ranking in the bottom third of the league.",
+      "summary_zh_tw": "Merrill Kelly連續三場優質先發，今周對攻擊力低的巨人及水手隊仍有利。",
+      "tags": [
+        "favorable matchups",
+        "low strikeouts",
+        "quality starts streak"
+      ]
+    },
+    {
+      "rank": 5,
+      "name_en": "Eduardo Rodriguez",
+      "summary_en": "Eduardo Rodriguez's data set is pretty unimpressive and not befitting of a pitcher with a 2.24 ERA, so my hunch is that he's just been taking advantage of some extremely favorable matchups recently. The good news is that he has another one of those this week against a Giants lineup that ranks dead last in runs scored.",
+      "summary_zh_tw": "Eduardo Rodriguez靠有利對戰維持低ERA，本週再迎戰得分倒數巨人。",
+      "tags": [
+        "favorable matchups",
+        "low ERA",
+        "Giants matchup"
+      ]
+    },
+    {
+      "rank": 6,
+      "name_en": "Seth Lugo",
+      "summary_en": "Seth Lugo has been hit or miss this year, with more of the misses coming recently, but he has an optimal matchup this week against a Rangers lineup that ranks fourth-to-last in runs scored. When he's good, he piles on the innings, which makes him an especially attractive play in points leagues.",
+      "summary_zh_tw": "Seth Lugo近期不穩，但本週對得分倒數遊騎兵隊，值得考慮。",
+      "tags": [
+        "inconsistent",
+        "favorable Rangers matchup",
+        "high inning potential"
+      ]
+    },
+    {
+      "rank": 7,
+      "name_en": "Andrew Abbott",
+      "summary_en": "Andrew Abbott has seemingly righted the ship after a rough start with a 1.29 ERA in his past five, but the walk and strikeout numbers leave something to be desired. He'll be facing a Mets team, though, that ranks in the bottom third in runs scored and is even worse against lefties.",
+      "summary_zh_tw": "Andrew Abbott近五場ERA1.29，本周對得分偏低且對左投較弱的大都會。",
+      "tags": [
+        "improved recent performance",
+        "low run opponents",
+        "lefty advantage"
+      ]
+    },
+    {
+      "rank": 8,
+      "name_en": "Ben Brown",
+      "summary_en": "Ben Brown would rank higher if we could trust him to go five innings, which he's done only once during his transition from the bullpen. In a two-start week, though, the cumulative totals should be good enough for a guy with a 2.09 ERA and 0.98 WHIP. Just understand that a win is unlikely.",
+      "summary_zh_tw": "Ben Brown過渡期僅一次達五局但ERA和WHIP優秀，兩場出賽週可考慮使用。",
+      "tags": [
+        "reliever transition",
+        "solid ERA and WHIP",
+        "underdog win chance"
+      ]
+    },
+    {
+      "rank": 9,
+      "name_en": "Zebby Matthews",
+      "summary_en": "Zebby Matthews has delivered back-to-back quality starts since rejoining the Twins rotation. He was struggling at Triple-A but was mixing in his secondaries more down there, perhaps as a developmental matter, and has reverted to a more typical pitch selection in the majors.",
+      "summary_zh_tw": "Zebby Matthews重返先發後連兩場優質先發，調整球路奏效。",
+      "tags": [
+        "quality starts streak",
+        "developmental adjustment",
+        "typical pitch mix"
+      ]
+    },
+    {
+      "rank": 10,
+      "name_en": "Jack Leiter",
+      "summary_en": "Jack Leiter has been more miss than hit lately, but he remains a good bat-misser with 10.4 K/9 in May. For the sake of an extra start, you might consider using him this week, particularly since the matchups are pretty favorable.",
+      "summary_zh_tw": "Jack Leiter近期表現不穩但三振率高，本週額外出賽值得一試。",
+      "tags": [
+        "high strikeout rate",
+        "recent inconsistency",
+        "favorable matchups"
+      ]
+    }
+  ],
+  "pipeline": {
+    "version": "1.0",
+    "status": "complete"
+  }
+}

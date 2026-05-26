@@ -1,0 +1,345 @@
+{
+  "source_article": {
+    "source": "CBS Sports",
+    "article_type": "sleeper_hitters",
+    "week": 10,
+    "title_en": "Fantasy Baseball Week 10 Preview: Top 10 sleeper hitters highlight Casey Schmitt, Spencer Steer",
+    "url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-10-preview-top-10-sleeper-hitters-highlight-casey-schmitt-spencer-steer/",
+    "canonical_url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-10-preview-top-10-sleeper-hitters-highlight-casey-schmitt-spencer-steer/",
+    "slug": "fantasy-baseball-week-10-preview-top-10-sleeper-hitters-highlight-casey-schmitt-spencer-steer",
+    "author": "Scott White",
+    "published_at": "2026-05-25T03:33:00+00:00",
+    "dek_en": "Sleeper hitters for Fantasy Week 10, waiver wire targets, and breakout candidates.",
+    "body_en": "Whether you're in need of an injury fill-in or just a hot-hand play, Scott White has you covered with 10 sleeper hitters for the upcoming scoring period, all rostered in less than 80 percent of CBS Sports leagues. They're not must-starts by any estimation, but they're often the best you'll find off the waiver wire.\n\nAll information is up to date as of late Sunday.\n\n1. Cubs @PIT4, @STL3 2. Brewers STL3, @HOU3 3. Rangers HOU4, KC3 4. Twins @CHW4, @PIT3 5. Yankees @KC3, @ATH3\n\n1. Athletics SEA3, NYY3 2. Braves @BOS3, @CIN3 3. Cardinals @MIL3, CHC3 4. Diamondbacks @SF3, @SEA3 5. Red Sox ATL3, @CLE3\n\n1. Casey Schmitt (DH) - Casey Schmitt continues to show he's deserving of everyday at-bats wherever the Giants can find a spot for him, batting .382 (13 for 34) with five homers in his past eight games. You don't sit the hottest hitter in baseball during a week when he's scheduled to play three games at Coors Field, particularly when you can start him at any of four positions.\n2. Spencer Steer (LF) - Spencer Steer is all of a sudden looking formidable at the plate, not only batting .368 (14 for 38) in his past eight games but also placing in the top 10 percent for both xBA and xSLG. Better yet, the Reds have three lefties on the schedule, against which he's batting .341 with a 1.055 OPS.\n3. Travis Bazzana (2B) - Though the power has been lacking for Travis Bazzana so far, he's been piling up walks and stolen bases with an underlying data set strong enough to suggest he won't be eligible for this list for long. Now would be a good time to scoop him up, if only to take advantage of a favorable slate that includes five left-handers, including three from the bottom-feeder Nationals rotation.\n4. Brandon Marsh (LF) - Brandon Marsh has far and away the best strikeout rate of his career, and it's made him into a batting average standout in the early going, with more power likely to come. He's not really a platoon player anymore but is still at his best against righties, and the Phillies are scheduled to face five of those this week (including bottom feeders like Griffin Canning, Walker Buehler and Roki Sasaki).\n5. A.J. Ewing (CF) - Though he's only had a couple weeks on the job, A.J. Ewing has been everything the Mets could ask for so far, reaching base at a .396 clip with three steals and two extra-base hits. He did sit against a left-hander recently, which maybe raises some platoon concerns, particularly since there's two of those on the schedule this week.\n6. Jake Bauers (1B) - Jake Bauers has been a surprise standout for the Brewers so far, cutting down on his strikeouts and upping his average exit velocity to deliver a .285/.354/.481 slash line. The Brewers have the second-best hitter matchups this week and just one lefty on the schedule, which means Bauers shouldn't face too much interference from Andrew Vaughn.\n7. Alec Bohm (3B) - After a miserable start, Alec Bohm is quickly making up for lost production, batting .346 (18 for 52) with four homers in his past 14 games. The Phillies aren't among the five teams with the best hitter matchups this week, but they don't miss by much, scheduled to face some of the weakest points in the Padres and Dodgers rotations.\n8. Angel Martinez (LF) - Those waiting for Angel Martinez to come back down to earth have so far been met with disappointment, as he's added another four homers and three steals in the last two weeks to put him on a 27-homer, 24-steal pace. Some of the pitchers scheduled to face the Guardians this week include Zack Littell, Miles Mikolas and Brayan Bello.\n9. Ezequiel Duran (2B) - Whether filling in for Josh H. Smith at second base or Corey Seager at shortstop, Ezequiel Duran, who's playable everywhere but catcher, has gotten the job done, batting .301 (31 for 103) with three homers and two steals in his past 29 games. The Rangers have the third-best hitter matchups this week, with a seven-game slate featuring such luminaries as Tatsuya Imai, Michael Burrows, Kai-Wei Teng and Stephen Kolek.\n10. Michael Conforto (RF) - Even as far back as spring training, Michael Conforto has looked like an improved hitter this year, and he's begun to steal at-bats from Moises Ballesteros during the regular season with a .284/.388/.537 slash line. He's more of a deep league special because of that uncertain playing time, but with only one left-hander on the schedule, he should play enough to do damage with the most favorable hitting schedule.",
+    "fetched_at": "2026-05-26T15:39:21+00:00",
+    "player_cards": [
+      {
+        "rank": 1,
+        "name_en": "Casey Schmitt",
+        "position": "DH",
+        "mlb_team": "SF",
+        "matchup": null,
+        "rostered_pct": "70%",
+        "blurb_en": "Casey Schmitt continues to show he's deserving of everyday at-bats wherever the Giants can find a spot for him, batting .382 (13 for 34) with five homers in his past eight games. You don't sit the hottest hitter in baseball during a week when he's scheduled to play three games at Coors Field, particularly when you can start him at any of four positions."
+      },
+      {
+        "rank": 2,
+        "name_en": "Spencer Steer",
+        "position": "LF",
+        "mlb_team": "CIN",
+        "matchup": null,
+        "rostered_pct": "77%",
+        "blurb_en": "Spencer Steer is all of a sudden looking formidable at the plate, not only batting .368 (14 for 38) in his past eight games but also placing in the top 10 percent for both xBA and xSLG. Better yet, the Reds have three lefties on the schedule, against which he's batting .341 with a 1.055 OPS."
+      },
+      {
+        "rank": 3,
+        "name_en": "Travis Bazzana",
+        "position": "2B",
+        "mlb_team": "CLE",
+        "matchup": null,
+        "rostered_pct": "78%",
+        "blurb_en": "Though the power has been lacking for Travis Bazzana so far, he's been piling up walks and stolen bases with an underlying data set strong enough to suggest he won't be eligible for this list for long. Now would be a good time to scoop him up, if only to take advantage of a favorable slate that includes five left-handers, including three from the bottom-feeder Nationals rotation."
+      },
+      {
+        "rank": 4,
+        "name_en": "Brandon Marsh",
+        "position": "LF",
+        "mlb_team": "PHI",
+        "matchup": null,
+        "rostered_pct": "69%",
+        "blurb_en": "Brandon Marsh has far and away the best strikeout rate of his career, and it's made him into a batting average standout in the early going, with more power likely to come. He's not really a platoon player anymore but is still at his best against righties, and the Phillies are scheduled to face five of those this week (including bottom feeders like Griffin Canning, Walker Buehler and Roki Sasaki)."
+      },
+      {
+        "rank": 5,
+        "name_en": "A.J. Ewing",
+        "position": "CF",
+        "mlb_team": "NYM",
+        "matchup": null,
+        "rostered_pct": "72%",
+        "blurb_en": "Though he's only had a couple weeks on the job, A.J. Ewing has been everything the Mets could ask for so far, reaching base at a .396 clip with three steals and two extra-base hits. He did sit against a left-hander recently, which maybe raises some platoon concerns, particularly since there's two of those on the schedule this week."
+      },
+      {
+        "rank": 6,
+        "name_en": "Jake Bauers",
+        "position": "1B",
+        "mlb_team": "MIL",
+        "matchup": null,
+        "rostered_pct": "55%",
+        "blurb_en": "Jake Bauers has been a surprise standout for the Brewers so far, cutting down on his strikeouts and upping his average exit velocity to deliver a .285/.354/.481 slash line. The Brewers have the second-best hitter matchups this week and just one lefty on the schedule, which means Bauers shouldn't face too much interference from Andrew Vaughn."
+      },
+      {
+        "rank": 7,
+        "name_en": "Alec Bohm",
+        "position": "3B",
+        "mlb_team": "PHI",
+        "matchup": null,
+        "rostered_pct": "50%",
+        "blurb_en": "After a miserable start, Alec Bohm is quickly making up for lost production, batting .346 (18 for 52) with four homers in his past 14 games. The Phillies aren't among the five teams with the best hitter matchups this week, but they don't miss by much, scheduled to face some of the weakest points in the Padres and Dodgers rotations."
+      },
+      {
+        "rank": 8,
+        "name_en": "Angel Martinez",
+        "position": "LF",
+        "mlb_team": "CLE",
+        "matchup": null,
+        "rostered_pct": "75%",
+        "blurb_en": "Those waiting for Angel Martinez to come back down to earth have so far been met with disappointment, as he's added another four homers and three steals in the last two weeks to put him on a 27-homer, 24-steal pace. Some of the pitchers scheduled to face the Guardians this week include Zack Littell, Miles Mikolas and Brayan Bello."
+      },
+      {
+        "rank": 9,
+        "name_en": "Ezequiel Duran",
+        "position": "2B",
+        "mlb_team": "TEX",
+        "matchup": null,
+        "rostered_pct": "46%",
+        "blurb_en": "Whether filling in for Josh H. Smith at second base or Corey Seager at shortstop, Ezequiel Duran, who's playable everywhere but catcher, has gotten the job done, batting .301 (31 for 103) with three homers and two steals in his past 29 games. The Rangers have the third-best hitter matchups this week, with a seven-game slate featuring such luminaries as Tatsuya Imai, Michael Burrows, Kai-Wei Teng and Stephen Kolek."
+      },
+      {
+        "rank": 10,
+        "name_en": "Michael Conforto",
+        "position": "RF",
+        "mlb_team": "CHC",
+        "matchup": null,
+        "rostered_pct": "3%",
+        "blurb_en": "Even as far back as spring training, Michael Conforto has looked like an improved hitter this year, and he's begun to steal at-bats from Moises Ballesteros during the regular season with a .284/.388/.537 slash line. He's more of a deep league special because of that uncertain playing time, but with only one left-hander on the schedule, he should play enough to do damage with the most favorable hitting schedule."
+      }
+    ]
+  },
+  "ai_article": {
+    "article_type": "sleeper_hitters",
+    "week": 10,
+    "article_summary_zh_tw": "CBS Sports文章介紹了本週十大潛力打者，這些球員普遍擁有低於80%在被聯盟選中的比例，但展現出不錯的近期表現與良好的比賽對手陣容。",
+    "players": [
+      {
+        "rank": 1,
+        "name_en": "Casey Schmitt",
+        "summary_en": "Casey Schmitt continues to show he's deserving of everyday at-bats wherever the Giants can find a spot for him, batting .382 (13 for 34) with five homers in his past eight games. You don't sit the hottest hitter in baseball during a week when he's scheduled to play three games at Coors Field, particularly when you can start him at any of four positions.",
+        "summary_zh_tw": "Casey Schmitt近期8場打擊率達.382並擊出5轟，是巨人值得天天先發的熱門打者。",
+        "tags": [
+          "hot hitter",
+          "multi-position eligible",
+          "Coors Field schedule"
+        ]
+      },
+      {
+        "rank": 2,
+        "name_en": "Spencer Steer",
+        "summary_en": "Spencer Steer is all of a sudden looking formidable at the plate, not only batting .368 (14 for 38) in his past eight games but also placing in the top 10 percent for both xBA and xSLG. Better yet, the Reds have three lefties on the schedule, against which he's batting .341 with a 1.055 OPS.",
+        "summary_zh_tw": "Spencer Steer近8場打擊率達.368並在預期打擊率及長打率中排名前10%，對左投尤其具威脅。",
+        "tags": [
+          "hot hitter",
+          "advanced metrics",
+          "lefty splits"
+        ]
+      },
+      {
+        "rank": 3,
+        "name_en": "Travis Bazzana",
+        "summary_en": "Though the power has been lacking for Travis Bazzana so far, he's been piling up walks and stolen bases with an underlying data set strong enough to suggest he won't be eligible for this list for long. Now would be a good time to scoop him up, if only to take advantage of a favorable slate that includes five left-handers, including three from the bottom-feeder Nationals rotation.",
+        "summary_zh_tw": "Travis Bazzana雖少有長打但積極保送及盜壘，且本週將面對多位左投，有利發揮。",
+        "tags": [
+          "walks",
+          "stolen bases",
+          "favorable schedule",
+          "lefty matchups"
+        ]
+      },
+      {
+        "rank": 4,
+        "name_en": "Brandon Marsh",
+        "summary_en": "Brandon Marsh has far and away the best strikeout rate of his career, and it's made him into a batting average standout in the early going, with more power likely to come. He's not really a platoon player anymore but is still at his best against righties, and the Phillies are scheduled to face five of those this week (including bottom feeders like Griffin Canning, Walker Buehler and Roki Sasaki).",
+        "summary_zh_tw": "Brandon Marsh擁有生涯最佳的三振率，本週面對多名右手投手有出色發揮空間。",
+        "tags": [
+          "low strikeout rate",
+          "batting average",
+          "righty splits"
+        ]
+      },
+      {
+        "rank": 5,
+        "name_en": "A.J. Ewing",
+        "summary_en": "Though he's only had a couple weeks on the job, A.J. Ewing has been everything the Mets could ask for so far, reaching base at a .396 clip with three steals and two extra-base hits. He did sit against a left-hander recently, which maybe raises some platoon concerns, particularly since there's two of those on the schedule this week.",
+        "summary_zh_tw": "A.J. Ewing近期表現優異，上壘率達.396且具盜壘威脅，但對左投適應有疑慮。",
+        "tags": [
+          "high on-base percentage",
+          "steals",
+          "platoon concerns"
+        ]
+      },
+      {
+        "rank": 6,
+        "name_en": "Jake Bauers",
+        "summary_en": "Jake Bauers has been a surprise standout for the Brewers so far, cutting down on his strikeouts and upping his average exit velocity to deliver a .285/.354/.481 slash line. The Brewers have the second-best hitter matchups this week and just one lefty on the schedule, which means Bauers shouldn't face too much interference from Andrew Vaughn.",
+        "summary_zh_tw": "Jake Bauers降低三振率並提升球速，本週對手優勢明顯，有利持續發揮。",
+        "tags": [
+          "improved contact",
+          "average exit velocity",
+          "favorable schedule"
+        ]
+      },
+      {
+        "rank": 7,
+        "name_en": "Alec Bohm",
+        "summary_en": "After a miserable start, Alec Bohm is quickly making up for lost production, batting .346 (18 for 52) with four homers in his past 14 games. The Phillies aren't among the five teams with the best hitter matchups this week, but they don't miss by much, scheduled to face some of the weakest points in the Padres and Dodgers rotations.",
+        "summary_zh_tw": "Alec Bohm近14場打擊率達.346並擊出4轟，本週將對抗多隊投手旋轉陣容弱點。",
+        "tags": [
+          "hot streak",
+          "power",
+          "moderate schedule"
+        ]
+      },
+      {
+        "rank": 8,
+        "name_en": "Angel Martinez",
+        "summary_en": "Those waiting for Angel Martinez to come back down to earth have so far been met with disappointment, as he's added another four homers and three steals in the last two weeks to put him on a 27-homer, 24-steal pace. Some of the pitchers scheduled to face the Guardians this week include Zack Littell, Miles Mikolas and Brayan Bello.",
+        "summary_zh_tw": "Angel Martinez近兩週表現強勁，正以27轟24盜的速度推進本賽季成績。",
+        "tags": [
+          "power",
+          "speed",
+          "strong recent performance"
+        ]
+      },
+      {
+        "rank": 9,
+        "name_en": "Ezequiel Duran",
+        "summary_en": "Whether filling in for Josh H. Smith at second base or Corey Seager at shortstop, Ezequiel Duran, who's playable everywhere but catcher, has gotten the job done, batting .301 (31 for 103) with three homers and two steals in his past 29 games. The Rangers have the third-best hitter matchups this week, with a seven-game slate featuring such luminaries as Tatsuya Imai, Michael Burrows, Kai-Wei Teng and Stephen Kolek.",
+        "summary_zh_tw": "Ezequiel Duran近29場打擊率.301且多位置守備靈活，本週面對優良打者對陣。",
+        "tags": [
+          "versatile defender",
+          "consistent hitter",
+          "favorable schedule"
+        ]
+      },
+      {
+        "rank": 10,
+        "name_en": "Michael Conforto",
+        "summary_en": "Even as far back as spring training, Michael Conforto has looked like an improved hitter this year, and he's begun to steal at-bats from Moises Ballesteros during the regular season with a .284/.388/.537 slash line. He's more of a deep league special because of that uncertain playing time, but with only one left-hander on the schedule, he should play enough to do damage with the most favorable hitting schedule.",
+        "summary_zh_tw": "Michael Conforto本季打擊數據提升，雖上場時間不確定但本週有極佳的打者對陣安排。",
+        "tags": [
+          "improved hitter",
+          "limited playing time",
+          "favorable schedule"
+        ]
+      }
+    ],
+    "model": "gpt-4.1-mini",
+    "generated_at": "2026-05-26T15:40:00+00:00"
+  },
+  "players": [
+    {
+      "rank": 1,
+      "name_en": "Casey Schmitt",
+      "summary_en": "Casey Schmitt continues to show he's deserving of everyday at-bats wherever the Giants can find a spot for him, batting .382 (13 for 34) with five homers in his past eight games. You don't sit the hottest hitter in baseball during a week when he's scheduled to play three games at Coors Field, particularly when you can start him at any of four positions.",
+      "summary_zh_tw": "Casey Schmitt近期8場打擊率達.382並擊出5轟，是巨人值得天天先發的熱門打者。",
+      "tags": [
+        "hot hitter",
+        "multi-position eligible",
+        "Coors Field schedule"
+      ]
+    },
+    {
+      "rank": 2,
+      "name_en": "Spencer Steer",
+      "summary_en": "Spencer Steer is all of a sudden looking formidable at the plate, not only batting .368 (14 for 38) in his past eight games but also placing in the top 10 percent for both xBA and xSLG. Better yet, the Reds have three lefties on the schedule, against which he's batting .341 with a 1.055 OPS.",
+      "summary_zh_tw": "Spencer Steer近8場打擊率達.368並在預期打擊率及長打率中排名前10%，對左投尤其具威脅。",
+      "tags": [
+        "hot hitter",
+        "advanced metrics",
+        "lefty splits"
+      ]
+    },
+    {
+      "rank": 3,
+      "name_en": "Travis Bazzana",
+      "summary_en": "Though the power has been lacking for Travis Bazzana so far, he's been piling up walks and stolen bases with an underlying data set strong enough to suggest he won't be eligible for this list for long. Now would be a good time to scoop him up, if only to take advantage of a favorable slate that includes five left-handers, including three from the bottom-feeder Nationals rotation.",
+      "summary_zh_tw": "Travis Bazzana雖少有長打但積極保送及盜壘，且本週將面對多位左投，有利發揮。",
+      "tags": [
+        "walks",
+        "stolen bases",
+        "favorable schedule",
+        "lefty matchups"
+      ]
+    },
+    {
+      "rank": 4,
+      "name_en": "Brandon Marsh",
+      "summary_en": "Brandon Marsh has far and away the best strikeout rate of his career, and it's made him into a batting average standout in the early going, with more power likely to come. He's not really a platoon player anymore but is still at his best against righties, and the Phillies are scheduled to face five of those this week (including bottom feeders like Griffin Canning, Walker Buehler and Roki Sasaki).",
+      "summary_zh_tw": "Brandon Marsh擁有生涯最佳的三振率，本週面對多名右手投手有出色發揮空間。",
+      "tags": [
+        "low strikeout rate",
+        "batting average",
+        "righty splits"
+      ]
+    },
+    {
+      "rank": 5,
+      "name_en": "A.J. Ewing",
+      "summary_en": "Though he's only had a couple weeks on the job, A.J. Ewing has been everything the Mets could ask for so far, reaching base at a .396 clip with three steals and two extra-base hits. He did sit against a left-hander recently, which maybe raises some platoon concerns, particularly since there's two of those on the schedule this week.",
+      "summary_zh_tw": "A.J. Ewing近期表現優異，上壘率達.396且具盜壘威脅，但對左投適應有疑慮。",
+      "tags": [
+        "high on-base percentage",
+        "steals",
+        "platoon concerns"
+      ]
+    },
+    {
+      "rank": 6,
+      "name_en": "Jake Bauers",
+      "summary_en": "Jake Bauers has been a surprise standout for the Brewers so far, cutting down on his strikeouts and upping his average exit velocity to deliver a .285/.354/.481 slash line. The Brewers have the second-best hitter matchups this week and just one lefty on the schedule, which means Bauers shouldn't face too much interference from Andrew Vaughn.",
+      "summary_zh_tw": "Jake Bauers降低三振率並提升球速，本週對手優勢明顯，有利持續發揮。",
+      "tags": [
+        "improved contact",
+        "average exit velocity",
+        "favorable schedule"
+      ]
+    },
+    {
+      "rank": 7,
+      "name_en": "Alec Bohm",
+      "summary_en": "After a miserable start, Alec Bohm is quickly making up for lost production, batting .346 (18 for 52) with four homers in his past 14 games. The Phillies aren't among the five teams with the best hitter matchups this week, but they don't miss by much, scheduled to face some of the weakest points in the Padres and Dodgers rotations.",
+      "summary_zh_tw": "Alec Bohm近14場打擊率達.346並擊出4轟，本週將對抗多隊投手旋轉陣容弱點。",
+      "tags": [
+        "hot streak",
+        "power",
+        "moderate schedule"
+      ]
+    },
+    {
+      "rank": 8,
+      "name_en": "Angel Martinez",
+      "summary_en": "Those waiting for Angel Martinez to come back down to earth have so far been met with disappointment, as he's added another four homers and three steals in the last two weeks to put him on a 27-homer, 24-steal pace. Some of the pitchers scheduled to face the Guardians this week include Zack Littell, Miles Mikolas and Brayan Bello.",
+      "summary_zh_tw": "Angel Martinez近兩週表現強勁，正以27轟24盜的速度推進本賽季成績。",
+      "tags": [
+        "power",
+        "speed",
+        "strong recent performance"
+      ]
+    },
+    {
+      "rank": 9,
+      "name_en": "Ezequiel Duran",
+      "summary_en": "Whether filling in for Josh H. Smith at second base or Corey Seager at shortstop, Ezequiel Duran, who's playable everywhere but catcher, has gotten the job done, batting .301 (31 for 103) with three homers and two steals in his past 29 games. The Rangers have the third-best hitter matchups this week, with a seven-game slate featuring such luminaries as Tatsuya Imai, Michael Burrows, Kai-Wei Teng and Stephen Kolek.",
+      "summary_zh_tw": "Ezequiel Duran近29場打擊率.301且多位置守備靈活，本週面對優良打者對陣。",
+      "tags": [
+        "versatile defender",
+        "consistent hitter",
+        "favorable schedule"
+      ]
+    },
+    {
+      "rank": 10,
+      "name_en": "Michael Conforto",
+      "summary_en": "Even as far back as spring training, Michael Conforto has looked like an improved hitter this year, and he's begun to steal at-bats from Moises Ballesteros during the regular season with a .284/.388/.537 slash line. He's more of a deep league special because of that uncertain playing time, but with only one left-hander on the schedule, he should play enough to do damage with the most favorable hitting schedule.",
+      "summary_zh_tw": "Michael Conforto本季打擊數據提升，雖上場時間不確定但本週有極佳的打者對陣安排。",
+      "tags": [
+        "improved hitter",
+        "limited playing time",
+        "favorable schedule"
+      ]
+    }
+  ],
+  "pipeline": {
+    "version": "1.0",
+    "status": "complete"
+  }
+}

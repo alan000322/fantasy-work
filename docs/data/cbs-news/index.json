@@ -1,26 +1,44 @@
 {
-  "generated_at": "2026-05-15T10:58:00+00:00",
+  "generated_at": "2026-05-25T03:33:00+00:00",
   "latest_week_by_type": {
-    "sleeper_hitters": 9,
-    "sleeper_pitchers": 9
+    "sleeper_hitters": 10,
+    "sleeper_pitchers": 10
   },
   "articles": [
     {
+      "article_type": "sleeper_hitters",
+      "week": 10,
+      "title_en": "Fantasy Baseball Week 10 Preview: Top 10 sleeper hitters highlight Casey Schmitt, Spencer Steer",
+      "published_at": "2026-05-25T03:33:00+00:00",
+      "source_url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-10-preview-top-10-sleeper-hitters-highlight-casey-schmitt-spencer-steer/",
+      "path": "./data/cbs-news/articles/2026-05-25-fantasy-baseball-week-10-preview-top-10-sleeper-hitters-highlight-casey-schmitt-spencer-steer.json",
+      "player_count": 10
+    },
+    {
       "article_type": "sleeper_pitchers",
-      "week": 9,
-      "title_en": "Fantasy Baseball Week 9 Preview: Top 10 sleeper pitchers include Ryne Nelson, Walbert Urena",
-      "published_at": "2026-05-15T10:58:00+00:00",
-      "source_url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-9-preview-sleeper-pitchers/",
-      "path": "./data/cbs-news/articles/2026-05-15-fantasy-baseball-week-9-preview-sleeper-pitchers.json",
+      "week": 10,
+      "title_en": "Fantasy Baseball Week 10 Preview: Top 10 sleeper pitchers include Bryce Miller, Merrill Kelly",
+      "published_at": "2026-05-25T03:09:00+00:00",
+      "source_url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-10-preview-top-10-sleeper-pitchers-include-bryce-miller-merrill-kelly/",
+      "path": "./data/cbs-news/articles/2026-05-25-fantasy-baseball-week-10-preview-top-10-sleeper-pitchers-include-bryce-miller-merrill-kelly.json",
       "player_count": 10
     },
     {
       "article_type": "sleeper_hitters",
       "week": 9,
-      "title_en": "Fantasy Baseball Week 9 Preview: Top 10 sleeper hitters highlight Daylen Lile, A.J. Ewing",
-      "published_at": "2026-05-15T10:58:00+00:00",
-      "source_url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-9-preview-sleeper-hitters/",
-      "path": "./data/cbs-news/articles/2026-05-15-fantasy-baseball-week-9-preview-sleeper-hitters.json",
+      "title_en": "Fantasy Baseball Week 9 Preview: Top 10 sleeper hitters include Daylen Lile, A.J. Ewing",
+      "published_at": "2026-05-18T05:08:00+00:00",
+      "source_url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-9-preview-sleeper-hitters-include-daylen-lile-aj-ewing/",
+      "path": "./data/cbs-news/articles/2026-05-18-fantasy-baseball-week-9-preview-sleeper-hitters-include-daylen-lile-aj-ewing.json",
+      "player_count": 10
+    },
+    {
+      "article_type": "sleeper_pitchers",
+      "week": 9,
+      "title_en": "Fantasy Baseball Week 9 Preview: Top 10 sleeper pitchers feature Ryne Nelson, Walbert Urena",
+      "published_at": "2026-05-18T05:06:00+00:00",
+      "source_url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-9-preview-sleeper-pitchers-feature-ryne-nelson-walbert-urena/",
+      "path": "./data/cbs-news/articles/2026-05-18-fantasy-baseball-week-9-preview-sleeper-pitchers-feature-ryne-nelson-walbert-urena.json",
       "player_count": 10
     },
     {

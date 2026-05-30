@@ -1,0 +1,343 @@
+{
+  "source_article": {
+    "source": "CBS Sports",
+    "article_type": "sleeper_hitters",
+    "week": 11,
+    "title_en": "Fantasy Baseball Week 11 Preview: Top 10 sleeper hitters highlight Ryan Waldschmidt, Josh Jung",
+    "url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-11-preview-top-10-sleeper-hitters-highlight-ryan-waldschmidt-josh-jung/",
+    "canonical_url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-11-preview-top-10-sleeper-hitters-highlight-ryan-waldschmidt-josh-jung/",
+    "slug": "fantasy-baseball-week-11-preview-top-10-sleeper-hitters-highlight-ryan-waldschmidt-josh-jung",
+    "author": "Scott White",
+    "published_at": "2026-05-29T13:09:10+00:00",
+    "dek_en": "Sleeper hitters for Fantasy Week 10, waiver wire targets, and breakout candidates.",
+    "body_en": "Whether you're in need of an injury fill-in or just a hot-hand play, Scott White has you covered with 10 sleeper hitters for the upcoming scoring period, all rostered in less than 80 percent of CBS Sports leagues. They're not must-starts by any estimation, but they're often the best you'll find off the waiver wire.\n\nBe sure to check back Sunday for the latest updates.\n\n1. Twins CHW3, KC4 2. Phillies SD3, CHW3 3. Brewers SF4, @COL3 4. Giants @MIL4, @CHC3 5. Reds KC3, @STL3\n\n1. Cardinals TEX3, CIN3 2. Guardians @NYY3,@TEX3 3. Orioles @BOS3, @TOR3 4. Mets @SEA3, @SD3 5. Rockies @LAA3, MIL3\n\n1. Ryan Waldschmidt (CF) - While we're still waiting for Ryan Waldschmidt's first home run, he's been killer otherwise and is on one of just six teams with seven games this week. Better yet, four of the opposing pitchers are left-handed, and he's 7 for 16 (.438) against lefties so far.\n2. Josh Jung (3B) - Josh Jung has been sneaky good at a weak position this year thanks to a sharp reduction in strikeout rate, his .307 batting average being backed up by a .311 xBA. The Rangers just missed placing among the five best hitter matchups, with some of the opposing pitches being Michael McGreevy, Dustin May, Andre Pallante and Joey Cantillo.\n3. Jake Bauers (1B) - Even with Christian Yelich and Andrew Vaughn back in the mix, Jake Bauers looks to be a regular play whenever a righty is on the schedule, which is true for six of the Brewers' seven games this week. They also have the third-best hitter matchups thanks largely to their scheduled visit to Coors Field.\n4. J.J. Bleday (LF) - Some Fantasy Baseballers seem eager to pull the plug on J.J. Bleday, but he's still sporting a .951 OPS and had a multi-hit game as recently as Tuesday. The Reds have the third-best hitter slate this week, with matchups including Noah Cameron, Stephen Kolek, Kyle Leahy, Matthew Liberatore and Michael McGreevy.\n5. Brandon Marsh (LF) - Brandon Marsh is nursing a finger injury that doesn't sound like it's going to put him on the IL, so as long as that holds over the weekend, he'll be a great choice to take advantage of the Phillies' second-ranked hitter schedule this week. That's largely because it includes five righties, against whom he's batting .338 with an .871 OPS.\n6. Spencer Horwitz (1B) - Spencer Horwitz has been on a heater lately, batting .351 (20 for 57) with three homers in his past 18 games, and has to contend with only one lefty on the schedule this week. The batted-ball data leaves much to be desired, but he's hit righties to the tune of a .285 batting average and .842 OPS in his career.\n7. Carlos Cortes (RF) - Carlos Cortes still boasts a sparkling .336/.425/.527 slash line, and he's actually done the majority of his damage on the road, slashing .359/.433/.628 with all five of his home runs. That's where the Athletics will play all six of their games this week, and with only one lefty on the schedule, Cortes should be able to make the most of it.\n8. Brooks Lee (SS) - We need some Twins who can take advantage of the team's top-ranked hitter matchups, and Brooks Lee seems like a reasonable choice given that he qualifies at three positions, is on a 17-homer and 86-RBI pace, and has been reasonably productive of late, batting .304 (7 for 23) with a homer and three doubles in his past six games.\n9. Alec Bohm (3B) - Alec Bohm has cooled off a bit over the past week, but the larger trend is still positive, seeing him hit .317 (20 for 63) with four homers in his past 17 games. He seems like a good choice to take advantage of an extremely favorable hitter slate in which the toughest matchups are Randy Vasquez and Sean Burke.\n10. Trevor Larnach (LF) - Consider this one a deep league special. So far this year, Trevor Larnach has been the same middling platoon bat as always, but he's capable of taking advantage of a hitter slate as favorable as the one the Twins have this week, particularly with just one lefty on the schedule.",
+    "fetched_at": "2026-05-30T14:47:14+00:00",
+    "player_cards": [
+      {
+        "rank": 1,
+        "name_en": "Ryan Waldschmidt",
+        "position": "CF",
+        "mlb_team": "ARI",
+        "matchup": null,
+        "rostered_pct": "70%",
+        "blurb_en": "While we're still waiting for Ryan Waldschmidt's first home run, he's been killer otherwise and is on one of just six teams with seven games this week. Better yet, four of the opposing pitchers are left-handed, and he's 7 for 16 (.438) against lefties so far."
+      },
+      {
+        "rank": 2,
+        "name_en": "Josh Jung",
+        "position": "3B",
+        "mlb_team": "TEX",
+        "matchup": null,
+        "rostered_pct": "79%",
+        "blurb_en": "Josh Jung has been sneaky good at a weak position this year thanks to a sharp reduction in strikeout rate, his .307 batting average being backed up by a .311 xBA. The Rangers just missed placing among the five best hitter matchups, with some of the opposing pitches being Michael McGreevy, Dustin May, Andre Pallante and Joey Cantillo."
+      },
+      {
+        "rank": 3,
+        "name_en": "Jake Bauers",
+        "position": "1B",
+        "mlb_team": "MIL",
+        "matchup": null,
+        "rostered_pct": "65%",
+        "blurb_en": "Even with Christian Yelich and Andrew Vaughn back in the mix, Jake Bauers looks to be a regular play whenever a righty is on the schedule, which is true for six of the Brewers' seven games this week. They also have the third-best hitter matchups thanks largely to their scheduled visit to Coors Field."
+      },
+      {
+        "rank": 4,
+        "name_en": "J.J. Bleday",
+        "position": "LF",
+        "mlb_team": "CIN",
+        "matchup": null,
+        "rostered_pct": "75%",
+        "blurb_en": "Some Fantasy Baseballers seem eager to pull the plug on J.J. Bleday, but he's still sporting a .951 OPS and had a multi-hit game as recently as Tuesday. The Reds have the third-best hitter slate this week, with matchups including Noah Cameron, Stephen Kolek, Kyle Leahy, Matthew Liberatore and Michael McGreevy."
+      },
+      {
+        "rank": 5,
+        "name_en": "Brandon Marsh",
+        "position": "LF",
+        "mlb_team": "PHI",
+        "matchup": null,
+        "rostered_pct": "67%",
+        "blurb_en": "Brandon Marsh is nursing a finger injury that doesn't sound like it's going to put him on the IL, so as long as that holds over the weekend, he'll be a great choice to take advantage of the Phillies' second-ranked hitter schedule this week. That's largely because it includes five righties, against whom he's batting .338 with an .871 OPS."
+      },
+      {
+        "rank": 6,
+        "name_en": "Spencer Horwitz",
+        "position": "1B",
+        "mlb_team": "PIT",
+        "matchup": null,
+        "rostered_pct": "33%",
+        "blurb_en": "Spencer Horwitz has been on a heater lately, batting .351 (20 for 57) with three homers in his past 18 games, and has to contend with only one lefty on the schedule this week. The batted-ball data leaves much to be desired, but he's hit righties to the tune of a .285 batting average and .842 OPS in his career."
+      },
+      {
+        "rank": 7,
+        "name_en": "Carlos Cortes",
+        "position": "RF",
+        "mlb_team": "ATH",
+        "matchup": null,
+        "rostered_pct": "47%",
+        "blurb_en": "Carlos Cortes still boasts a sparkling .336/.425/.527 slash line, and he's actually done the majority of his damage on the road, slashing .359/.433/.628 with all five of his home runs. That's where the Athletics will play all six of their games this week, and with only one lefty on the schedule, Cortes should be able to make the most of it."
+      },
+      {
+        "rank": 8,
+        "name_en": "Brooks Lee",
+        "position": "SS",
+        "mlb_team": "MIN",
+        "matchup": null,
+        "rostered_pct": "62%",
+        "blurb_en": "We need some Twins who can take advantage of the team's top-ranked hitter matchups, and Brooks Lee seems like a reasonable choice given that he qualifies at three positions, is on a 17-homer and 86-RBI pace, and has been reasonably productive of late, batting .304 (7 for 23) with a homer and three doubles in his past six games."
+      },
+      {
+        "rank": 9,
+        "name_en": "Alec Bohm",
+        "position": "3B",
+        "mlb_team": "PHI",
+        "matchup": null,
+        "rostered_pct": "54%",
+        "blurb_en": "Alec Bohm has cooled off a bit over the past week, but the larger trend is still positive, seeing him hit .317 (20 for 63) with four homers in his past 17 games. He seems like a good choice to take advantage of an extremely favorable hitter slate in which the toughest matchups are Randy Vasquez and Sean Burke."
+      },
+      {
+        "rank": 10,
+        "name_en": "Trevor Larnach",
+        "position": "LF",
+        "mlb_team": "MIN",
+        "matchup": null,
+        "rostered_pct": "11%",
+        "blurb_en": "Consider this one a deep league special. So far this year, Trevor Larnach has been the same middling platoon bat as always, but he's capable of taking advantage of a hitter slate as favorable as the one the Twins have this week, particularly with just one lefty on the schedule."
+      }
+    ]
+  },
+  "ai_article": {
+    "article_type": "sleeper_hitters",
+    "week": 11,
+    "article_summary_zh_tw": "本週十大潛力未被廣泛看好的攻擊手具備亮眼的賽程與表現潛力。",
+    "players": [
+      {
+        "rank": 1,
+        "name_en": "Ryan Waldschmidt",
+        "summary_en": "While we're still waiting for Ryan Waldschmidt's first home run, he's been killer otherwise and is on one of just six teams with seven games this week. Better yet, four of the opposing pitchers are left-handed, and he's 7 for 16 (.438) against lefties so far.",
+        "summary_zh_tw": "瑞安·瓦爾茲施密特本週有七場比賽，對陣四名左投且對左投打擊率高達.438。",
+        "tags": [
+          "7 games",
+          "good vs lefties",
+          "low rostered"
+        ]
+      },
+      {
+        "rank": 2,
+        "name_en": "Josh Jung",
+        "summary_en": "Josh Jung has been sneaky good at a weak position this year thanks to a sharp reduction in strikeout rate, his .307 batting average being backed up by a .311 xBA. The Rangers just missed placing among the five best hitter matchups, with some of the opposing pitches being Michael McGreevy, Dustin May, Andre Pallante and Joey Cantillo.",
+        "summary_zh_tw": "喬什·鄭今年打擊率.307，三振率下降，面對不錯的投手陣容。",
+        "tags": [
+          "strong batting average",
+          "improved strikeout rate",
+          "good matchups"
+        ]
+      },
+      {
+        "rank": 3,
+        "name_en": "Jake Bauers",
+        "summary_en": "Even with Christian Yelich and Andrew Vaughn back in the mix, Jake Bauers looks to be a regular play whenever a righty is on the schedule, which is true for six of the Brewers' seven games this week. They also have the third-best hitter matchups thanks largely to their scheduled visit to Coors Field.",
+        "summary_zh_tw": "傑克·鮑爾斯本週六場對右投，球隊賽程優異且有科爾場作戰優勢。",
+        "tags": [
+          "favorable schedule",
+          "Coors Field advantage",
+          "plays vs righties"
+        ]
+      },
+      {
+        "rank": 4,
+        "name_en": "J.J. Bleday",
+        "summary_en": "Some Fantasy Baseballers seem eager to pull the plug on J.J. Bleday, but he's still sporting a .951 OPS and had a multi-hit game as recently as Tuesday. The Reds have the third-best hitter slate this week, with matchups including Noah Cameron, Stephen Kolek, Kyle Leahy, Matthew Liberatore and Michael McGreevy.",
+        "summary_zh_tw": "J.J.布萊迪仍維持.951 OPS並有多場優質打擊表現。",
+        "tags": [
+          ".951 OPS",
+          "multi-hit games",
+          "strong schedule"
+        ]
+      },
+      {
+        "rank": 5,
+        "name_en": "Brandon Marsh",
+        "summary_en": "Brandon Marsh is nursing a finger injury that doesn't sound like it's going to put him on the IL, so as long as that holds over the weekend, he'll be a great choice to take advantage of the Phillies' second-ranked hitter schedule this week. That's largely because it includes five righties, against whom he's batting .338 with an .871 OPS.",
+        "summary_zh_tw": "布蘭登·馬什帶傷上陣，對五場右投有不錯的打擊數據。",
+        "tags": [
+          "playing injured",
+          "good vs righties",
+          "strong schedule"
+        ]
+      },
+      {
+        "rank": 6,
+        "name_en": "Spencer Horwitz",
+        "summary_en": "Spencer Horwitz has been on a heater lately, batting .351 (20 for 57) with three homers in his past 18 games, and has to contend with only one lefty on the schedule this week. The batted-ball data leaves much to be desired, but he's hit righties to the tune of a .285 batting average and .842 OPS in his career.",
+        "summary_zh_tw": "斯賓塞·霍維茲最近18場打擊率.351，對陣多數右投。",
+        "tags": [
+          "hot streak",
+          "good vs righties",
+          "low lefty matchups"
+        ]
+      },
+      {
+        "rank": 7,
+        "name_en": "Carlos Cortes",
+        "summary_en": "Carlos Cortes still boasts a sparkling .336/.425/.527 slash line, and he's actually done the majority of his damage on the road, slashing .359/.433/.628 with all five of his home runs. That's where the Athletics will play all six of their games this week, and with only one lefty on the schedule, Cortes should be able to make the most of it.",
+        "summary_zh_tw": "卡洛斯·科爾特斯在客場打擊火力強，本週全部比賽為客場。",
+        "tags": [
+          "excellent slash line",
+          "power on road",
+          "favorable schedule"
+        ]
+      },
+      {
+        "rank": 8,
+        "name_en": "Brooks Lee",
+        "summary_en": "We need some Twins who can take advantage of the team's top-ranked hitter matchups, and Brooks Lee seems like a reasonable choice given that he qualifies at three positions, is on a 17-homer and 86-RBI pace, and has been reasonably productive of late, batting .304 (7 for 23) with a homer and three doubles in his past six games.",
+        "summary_zh_tw": "布魯克斯·李多位置出賽且最近狀況不錯，打擊率達.304。",
+        "tags": [
+          "multi-position eligibility",
+          "good recent form",
+          "strong schedule"
+        ]
+      },
+      {
+        "rank": 9,
+        "name_en": "Alec Bohm",
+        "summary_en": "Alec Bohm has cooled off a bit over the past week, but the larger trend is still positive, seeing him hit .317 (20 for 63) with four homers in his past 17 games. He seems like a good choice to take advantage of an extremely favorable hitter slate in which the toughest matchups are Randy Vasquez and Sean Burke.",
+        "summary_zh_tw": "亞歷克·博姆最近17場打擊率.317且面對較佳賽程。",
+        "tags": [
+          "hot bat overall",
+          "good matchup",
+          "recovered form"
+        ]
+      },
+      {
+        "rank": 10,
+        "name_en": "Trevor Larnach",
+        "summary_en": "Consider this one a deep league special. So far this year, Trevor Larnach has been the same middling platoon bat as always, but he's capable of taking advantage of a hitter slate as favorable as the one the Twins have this week, particularly with just one lefty on the schedule.",
+        "summary_zh_tw": "特雷弗·拉納奇適合深度聯盟，今季表現平平但有良好賽程。",
+        "tags": [
+          "deep league option",
+          "favorable schedule",
+          "low lefty exposure"
+        ]
+      }
+    ],
+    "model": "gpt-4.1-mini",
+    "generated_at": "2026-05-30T14:47:50+00:00"
+  },
+  "players": [
+    {
+      "rank": 1,
+      "name_en": "Ryan Waldschmidt",
+      "summary_en": "While we're still waiting for Ryan Waldschmidt's first home run, he's been killer otherwise and is on one of just six teams with seven games this week. Better yet, four of the opposing pitchers are left-handed, and he's 7 for 16 (.438) against lefties so far.",
+      "summary_zh_tw": "瑞安·瓦爾茲施密特本週有七場比賽，對陣四名左投且對左投打擊率高達.438。",
+      "tags": [
+        "7 games",
+        "good vs lefties",
+        "low rostered"
+      ]
+    },
+    {
+      "rank": 2,
+      "name_en": "Josh Jung",
+      "summary_en": "Josh Jung has been sneaky good at a weak position this year thanks to a sharp reduction in strikeout rate, his .307 batting average being backed up by a .311 xBA. The Rangers just missed placing among the five best hitter matchups, with some of the opposing pitches being Michael McGreevy, Dustin May, Andre Pallante and Joey Cantillo.",
+      "summary_zh_tw": "喬什·鄭今年打擊率.307，三振率下降，面對不錯的投手陣容。",
+      "tags": [
+        "strong batting average",
+        "improved strikeout rate",
+        "good matchups"
+      ]
+    },
+    {
+      "rank": 3,
+      "name_en": "Jake Bauers",
+      "summary_en": "Even with Christian Yelich and Andrew Vaughn back in the mix, Jake Bauers looks to be a regular play whenever a righty is on the schedule, which is true for six of the Brewers' seven games this week. They also have the third-best hitter matchups thanks largely to their scheduled visit to Coors Field.",
+      "summary_zh_tw": "傑克·鮑爾斯本週六場對右投，球隊賽程優異且有科爾場作戰優勢。",
+      "tags": [
+        "favorable schedule",
+        "Coors Field advantage",
+        "plays vs righties"
+      ]
+    },
+    {
+      "rank": 4,
+      "name_en": "J.J. Bleday",
+      "summary_en": "Some Fantasy Baseballers seem eager to pull the plug on J.J. Bleday, but he's still sporting a .951 OPS and had a multi-hit game as recently as Tuesday. The Reds have the third-best hitter slate this week, with matchups including Noah Cameron, Stephen Kolek, Kyle Leahy, Matthew Liberatore and Michael McGreevy.",
+      "summary_zh_tw": "J.J.布萊迪仍維持.951 OPS並有多場優質打擊表現。",
+      "tags": [
+        ".951 OPS",
+        "multi-hit games",
+        "strong schedule"
+      ]
+    },
+    {
+      "rank": 5,
+      "name_en": "Brandon Marsh",
+      "summary_en": "Brandon Marsh is nursing a finger injury that doesn't sound like it's going to put him on the IL, so as long as that holds over the weekend, he'll be a great choice to take advantage of the Phillies' second-ranked hitter schedule this week. That's largely because it includes five righties, against whom he's batting .338 with an .871 OPS.",
+      "summary_zh_tw": "布蘭登·馬什帶傷上陣，對五場右投有不錯的打擊數據。",
+      "tags": [
+        "playing injured",
+        "good vs righties",
+        "strong schedule"
+      ]
+    },
+    {
+      "rank": 6,
+      "name_en": "Spencer Horwitz",
+      "summary_en": "Spencer Horwitz has been on a heater lately, batting .351 (20 for 57) with three homers in his past 18 games, and has to contend with only one lefty on the schedule this week. The batted-ball data leaves much to be desired, but he's hit righties to the tune of a .285 batting average and .842 OPS in his career.",
+      "summary_zh_tw": "斯賓塞·霍維茲最近18場打擊率.351，對陣多數右投。",
+      "tags": [
+        "hot streak",
+        "good vs righties",
+        "low lefty matchups"
+      ]
+    },
+    {
+      "rank": 7,
+      "name_en": "Carlos Cortes",
+      "summary_en": "Carlos Cortes still boasts a sparkling .336/.425/.527 slash line, and he's actually done the majority of his damage on the road, slashing .359/.433/.628 with all five of his home runs. That's where the Athletics will play all six of their games this week, and with only one lefty on the schedule, Cortes should be able to make the most of it.",
+      "summary_zh_tw": "卡洛斯·科爾特斯在客場打擊火力強，本週全部比賽為客場。",
+      "tags": [
+        "excellent slash line",
+        "power on road",
+        "favorable schedule"
+      ]
+    },
+    {
+      "rank": 8,
+      "name_en": "Brooks Lee",
+      "summary_en": "We need some Twins who can take advantage of the team's top-ranked hitter matchups, and Brooks Lee seems like a reasonable choice given that he qualifies at three positions, is on a 17-homer and 86-RBI pace, and has been reasonably productive of late, batting .304 (7 for 23) with a homer and three doubles in his past six games.",
+      "summary_zh_tw": "布魯克斯·李多位置出賽且最近狀況不錯，打擊率達.304。",
+      "tags": [
+        "multi-position eligibility",
+        "good recent form",
+        "strong schedule"
+      ]
+    },
+    {
+      "rank": 9,
+      "name_en": "Alec Bohm",
+      "summary_en": "Alec Bohm has cooled off a bit over the past week, but the larger trend is still positive, seeing him hit .317 (20 for 63) with four homers in his past 17 games. He seems like a good choice to take advantage of an extremely favorable hitter slate in which the toughest matchups are Randy Vasquez and Sean Burke.",
+      "summary_zh_tw": "亞歷克·博姆最近17場打擊率.317且面對較佳賽程。",
+      "tags": [
+        "hot bat overall",
+        "good matchup",
+        "recovered form"
+      ]
+    },
+    {
+      "rank": 10,
+      "name_en": "Trevor Larnach",
+      "summary_en": "Consider this one a deep league special. So far this year, Trevor Larnach has been the same middling platoon bat as always, but he's capable of taking advantage of a hitter slate as favorable as the one the Twins have this week, particularly with just one lefty on the schedule.",
+      "summary_zh_tw": "特雷弗·拉納奇適合深度聯盟，今季表現平平但有良好賽程。",
+      "tags": [
+        "deep league option",
+        "favorable schedule",
+        "low lefty exposure"
+      ]
+    }
+  ],
+  "pipeline": {
+    "version": "1.0",
+    "status": "complete"
+  }
+}

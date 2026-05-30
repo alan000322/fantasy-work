@@ -1,10 +1,28 @@
 {
-  "generated_at": "2026-05-25T03:33:00+00:00",
+  "generated_at": "2026-05-29T13:09:12+00:00",
   "latest_week_by_type": {
-    "sleeper_hitters": 10,
-    "sleeper_pitchers": 10
+    "sleeper_hitters": 11,
+    "sleeper_pitchers": 11
   },
   "articles": [
+    {
+      "article_type": "sleeper_pitchers",
+      "week": 11,
+      "title_en": "Fantasy Baseball Week 11 Preview: Top 10 sleeper pitchers include Ben Brown, Cade Cavalli",
+      "published_at": "2026-05-29T13:09:12+00:00",
+      "source_url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-11-preview-top-10-sleeper-pitchers-include-ben-brown-cade-cavalli/",
+      "path": "./data/cbs-news/articles/2026-05-29-fantasy-baseball-week-11-preview-top-10-sleeper-pitchers-include-ben-brown-cade-cavalli.json",
+      "player_count": 10
+    },
+    {
+      "article_type": "sleeper_hitters",
+      "week": 11,
+      "title_en": "Fantasy Baseball Week 11 Preview: Top 10 sleeper hitters highlight Ryan Waldschmidt, Josh Jung",
+      "published_at": "2026-05-29T13:09:10+00:00",
+      "source_url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-11-preview-top-10-sleeper-hitters-highlight-ryan-waldschmidt-josh-jung/",
+      "path": "./data/cbs-news/articles/2026-05-29-fantasy-baseball-week-11-preview-top-10-sleeper-hitters-highlight-ryan-waldschmidt-josh-jung.json",
+      "player_count": 10
+    },
     {
       "article_type": "sleeper_hitters",
       "week": 10,

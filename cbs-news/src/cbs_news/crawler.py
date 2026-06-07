@@ -250,9 +250,14 @@ def parse_article(link: ArticleLink) -> SourceArticle:
     )
 
 
-def fetch_target_articles(limit: int | None = None) -> list[SourceArticle]:
+def fetch_target_articles(
+    limit: int | None = None,
+    skip_slugs: set[str] | None = None,
+) -> list[SourceArticle]:
     listing_html = fetch_html(BASE_URL)
     links = parse_listing(listing_html)
+    if skip_slugs:
+        links = [link for link in links if slug_from_url(link.url) not in skip_slugs]
     articles = [parse_article(link) for link in links]
     articles.sort(
         key=lambda article: (

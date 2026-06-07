@@ -80,6 +80,19 @@ def existing_document_path(output_dir: Path, article: SourceArticle) -> Path:
     return output_dir / output_filename(article)
 
 
+def existing_slugs(output_dir: Path) -> set[str]:
+    if not output_dir.exists():
+        return set()
+    slugs: set[str] = set()
+    for path in output_dir.glob("*.json"):
+        name = path.stem
+        if len(name) > 11 and name[10] == "-" and name[4] == "-" and name[7] == "-":
+            slugs.add(name[11:])
+        else:
+            slugs.add(name)
+    return slugs
+
+
 def run_pipeline(
     *,
     limit: int | None = None,
@@ -87,9 +100,9 @@ def run_pipeline(
     skip_ai: bool = False,
     model: str | None = None,
 ) -> list[Path]:
-    articles = fetch_target_articles(limit=limit)
-    written_paths: list[Path] = []
     base_path = Path(output_dir)
+    articles = fetch_target_articles(limit=limit, skip_slugs=existing_slugs(base_path))
+    written_paths: list[Path] = []
 
     for article in articles:
         existing_path = existing_document_path(base_path, article)

@@ -1,0 +1,2 @@
+# CBS Fantasy Baseball — 每週六中午 12:00 抓最新 sleeper 並推到 GitHub Pages
+0 12 * * 6 /Users/ct-blank/Desktop/fantasy-work/cbs-news/scripts/weekly-publish.sh

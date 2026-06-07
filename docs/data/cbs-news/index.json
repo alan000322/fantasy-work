@@ -1,17 +1,35 @@
 {
-  "generated_at": "2026-05-29T13:09:12+00:00",
+  "generated_at": "2026-06-05T11:32:00+00:00",
   "latest_week_by_type": {
-    "sleeper_hitters": 11,
-    "sleeper_pitchers": 11
+    "sleeper_hitters": 12,
+    "sleeper_pitchers": 12
   },
   "articles": [
     {
+      "article_type": "sleeper_hitters",
+      "week": 12,
+      "title_en": "Fantasy Baseball Week 12 Preview: Top 10 sleeper hitters include Colt Emerson, Bryce Eldridge",
+      "published_at": "2026-06-05T11:32:00+00:00",
+      "source_url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-12-preview-top-10-sleeper-hitters/",
+      "path": "./data/cbs-news/articles/2026-06-05-fantasy-baseball-week-12-preview-top-10-sleeper-hitters.json",
+      "player_count": 10
+    },
+    {
+      "article_type": "sleeper_pitchers",
+      "week": 12,
+      "title_en": "Fantasy Baseball Week 12 Preview: Top 10 sleeper pitchers feature Shane Baz, Gage Jump",
+      "published_at": "2026-06-05T11:24:00+00:00",
+      "source_url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-12-preview-top-10-sleeper-pitchers/",
+      "path": "./data/cbs-news/articles/2026-06-05-fantasy-baseball-week-12-preview-top-10-sleeper-pitchers.json",
+      "player_count": 10
+    },
+    {
       "article_type": "sleeper_pitchers",
       "week": 11,
-      "title_en": "Fantasy Baseball Week 11 Preview: Top 10 sleeper pitchers include Ben Brown, Cade Cavalli",
-      "published_at": "2026-05-29T13:09:12+00:00",
-      "source_url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-11-preview-top-10-sleeper-pitchers-include-ben-brown-cade-cavalli/",
-      "path": "./data/cbs-news/articles/2026-05-29-fantasy-baseball-week-11-preview-top-10-sleeper-pitchers-include-ben-brown-cade-cavalli.json",
+      "title_en": "Fantasy Baseball Week 11 Preview: Top 10 sleeper pitchers feature Ben Brown, Cade Cavalli",
+      "published_at": "2026-06-01T01:25:00+00:00",
+      "source_url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-11-preview-top-10-sleeper-pitchers-feature-ben-brown-cade-cavalli/",
+      "path": "./data/cbs-news/articles/2026-06-01-fantasy-baseball-week-11-preview-top-10-sleeper-pitchers-feature-ben-brown-cade-cavalli.json",
       "player_count": 10
     },
     {

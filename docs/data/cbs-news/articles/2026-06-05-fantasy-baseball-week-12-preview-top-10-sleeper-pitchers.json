@@ -1,0 +1,331 @@
+{
+  "source_article": {
+    "source": "CBS Sports",
+    "article_type": "sleeper_pitchers",
+    "week": 12,
+    "title_en": "Fantasy Baseball Week 12 Preview: Top 10 sleeper pitchers feature Shane Baz, Gage Jump",
+    "url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-12-preview-top-10-sleeper-pitchers/",
+    "canonical_url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-12-preview-top-10-sleeper-pitchers/",
+    "slug": "fantasy-baseball-week-12-preview-top-10-sleeper-pitchers",
+    "author": "Scott White",
+    "published_at": "2026-06-05T11:24:00+00:00",
+    "dek_en": "Sleeper pitchers for Fantasy Week 12, with rankings, matchups and top streaming options",
+    "body_en": "Streaming pitchers isn't for the faint of heart, but if you find yourself without enough reliable options in a given scoring period, it may be what you need to stay afloat. Scott White has 10 recommendations for the upcoming scoring period, all rostered in less than 80 percent of CBS Sports leagues. Generally, only the top two or three are full-throated endorsements, while the rest are more about making the best of a bad situation.\n\nBe sure to check back Sunday for the latest updates.\n\n1. Andrew Abbott (SP) - Andrew Abbott has seemingly gotten back on track with a 2.25 ERA in his past seven starts, though his 4.67 FIP during that same stretch reveals how underwhelming his walks and strikeouts have been. Still, he's facing the league's worst offense (Padres) in a two-start week, so you can't expect to do much better off the waiver wire.\n2. Shane Baz (SP) - Shane Baz has changed his pitch mix against right-handers recently and gotten better results, taking a four-start quality start streak into his matchup at the Blue Jays over the weekend. Provided he pulls through in that one, he'll make for an obvious choice to stream against the Padres' 30th-ranked offense.\n3. Gage Jump (SP) - Gage Jump has excelled in different ways in his first two starts, once in terms of process and once in terms of results. Whether or not he combines them in his third start against the Astros over the weekend, I've seen enough to recommend him against the Rockies, who remain a favorable matchup on the road.\n4. Seth Lugo (SP) - Seth Lugo obviously isn't the pitcher he was two years ago, but he's been a quality start machine with eight already this year. He makes for a prime play whenever he has a favorable matchup, which the Rangers have been this year, though I should note that they're getting Wyatt Langford and Corey Seager back this weekend.\n5. Dustin May (SP) - Speaking of quality start machines, Dustin May has seven in his 12 turns this season. He also has a 3.19 ERA in his past 10 outings, and while there's not much to recommend him beyond that, it's enough when he's in line for two starts with a weak two-start slate.\n6. Tanner Bibee (SP) - Yet another pitcher whose lack of upside doesn't prevent him from churning out quality starts at a high rate, Tanner Bibee will be facing a Tigers lineup in Week 12 that contributed to his best start of the year back on May 20, when he allowed one run in eight innings.\n7. Grant Holmes (SP) - Grant Holmes has had efficiency issues that have elevated his WHIP and kept his outings on the shorter side, but he gets two chances at a win this week, including one against a Mets lineup that ranks in the bottom third of the league.\n8. Foster Griffin (SP) - Foster Griffin has come back down to earth a bit in recent turns, but his overall ratios are still solid. He has an obvious vulnerability to the long ball, but that's less of an issue against the Giants, particularly in San Francisco.\n9. Jack Leiter (SP) - Jack Leiter can be his own worst enemy at times and has been particularly shaky on the mound lately, but he remains a solid bat-misser capable of exploiting the right matchups. He has such a matchup this week against the Red Sox, who rank third-to-last in runs scored.\n10. Walker Buehler (SP) - I'll be honest: I see no way Walker Buehler sustains anywhere close to the 3.29 ERA he has in his past five starts. But he's a hot hand that lines up for two favorable matchups, which is sometimes the best you can do off the waiver wire if you're insistent on playing it.",
+    "fetched_at": "2026-06-07T16:14:34+00:00",
+    "player_cards": [
+      {
+        "rank": 1,
+        "name_en": "Andrew Abbott",
+        "position": "SP",
+        "mlb_team": "CIN",
+        "matchup": null,
+        "rostered_pct": "78%",
+        "blurb_en": "Andrew Abbott has seemingly gotten back on track with a 2.25 ERA in his past seven starts, though his 4.67 FIP during that same stretch reveals how underwhelming his walks and strikeouts have been. Still, he's facing the league's worst offense (Padres) in a two-start week, so you can't expect to do much better off the waiver wire."
+      },
+      {
+        "rank": 2,
+        "name_en": "Shane Baz",
+        "position": "SP",
+        "mlb_team": "BAL",
+        "matchup": "vs. SD",
+        "rostered_pct": "75%",
+        "blurb_en": "Shane Baz has changed his pitch mix against right-handers recently and gotten better results, taking a four-start quality start streak into his matchup at the Blue Jays over the weekend. Provided he pulls through in that one, he'll make for an obvious choice to stream against the Padres' 30th-ranked offense."
+      },
+      {
+        "rank": 3,
+        "name_en": "Gage Jump",
+        "position": "SP",
+        "mlb_team": "ATH",
+        "matchup": "vs. COL",
+        "rostered_pct": "40%",
+        "blurb_en": "Gage Jump has excelled in different ways in his first two starts, once in terms of process and once in terms of results. Whether or not he combines them in his third start against the Astros over the weekend, I've seen enough to recommend him against the Rockies, who remain a favorable matchup on the road."
+      },
+      {
+        "rank": 4,
+        "name_en": "Seth Lugo",
+        "position": "SP",
+        "mlb_team": "KC",
+        "matchup": "vs. TEX",
+        "rostered_pct": "76%",
+        "blurb_en": "Seth Lugo obviously isn't the pitcher he was two years ago, but he's been a quality start machine with eight already this year. He makes for a prime play whenever he has a favorable matchup, which the Rangers have been this year, though I should note that they're getting Wyatt Langford and Corey Seager back this weekend."
+      },
+      {
+        "rank": 5,
+        "name_en": "Dustin May",
+        "position": "SP",
+        "mlb_team": "STL",
+        "matchup": null,
+        "rostered_pct": "49%",
+        "blurb_en": "Speaking of quality start machines, Dustin May has seven in his 12 turns this season. He also has a 3.19 ERA in his past 10 outings, and while there's not much to recommend him beyond that, it's enough when he's in line for two starts with a weak two-start slate."
+      },
+      {
+        "rank": 6,
+        "name_en": "Tanner Bibee",
+        "position": "SP",
+        "mlb_team": "CLE",
+        "matchup": "vs. DET",
+        "rostered_pct": "75%",
+        "blurb_en": "Yet another pitcher whose lack of upside doesn't prevent him from churning out quality starts at a high rate, Tanner Bibee will be facing a Tigers lineup in Week 12 that contributed to his best start of the year back on May 20, when he allowed one run in eight innings."
+      },
+      {
+        "rank": 7,
+        "name_en": "Grant Holmes",
+        "position": "SP",
+        "mlb_team": "ATL",
+        "matchup": null,
+        "rostered_pct": "58%",
+        "blurb_en": "Grant Holmes has had efficiency issues that have elevated his WHIP and kept his outings on the shorter side, but he gets two chances at a win this week, including one against a Mets lineup that ranks in the bottom third of the league."
+      },
+      {
+        "rank": 8,
+        "name_en": "Foster Griffin",
+        "position": "SP",
+        "mlb_team": "WAS",
+        "matchup": "at SF",
+        "rostered_pct": "76%",
+        "blurb_en": "Foster Griffin has come back down to earth a bit in recent turns, but his overall ratios are still solid. He has an obvious vulnerability to the long ball, but that's less of an issue against the Giants, particularly in San Francisco."
+      },
+      {
+        "rank": 9,
+        "name_en": "Jack Leiter",
+        "position": "SP",
+        "mlb_team": "TEX",
+        "matchup": "at BOS",
+        "rostered_pct": "78%",
+        "blurb_en": "Jack Leiter can be his own worst enemy at times and has been particularly shaky on the mound lately, but he remains a solid bat-misser capable of exploiting the right matchups. He has such a matchup this week against the Red Sox, who rank third-to-last in runs scored."
+      },
+      {
+        "rank": 10,
+        "name_en": "Walker Buehler",
+        "position": "SP",
+        "mlb_team": "SD",
+        "matchup": null,
+        "rostered_pct": "16%",
+        "blurb_en": "I'll be honest: I see no way Walker Buehler sustains anywhere close to the 3.29 ERA he has in his past five starts. But he's a hot hand that lines up for two favorable matchups, which is sometimes the best you can do off the waiver wire if you're insistent on playing it."
+      }
+    ]
+  },
+  "ai_article": {
+    "article_type": "sleeper_pitchers",
+    "week": 12,
+    "article_summary_zh_tw": "CBS Sports專家Scott White為第12週推薦了10位潛力投手，排名前兩三位為強力推薦，其餘則是在選擇有限下的最佳方案。",
+    "players": [
+      {
+        "rank": 1,
+        "name_en": "Andrew Abbott",
+        "summary_en": "Andrew Abbott has seemingly gotten back on track with a 2.25 ERA in his past seven starts, though his 4.67 FIP during that same stretch reveals how underwhelming his walks and strikeouts have been. Still, he's facing the league's worst offense (Padres) in a two-start week, so you can't expect to do much better off the waiver wire.",
+        "summary_zh_tw": "Andrew Abbott近期表現有所回穩，面對聯盟最差進攻的教士擁有兩場先發機會。",
+        "tags": [
+          "two_start_week",
+          "facing_strong_matchup"
+        ]
+      },
+      {
+        "rank": 2,
+        "name_en": "Shane Baz",
+        "summary_en": "Shane Baz has changed his pitch mix against right-handers recently and gotten better results, taking a four-start quality start streak into his matchup at the Blue Jays over the weekend. Provided he pulls through in that one, he'll make for an obvious choice to stream against the Padres' 30th-ranked offense.",
+        "summary_zh_tw": "Shane Baz調整投球組合後連續四場優質先發，週末對藍鳥後續可望繼續優質表現。",
+        "tags": [
+          "pitch_mix_adjustment",
+          "quality_start_streak",
+          "vs Padres"
+        ]
+      },
+      {
+        "rank": 3,
+        "name_en": "Gage Jump",
+        "summary_en": "Gage Jump has excelled in different ways in his first two starts, once in terms of process and once in terms of results. Whether or not he combines them in his third start against the Astros over the weekend, I've seen enough to recommend him against the Rockies, who remain a favorable matchup on the road.",
+        "summary_zh_tw": "Gage Jump前兩場先發有亮眼表現，週末對太空人後，下週可望持續對洛磯有利表現。",
+        "tags": [
+          "early_promise",
+          "favorable_matchup_vs_Rockies"
+        ]
+      },
+      {
+        "rank": 4,
+        "name_en": "Seth Lugo",
+        "summary_en": "Seth Lugo obviously isn't the pitcher he was two years ago, but he's been a quality start machine with eight already this year. He makes for a prime play whenever he has a favorable matchup, which the Rangers have been this year, though I should note that they're getting Wyatt Langford and Corey Seager back this weekend.",
+        "summary_zh_tw": "Seth Lugo本季已有八場優質先發，面對表現不俗的遊騎兵是絕佳選擇。",
+        "tags": [
+          "quality_start_machine",
+          "favorable_matchup_vs_Rangers"
+        ]
+      },
+      {
+        "rank": 5,
+        "name_en": "Dustin May",
+        "summary_en": "Speaking of quality start machines, Dustin May has seven in his 12 turns this season. He also has a 3.19 ERA in his past 10 outings, and while there's not much to recommend him beyond that, it's enough when he's in line for two starts with a weak two-start slate.",
+        "summary_zh_tw": "Dustin May本季十二場先發有七場優質先發，近期表現穩定適合雙先發週使用。",
+        "tags": [
+          "quality_start_machine",
+          "two_start_week"
+        ]
+      },
+      {
+        "rank": 6,
+        "name_en": "Tanner Bibee",
+        "summary_en": "Yet another pitcher whose lack of upside doesn't prevent him from churning out quality starts at a high rate, Tanner Bibee will be facing a Tigers lineup in Week 12 that contributed to his best start of the year back on May 20, when he allowed one run in eight innings.",
+        "summary_zh_tw": "Tanner Bibee擅長持續穩定優質先發，本週將對戰他本季最佳表現的老虎隊。",
+        "tags": [
+          "consistent_quality_starts",
+          "favorable_matchup_vs_Tigers"
+        ]
+      },
+      {
+        "rank": 7,
+        "name_en": "Grant Holmes",
+        "summary_en": "Grant Holmes has had efficiency issues that have elevated his WHIP and kept his outings on the shorter side, but he gets two chances at a win this week, including one against a Mets lineup that ranks in the bottom third of the league.",
+        "summary_zh_tw": "Grant Holmes雖有效率問題但本週有兩場先發機會，其一對戰低排名的大都會。",
+        "tags": [
+          "two_start_week",
+          "favorable_matchup_vs_Mets"
+        ]
+      },
+      {
+        "rank": 8,
+        "name_en": "Foster Griffin",
+        "summary_en": "Foster Griffin has come back down to earth a bit in recent turns, but his overall ratios are still solid. He has an obvious vulnerability to the long ball, but that's less of an issue against the Giants, particularly in San Francisco.",
+        "summary_zh_tw": "Foster Griffin整體數據仍穩健，對於主場對巨人較少被轟長打風險。",
+        "tags": [
+          "solid_overall_ratios",
+          "vulnerability_to_HR",
+          "favorable_matchup_vs_Giants"
+        ]
+      },
+      {
+        "rank": 9,
+        "name_en": "Jack Leiter",
+        "summary_en": "Jack Leiter can be his own worst enemy at times and has been particularly shaky on the mound lately, but he remains a solid bat-misser capable of exploiting the right matchups. He has such a matchup this week against the Red Sox, who rank third-to-last in runs scored.",
+        "summary_zh_tw": "Jack Leiter雖近期表現不穩，但本週面對得分排名倒數第三的紅襪屬利好條件。",
+        "tags": [
+          "bat_misser",
+          "challenging_recent_performance",
+          "favorable_matchup_vs_Red Sox"
+        ]
+      },
+      {
+        "rank": 10,
+        "name_en": "Walker Buehler",
+        "summary_en": "I'll be honest: I see no way Walker Buehler sustains anywhere close to the 3.29 ERA he has in his past five starts. But he's a hot hand that lines up for two favorable matchups, which is sometimes the best you can do off the waiver wire if you're insistent on playing it.",
+        "summary_zh_tw": "Walker Buehler近期ERA不易持續，但擁有兩場有利先發，是浮動陣容的可考慮選項。",
+        "tags": [
+          "hot_streak",
+          "two_start_week",
+          "unsustainable_ERA"
+        ]
+      }
+    ],
+    "model": "gpt-4.1-mini",
+    "generated_at": "2026-06-07T16:15:05+00:00"
+  },
+  "players": [
+    {
+      "rank": 1,
+      "name_en": "Andrew Abbott",
+      "summary_en": "Andrew Abbott has seemingly gotten back on track with a 2.25 ERA in his past seven starts, though his 4.67 FIP during that same stretch reveals how underwhelming his walks and strikeouts have been. Still, he's facing the league's worst offense (Padres) in a two-start week, so you can't expect to do much better off the waiver wire.",
+      "summary_zh_tw": "Andrew Abbott近期表現有所回穩，面對聯盟最差進攻的教士擁有兩場先發機會。",
+      "tags": [
+        "two_start_week",
+        "facing_strong_matchup"
+      ]
+    },
+    {
+      "rank": 2,
+      "name_en": "Shane Baz",
+      "summary_en": "Shane Baz has changed his pitch mix against right-handers recently and gotten better results, taking a four-start quality start streak into his matchup at the Blue Jays over the weekend. Provided he pulls through in that one, he'll make for an obvious choice to stream against the Padres' 30th-ranked offense.",
+      "summary_zh_tw": "Shane Baz調整投球組合後連續四場優質先發，週末對藍鳥後續可望繼續優質表現。",
+      "tags": [
+        "pitch_mix_adjustment",
+        "quality_start_streak",
+        "vs Padres"
+      ]
+    },
+    {
+      "rank": 3,
+      "name_en": "Gage Jump",
+      "summary_en": "Gage Jump has excelled in different ways in his first two starts, once in terms of process and once in terms of results. Whether or not he combines them in his third start against the Astros over the weekend, I've seen enough to recommend him against the Rockies, who remain a favorable matchup on the road.",
+      "summary_zh_tw": "Gage Jump前兩場先發有亮眼表現，週末對太空人後，下週可望持續對洛磯有利表現。",
+      "tags": [
+        "early_promise",
+        "favorable_matchup_vs_Rockies"
+      ]
+    },
+    {
+      "rank": 4,
+      "name_en": "Seth Lugo",
+      "summary_en": "Seth Lugo obviously isn't the pitcher he was two years ago, but he's been a quality start machine with eight already this year. He makes for a prime play whenever he has a favorable matchup, which the Rangers have been this year, though I should note that they're getting Wyatt Langford and Corey Seager back this weekend.",
+      "summary_zh_tw": "Seth Lugo本季已有八場優質先發，面對表現不俗的遊騎兵是絕佳選擇。",
+      "tags": [
+        "quality_start_machine",
+        "favorable_matchup_vs_Rangers"
+      ]
+    },
+    {
+      "rank": 5,
+      "name_en": "Dustin May",
+      "summary_en": "Speaking of quality start machines, Dustin May has seven in his 12 turns this season. He also has a 3.19 ERA in his past 10 outings, and while there's not much to recommend him beyond that, it's enough when he's in line for two starts with a weak two-start slate.",
+      "summary_zh_tw": "Dustin May本季十二場先發有七場優質先發，近期表現穩定適合雙先發週使用。",
+      "tags": [
+        "quality_start_machine",
+        "two_start_week"
+      ]
+    },
+    {
+      "rank": 6,
+      "name_en": "Tanner Bibee",
+      "summary_en": "Yet another pitcher whose lack of upside doesn't prevent him from churning out quality starts at a high rate, Tanner Bibee will be facing a Tigers lineup in Week 12 that contributed to his best start of the year back on May 20, when he allowed one run in eight innings.",
+      "summary_zh_tw": "Tanner Bibee擅長持續穩定優質先發，本週將對戰他本季最佳表現的老虎隊。",
+      "tags": [
+        "consistent_quality_starts",
+        "favorable_matchup_vs_Tigers"
+      ]
+    },
+    {
+      "rank": 7,
+      "name_en": "Grant Holmes",
+      "summary_en": "Grant Holmes has had efficiency issues that have elevated his WHIP and kept his outings on the shorter side, but he gets two chances at a win this week, including one against a Mets lineup that ranks in the bottom third of the league.",
+      "summary_zh_tw": "Grant Holmes雖有效率問題但本週有兩場先發機會，其一對戰低排名的大都會。",
+      "tags": [
+        "two_start_week",
+        "favorable_matchup_vs_Mets"
+      ]
+    },
+    {
+      "rank": 8,
+      "name_en": "Foster Griffin",
+      "summary_en": "Foster Griffin has come back down to earth a bit in recent turns, but his overall ratios are still solid. He has an obvious vulnerability to the long ball, but that's less of an issue against the Giants, particularly in San Francisco.",
+      "summary_zh_tw": "Foster Griffin整體數據仍穩健，對於主場對巨人較少被轟長打風險。",
+      "tags": [
+        "solid_overall_ratios",
+        "vulnerability_to_HR",
+        "favorable_matchup_vs_Giants"
+      ]
+    },
+    {
+      "rank": 9,
+      "name_en": "Jack Leiter",
+      "summary_en": "Jack Leiter can be his own worst enemy at times and has been particularly shaky on the mound lately, but he remains a solid bat-misser capable of exploiting the right matchups. He has such a matchup this week against the Red Sox, who rank third-to-last in runs scored.",
+      "summary_zh_tw": "Jack Leiter雖近期表現不穩，但本週面對得分排名倒數第三的紅襪屬利好條件。",
+      "tags": [
+        "bat_misser",
+        "challenging_recent_performance",
+        "favorable_matchup_vs_Red Sox"
+      ]
+    },
+    {
+      "rank": 10,
+      "name_en": "Walker Buehler",
+      "summary_en": "I'll be honest: I see no way Walker Buehler sustains anywhere close to the 3.29 ERA he has in his past five starts. But he's a hot hand that lines up for two favorable matchups, which is sometimes the best you can do off the waiver wire if you're insistent on playing it.",
+      "summary_zh_tw": "Walker Buehler近期ERA不易持續，但擁有兩場有利先發，是浮動陣容的可考慮選項。",
+      "tags": [
+        "hot_streak",
+        "two_start_week",
+        "unsustainable_ERA"
+      ]
+    }
+  ],
+  "pipeline": {
+    "version": "1.0",
+    "status": "complete"
+  }
+}

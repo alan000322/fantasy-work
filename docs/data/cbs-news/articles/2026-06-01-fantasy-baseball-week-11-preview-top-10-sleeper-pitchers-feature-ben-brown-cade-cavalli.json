@@ -1,0 +1,343 @@
+{
+  "source_article": {
+    "source": "CBS Sports",
+    "article_type": "sleeper_pitchers",
+    "week": 11,
+    "title_en": "Fantasy Baseball Week 11 Preview: Top 10 sleeper pitchers feature Ben Brown, Cade Cavalli",
+    "url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-11-preview-top-10-sleeper-pitchers-feature-ben-brown-cade-cavalli/",
+    "canonical_url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-11-preview-top-10-sleeper-pitchers-feature-ben-brown-cade-cavalli/",
+    "slug": "fantasy-baseball-week-11-preview-top-10-sleeper-pitchers-feature-ben-brown-cade-cavalli",
+    "author": "Scott White",
+    "published_at": "2026-06-01T01:25:00+00:00",
+    "dek_en": "Two-start pitchers for Fantasy Week 10, with rankings, matchups and top streaming options",
+    "body_en": "Streaming pitchers isn't for the faint of heart, but if you find yourself without enough reliable options in a given scoring period, it may be what you need to stay afloat. Scott White has 10 recommendations for the upcoming scoring period, all rostered in less than 80 percent of CBS Sports leagues. Generally, only the top two or three are full-throated endorsements, while the rest are more about making the best of a bad situation.\n\nAll information is up to date as of Sunday evening.\n\n1. Ben Brown (RP) - Ben Brown looks right at home in a starting role now that he's been extended to throw five, six and even seven innings at a time. He's the rare ground ball specialist who also misses bats at a high clip and will get to feast on the league's lowest-scoring offense this week.\n2. Cade Cavalli (SP) - Cade Cavalli may still be vulnerable against tougher matchups, but he's come through with the favorable ones he's had recently, consistently working deep enough games and collecting strikeouts at a nice rate. His opponents this week (Marlins and Diamondbacks) rank more in the middle of the pack offensively, but hey, there's two of them.\n3. Walbert Urena (SP) - Walbert Urena is hardly a model of efficiency, but he's done a great job limiting damage by keeping the ball on the ground and collecting whiffs with a plus changeup. That gives him a strong chance to pick up a win with a plush matchup against the Rockies away from Coors Field.\n4. Jared Jones (SP) - Though the results were bad in Jared Jones' return from UCL surgery over the weekend, he averaged 99 mph on his fastball and piled up 15 whiffs on just 77 pitches. The upside makes him worth a roll of the dice even with an iffy matchup against the Astros.\n5. Andrew Abbott (SP) - Andrew Abbott has mostly righted the ship after a miserable start to the year, putting together a 1.59 ERA in his past six starts, but his walk and strikeout numbers during that time leave quite a bit to be desired. Still, the Royals offense is so bad that you can give him better odds than not of delivering a quality start.\n6. Aaron Nola (SP) - There's a chance Aaron Nola unlocked something by leaning more on his curveball in his latest start, but even if that ends up being a red herring, he's still capable enough of delivering a quality start to be of some value in points leagues during a two-start week. His first matchup against the Padres is particularly tasty.\n7. Bubba Chandler (SP) - Bubba Chandler has shown improvement with regard to strike-throwing in his past couple turns while striking out 16 over 10 innings between them. He's still too big of a risk to your WHIP to use him in a Rotisserie or categories league, but for a little extra volume in a points league, you could try him in a two-start week.\n8. Jameson Taillon (SP) - Jameson Taillon has been shaky lately and is another who risks doing double the harm in a categories league when in line for two starts, but he makes sense as a volume play in a points league, especially when the matchups are as favorable as the Athletics and Giants.\n9. Michael McGreevy (SP) - Michael McGreevy has been among the biggest overachevers in xERA this year and isn't the sort of pitcher you can trust week in and week out, but he's allowed to take on innings when the results are there, which is how he has six quality starts already. The Rangers make for a terrific matchup right now, and the Reds are inviting enough away from their hitter-friendly home.\n10. Griffin Jax (RP) - Griffin Jax, who left his previous start with a back bruise, is still on the schedule for Monday, which means he's in line to face two teams (Tigers and Marlins) with major hitting concerns. His outings have run short so far, but his 51 percent ground ball rate helps to keep runs off the board.",
+    "fetched_at": "2026-06-07T16:14:35+00:00",
+    "player_cards": [
+      {
+        "rank": 1,
+        "name_en": "Ben Brown",
+        "position": "RP",
+        "mlb_team": "CHC",
+        "matchup": "vs. SF",
+        "rostered_pct": "71%",
+        "blurb_en": "Ben Brown looks right at home in a starting role now that he's been extended to throw five, six and even seven innings at a time. He's the rare ground ball specialist who also misses bats at a high clip and will get to feast on the league's lowest-scoring offense this week."
+      },
+      {
+        "rank": 2,
+        "name_en": "Cade Cavalli",
+        "position": "SP",
+        "mlb_team": "WAS",
+        "matchup": null,
+        "rostered_pct": "64%",
+        "blurb_en": "Cade Cavalli may still be vulnerable against tougher matchups, but he's come through with the favorable ones he's had recently, consistently working deep enough games and collecting strikeouts at a nice rate. His opponents this week (Marlins and Diamondbacks) rank more in the middle of the pack offensively, but hey, there's two of them."
+      },
+      {
+        "rank": 3,
+        "name_en": "Walbert Urena",
+        "position": "SP",
+        "mlb_team": "LAA",
+        "matchup": "vs. COL",
+        "rostered_pct": "30%",
+        "blurb_en": "Walbert Urena is hardly a model of efficiency, but he's done a great job limiting damage by keeping the ball on the ground and collecting whiffs with a plus changeup. That gives him a strong chance to pick up a win with a plush matchup against the Rockies away from Coors Field."
+      },
+      {
+        "rank": 4,
+        "name_en": "Jared Jones",
+        "position": "SP",
+        "mlb_team": "PIT",
+        "matchup": "at HOU",
+        "rostered_pct": "74%",
+        "blurb_en": "Though the results were bad in Jared Jones' return from UCL surgery over the weekend, he averaged 99 mph on his fastball and piled up 15 whiffs on just 77 pitches. The upside makes him worth a roll of the dice even with an iffy matchup against the Astros."
+      },
+      {
+        "rank": 5,
+        "name_en": "Andrew Abbott",
+        "position": "SP",
+        "mlb_team": "CIN",
+        "matchup": "vs. KC",
+        "rostered_pct": "73%",
+        "blurb_en": "Andrew Abbott has mostly righted the ship after a miserable start to the year, putting together a 1.59 ERA in his past six starts, but his walk and strikeout numbers during that time leave quite a bit to be desired. Still, the Royals offense is so bad that you can give him better odds than not of delivering a quality start."
+      },
+      {
+        "rank": 6,
+        "name_en": "Aaron Nola",
+        "position": "SP",
+        "mlb_team": "PHI",
+        "matchup": null,
+        "rostered_pct": "67%",
+        "blurb_en": "There's a chance Aaron Nola unlocked something by leaning more on his curveball in his latest start, but even if that ends up being a red herring, he's still capable enough of delivering a quality start to be of some value in points leagues during a two-start week. His first matchup against the Padres is particularly tasty."
+      },
+      {
+        "rank": 7,
+        "name_en": "Bubba Chandler",
+        "position": "SP",
+        "mlb_team": "PIT",
+        "matchup": null,
+        "rostered_pct": "74%",
+        "blurb_en": "Bubba Chandler has shown improvement with regard to strike-throwing in his past couple turns while striking out 16 over 10 innings between them. He's still too big of a risk to your WHIP to use him in a Rotisserie or categories league, but for a little extra volume in a points league, you could try him in a two-start week."
+      },
+      {
+        "rank": 8,
+        "name_en": "Jameson Taillon",
+        "position": "SP",
+        "mlb_team": "CHC",
+        "matchup": null,
+        "rostered_pct": "55%",
+        "blurb_en": "Jameson Taillon has been shaky lately and is another who risks doing double the harm in a categories league when in line for two starts, but he makes sense as a volume play in a points league, especially when the matchups are as favorable as the Athletics and Giants."
+      },
+      {
+        "rank": 9,
+        "name_en": "Michael McGreevy",
+        "position": "SP",
+        "mlb_team": "STL",
+        "matchup": null,
+        "rostered_pct": "73%",
+        "blurb_en": "Michael McGreevy has been among the biggest overachevers in xERA this year and isn't the sort of pitcher you can trust week in and week out, but he's allowed to take on innings when the results are there, which is how he has six quality starts already. The Rangers make for a terrific matchup right now, and the Reds are inviting enough away from their hitter-friendly home."
+      },
+      {
+        "rank": 10,
+        "name_en": "Griffin Jax",
+        "position": "RP",
+        "mlb_team": "TB",
+        "matchup": null,
+        "rostered_pct": "39%",
+        "blurb_en": "Griffin Jax, who left his previous start with a back bruise, is still on the schedule for Monday, which means he's in line to face two teams (Tigers and Marlins) with major hitting concerns. His outings have run short so far, but his 51 percent ground ball rate helps to keep runs off the board."
+      }
+    ]
+  },
+  "ai_article": {
+    "article_type": "sleeper_pitchers",
+    "week": 11,
+    "article_summary_zh_tw": "本週10大潛力新秀投手名單涵蓋不同風險與潛力選手，適合缺乏可靠人選的聯盟。",
+    "players": [
+      {
+        "rank": 1,
+        "name_en": "Ben Brown",
+        "summary_en": "Ben Brown looks right at home in a starting role now that he's been extended to throw five, six and even seven innings at a time. He's the rare ground ball specialist who also misses bats at a high clip and will get to feast on the league's lowest-scoring offense this week.",
+        "summary_zh_tw": "Ben Brown已適應先發角色，擅長地面球與三振，將迎戰本週得分最低的對手。",
+        "tags": [
+          "starting role",
+          "ground ball specialist",
+          "high strikeout"
+        ]
+      },
+      {
+        "rank": 2,
+        "name_en": "Cade Cavalli",
+        "summary_en": "Cade Cavalli may still be vulnerable against tougher matchups, but he's come through with the favorable ones he's had recently, consistently working deep enough games and collecting strikeouts at a nice rate. His opponents this week (Marlins and Diamondbacks) rank more in the middle of the pack offensively, but hey, there's two of them.",
+        "summary_zh_tw": "Cade Cavalli近期對較弱對手表現穩定，將迎戰中段班馬林魚和響尾蛇。",
+        "tags": [
+          "two-start week",
+          "middle-tier matchups",
+          "strikeouts"
+        ]
+      },
+      {
+        "rank": 3,
+        "name_en": "Walbert Urena",
+        "summary_en": "Walbert Urena is hardly a model of efficiency, but he's done a great job limiting damage by keeping the ball on the ground and collecting whiffs with a plus changeup. That gives him a strong chance to pick up a win with a plush matchup against the Rockies away from Coors Field.",
+        "summary_zh_tw": "Walbert Urena透過地面球與優秀變速球控制失分，今對手落磯隊外地作戰利於他拿勝。",
+        "tags": [
+          "ground ball",
+          "changeup",
+          "plush matchup"
+        ]
+      },
+      {
+        "rank": 4,
+        "name_en": "Jared Jones",
+        "summary_en": "Though the results were bad in Jared Jones' return from UCL surgery over the weekend, he averaged 99 mph on his fastball and piled up 15 whiffs on just 77 pitches. The upside makes him worth a roll of the dice even with an iffy matchup against the Astros.",
+        "summary_zh_tw": "Jared Jones術後剛回歸雖表現不佳，但強力速球和高三振率具潛力。",
+        "tags": [
+          "high velocity",
+          "post-surgery",
+          "risk/reward"
+        ]
+      },
+      {
+        "rank": 5,
+        "name_en": "Andrew Abbott",
+        "summary_en": "Andrew Abbott has mostly righted the ship after a miserable start to the year, putting together a 1.59 ERA in his past six starts, but his walk and strikeout numbers during that time leave quite a bit to be desired. Still, the Royals offense is so bad that you can give him better odds than not of delivering a quality start.",
+        "summary_zh_tw": "Andrew Abbott近期ERA降至1.59，儘管三振保送不佳，但面對弱勢皇家攻擊仍有不錯機會。",
+        "tags": [
+          "quality start potential",
+          "low ERA recent",
+          "weak opponent offense"
+        ]
+      },
+      {
+        "rank": 6,
+        "name_en": "Aaron Nola",
+        "summary_en": "There's a chance Aaron Nola unlocked something by leaning more on his curveball in his latest start, but even if that ends up being a red herring, he's still capable enough of delivering a quality start to be of some value in points leagues during a two-start week. His first matchup against the Padres is particularly tasty.",
+        "summary_zh_tw": "Aaron Nola嘗試增加曲球使用率，兩場出賽中首戰對聖地牙哥極具競爭力。",
+        "tags": [
+          "curveball usage",
+          "two-start week",
+          "quality start potential"
+        ]
+      },
+      {
+        "rank": 7,
+        "name_en": "Bubba Chandler",
+        "summary_en": "Bubba Chandler has shown improvement with regard to strike-throwing in his past couple turns while striking out 16 over 10 innings between them. He's still too big of a risk to your WHIP to use him in a Rotisserie or categories league, but for a little extra volume in a points league, you could try him in a two-start week.",
+        "summary_zh_tw": "Bubba Chandler近兩場投出16次三振，但WHIP風險仍高，適合積分聯盟試水溫。",
+        "tags": [
+          "improved strike-throwing",
+          "high WHIP risk",
+          "points league value"
+        ]
+      },
+      {
+        "rank": 8,
+        "name_en": "Jameson Taillon",
+        "summary_en": "Jameson Taillon has been shaky lately and is another who risks doing double the harm in a categories league when in line for two starts, but he makes sense as a volume play in a points league, especially when the matchups are as favorable as the Athletics and Giants.",
+        "summary_zh_tw": "Jameson Taillon近期不穩，雙重出賽可能雙面受創，但在積分類聯盟量多合理。",
+        "tags": [
+          "volume play",
+          "two-start week",
+          "shaky performance"
+        ]
+      },
+      {
+        "rank": 9,
+        "name_en": "Michael McGreevy",
+        "summary_en": "Michael McGreevy has been among the biggest overachevers in xERA this year and isn't the sort of pitcher you can trust week in and week out, but he's allowed to take on innings when the results are there, which is how he has six quality starts already. The Rangers make for a terrific matchup right now, and the Reds are inviting enough away from their hitter-friendly home.",
+        "summary_zh_tw": "Michael McGreevy xERA過高，但已有六場優質先發，面對遊騎兵和紅人都具優勢。",
+        "tags": [
+          "overachiever",
+          "quality starts",
+          "favorable matchups"
+        ]
+      },
+      {
+        "rank": 10,
+        "name_en": "Griffin Jax",
+        "summary_en": "Griffin Jax, who left his previous start with a back bruise, is still on the schedule for Monday, which means he's in line to face two teams (Tigers and Marlins) with major hitting concerns. His outings have run short so far, but his 51 percent ground ball rate helps to keep runs off the board.",
+        "summary_zh_tw": "Griffin Jax背部挫傷仍待出賽，將面對攻擊力不足的老虎與馬林魚，地面球率高。",
+        "tags": [
+          "injury concern",
+          "ground ball specialist",
+          "weak opponents"
+        ]
+      }
+    ],
+    "model": "gpt-4.1-mini",
+    "generated_at": "2026-06-07T16:15:21+00:00"
+  },
+  "players": [
+    {
+      "rank": 1,
+      "name_en": "Ben Brown",
+      "summary_en": "Ben Brown looks right at home in a starting role now that he's been extended to throw five, six and even seven innings at a time. He's the rare ground ball specialist who also misses bats at a high clip and will get to feast on the league's lowest-scoring offense this week.",
+      "summary_zh_tw": "Ben Brown已適應先發角色，擅長地面球與三振，將迎戰本週得分最低的對手。",
+      "tags": [
+        "starting role",
+        "ground ball specialist",
+        "high strikeout"
+      ]
+    },
+    {
+      "rank": 2,
+      "name_en": "Cade Cavalli",
+      "summary_en": "Cade Cavalli may still be vulnerable against tougher matchups, but he's come through with the favorable ones he's had recently, consistently working deep enough games and collecting strikeouts at a nice rate. His opponents this week (Marlins and Diamondbacks) rank more in the middle of the pack offensively, but hey, there's two of them.",
+      "summary_zh_tw": "Cade Cavalli近期對較弱對手表現穩定，將迎戰中段班馬林魚和響尾蛇。",
+      "tags": [
+        "two-start week",
+        "middle-tier matchups",
+        "strikeouts"
+      ]
+    },
+    {
+      "rank": 3,
+      "name_en": "Walbert Urena",
+      "summary_en": "Walbert Urena is hardly a model of efficiency, but he's done a great job limiting damage by keeping the ball on the ground and collecting whiffs with a plus changeup. That gives him a strong chance to pick up a win with a plush matchup against the Rockies away from Coors Field.",
+      "summary_zh_tw": "Walbert Urena透過地面球與優秀變速球控制失分，今對手落磯隊外地作戰利於他拿勝。",
+      "tags": [
+        "ground ball",
+        "changeup",
+        "plush matchup"
+      ]
+    },
+    {
+      "rank": 4,
+      "name_en": "Jared Jones",
+      "summary_en": "Though the results were bad in Jared Jones' return from UCL surgery over the weekend, he averaged 99 mph on his fastball and piled up 15 whiffs on just 77 pitches. The upside makes him worth a roll of the dice even with an iffy matchup against the Astros.",
+      "summary_zh_tw": "Jared Jones術後剛回歸雖表現不佳，但強力速球和高三振率具潛力。",
+      "tags": [
+        "high velocity",
+        "post-surgery",
+        "risk/reward"
+      ]
+    },
+    {
+      "rank": 5,
+      "name_en": "Andrew Abbott",
+      "summary_en": "Andrew Abbott has mostly righted the ship after a miserable start to the year, putting together a 1.59 ERA in his past six starts, but his walk and strikeout numbers during that time leave quite a bit to be desired. Still, the Royals offense is so bad that you can give him better odds than not of delivering a quality start.",
+      "summary_zh_tw": "Andrew Abbott近期ERA降至1.59，儘管三振保送不佳，但面對弱勢皇家攻擊仍有不錯機會。",
+      "tags": [
+        "quality start potential",
+        "low ERA recent",
+        "weak opponent offense"
+      ]
+    },
+    {
+      "rank": 6,
+      "name_en": "Aaron Nola",
+      "summary_en": "There's a chance Aaron Nola unlocked something by leaning more on his curveball in his latest start, but even if that ends up being a red herring, he's still capable enough of delivering a quality start to be of some value in points leagues during a two-start week. His first matchup against the Padres is particularly tasty.",
+      "summary_zh_tw": "Aaron Nola嘗試增加曲球使用率，兩場出賽中首戰對聖地牙哥極具競爭力。",
+      "tags": [
+        "curveball usage",
+        "two-start week",
+        "quality start potential"
+      ]
+    },
+    {
+      "rank": 7,
+      "name_en": "Bubba Chandler",
+      "summary_en": "Bubba Chandler has shown improvement with regard to strike-throwing in his past couple turns while striking out 16 over 10 innings between them. He's still too big of a risk to your WHIP to use him in a Rotisserie or categories league, but for a little extra volume in a points league, you could try him in a two-start week.",
+      "summary_zh_tw": "Bubba Chandler近兩場投出16次三振，但WHIP風險仍高，適合積分聯盟試水溫。",
+      "tags": [
+        "improved strike-throwing",
+        "high WHIP risk",
+        "points league value"
+      ]
+    },
+    {
+      "rank": 8,
+      "name_en": "Jameson Taillon",
+      "summary_en": "Jameson Taillon has been shaky lately and is another who risks doing double the harm in a categories league when in line for two starts, but he makes sense as a volume play in a points league, especially when the matchups are as favorable as the Athletics and Giants.",
+      "summary_zh_tw": "Jameson Taillon近期不穩，雙重出賽可能雙面受創，但在積分類聯盟量多合理。",
+      "tags": [
+        "volume play",
+        "two-start week",
+        "shaky performance"
+      ]
+    },
+    {
+      "rank": 9,
+      "name_en": "Michael McGreevy",
+      "summary_en": "Michael McGreevy has been among the biggest overachevers in xERA this year and isn't the sort of pitcher you can trust week in and week out, but he's allowed to take on innings when the results are there, which is how he has six quality starts already. The Rangers make for a terrific matchup right now, and the Reds are inviting enough away from their hitter-friendly home.",
+      "summary_zh_tw": "Michael McGreevy xERA過高，但已有六場優質先發，面對遊騎兵和紅人都具優勢。",
+      "tags": [
+        "overachiever",
+        "quality starts",
+        "favorable matchups"
+      ]
+    },
+    {
+      "rank": 10,
+      "name_en": "Griffin Jax",
+      "summary_en": "Griffin Jax, who left his previous start with a back bruise, is still on the schedule for Monday, which means he's in line to face two teams (Tigers and Marlins) with major hitting concerns. His outings have run short so far, but his 51 percent ground ball rate helps to keep runs off the board.",
+      "summary_zh_tw": "Griffin Jax背部挫傷仍待出賽，將面對攻擊力不足的老虎與馬林魚，地面球率高。",
+      "tags": [
+        "injury concern",
+        "ground ball specialist",
+        "weak opponents"
+      ]
+    }
+  ],
+  "pipeline": {
+    "version": "1.0",
+    "status": "complete"
+  }
+}

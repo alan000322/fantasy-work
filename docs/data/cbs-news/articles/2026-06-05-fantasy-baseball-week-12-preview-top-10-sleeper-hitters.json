@@ -1,0 +1,347 @@
+{
+  "source_article": {
+    "source": "CBS Sports",
+    "article_type": "sleeper_hitters",
+    "week": 12,
+    "title_en": "Fantasy Baseball Week 12 Preview: Top 10 sleeper hitters include Colt Emerson, Bryce Eldridge",
+    "url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-12-preview-top-10-sleeper-hitters/",
+    "canonical_url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-12-preview-top-10-sleeper-hitters/",
+    "slug": "fantasy-baseball-week-12-preview-top-10-sleeper-hitters",
+    "author": "Scott White",
+    "published_at": "2026-06-05T11:32:00+00:00",
+    "dek_en": "Sleeper hitters for Fantasy Week 12, waiver wire targets, and breakout candidates.",
+    "body_en": "Whether you're in need of an injury fill-in or just a hot-hand play, Scott White has you covered with 10 sleeper hitters for the upcoming scoring period, all rostered in less than 80 percent of CBS Sports leagues. They're not must-starts by any estimation, but they're often the best you'll find off the waiver wire.\n\nBe sure to check back Sunday for the latest updates.\n\n1. Mariners @BAL4, @WAS3 2. Athletics MIL3, COL3 3. Giants WAS3, CHC3 4. Cubs @COL3, @SF3 5. Astros @LAA3, @KC3\n\n1. Blue Jays PHI3, NYY3 2. Phillies @TOR3, @MIL3 3. Red Sox @TB3, TEX3 4. Rangers @KC3, @BOS3 5. White Sox ATL3, LAD3\n\n1. Bryce Eldridge (DH) - Bryce Eldridge has had two huge games in the past week, but even better days are ahead, judging by his .298 xBA and .548 xSLG. Those numbers are backed up by premium exit velocities and a much better strikeout rate than projected. The Giants have the third-best hitter matchups this week.\n2. Colt Emerson (3B) - Compared to Eldridge, not everything looks as good under the hood for the Mariners' star rookie, Colt Emerson, but he's been productive enough with eight extra-base hits, including three homers, in 16 games. The Mariners have the most favorable matchups of any team this week, being one of just two scheduled for seven games, and his left-handedness should pay off against the six righties on the schedule.\n3. Jake Bauers (1B) - Frankly, as long as Jake Bauers is playing nearly every day (he's started against two of the past three lefties the Brewers have faced), he's more or less a fixture here. That's how strong his hitting profile is. The Brewers matchups are pretty solid, though, particularly with a three-game set against the Athletics pitching staff.\n4. Isaac Paredes (3B) - Just the fact that Isaac Paredes qualifies for this list tells you the sort of disappointment he's been, but his Statcast readings are basically right in line with where they've always been. He enters the weekend having homered in back-to-back games and may be heating up just in time to take advantage of the Astros' fifth-ranked hitter matchups.\n5. Carson Benge (RF) - Carson Benge has been a bankable option ever since the calendar flipped to May, batting .313 (36 for 115) with four homers and four steals in his past 29 games. The Mets' schedule this week is nothing spectacular, but it features a bunch of pitch-to-contact guys like Dustin May, Andre Pallante, Kyle Leahy and Bryce Elder.\n6. A.J. Ewing (CF) - The Mets' schedule this week features nothing but right-handers, which actually helps Benge less than you'd think but is likely to make a difference for his fellow left-handed-hitting rookie, A.J. Ewing, who's batting .302 (16 for 53) vs. righties compared to .136 (3 for 22) vs. lefties.\n7. Nate Lowe (DH) - Nate Lowe hasn't had much traction in Fantasy since his late-April surge, but he still has a 78th percentile xBA and 92nd percentile xSLG. He also still starts against right-handers, which is what the Reds are scheduled to face in five of their six games, including mashables like Walker Buehler, Lucas Giolito and Zac Gallen.\n8. Jung Hoo Lee (RF) - Though Jung Hoo Lee has always excelled at putting the bat on the ball, a greatly improved line-drive rate this year has turned him into a batting average standout -- and in a way that's backed up by a 95th percentile xBA. The Giants have the third-best hitter matchups this week, scheduled to face pitchers like Miles Mikolas, Andrew Alvarez, Foster Griffin, Edward Cabrera and Jameson Taillon.\n9. Luke Raley (RF) - If there's ever a time to play Luke Raley, it's when the Mariners have a top-ranked hitter schedule that's loaded with righties. It can still be misleading in terms of how much playing time he'll get because he's often removed for a pinch hitter whenever a left-handed reliever comes in, but he nonetheless finds himself on a 33-homer pace even with that role.\n10. Dominic Canzone (DH) - Dominic Canzone's hitting profile is even more impressive than Raley's, actually, but he suffers from the same issue of being removed whenever a left-handed reliever comes in. Hopefully, starters Chris Bassitt, Brandon Young, Zack Littell and Miles Mikolas stay in the game long enough for him to do real damage.",
+    "fetched_at": "2026-06-07T16:14:33+00:00",
+    "player_cards": [
+      {
+        "rank": 1,
+        "name_en": "Bryce Eldridge",
+        "position": "DH",
+        "mlb_team": "SF",
+        "matchup": null,
+        "rostered_pct": null,
+        "blurb_en": "Bryce Eldridge has had two huge games in the past week, but even better days are ahead, judging by his .298 xBA and .548 xSLG. Those numbers are backed up by premium exit velocities and a much better strikeout rate than projected. The Giants have the third-best hitter matchups this week."
+      },
+      {
+        "rank": 2,
+        "name_en": "Colt Emerson",
+        "position": "3B",
+        "mlb_team": "SEA",
+        "matchup": null,
+        "rostered_pct": "69%",
+        "blurb_en": "Compared to Eldridge, not everything looks as good under the hood for the Mariners' star rookie, Colt Emerson, but he's been productive enough with eight extra-base hits, including three homers, in 16 games. The Mariners have the most favorable matchups of any team this week, being one of just two scheduled for seven games, and his left-handedness should pay off against the six righties on the schedule."
+      },
+      {
+        "rank": 3,
+        "name_en": "Jake Bauers",
+        "position": "1B",
+        "mlb_team": "MIL",
+        "matchup": null,
+        "rostered_pct": "78%",
+        "blurb_en": "Frankly, as long as Jake Bauers is playing nearly every day (he's started against two of the past three lefties the Brewers have faced), he's more or less a fixture here. That's how strong his hitting profile is. The Brewers matchups are pretty solid, though, particularly with a three-game set against the Athletics pitching staff."
+      },
+      {
+        "rank": 4,
+        "name_en": "Isaac Paredes",
+        "position": "3B",
+        "mlb_team": "HOU",
+        "matchup": null,
+        "rostered_pct": "75%",
+        "blurb_en": "Just the fact that Isaac Paredes qualifies for this list tells you the sort of disappointment he's been, but his Statcast readings are basically right in line with where they've always been. He enters the weekend having homered in back-to-back games and may be heating up just in time to take advantage of the Astros' fifth-ranked hitter matchups."
+      },
+      {
+        "rank": 5,
+        "name_en": "Carson Benge",
+        "position": "RF",
+        "mlb_team": "NYM",
+        "matchup": null,
+        "rostered_pct": "79%",
+        "blurb_en": "Carson Benge has been a bankable option ever since the calendar flipped to May, batting .313 (36 for 115) with four homers and four steals in his past 29 games. The Mets' schedule this week is nothing spectacular, but it features a bunch of pitch-to-contact guys like Dustin May, Andre Pallante, Kyle Leahy and Bryce Elder."
+      },
+      {
+        "rank": 6,
+        "name_en": "A.J. Ewing",
+        "position": "CF",
+        "mlb_team": "NYM",
+        "matchup": null,
+        "rostered_pct": "56%",
+        "blurb_en": "The Mets' schedule this week features nothing but right-handers, which actually helps Benge less than you'd think but is likely to make a difference for his fellow left-handed-hitting rookie, A.J. Ewing, who's batting .302 (16 for 53) vs. righties compared to .136 (3 for 22) vs. lefties."
+      },
+      {
+        "rank": 7,
+        "name_en": "Nate Lowe",
+        "position": "DH",
+        "mlb_team": "CIN",
+        "matchup": null,
+        "rostered_pct": "18%",
+        "blurb_en": "Nate Lowe hasn't had much traction in Fantasy since his late-April surge, but he still has a 78th percentile xBA and 92nd percentile xSLG. He also still starts against right-handers, which is what the Reds are scheduled to face in five of their six games, including mashables like Walker Buehler, Lucas Giolito and Zac Gallen."
+      },
+      {
+        "rank": 8,
+        "name_en": "Jung Hoo Lee",
+        "position": "RF",
+        "mlb_team": "SF",
+        "matchup": null,
+        "rostered_pct": "46%",
+        "blurb_en": "Though Jung Hoo Lee has always excelled at putting the bat on the ball, a greatly improved line-drive rate this year has turned him into a batting average standout -- and in a way that's backed up by a 95th percentile xBA. The Giants have the third-best hitter matchups this week, scheduled to face pitchers like Miles Mikolas, Andrew Alvarez, Foster Griffin, Edward Cabrera and Jameson Taillon."
+      },
+      {
+        "rank": 9,
+        "name_en": "Luke Raley",
+        "position": "RF",
+        "mlb_team": "SEA",
+        "matchup": null,
+        "rostered_pct": "56%",
+        "blurb_en": "If there's ever a time to play Luke Raley, it's when the Mariners have a top-ranked hitter schedule that's loaded with righties. It can still be misleading in terms of how much playing time he'll get because he's often removed for a pinch hitter whenever a left-handed reliever comes in, but he nonetheless finds himself on a 33-homer pace even with that role."
+      },
+      {
+        "rank": 10,
+        "name_en": "Dominic Canzone",
+        "position": "DH",
+        "mlb_team": "SEA",
+        "matchup": null,
+        "rostered_pct": "24%",
+        "blurb_en": "Dominic Canzone's hitting profile is even more impressive than Raley's, actually, but he suffers from the same issue of being removed whenever a left-handed reliever comes in. Hopefully, starters Chris Bassitt, Brandon Young, Zack Littell and Miles Mikolas stay in the game long enough for him to do real damage."
+      }
+    ]
+  },
+  "ai_article": {
+    "article_type": "sleeper_hitters",
+    "week": 12,
+    "article_summary_zh_tw": "本文整理了12週的十大潛力打者，包括Colt Emerson與Bryce Eldridge，介紹他們近期表現與本週對戰利多。",
+    "players": [
+      {
+        "rank": 1,
+        "name_en": "Bryce Eldridge",
+        "summary_en": "Bryce Eldridge has had two huge games in the past week, but even better days are ahead, judging by his .298 xBA and .548 xSLG. Those numbers are backed up by premium exit velocities and a much better strikeout rate than projected. The Giants have the third-best hitter matchups this week.",
+        "summary_zh_tw": "Bryce Eldridge近期表現優異，預計將有更好日子，因其高預期打擊率與長打率支持。",
+        "tags": [
+          "DH",
+          "Giants",
+          "top matchups"
+        ]
+      },
+      {
+        "rank": 2,
+        "name_en": "Colt Emerson",
+        "summary_en": "Compared to Eldridge, not everything looks as good under the hood for the Mariners' star rookie, Colt Emerson, but he's been productive enough with eight extra-base hits, including three homers, in 16 games. The Mariners have the most favorable matchups of any team this week, being one of just two scheduled for seven games, and his left-handedness should pay off against the six righties on the schedule.",
+        "summary_zh_tw": "Colt Emerson近16場有8次長打，其中包含3支全壘打，本週將面對多場有利對戰。",
+        "tags": [
+          "3B",
+          "Mariners",
+          "left-handed",
+          "favorable matchups"
+        ]
+      },
+      {
+        "rank": 3,
+        "name_en": "Jake Bauers",
+        "summary_en": "Frankly, as long as Jake Bauers is playing nearly every day (he's started against two of the past three lefties the Brewers have faced), he's more or less a fixture here. That's how strong his hitting profile is. The Brewers matchups are pretty solid, though, particularly with a three-game set against the Athletics pitching staff.",
+        "summary_zh_tw": "Jake Bauers幾乎每日上場，擁有穩定的強勢打擊本週有不錯的對戰機會。",
+        "tags": [
+          "1B",
+          "Brewers",
+          "consistent starter"
+        ]
+      },
+      {
+        "rank": 4,
+        "name_en": "Isaac Paredes",
+        "summary_en": "Just the fact that Isaac Paredes qualifies for this list tells you the sort of disappointment he's been, but his Statcast readings are basically right in line with where they've always been. He enters the weekend having homered in back-to-back games and may be heating up just in time to take advantage of the Astros' fifth-ranked hitter matchups.",
+        "summary_zh_tw": "Isaac Paredes近期雖表現令人失望但有連續全壘打跡象，適逢Astros良好對戰。",
+        "tags": [
+          "3B",
+          "Astros",
+          "heating up"
+        ]
+      },
+      {
+        "rank": 5,
+        "name_en": "Carson Benge",
+        "summary_en": "Carson Benge has been a bankable option ever since the calendar flipped to May, batting .313 (36 for 115) with four homers and four steals in his past 29 games. The Mets' schedule this week is nothing spectacular, but it features a bunch of pitch-to-contact guys like Dustin May, Andre Pallante, Kyle Leahy and Bryce Elder.",
+        "summary_zh_tw": "Carson Benge五月以來打擊率高達0.313並貢獻多支全壘打和盜壘。",
+        "tags": [
+          "RF",
+          "Mets",
+          "hot streak"
+        ]
+      },
+      {
+        "rank": 6,
+        "name_en": "A.J. Ewing",
+        "summary_en": "The Mets' schedule this week features nothing but right-handers, which actually helps Benge less than you'd think but is likely to make a difference for his fellow left-handed-hitting rookie, A.J. Ewing, who's batting .302 (16 for 53) vs. righties compared to .136 (3 for 22) vs. lefties.",
+        "summary_zh_tw": "左打新秀A.J. Ewing對右投打擊率達0.302，本週將對戰多名右投。",
+        "tags": [
+          "CF",
+          "Mets",
+          "left-handed",
+          "rookie"
+        ]
+      },
+      {
+        "rank": 7,
+        "name_en": "Nate Lowe",
+        "summary_en": "Nate Lowe hasn't had much traction in Fantasy since his late-April surge, but he still has a 78th percentile xBA and 92nd percentile xSLG. He also still starts against right-handers, which is what the Reds are scheduled to face in five of their six games, including mashables like Walker Buehler, Lucas Giolito and Zac Gallen.",
+        "summary_zh_tw": "Nate Lowe雖近期表現平淡但期待打擊率與長打率仍具競爭力。",
+        "tags": [
+          "DH",
+          "Reds",
+          "starts vs righties"
+        ]
+      },
+      {
+        "rank": 8,
+        "name_en": "Jung Hoo Lee",
+        "summary_en": "Though Jung Hoo Lee has always excelled at putting the bat on the ball, a greatly improved line-drive rate this year has turned him into a batting average standout -- and in a way that's backed up by a 95th percentile xBA. The Giants have the third-best hitter matchups this week, scheduled to face pitchers like Miles Mikolas, Andrew Alvarez, Foster Griffin, Edward Cabrera and Jameson Taillon.",
+        "summary_zh_tw": "Jung Hoo Lee本季擊球風格改進，xBA達95百分位，本週有不錯對戰。",
+        "tags": [
+          "RF",
+          "Giants",
+          "high batting average"
+        ]
+      },
+      {
+        "rank": 9,
+        "name_en": "Luke Raley",
+        "summary_en": "If there's ever a time to play Luke Raley, it's when the Mariners have a top-ranked hitter schedule that's loaded with righties. It can still be misleading in terms of how much playing time he'll get because he's often removed for a pinch hitter whenever a left-handed reliever comes in, but he nonetheless finds himself on a 33-homer pace even with that role.",
+        "summary_zh_tw": "Luke Raley本季有33轟步伐，儘管出場時間受左投限制。",
+        "tags": [
+          "RF",
+          "Mariners",
+          "power hitter"
+        ]
+      },
+      {
+        "rank": 10,
+        "name_en": "Dominic Canzone",
+        "summary_en": "Dominic Canzone's hitting profile is even more impressive than Raley's, actually, but he suffers from the same issue of being removed whenever a left-handed reliever comes in. Hopefully, starters Chris Bassitt, Brandon Young, Zack Littell and Miles Mikolas stay in the game long enough for him to do real damage.",
+        "summary_zh_tw": "Dominic Canzone打擊能力優異，但上場時間受限於左投接替情況。",
+        "tags": [
+          "DH",
+          "Mariners",
+          "limited playing time"
+        ]
+      }
+    ],
+    "model": "gpt-4.1-mini",
+    "generated_at": "2026-06-07T16:14:49+00:00"
+  },
+  "players": [
+    {
+      "rank": 1,
+      "name_en": "Bryce Eldridge",
+      "summary_en": "Bryce Eldridge has had two huge games in the past week, but even better days are ahead, judging by his .298 xBA and .548 xSLG. Those numbers are backed up by premium exit velocities and a much better strikeout rate than projected. The Giants have the third-best hitter matchups this week.",
+      "summary_zh_tw": "Bryce Eldridge近期表現優異，預計將有更好日子，因其高預期打擊率與長打率支持。",
+      "tags": [
+        "DH",
+        "Giants",
+        "top matchups"
+      ]
+    },
+    {
+      "rank": 2,
+      "name_en": "Colt Emerson",
+      "summary_en": "Compared to Eldridge, not everything looks as good under the hood for the Mariners' star rookie, Colt Emerson, but he's been productive enough with eight extra-base hits, including three homers, in 16 games. The Mariners have the most favorable matchups of any team this week, being one of just two scheduled for seven games, and his left-handedness should pay off against the six righties on the schedule.",
+      "summary_zh_tw": "Colt Emerson近16場有8次長打，其中包含3支全壘打，本週將面對多場有利對戰。",
+      "tags": [
+        "3B",
+        "Mariners",
+        "left-handed",
+        "favorable matchups"
+      ]
+    },
+    {
+      "rank": 3,
+      "name_en": "Jake Bauers",
+      "summary_en": "Frankly, as long as Jake Bauers is playing nearly every day (he's started against two of the past three lefties the Brewers have faced), he's more or less a fixture here. That's how strong his hitting profile is. The Brewers matchups are pretty solid, though, particularly with a three-game set against the Athletics pitching staff.",
+      "summary_zh_tw": "Jake Bauers幾乎每日上場，擁有穩定的強勢打擊本週有不錯的對戰機會。",
+      "tags": [
+        "1B",
+        "Brewers",
+        "consistent starter"
+      ]
+    },
+    {
+      "rank": 4,
+      "name_en": "Isaac Paredes",
+      "summary_en": "Just the fact that Isaac Paredes qualifies for this list tells you the sort of disappointment he's been, but his Statcast readings are basically right in line with where they've always been. He enters the weekend having homered in back-to-back games and may be heating up just in time to take advantage of the Astros' fifth-ranked hitter matchups.",
+      "summary_zh_tw": "Isaac Paredes近期雖表現令人失望但有連續全壘打跡象，適逢Astros良好對戰。",
+      "tags": [
+        "3B",
+        "Astros",
+        "heating up"
+      ]
+    },
+    {
+      "rank": 5,
+      "name_en": "Carson Benge",
+      "summary_en": "Carson Benge has been a bankable option ever since the calendar flipped to May, batting .313 (36 for 115) with four homers and four steals in his past 29 games. The Mets' schedule this week is nothing spectacular, but it features a bunch of pitch-to-contact guys like Dustin May, Andre Pallante, Kyle Leahy and Bryce Elder.",
+      "summary_zh_tw": "Carson Benge五月以來打擊率高達0.313並貢獻多支全壘打和盜壘。",
+      "tags": [
+        "RF",
+        "Mets",
+        "hot streak"
+      ]
+    },
+    {
+      "rank": 6,
+      "name_en": "A.J. Ewing",
+      "summary_en": "The Mets' schedule this week features nothing but right-handers, which actually helps Benge less than you'd think but is likely to make a difference for his fellow left-handed-hitting rookie, A.J. Ewing, who's batting .302 (16 for 53) vs. righties compared to .136 (3 for 22) vs. lefties.",
+      "summary_zh_tw": "左打新秀A.J. Ewing對右投打擊率達0.302，本週將對戰多名右投。",
+      "tags": [
+        "CF",
+        "Mets",
+        "left-handed",
+        "rookie"
+      ]
+    },
+    {
+      "rank": 7,
+      "name_en": "Nate Lowe",
+      "summary_en": "Nate Lowe hasn't had much traction in Fantasy since his late-April surge, but he still has a 78th percentile xBA and 92nd percentile xSLG. He also still starts against right-handers, which is what the Reds are scheduled to face in five of their six games, including mashables like Walker Buehler, Lucas Giolito and Zac Gallen.",
+      "summary_zh_tw": "Nate Lowe雖近期表現平淡但期待打擊率與長打率仍具競爭力。",
+      "tags": [
+        "DH",
+        "Reds",
+        "starts vs righties"
+      ]
+    },
+    {
+      "rank": 8,
+      "name_en": "Jung Hoo Lee",
+      "summary_en": "Though Jung Hoo Lee has always excelled at putting the bat on the ball, a greatly improved line-drive rate this year has turned him into a batting average standout -- and in a way that's backed up by a 95th percentile xBA. The Giants have the third-best hitter matchups this week, scheduled to face pitchers like Miles Mikolas, Andrew Alvarez, Foster Griffin, Edward Cabrera and Jameson Taillon.",
+      "summary_zh_tw": "Jung Hoo Lee本季擊球風格改進，xBA達95百分位，本週有不錯對戰。",
+      "tags": [
+        "RF",
+        "Giants",
+        "high batting average"
+      ]
+    },
+    {
+      "rank": 9,
+      "name_en": "Luke Raley",
+      "summary_en": "If there's ever a time to play Luke Raley, it's when the Mariners have a top-ranked hitter schedule that's loaded with righties. It can still be misleading in terms of how much playing time he'll get because he's often removed for a pinch hitter whenever a left-handed reliever comes in, but he nonetheless finds himself on a 33-homer pace even with that role.",
+      "summary_zh_tw": "Luke Raley本季有33轟步伐，儘管出場時間受左投限制。",
+      "tags": [
+        "RF",
+        "Mariners",
+        "power hitter"
+      ]
+    },
+    {
+      "rank": 10,
+      "name_en": "Dominic Canzone",
+      "summary_en": "Dominic Canzone's hitting profile is even more impressive than Raley's, actually, but he suffers from the same issue of being removed whenever a left-handed reliever comes in. Hopefully, starters Chris Bassitt, Brandon Young, Zack Littell and Miles Mikolas stay in the game long enough for him to do real damage.",
+      "summary_zh_tw": "Dominic Canzone打擊能力優異，但上場時間受限於左投接替情況。",
+      "tags": [
+        "DH",
+        "Mariners",
+        "limited playing time"
+      ]
+    }
+  ],
+  "pipeline": {
+    "version": "1.0",
+    "status": "complete"
+  }
+}

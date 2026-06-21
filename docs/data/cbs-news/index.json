@@ -1,10 +1,37 @@
 {
-  "generated_at": "2026-06-05T11:32:00+00:00",
+  "generated_at": "2026-06-19T13:48:23+00:00",
   "latest_week_by_type": {
-    "sleeper_hitters": 12,
-    "sleeper_pitchers": 12
+    "sleeper_hitters": 14,
+    "sleeper_pitchers": 14
   },
   "articles": [
+    {
+      "article_type": "sleeper_hitters",
+      "week": 14,
+      "title_en": "Fantasy Baseball Week 14 Preview: Top 10 sleeper hitters include Paul Goldschmidt, Alec Bohm",
+      "published_at": "2026-06-19T13:48:23+00:00",
+      "source_url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-14-preview-top-10-sleeper-hitters/",
+      "path": "./data/cbs-news/articles/2026-06-19-fantasy-baseball-week-14-preview-top-10-sleeper-hitters.json",
+      "player_count": 10
+    },
+    {
+      "article_type": "sleeper_pitchers",
+      "week": 14,
+      "title_en": "Fantasy Baseball Week 14 Preview: Top 10 sleeper pitchers feature Eduardo Rodriguez, Sean Burke",
+      "published_at": "2026-06-19T13:42:00+00:00",
+      "source_url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-14-preview-top-10-sleeper-pitchers/",
+      "path": "./data/cbs-news/articles/2026-06-19-fantasy-baseball-week-14-preview-top-10-sleeper-pitchers.json",
+      "player_count": 10
+    },
+    {
+      "article_type": "sleeper_pitchers",
+      "week": 13,
+      "title_en": "Fantasy Baseball Week 13 Preview: Top 10 sleeper pitchers feature Dustin May, J.T. Ginn",
+      "published_at": "2026-06-14T23:41:00+00:00",
+      "source_url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-13-preview-top-10-sleeper-pitchers-feature-dustin-may-jt-ginn/",
+      "path": "./data/cbs-news/articles/2026-06-14-fantasy-baseball-week-13-preview-top-10-sleeper-pitchers-feature-dustin-may-jt-ginn.json",
+      "player_count": 10
+    },
     {
       "article_type": "sleeper_hitters",
       "week": 12,

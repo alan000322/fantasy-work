@@ -1,0 +1,367 @@
+{
+  "source_article": {
+    "source": "CBS Sports",
+    "article_type": "sleeper_pitchers",
+    "week": 13,
+    "title_en": "Fantasy Baseball Week 13 Preview: Top 10 sleeper pitchers feature Dustin May, J.T. Ginn",
+    "url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-13-preview-top-10-sleeper-pitchers-feature-dustin-may-jt-ginn/",
+    "canonical_url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-13-preview-top-10-sleeper-pitchers-feature-dustin-may-jt-ginn/",
+    "slug": "fantasy-baseball-week-13-preview-top-10-sleeper-pitchers-feature-dustin-may-jt-ginn",
+    "author": "Scott White",
+    "published_at": "2026-06-14T23:41:00+00:00",
+    "dek_en": "Sleeper pitchers for Fantasy Week 13, with rankings, matchups and top streaming options",
+    "body_en": "Streaming pitchers isn't for the faint of heart, but if you find yourself without enough reliable options in a given scoring period, it may be what you need to stay afloat. Scott White has 10 recommendations for the upcoming scoring period, all rostered in less than 80 percent of CBS Sports leagues. Generally, only the top two or three are full-throated endorsements, while the rest are more about making the best of a bad situation.\n\nAll information is up to date as of Sunday evening.\n\n1. Dustin May (SP) - Dustin May is still sporting a 4.21 ERA overall, but most of the damage came in his first two starts. In 11 starts since, he has a 2.89 ERA, 1.09 WHIP and 8.1 K/9, which makes him a great play against two of the league's worst offenses.\n2. Reid Detmers (SP) - Reid Detmers has simplified his approach in his past four starts, really keying in on his slider, and the result has been a 1.73 ERA, 0.54 WHIP and 12.5 K/9. The Diamondbacks and Athletics are two of the better lineups against lefties, actually, but you don't sit a pitcher as hot as Detmers in a two-start week.\n3. J.T. Ginn (SP) - J.T. Ginn has been trending in a positive direction overall, working deep into starts with a rising whiff rate. That whiff rate could come in handy against the league's most strikeout-prone offense in Week 13.\n4. Jared Jones (SP) - Jared Jones will be visiting two of the absolute worst venues for pitchers in Week 13, but the actual lineups he's facing are nothing special. More than anything, though, this recommendation reflects my insistence on taking advantage of a rare two-start week for an obviously talented pitcher who's still rounding into form after UCL surgery.\n5. Michael McGreevy (SP) - Michael McGreevy is like a Walmart version of Dustin May, consistently delivering quality starts despite a modest (or, in his case, rather poor) strikeout rate. I don't buy his 2.99 ERA and 1.11 WHIP in the long run, but I'll take advantage of them against the league's fifth-worst offense.\n6. Luis Castillo (SP) - Luis Castillo's return to a full-time rotation spot seems to have reinvigorated him, and considering his track record, I'd be hesitant to question it too much. He even held his own in a tough matchup at the Nationals this weekend, so you'll want to give him serious thought against a Red Sox lineup that ranks second-to-last in runs scored.\n7. Ryne Nelson (SP) - Ryne Nelson got pummeled last time out, but to be fair, he didn't reach the magical 60 percent threshold with his fastball, which seems to be the key to his success. A reduction in strikeout rate this year has made his lows lower, to be sure, but the two strikeout-prone lineups on the schedule this week should give him an assist in that respect.\n8. Walbert Urena (SP) - Walbert Urena has taken up residence here, always seeming like a reasonable choice to start because of his penchant for weak contact on the ground. It only follows, then, that twice the outings this week make him twice as reasonable, though you do need to watch out for the WHIP with him due to his shaky control.\n9. Andre Pallante (SP) - If Michael McGreevy is the Walmart Dustin May, then Andre Pallante is the Walmart Michael McGreevy. He's actually the best ground-ball pitcher of the three, which can be a double-edged sword (see his 1.26 WHIP), but he's a pretty good bet for a quality start against a Padres lineup that ranks dead last in scoring.\n10. Brandon Young (SP) - Brandon Young still has much to prove as a Fantasy pitcher, but he's riding a four-start quality start streak in which he's put together a 1.69 ERA and 0.97 WHIP (albeit with just 6.7 K/9). His second start at the Dodgers ought to give you pause, but the margin for error for pitchers is higher in a Head-to-Head points league, where you're more likely to chase the volume he figures to provide.",
+    "fetched_at": "2026-06-21T06:26:39+00:00",
+    "player_cards": [
+      {
+        "rank": 1,
+        "name_en": "Dustin May",
+        "position": "SP",
+        "mlb_team": "STL",
+        "matchup": null,
+        "rostered_pct": "65%",
+        "blurb_en": "Dustin May is still sporting a 4.21 ERA overall, but most of the damage came in his first two starts. In 11 starts since, he has a 2.89 ERA, 1.09 WHIP and 8.1 K/9, which makes him a great play against two of the league's worst offenses."
+      },
+      {
+        "rank": 2,
+        "name_en": "Reid Detmers",
+        "position": "SP",
+        "mlb_team": "LAA",
+        "matchup": null,
+        "rostered_pct": "77%",
+        "blurb_en": "Reid Detmers has simplified his approach in his past four starts, really keying in on his slider, and the result has been a 1.73 ERA, 0.54 WHIP and 12.5 K/9. The Diamondbacks and Athletics are two of the better lineups against lefties, actually, but you don't sit a pitcher as hot as Detmers in a two-start week."
+      },
+      {
+        "rank": 3,
+        "name_en": "J.T. Ginn",
+        "position": "SP",
+        "mlb_team": "ATH",
+        "matchup": "vs. PIT, vs. LAA",
+        "rostered_pct": "70%",
+        "blurb_en": "J.T. Ginn has been trending in a positive direction overall, working deep into starts with a rising whiff rate. That whiff rate could come in handy against the league's most strikeout-prone offense in Week 13."
+      },
+      {
+        "rank": 4,
+        "name_en": "Jared Jones",
+        "position": "SP",
+        "mlb_team": "PIT",
+        "matchup": null,
+        "rostered_pct": "79%",
+        "blurb_en": "Jared Jones will be visiting two of the absolute worst venues for pitchers in Week 13, but the actual lineups he's facing are nothing special. More than anything, though, this recommendation reflects my insistence on taking advantage of a rare two-start week for an obviously talented pitcher who's still rounding into form after UCL surgery."
+      },
+      {
+        "rank": 5,
+        "name_en": "Michael McGreevy",
+        "position": "SP",
+        "mlb_team": "STL",
+        "matchup": "at KC",
+        "rostered_pct": "67%",
+        "blurb_en": "Michael McGreevy is like a Walmart version of Dustin May, consistently delivering quality starts despite a modest (or, in his case, rather poor) strikeout rate. I don't buy his 2.99 ERA and 1.11 WHIP in the long run, but I'll take advantage of them against the league's fifth-worst offense."
+      },
+      {
+        "rank": 6,
+        "name_en": "Luis Castillo",
+        "position": "SP",
+        "mlb_team": "SEA",
+        "matchup": "vs. BOS",
+        "rostered_pct": "52%",
+        "blurb_en": "Luis Castillo's return to a full-time rotation spot seems to have reinvigorated him, and considering his track record, I'd be hesitant to question it too much. He even held his own in a tough matchup at the Nationals this weekend, so you'll want to give him serious thought against a Red Sox lineup that ranks second-to-last in runs scored."
+      },
+      {
+        "rank": 7,
+        "name_en": "Ryne Nelson",
+        "position": "SP",
+        "mlb_team": "ARI",
+        "matchup": null,
+        "rostered_pct": "70%",
+        "blurb_en": "Ryne Nelson got pummeled last time out, but to be fair, he didn't reach the magical 60 percent threshold with his fastball, which seems to be the key to his success. A reduction in strikeout rate this year has made his lows lower, to be sure, but the two strikeout-prone lineups on the schedule this week should give him an assist in that respect."
+      },
+      {
+        "rank": 8,
+        "name_en": "Walbert Urena",
+        "position": "SP",
+        "mlb_team": "LAA",
+        "matchup": null,
+        "rostered_pct": "52%",
+        "blurb_en": "Walbert Urena has taken up residence here, always seeming like a reasonable choice to start because of his penchant for weak contact on the ground. It only follows, then, that twice the outings this week make him twice as reasonable, though you do need to watch out for the WHIP with him due to his shaky control."
+      },
+      {
+        "rank": 9,
+        "name_en": "Andre Pallante",
+        "position": "SP",
+        "mlb_team": "STL",
+        "matchup": "vs. SD",
+        "rostered_pct": "24%",
+        "blurb_en": "If Michael McGreevy is the Walmart Dustin May, then Andre Pallante is the Walmart Michael McGreevy. He's actually the best ground-ball pitcher of the three, which can be a double-edged sword (see his 1.26 WHIP), but he's a pretty good bet for a quality start against a Padres lineup that ranks dead last in scoring."
+      },
+      {
+        "rank": 10,
+        "name_en": "Brandon Young",
+        "position": "SP",
+        "mlb_team": "BAL",
+        "matchup": null,
+        "rostered_pct": "23%",
+        "blurb_en": "Brandon Young still has much to prove as a Fantasy pitcher, but he's riding a four-start quality start streak in which he's put together a 1.69 ERA and 0.97 WHIP (albeit with just 6.7 K/9). His second start at the Dodgers ought to give you pause, but the margin for error for pitchers is higher in a Head-to-Head points league, where you're more likely to chase the volume he figures to provide."
+      }
+    ]
+  },
+  "ai_article": {
+    "article_type": "sleeper_pitchers",
+    "week": 13,
+    "article_summary_zh_tw": "本文介紹了適合第13週使用的10位投手潛力股，分析其近期表現及對戰形勢，以助玩家補強投手陣容。",
+    "players": [
+      {
+        "rank": 1,
+        "name_en": "Dustin May",
+        "summary_en": "Dustin May is still sporting a 4.21 ERA overall, but most of the damage came in his first two starts. In 11 starts since, he has a 2.89 ERA, 1.09 WHIP and 8.1 K/9, which makes him a great play against two of the league's worst offenses.",
+        "summary_zh_tw": "迪斯汀·梅近期狀態回穩，近11場先發ERA 2.89，是面對聯盟爛隊的優質選擇。",
+        "tags": [
+          "SP",
+          "two-start week",
+          "low ERA recent",
+          "strikeouts"
+        ]
+      },
+      {
+        "rank": 2,
+        "name_en": "Reid Detmers",
+        "summary_en": "Reid Detmers has simplified his approach in his past four starts, really keying in on his slider, and the result has been a 1.73 ERA, 0.54 WHIP and 12.5 K/9. The Diamondbacks and Athletics are two of the better lineups against lefties, actually, but you don't sit a pitcher as hot as Detmers in a two-start week.",
+        "summary_zh_tw": "瑞德·德特默斯靠專注變速球近4場ERA 1.73，是兩先發週中不容錯過的熱投手。",
+        "tags": [
+          "SP",
+          "two-start week",
+          "slider",
+          "high strikeouts",
+          "low ERA"
+        ]
+      },
+      {
+        "rank": 3,
+        "name_en": "J.T. Ginn",
+        "summary_en": "J.T. Ginn has been trending in a positive direction overall, working deep into starts with a rising whiff rate. That whiff rate could come in handy against the league's most strikeout-prone offense in Week 13.",
+        "summary_zh_tw": "J.T.吉恩狀態上揚，投球深度和三振率提升，面對高三振隊伍極有利。",
+        "tags": [
+          "SP",
+          "rising whiff rate",
+          "deep innings",
+          "strikeouts"
+        ]
+      },
+      {
+        "rank": 4,
+        "name_en": "Jared Jones",
+        "summary_en": "Jared Jones will be visiting two of the absolute worst venues for pitchers in Week 13, but the actual lineups he's facing are nothing special. More than anything, though, this recommendation reflects my insistence on taking advantage of a rare two-start week for an obviously talented pitcher who's still rounding into form after UCL surgery.",
+        "summary_zh_tw": "賈瑞德·瓊斯利用罕見雙先發週，仍在恢復期中展現潛力。",
+        "tags": [
+          "SP",
+          "two-start week",
+          "post-surgery",
+          "talented"
+        ]
+      },
+      {
+        "rank": 5,
+        "name_en": "Michael McGreevy",
+        "summary_en": "Michael McGreevy is like a Walmart version of Dustin May, consistently delivering quality starts despite a modest (or, in his case, rather poor) strikeout rate. I don't buy his 2.99 ERA and 1.11 WHIP in the long run, but I'll take advantage of them against the league's fifth-worst offense.",
+        "summary_zh_tw": "麥可·麥格里維以穩定表現提供優質先發，盡管三振率偏低。",
+        "tags": [
+          "SP",
+          "quality starts",
+          "low strikeout",
+          "good ERA vs weak offense"
+        ]
+      },
+      {
+        "rank": 6,
+        "name_en": "Luis Castillo",
+        "summary_en": "Luis Castillo's return to a full-time rotation spot seems to have reinvigorated him, and considering his track record, I'd be hesitant to question it too much. He even held his own in a tough matchup at the Nationals this weekend, so you'll want to give him serious thought against a Red Sox lineup that ranks second-to-last in runs scored.",
+        "summary_zh_tw": "路易斯·卡斯蒂略重返先發陣容，狀態復甦，面對弱隊紅襪可重用。",
+        "tags": [
+          "SP",
+          "full-time rotation",
+          "recent improvement",
+          "favorable matchup"
+        ]
+      },
+      {
+        "rank": 7,
+        "name_en": "Ryne Nelson",
+        "summary_en": "Ryne Nelson got pummeled last time out, but to be fair, he didn't reach the magical 60 percent threshold with his fastball, which seems to be the key to his success. A reduction in strikeout rate this year has made his lows lower, to be sure, but the two strikeout-prone lineups on the schedule this week should give him an assist in that respect.",
+        "summary_zh_tw": "瑞恩·尼爾森快球比重不足影響表現，本週面對高三振隊有望反彈。",
+        "tags": [
+          "SP",
+          "fastball usage",
+          "strikeout-dependent",
+          "inconsistent"
+        ]
+      },
+      {
+        "rank": 8,
+        "name_en": "Walbert Urena",
+        "summary_en": "Walbert Urena has taken up residence here, always seeming like a reasonable choice to start because of his penchant for weak contact on the ground. It only follows, then, that twice the outings this week make him twice as reasonable, though you do need to watch out for the WHIP with him due to his shaky control.",
+        "summary_zh_tw": "瓦爾伯特·烏雷納以製造弱擊球見長，但控球不穩需留意WHIP。",
+        "tags": [
+          "SP",
+          "weak contact",
+          "ground ball",
+          "control issues",
+          "two starts"
+        ]
+      },
+      {
+        "rank": 9,
+        "name_en": "Andre Pallante",
+        "summary_en": "If Michael McGreevy is the Walmart Dustin May, then Andre Pallante is the Walmart Michael McGreevy. He's actually the best ground-ball pitcher of the three, which can be a double-edged sword (see his 1.26 WHIP), but he's a pretty good bet for a quality start against a Padres lineup that ranks dead last in scoring.",
+        "summary_zh_tw": "安德烈·帕蘭特是三人中擅長滾地球的投手，面對低能隊伍有利。",
+        "tags": [
+          "SP",
+          "ground-ball pitcher",
+          "quality start potential",
+          "low scoring match"
+        ]
+      },
+      {
+        "rank": 10,
+        "name_en": "Brandon Young",
+        "summary_en": "Brandon Young still has much to prove as a Fantasy pitcher, but he's riding a four-start quality start streak in which he's put together a 1.69 ERA and 0.97 WHIP (albeit with just 6.7 K/9). His second start at the Dodgers ought to give you pause, but the margin for error for pitchers is higher in a Head-to-Head points league, where you're more likely to chase the volume he figures to provide.",
+        "summary_zh_tw": "布蘭登·楊近期連續四次優質先發，三振率低但適合點數制聯盟。",
+        "tags": [
+          "SP",
+          "quality start streak",
+          "low strikeout",
+          "head-to-head points league"
+        ]
+      }
+    ],
+    "model": "gpt-4.1-mini",
+    "generated_at": "2026-06-21T06:27:09+00:00"
+  },
+  "players": [
+    {
+      "rank": 1,
+      "name_en": "Dustin May",
+      "summary_en": "Dustin May is still sporting a 4.21 ERA overall, but most of the damage came in his first two starts. In 11 starts since, he has a 2.89 ERA, 1.09 WHIP and 8.1 K/9, which makes him a great play against two of the league's worst offenses.",
+      "summary_zh_tw": "迪斯汀·梅近期狀態回穩，近11場先發ERA 2.89，是面對聯盟爛隊的優質選擇。",
+      "tags": [
+        "SP",
+        "two-start week",
+        "low ERA recent",
+        "strikeouts"
+      ]
+    },
+    {
+      "rank": 2,
+      "name_en": "Reid Detmers",
+      "summary_en": "Reid Detmers has simplified his approach in his past four starts, really keying in on his slider, and the result has been a 1.73 ERA, 0.54 WHIP and 12.5 K/9. The Diamondbacks and Athletics are two of the better lineups against lefties, actually, but you don't sit a pitcher as hot as Detmers in a two-start week.",
+      "summary_zh_tw": "瑞德·德特默斯靠專注變速球近4場ERA 1.73，是兩先發週中不容錯過的熱投手。",
+      "tags": [
+        "SP",
+        "two-start week",
+        "slider",
+        "high strikeouts",
+        "low ERA"
+      ]
+    },
+    {
+      "rank": 3,
+      "name_en": "J.T. Ginn",
+      "summary_en": "J.T. Ginn has been trending in a positive direction overall, working deep into starts with a rising whiff rate. That whiff rate could come in handy against the league's most strikeout-prone offense in Week 13.",
+      "summary_zh_tw": "J.T.吉恩狀態上揚，投球深度和三振率提升，面對高三振隊伍極有利。",
+      "tags": [
+        "SP",
+        "rising whiff rate",
+        "deep innings",
+        "strikeouts"
+      ]
+    },
+    {
+      "rank": 4,
+      "name_en": "Jared Jones",
+      "summary_en": "Jared Jones will be visiting two of the absolute worst venues for pitchers in Week 13, but the actual lineups he's facing are nothing special. More than anything, though, this recommendation reflects my insistence on taking advantage of a rare two-start week for an obviously talented pitcher who's still rounding into form after UCL surgery.",
+      "summary_zh_tw": "賈瑞德·瓊斯利用罕見雙先發週，仍在恢復期中展現潛力。",
+      "tags": [
+        "SP",
+        "two-start week",
+        "post-surgery",
+        "talented"
+      ]
+    },
+    {
+      "rank": 5,
+      "name_en": "Michael McGreevy",
+      "summary_en": "Michael McGreevy is like a Walmart version of Dustin May, consistently delivering quality starts despite a modest (or, in his case, rather poor) strikeout rate. I don't buy his 2.99 ERA and 1.11 WHIP in the long run, but I'll take advantage of them against the league's fifth-worst offense.",
+      "summary_zh_tw": "麥可·麥格里維以穩定表現提供優質先發，盡管三振率偏低。",
+      "tags": [
+        "SP",
+        "quality starts",
+        "low strikeout",
+        "good ERA vs weak offense"
+      ]
+    },
+    {
+      "rank": 6,
+      "name_en": "Luis Castillo",
+      "summary_en": "Luis Castillo's return to a full-time rotation spot seems to have reinvigorated him, and considering his track record, I'd be hesitant to question it too much. He even held his own in a tough matchup at the Nationals this weekend, so you'll want to give him serious thought against a Red Sox lineup that ranks second-to-last in runs scored.",
+      "summary_zh_tw": "路易斯·卡斯蒂略重返先發陣容，狀態復甦，面對弱隊紅襪可重用。",
+      "tags": [
+        "SP",
+        "full-time rotation",
+        "recent improvement",
+        "favorable matchup"
+      ]
+    },
+    {
+      "rank": 7,
+      "name_en": "Ryne Nelson",
+      "summary_en": "Ryne Nelson got pummeled last time out, but to be fair, he didn't reach the magical 60 percent threshold with his fastball, which seems to be the key to his success. A reduction in strikeout rate this year has made his lows lower, to be sure, but the two strikeout-prone lineups on the schedule this week should give him an assist in that respect.",
+      "summary_zh_tw": "瑞恩·尼爾森快球比重不足影響表現，本週面對高三振隊有望反彈。",
+      "tags": [
+        "SP",
+        "fastball usage",
+        "strikeout-dependent",
+        "inconsistent"
+      ]
+    },
+    {
+      "rank": 8,
+      "name_en": "Walbert Urena",
+      "summary_en": "Walbert Urena has taken up residence here, always seeming like a reasonable choice to start because of his penchant for weak contact on the ground. It only follows, then, that twice the outings this week make him twice as reasonable, though you do need to watch out for the WHIP with him due to his shaky control.",
+      "summary_zh_tw": "瓦爾伯特·烏雷納以製造弱擊球見長，但控球不穩需留意WHIP。",
+      "tags": [
+        "SP",
+        "weak contact",
+        "ground ball",
+        "control issues",
+        "two starts"
+      ]
+    },
+    {
+      "rank": 9,
+      "name_en": "Andre Pallante",
+      "summary_en": "If Michael McGreevy is the Walmart Dustin May, then Andre Pallante is the Walmart Michael McGreevy. He's actually the best ground-ball pitcher of the three, which can be a double-edged sword (see his 1.26 WHIP), but he's a pretty good bet for a quality start against a Padres lineup that ranks dead last in scoring.",
+      "summary_zh_tw": "安德烈·帕蘭特是三人中擅長滾地球的投手，面對低能隊伍有利。",
+      "tags": [
+        "SP",
+        "ground-ball pitcher",
+        "quality start potential",
+        "low scoring match"
+      ]
+    },
+    {
+      "rank": 10,
+      "name_en": "Brandon Young",
+      "summary_en": "Brandon Young still has much to prove as a Fantasy pitcher, but he's riding a four-start quality start streak in which he's put together a 1.69 ERA and 0.97 WHIP (albeit with just 6.7 K/9). His second start at the Dodgers ought to give you pause, but the margin for error for pitchers is higher in a Head-to-Head points league, where you're more likely to chase the volume he figures to provide.",
+      "summary_zh_tw": "布蘭登·楊近期連續四次優質先發，三振率低但適合點數制聯盟。",
+      "tags": [
+        "SP",
+        "quality start streak",
+        "low strikeout",
+        "head-to-head points league"
+      ]
+    }
+  ],
+  "pipeline": {
+    "version": "1.0",
+    "status": "complete"
+  }
+}

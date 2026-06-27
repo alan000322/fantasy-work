@@ -6,10 +6,10 @@ from collections.abc import Iterable
 from datetime import datetime, timezone
 from urllib.parse import urljoin, urlparse
 
-import requests
+from curl_cffi import requests
 from bs4 import BeautifulSoup
 
-from .constants import BASE_URL, NEWS_PATH_RE, REQUEST_HEADERS, TARGET_PATTERNS
+from .constants import BASE_URL, NEWS_PATH_RE, TARGET_PATTERNS
 from .models import ArticleLink, SourceArticle, SourcePlayerCard
 
 
@@ -56,7 +56,9 @@ def match_article_type(title: str, url: str = "") -> str | None:
 
 
 def fetch_html(url: str, timeout: int = 30) -> str:
-    response = requests.get(url, headers=REQUEST_HEADERS, timeout=timeout)
+    # CBS edge blocks plain requests with HTTP 406 (TLS/JA3 fingerprinting),
+    # so impersonate a real Chrome via curl_cffi.
+    response = requests.get(url, impersonate="chrome", timeout=timeout)
     response.raise_for_status()
     return response.text
 

@@ -1,0 +1,343 @@
+{
+  "source_article": {
+    "source": "CBS Sports",
+    "article_type": "sleeper_pitchers",
+    "week": 14,
+    "title_en": "Fantasy Baseball Week 14 Preview: Top 10 sleeper pitchers include Eduardo Rodriguez, Sean Burke",
+    "url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-14-preview-top-10-sleeper-pitchers-include-eduardo-rodriguez-sean-burke/",
+    "canonical_url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-14-preview-top-10-sleeper-pitchers-include-eduardo-rodriguez-sean-burke/",
+    "slug": "fantasy-baseball-week-14-preview-top-10-sleeper-pitchers-include-eduardo-rodriguez-sean-burke",
+    "author": "Scott White",
+    "published_at": "2026-06-22T09:06:00+00:00",
+    "dek_en": "Sleeper pitchers for Fantasy Week 14, with rankings, matchups and top streaming options",
+    "body_en": "Streaming pitchers isn't for the faint of heart, but if you find yourself without enough reliable options in a given scoring period, it may be what you need to stay afloat. Scott White has 10 recommendations for the upcoming scoring period, all rostered in no more than 80 percent of CBS Sports leagues. Generally, only the top two or three are full-throated endorsements, while the rest are more about making the best of a bad situation.\n\nAll information is up to date as of early Monday.\n\n1. Roki Sasaki (SP) - Roki Sasaki's offspeed stuff wasn't working a couple turns ago at the White Sox, but he bounced back against the Orioles over the weekend. He's put together a 3.67 ERA, 0.96 WHIP and 10.2 K/9 in his past six starts and is scheduled to face a miserable Padres lineup in Week 14.\n2. Gage Jump (SP) - Gage Jump has been a strike-throwing machine since being called up and just threw seven one-hit innings in his latest start. The Giants lineup has been gaining steam but still ranks in the bottom third in runs scored.\n3. Eduardo Rodriguez (SP) - Eduardo Rodriguez somehow has a 2.45 ERA on the year, which isn't backed up by the data or even just his strikeout and walk numbers, but those of us who doubt continue to miss out on gems. A week with two middling matchups seems like the perfect time to throw caution to the wind and pray that Rodriguez's good fortune continues for just a little bit longer.\n4. Sean Burke (SP) - After walking five in consecutive appearances, Sean Burke resolved to attack the zone more in his latest outing Thursday, which also led to him gaining a couple miles per hour on his fastball while collecting eight strikeouts on 20 whiffs. His next opponent, the Guardians, rank fourth from the bottom in runs scored, and now they're without Jose Ramirez.\n5. Shane Baz (SP) - Shane Baz has found success recently by de-emphasizing his sinker and boasts a 2.39 ERA, 1.14 WHIP and 8.1 K/9 in his past six starts. He faces not only the majors' most strikeout-prone lineup in Week 14 but also one that's now without its best hitter in Mike Trout.\n6. Andre Pallante (SP) - Andre Pallante just came through with a quality start against the Padres and has four in his past six turns. He generally limits damage well with the league's third-best ground ball rate, so while his upside is modest, he's a pitcher who points league participants should gravitate toward when he's in line for two starts.\n7. Anthony Kay (SP) - Anthony Kay's ERA has begun to climb finally and still has a ways to go, judging by his 5.61 xERA, but the temptation of two excellent matchups this week is hard to resist, at least in points leagues where the threshold for success is lower. The Guardians might be the most favorable matchup of all with Jose Ramirez on the IL, and the Royals lineup has struggled all year.\n8. Griffin Jax (SP) - Griffin Jax still has yet to go more than five innings in a start, which severely limits his utility for Fantasy, but he has a 2.90 ERA in his past seven turns. He's an advisable play against the Royals after another strong outing against the top-ranked Nationals offense this weekend.\n9. Peter Lambert (SP) - Peter Lambert has delivered back-to-back strong outings to lower his ERA to 3.23. He at one point looked like he was in line for two starts in Week 14, but with the Astros opting for a six-man rotation for the time being, he'll likely just be facing the Blue Jays. Good thing they rank 24th in runs scored.\n10. Cade Cavalli (SP) - Cade Cavalli has been pretty blah of late as his WHIP has climbed near 1.50, but the last time he faced the Phillies on April 1, he allowed one earned run in six innings. He can surprise with the strikeouts at times, too, having delivered three starts with nine or more already.",
+    "fetched_at": "2026-06-27T05:24:54+00:00",
+    "player_cards": [
+      {
+        "rank": 1,
+        "name_en": "Roki Sasaki",
+        "position": "SP",
+        "mlb_team": "LAD",
+        "matchup": "at SD",
+        "rostered_pct": "80%",
+        "blurb_en": "Roki Sasaki's offspeed stuff wasn't working a couple turns ago at the White Sox, but he bounced back against the Orioles over the weekend. He's put together a 3.67 ERA, 0.96 WHIP and 10.2 K/9 in his past six starts and is scheduled to face a miserable Padres lineup in Week 14."
+      },
+      {
+        "rank": 2,
+        "name_en": "Gage Jump",
+        "position": "SP",
+        "mlb_team": "ATH",
+        "matchup": "at SF",
+        "rostered_pct": "61%",
+        "blurb_en": "Gage Jump has been a strike-throwing machine since being called up and just threw seven one-hit innings in his latest start. The Giants lineup has been gaining steam but still ranks in the bottom third in runs scored."
+      },
+      {
+        "rank": 3,
+        "name_en": "Eduardo Rodriguez",
+        "position": "SP",
+        "mlb_team": "ARI",
+        "matchup": null,
+        "rostered_pct": "79%",
+        "blurb_en": "Eduardo Rodriguez somehow has a 2.45 ERA on the year, which isn't backed up by the data or even just his strikeout and walk numbers, but those of us who doubt continue to miss out on gems. A week with two middling matchups seems like the perfect time to throw caution to the wind and pray that Rodriguez's good fortune continues for just a little bit longer."
+      },
+      {
+        "rank": 4,
+        "name_en": "Sean Burke",
+        "position": "SP",
+        "mlb_team": "CHW",
+        "matchup": "vs. CLE",
+        "rostered_pct": "33%",
+        "blurb_en": "After walking five in consecutive appearances, Sean Burke resolved to attack the zone more in his latest outing Thursday, which also led to him gaining a couple miles per hour on his fastball while collecting eight strikeouts on 20 whiffs. His next opponent, the Guardians, rank fourth from the bottom in runs scored, and now they're without Jose Ramirez."
+      },
+      {
+        "rank": 5,
+        "name_en": "Shane Baz",
+        "position": "SP",
+        "mlb_team": "BAL",
+        "matchup": "at LAA",
+        "rostered_pct": "73%",
+        "blurb_en": "Shane Baz has found success recently by de-emphasizing his sinker and boasts a 2.39 ERA, 1.14 WHIP and 8.1 K/9 in his past six starts. He faces not only the majors' most strikeout-prone lineup in Week 14 but also one that's now without its best hitter in Mike Trout."
+      },
+      {
+        "rank": 6,
+        "name_en": "Andre Pallante",
+        "position": "SP",
+        "mlb_team": "STL",
+        "matchup": null,
+        "rostered_pct": "45%",
+        "blurb_en": "Andre Pallante just came through with a quality start against the Padres and has four in his past six turns. He generally limits damage well with the league's third-best ground ball rate, so while his upside is modest, he's a pitcher who points league participants should gravitate toward when he's in line for two starts."
+      },
+      {
+        "rank": 7,
+        "name_en": "Anthony Kay",
+        "position": "SP",
+        "mlb_team": "CHW",
+        "matchup": null,
+        "rostered_pct": "29%",
+        "blurb_en": "Anthony Kay's ERA has begun to climb finally and still has a ways to go, judging by his 5.61 xERA, but the temptation of two excellent matchups this week is hard to resist, at least in points leagues where the threshold for success is lower. The Guardians might be the most favorable matchup of all with Jose Ramirez on the IL, and the Royals lineup has struggled all year."
+      },
+      {
+        "rank": 8,
+        "name_en": "Griffin Jax",
+        "position": "SP",
+        "mlb_team": "TB",
+        "matchup": "vs. KC",
+        "rostered_pct": "33%",
+        "blurb_en": "Griffin Jax still has yet to go more than five innings in a start, which severely limits his utility for Fantasy, but he has a 2.90 ERA in his past seven turns. He's an advisable play against the Royals after another strong outing against the top-ranked Nationals offense this weekend."
+      },
+      {
+        "rank": 9,
+        "name_en": "Peter Lambert",
+        "position": "SP",
+        "mlb_team": "HOU",
+        "matchup": "at TOR",
+        "rostered_pct": "54%",
+        "blurb_en": "Peter Lambert has delivered back-to-back strong outings to lower his ERA to 3.23. He at one point looked like he was in line for two starts in Week 14, but with the Astros opting for a six-man rotation for the time being, he'll likely just be facing the Blue Jays. Good thing they rank 24th in runs scored."
+      },
+      {
+        "rank": 10,
+        "name_en": "Cade Cavalli",
+        "position": "SP",
+        "mlb_team": "WAS",
+        "matchup": "vs. PHI",
+        "rostered_pct": "66%",
+        "blurb_en": "Cade Cavalli has been pretty blah of late as his WHIP has climbed near 1.50, but the last time he faced the Phillies on April 1, he allowed one earned run in six innings. He can surprise with the strikeouts at times, too, having delivered three starts with nine or more already."
+      }
+    ]
+  },
+  "ai_article": {
+    "article_type": "sleeper_pitchers",
+    "week": 14,
+    "article_summary_zh_tw": "本文介紹了本週十大深藏不露的先發投手，包含排名、對戰情況及推薦理由，協助玩家在陣容不完整時作出明智選擇。",
+    "players": [
+      {
+        "rank": 1,
+        "name_en": "Roki Sasaki",
+        "summary_en": "Roki Sasaki bounced back with solid recent starts, posting a 3.67 ERA, 0.96 WHIP and 10.2 K/9 over his last six outings and faces a weak Padres lineup this week.",
+        "summary_zh_tw": "Roki Sasaki最近六場先發狀態回穩，本週將對戰戰力薄弱的教士隊。",
+        "tags": [
+          "SP",
+          "streaming",
+          "good matchup"
+        ]
+      },
+      {
+        "rank": 2,
+        "name_en": "Gage Jump",
+        "summary_en": "Gage Jump has dominated with precise pitching, most recently throwing seven one-hit innings, facing a Giants lineup that ranks in the bottom third for runs scored.",
+        "summary_zh_tw": "Gage Jump投球精準，近期表現出色，本週對戰火力不強的巨人隊。",
+        "tags": [
+          "SP",
+          "streaming",
+          "good matchup"
+        ]
+      },
+      {
+        "rank": 3,
+        "name_en": "Eduardo Rodriguez",
+        "summary_en": "Despite underlying metrics not fully supporting his 2.45 ERA, Eduardo Rodriguez remains effective and is recommended to take advantage of his middling matchups this week.",
+        "summary_zh_tw": "Eduardo Rodriguez本季ERA意外低，本週適逢中等對手，建議冒險使用。",
+        "tags": [
+          "SP",
+          "underrated",
+          "risk"
+        ]
+      },
+      {
+        "rank": 4,
+        "name_en": "Sean Burke",
+        "summary_en": "Sean Burke improved by attacking the zone more, gaining velocity and striking out eight, and now faces a weak Guardians lineup missing a key hitter.",
+        "summary_zh_tw": "Sean Burke最近調整投球策略，表現提升，本週面對缺少主力打者的守護者隊。",
+        "tags": [
+          "SP",
+          "improved control",
+          "good matchup"
+        ]
+      },
+      {
+        "rank": 5,
+        "name_en": "Shane Baz",
+        "summary_en": "Shane Baz has succeeded by reducing sinker reliance, holding a 2.39 ERA and facing the majors’ most strikeout-prone lineup minus their best hitter Mike Trout.",
+        "summary_zh_tw": "Shane Baz調整球路後近況佳，本週對上以三振見長且缺少特勞特的打線。",
+        "tags": [
+          "SP",
+          "strategy change",
+          "good matchup"
+        ]
+      },
+      {
+        "rank": 6,
+        "name_en": "Andre Pallante",
+        "summary_en": "Andre Pallante offers modest upside but limits damage well with a top ground ball rate, making him a good option especially if expected to have two starts.",
+        "summary_zh_tw": "Andre Pallante以卓越滾地球率控管失分穩定，兩場先發時值得考慮。",
+        "tags": [
+          "SP",
+          "ground ball pitcher",
+          "two start potential"
+        ]
+      },
+      {
+        "rank": 7,
+        "name_en": "Anthony Kay",
+        "summary_en": "Despite a rising ERA and high xERA, Anthony Kay has two favorable matchups this week, especially the Guardians missing Jose Ramirez, making him tempting in points leagues.",
+        "summary_zh_tw": "Anthony Kay雖ERA上升，仍擁有兩場易對戰，適合積分聯盟考慮。",
+        "tags": [
+          "SP",
+          "two start potential",
+          "points league"
+        ]
+      },
+      {
+        "rank": 8,
+        "name_en": "Griffin Jax",
+        "summary_en": "Griffin Jax keeps his ERA low but has yet to pitch beyond five innings per start, limiting fantasy value; he faces a struggling Royals lineup this week.",
+        "summary_zh_tw": "Griffin JaxERA優且本週對戰疲軟的皇家隊，但持續投球局數有限。",
+        "tags": [
+          "SP",
+          "low innings",
+          "good matchup"
+        ]
+      },
+      {
+        "rank": 9,
+        "name_en": "Peter Lambert",
+        "summary_en": "Peter Lambert lowered his ERA to 3.23 with consecutive strong outings and is likely to have one start against low-scoring Blue Jays due to a six-man rotation.",
+        "summary_zh_tw": "Peter Lambert近期表現佳，預計本週單場出賽對陣得分弱的藍鳥隊。",
+        "tags": [
+          "SP",
+          "single start",
+          "good matchup"
+        ]
+      },
+      {
+        "rank": 10,
+        "name_en": "Cade Cavalli",
+        "summary_en": "Though Cade Cavalli has recently had a high WHIP, he performed well against the Phillies earlier this season and can occasionally deliver high strikeout games.",
+        "summary_zh_tw": "Cade Cavalli近期WHIP偏高，但曾有效壓制費城人，偶爾有高三振表現。",
+        "tags": [
+          "SP",
+          "inconsistent",
+          "strikeout potential"
+        ]
+      }
+    ],
+    "model": "gpt-4.1-mini",
+    "generated_at": "2026-06-27T05:25:32+00:00"
+  },
+  "players": [
+    {
+      "rank": 1,
+      "name_en": "Roki Sasaki",
+      "summary_en": "Roki Sasaki bounced back with solid recent starts, posting a 3.67 ERA, 0.96 WHIP and 10.2 K/9 over his last six outings and faces a weak Padres lineup this week.",
+      "summary_zh_tw": "Roki Sasaki最近六場先發狀態回穩，本週將對戰戰力薄弱的教士隊。",
+      "tags": [
+        "SP",
+        "streaming",
+        "good matchup"
+      ]
+    },
+    {
+      "rank": 2,
+      "name_en": "Gage Jump",
+      "summary_en": "Gage Jump has dominated with precise pitching, most recently throwing seven one-hit innings, facing a Giants lineup that ranks in the bottom third for runs scored.",
+      "summary_zh_tw": "Gage Jump投球精準，近期表現出色，本週對戰火力不強的巨人隊。",
+      "tags": [
+        "SP",
+        "streaming",
+        "good matchup"
+      ]
+    },
+    {
+      "rank": 3,
+      "name_en": "Eduardo Rodriguez",
+      "summary_en": "Despite underlying metrics not fully supporting his 2.45 ERA, Eduardo Rodriguez remains effective and is recommended to take advantage of his middling matchups this week.",
+      "summary_zh_tw": "Eduardo Rodriguez本季ERA意外低，本週適逢中等對手，建議冒險使用。",
+      "tags": [
+        "SP",
+        "underrated",
+        "risk"
+      ]
+    },
+    {
+      "rank": 4,
+      "name_en": "Sean Burke",
+      "summary_en": "Sean Burke improved by attacking the zone more, gaining velocity and striking out eight, and now faces a weak Guardians lineup missing a key hitter.",
+      "summary_zh_tw": "Sean Burke最近調整投球策略，表現提升，本週面對缺少主力打者的守護者隊。",
+      "tags": [
+        "SP",
+        "improved control",
+        "good matchup"
+      ]
+    },
+    {
+      "rank": 5,
+      "name_en": "Shane Baz",
+      "summary_en": "Shane Baz has succeeded by reducing sinker reliance, holding a 2.39 ERA and facing the majors’ most strikeout-prone lineup minus their best hitter Mike Trout.",
+      "summary_zh_tw": "Shane Baz調整球路後近況佳，本週對上以三振見長且缺少特勞特的打線。",
+      "tags": [
+        "SP",
+        "strategy change",
+        "good matchup"
+      ]
+    },
+    {
+      "rank": 6,
+      "name_en": "Andre Pallante",
+      "summary_en": "Andre Pallante offers modest upside but limits damage well with a top ground ball rate, making him a good option especially if expected to have two starts.",
+      "summary_zh_tw": "Andre Pallante以卓越滾地球率控管失分穩定，兩場先發時值得考慮。",
+      "tags": [
+        "SP",
+        "ground ball pitcher",
+        "two start potential"
+      ]
+    },
+    {
+      "rank": 7,
+      "name_en": "Anthony Kay",
+      "summary_en": "Despite a rising ERA and high xERA, Anthony Kay has two favorable matchups this week, especially the Guardians missing Jose Ramirez, making him tempting in points leagues.",
+      "summary_zh_tw": "Anthony Kay雖ERA上升，仍擁有兩場易對戰，適合積分聯盟考慮。",
+      "tags": [
+        "SP",
+        "two start potential",
+        "points league"
+      ]
+    },
+    {
+      "rank": 8,
+      "name_en": "Griffin Jax",
+      "summary_en": "Griffin Jax keeps his ERA low but has yet to pitch beyond five innings per start, limiting fantasy value; he faces a struggling Royals lineup this week.",
+      "summary_zh_tw": "Griffin JaxERA優且本週對戰疲軟的皇家隊，但持續投球局數有限。",
+      "tags": [
+        "SP",
+        "low innings",
+        "good matchup"
+      ]
+    },
+    {
+      "rank": 9,
+      "name_en": "Peter Lambert",
+      "summary_en": "Peter Lambert lowered his ERA to 3.23 with consecutive strong outings and is likely to have one start against low-scoring Blue Jays due to a six-man rotation.",
+      "summary_zh_tw": "Peter Lambert近期表現佳，預計本週單場出賽對陣得分弱的藍鳥隊。",
+      "tags": [
+        "SP",
+        "single start",
+        "good matchup"
+      ]
+    },
+    {
+      "rank": 10,
+      "name_en": "Cade Cavalli",
+      "summary_en": "Though Cade Cavalli has recently had a high WHIP, he performed well against the Phillies earlier this season and can occasionally deliver high strikeout games.",
+      "summary_zh_tw": "Cade Cavalli近期WHIP偏高，但曾有效壓制費城人，偶爾有高三振表現。",
+      "tags": [
+        "SP",
+        "inconsistent",
+        "strikeout potential"
+      ]
+    }
+  ],
+  "pipeline": {
+    "version": "1.0",
+    "status": "complete"
+  }
+}

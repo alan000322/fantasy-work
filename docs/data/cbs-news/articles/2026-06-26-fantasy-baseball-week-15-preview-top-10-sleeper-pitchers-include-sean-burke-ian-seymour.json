@@ -1,0 +1,343 @@
+{
+  "source_article": {
+    "source": "CBS Sports",
+    "article_type": "sleeper_pitchers",
+    "week": 15,
+    "title_en": "Fantasy Baseball Week 15 Preview: Top 10 sleeper pitchers include Sean Burke, Ian Seymour",
+    "url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-15-preview-top-10-sleeper-pitchers-include-sean-burke-ian-seymour/",
+    "canonical_url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-15-preview-top-10-sleeper-pitchers-include-sean-burke-ian-seymour/",
+    "slug": "fantasy-baseball-week-15-preview-top-10-sleeper-pitchers-include-sean-burke-ian-seymour",
+    "author": "Scott White",
+    "published_at": "2026-06-26T13:23:28+00:00",
+    "dek_en": "Sleeper pitchers for Fantasy Week 15, with rankings, matchups and top streaming options",
+    "body_en": "Streaming pitchers isn't for the faint of heart, but if you find yourself without enough reliable options in a given scoring period, it may be what you need to stay afloat. Scott White has 10 recommendations for the upcoming scoring period, all rostered in no more than 80 percent of CBS Sports leagues. Generally, only the top two or three are full-throated endorsements, while the rest are more about making the best of a bad situation.\n\nBe sure to check back Sunday for the latest updates.\n\n1. Sean Burke (SP) - Sean Burke's fastball has really popped in his last two starts, which times up well with a two-start week. He'll get another crack at a Jose Ramirez-less Guardians lineup that managed to score just one run over 6 1/3 innings against him last time.\n2. Griffin Jax (SP) - Griffin Jax's 11 starts have gone about as well as they could have, seeing him deliver a 2.40 ERA, 1.20 WHIP and 8.6 K/9 rate to go along with the sort of swinging-strike rate (14 percent) that would hint of even more strikeout potential. He has yet to exceed five innings in a start but is consistently going five and will have an extra turn to pad his totals his week.\n3. Bubba Chandler (SP) - Bubba Chandler's control has been improving little by little, and he's performed respectably in his past four turns, putting together a 2.82 ERA, 1.03 WHIP and 7.3 K/9. That's not exactly dominant, but it's good enough to give him a second thought with two starts coming up.\n4. Tatsuya Imai (SP) - Tatsuya Imai may finally be getting the hang of this MLB thing, having recorded 21 strikeouts while issuing just one walk in his past two turns, both quality starts. He's credited the turnaround to improving his fastball shape and tunneling his slider off it better, but in any case, it's time to give him another shot even with an iffy matchup against the Twins.\n5. Roki Sasaki (SP) - Roki Sasaki's past couple turns might qualify as his one step back after two steps forward, but he still registered a ton of whiffs while issuing just one walk against the Orioles last time out. He has a much more favorable matchup against the Padres over the weekend, and provided that goes well, he'll face them again in Week 15.\n6. Landen Roupp (SP) - Landen Roupp has emerged from a rough patch with back-to-back quality starts and still rates well in a number of critical areas such as average exit velocity, ground ball rate and strikeout rate. He's back to being a solid play most any week, but he's facing a team this week that ranks in the bottom half of the league in scoring.\n7. Cade Cavalli (SP) - Cade Cavalli just came through in a favorable matchup with the Phillies and now has an even more favorable one against a Red Sox lineup that ranks dead last in scoring. He's a middling pitcher overall but generally delivers with a good matchup, usually with a nice strikeout total.\n8. Brandon Sproat (SP) - Brandon Sproat seemingly turned the corner in his last outing, striking out 10 while allowing just two baserunners in six innings. There's no telling how sustainable it is, but his prospect pedigree would suggest it's at least plausible, which makes him a fascinating boom-or-bust play in Week 15.\n9. Joey Cantillo (SP) - Joey Cantillo spammed his curveball in his last outing, and it worked wonders as he dominated a tough Astros lineup over eight innings. Provided he builds off that outing against the Mariners, then he'll be well worth using in Week 15 against a Rangers lineup that ranks third-to-last in scoring.\n10. Ian Seymour (RP) - Ian Seymour showed Thursday what kind of impact he could have as a regular part of the Rays rotation, no-hitting the Royals over 6 2/3 innings. He said he feels \"more crisp\" in the rotation, and his 13 percent swinging-strike rate and 87.8 mph average exit velocity both point to him having genuine upside in the role. He'll be facing the Royals again next time out.",
+    "fetched_at": "2026-06-27T05:24:53+00:00",
+    "player_cards": [
+      {
+        "rank": 1,
+        "name_en": "Sean Burke",
+        "position": "SP",
+        "mlb_team": "CHW",
+        "matchup": null,
+        "rostered_pct": "55%",
+        "blurb_en": "Sean Burke's fastball has really popped in his last two starts, which times up well with a two-start week. He'll get another crack at a Jose Ramirez-less Guardians lineup that managed to score just one run over 6 1/3 innings against him last time."
+      },
+      {
+        "rank": 2,
+        "name_en": "Griffin Jax",
+        "position": "SP",
+        "mlb_team": "TB",
+        "matchup": null,
+        "rostered_pct": "44%",
+        "blurb_en": "Griffin Jax's 11 starts have gone about as well as they could have, seeing him deliver a 2.40 ERA, 1.20 WHIP and 8.6 K/9 rate to go along with the sort of swinging-strike rate (14 percent) that would hint of even more strikeout potential. He has yet to exceed five innings in a start but is consistently going five and will have an extra turn to pad his totals his week."
+      },
+      {
+        "rank": 3,
+        "name_en": "Bubba Chandler",
+        "position": "SP",
+        "mlb_team": "PIT",
+        "matchup": null,
+        "rostered_pct": "73%",
+        "blurb_en": "Bubba Chandler's control has been improving little by little, and he's performed respectably in his past four turns, putting together a 2.82 ERA, 1.03 WHIP and 7.3 K/9. That's not exactly dominant, but it's good enough to give him a second thought with two starts coming up."
+      },
+      {
+        "rank": 4,
+        "name_en": "Tatsuya Imai",
+        "position": "SP",
+        "mlb_team": "HOU",
+        "matchup": "vs. MIN",
+        "rostered_pct": "46%",
+        "blurb_en": "Tatsuya Imai may finally be getting the hang of this MLB thing, having recorded 21 strikeouts while issuing just one walk in his past two turns, both quality starts. He's credited the turnaround to improving his fastball shape and tunneling his slider off it better, but in any case, it's time to give him another shot even with an iffy matchup against the Twins."
+      },
+      {
+        "rank": 5,
+        "name_en": "Roki Sasaki",
+        "position": "SP",
+        "mlb_team": "LAD",
+        "matchup": "vs. SD",
+        "rostered_pct": "78%",
+        "blurb_en": "Roki Sasaki's past couple turns might qualify as his one step back after two steps forward, but he still registered a ton of whiffs while issuing just one walk against the Orioles last time out. He has a much more favorable matchup against the Padres over the weekend, and provided that goes well, he'll face them again in Week 15."
+      },
+      {
+        "rank": 6,
+        "name_en": "Landen Roupp",
+        "position": "SP",
+        "mlb_team": "SF",
+        "matchup": "at ARI",
+        "rostered_pct": "70%",
+        "blurb_en": "Landen Roupp has emerged from a rough patch with back-to-back quality starts and still rates well in a number of critical areas such as average exit velocity, ground ball rate and strikeout rate. He's back to being a solid play most any week, but he's facing a team this week that ranks in the bottom half of the league in scoring."
+      },
+      {
+        "rank": 7,
+        "name_en": "Cade Cavalli",
+        "position": "SP",
+        "mlb_team": "WAS",
+        "matchup": "at BOS",
+        "rostered_pct": "58%",
+        "blurb_en": "Cade Cavalli just came through in a favorable matchup with the Phillies and now has an even more favorable one against a Red Sox lineup that ranks dead last in scoring. He's a middling pitcher overall but generally delivers with a good matchup, usually with a nice strikeout total."
+      },
+      {
+        "rank": 8,
+        "name_en": "Brandon Sproat",
+        "position": "SP",
+        "mlb_team": "MIL",
+        "matchup": null,
+        "rostered_pct": "25%",
+        "blurb_en": "Brandon Sproat seemingly turned the corner in his last outing, striking out 10 while allowing just two baserunners in six innings. There's no telling how sustainable it is, but his prospect pedigree would suggest it's at least plausible, which makes him a fascinating boom-or-bust play in Week 15."
+      },
+      {
+        "rank": 9,
+        "name_en": "Joey Cantillo",
+        "position": "SP",
+        "mlb_team": "CLE",
+        "matchup": "vs. TEX",
+        "rostered_pct": "54%",
+        "blurb_en": "Joey Cantillo spammed his curveball in his last outing, and it worked wonders as he dominated a tough Astros lineup over eight innings. Provided he builds off that outing against the Mariners, then he'll be well worth using in Week 15 against a Rangers lineup that ranks third-to-last in scoring."
+      },
+      {
+        "rank": 10,
+        "name_en": "Ian Seymour",
+        "position": "RP",
+        "mlb_team": "TB",
+        "matchup": "at KC",
+        "rostered_pct": "14%",
+        "blurb_en": "Ian Seymour showed Thursday what kind of impact he could have as a regular part of the Rays rotation, no-hitting the Royals over 6 2/3 innings. He said he feels \"more crisp\" in the rotation, and his 13 percent swinging-strike rate and 87.8 mph average exit velocity both point to him having genuine upside in the role. He'll be facing the Royals again next time out."
+      }
+    ]
+  },
+  "ai_article": {
+    "article_type": "sleeper_pitchers",
+    "week": 15,
+    "article_summary_zh_tw": "本文介紹了第15週的十大潛力投手，包括排名與比賽狀況，以協助玩家找到有潛力的選手。",
+    "players": [
+      {
+        "rank": 1,
+        "name_en": "Sean Burke",
+        "summary_en": "Sean Burke's fastball has really popped in his last two starts, which times up well with a two-start week. He'll get another crack at a Jose Ramirez-less Guardians lineup that managed to score just one run over 6 1/3 innings against him last time.",
+        "summary_zh_tw": "Sean Burke最近兩場先發的快速球表現出色，本週有兩場先發，將再度對上缺少Jose Ramirez的守護者隊。",
+        "tags": [
+          "two-start week",
+          "fastball",
+          "low opponent scoring"
+        ]
+      },
+      {
+        "rank": 2,
+        "name_en": "Griffin Jax",
+        "summary_en": "Griffin Jax's 11 starts have gone about as well as they could have, seeing him deliver a 2.40 ERA, 1.20 WHIP and 8.6 K/9 rate to go along with the sort of swinging-strike rate (14 percent) that would hint of even more strikeout potential. He has yet to exceed five innings in a start but is consistently going five and will have an extra turn to pad his totals his week.",
+        "summary_zh_tw": "Griffin Jax前十一次先發表現出色，ERA 2.40，且本週有額外先發機會可增加數據。",
+        "tags": [
+          "strong ERA",
+          "high K rate",
+          "extra start"
+        ]
+      },
+      {
+        "rank": 3,
+        "name_en": "Bubba Chandler",
+        "summary_en": "Bubba Chandler's control has been improving little by little, and he's performed respectably in his past four turns, putting together a 2.82 ERA, 1.03 WHIP and 7.3 K/9. That's not exactly dominant, but it's good enough to give him a second thought with two starts coming up.",
+        "summary_zh_tw": "Bubba Chandler近期控球逐漸穩定，過去四場先發表現不錯，本週有兩場先發機會。",
+        "tags": [
+          "improving control",
+          "two starts",
+          "solid ERA"
+        ]
+      },
+      {
+        "rank": 4,
+        "name_en": "Tatsuya Imai",
+        "summary_en": "Tatsuya Imai may finally be getting the hang of this MLB thing, having recorded 21 strikeouts while issuing just one walk in his past two turns, both quality starts. He's credited the turnaround to improving his fastball shape and tunneling his slider off it better, but in any case, it's time to give him another shot even with an iffy matchup against the Twins.",
+        "summary_zh_tw": "Tatsuya Imai過去兩場投出21次三振，只保送一次，顯示其投球技術提升，值得關注。",
+        "tags": [
+          "quality starts",
+          "high strikeouts",
+          "improved pitching"
+        ]
+      },
+      {
+        "rank": 5,
+        "name_en": "Roki Sasaki",
+        "summary_en": "Roki Sasaki's past couple turns might qualify as his one step back after two steps forward, but he still registered a ton of whiffs while issuing just one walk against the Orioles last time out. He has a much more favorable matchup against the Padres over the weekend, and provided that goes well, he'll face them again in Week 15.",
+        "summary_zh_tw": "Roki Sasaki最近雖有小退步，但仍投出大量三振，本週將面對較有利的教士隊。",
+        "tags": [
+          "high strikeouts",
+          "favorable matchup",
+          "two starts"
+        ]
+      },
+      {
+        "rank": 6,
+        "name_en": "Landen Roupp",
+        "summary_en": "Landen Roupp has emerged from a rough patch with back-to-back quality starts and still rates well in a number of critical areas such as average exit velocity, ground ball rate and strikeout rate. He's back to being a solid play most any week, but he's facing a team this week that ranks in the bottom half of the league in scoring.",
+        "summary_zh_tw": "Landen Roupp連續兩場優質先發，投球數據表現佳，本週面對積分偏低球隊。",
+        "tags": [
+          "quality starts",
+          "good pitching metrics",
+          "low scoring opponent"
+        ]
+      },
+      {
+        "rank": 7,
+        "name_en": "Cade Cavalli",
+        "summary_en": "Cade Cavalli just came through in a favorable matchup with the Phillies and now has an even more favorable one against a Red Sox lineup that ranks dead last in scoring. He's a middling pitcher overall but generally delivers with a good matchup, usually with a nice strikeout total.",
+        "summary_zh_tw": "Cade Cavalli近期在有利對決中表現不錯，本週將面對聯盟得分最低的紅襪隊。",
+        "tags": [
+          "favorable matchup",
+          "strikeout potential",
+          "low scoring opponent"
+        ]
+      },
+      {
+        "rank": 8,
+        "name_en": "Brandon Sproat",
+        "summary_en": "Brandon Sproat seemingly turned the corner in his last outing, striking out 10 while allowing just two baserunners in six innings. There's no telling how sustainable it is, but his prospect pedigree would suggest it's at least plausible, which makes him a fascinating boom-or-bust play in Week 15.",
+        "summary_zh_tw": "Brandon Sproat最近一場比賽投出10次三振，是本週的潛力爆發投手。",
+        "tags": [
+          "high strikeouts",
+          "boom-or-bust",
+          "prospect"
+        ]
+      },
+      {
+        "rank": 9,
+        "name_en": "Joey Cantillo",
+        "summary_en": "Joey Cantillo spammed his curveball in his last outing, and it worked wonders as he dominated a tough Astros lineup over eight innings. Provided he builds off that outing against the Mariners, then he'll be well worth using in Week 15 against a Rangers lineup that ranks third-to-last in scoring.",
+        "summary_zh_tw": "Joey Cantillo上一場用曲球成功壓制強敵，本週面對得分倒數第三的遊騎兵隊。",
+        "tags": [
+          "effective curveball",
+          "dominant performance",
+          "low scoring opponent"
+        ]
+      },
+      {
+        "rank": 10,
+        "name_en": "Ian Seymour",
+        "summary_en": "Ian Seymour showed Thursday what kind of impact he could have as a regular part of the Rays rotation, no-hitting the Royals over 6 2/3 innings. He said he feels \"more crisp\" in the rotation, and his 13 percent swinging-strike rate and 87.8 mph average exit velocity both point to him having genuine upside in the role. He'll be facing the Royals again next time out.",
+        "summary_zh_tw": "Ian Seymour在光芒隊輪值中表現亮眼，並且將再次面對皇家隊。",
+        "tags": [
+          "no-hitter",
+          "rotation role",
+          "high swinging-strike rate"
+        ]
+      }
+    ],
+    "model": "gpt-4.1-mini",
+    "generated_at": "2026-06-27T05:25:10+00:00"
+  },
+  "players": [
+    {
+      "rank": 1,
+      "name_en": "Sean Burke",
+      "summary_en": "Sean Burke's fastball has really popped in his last two starts, which times up well with a two-start week. He'll get another crack at a Jose Ramirez-less Guardians lineup that managed to score just one run over 6 1/3 innings against him last time.",
+      "summary_zh_tw": "Sean Burke最近兩場先發的快速球表現出色，本週有兩場先發，將再度對上缺少Jose Ramirez的守護者隊。",
+      "tags": [
+        "two-start week",
+        "fastball",
+        "low opponent scoring"
+      ]
+    },
+    {
+      "rank": 2,
+      "name_en": "Griffin Jax",
+      "summary_en": "Griffin Jax's 11 starts have gone about as well as they could have, seeing him deliver a 2.40 ERA, 1.20 WHIP and 8.6 K/9 rate to go along with the sort of swinging-strike rate (14 percent) that would hint of even more strikeout potential. He has yet to exceed five innings in a start but is consistently going five and will have an extra turn to pad his totals his week.",
+      "summary_zh_tw": "Griffin Jax前十一次先發表現出色，ERA 2.40，且本週有額外先發機會可增加數據。",
+      "tags": [
+        "strong ERA",
+        "high K rate",
+        "extra start"
+      ]
+    },
+    {
+      "rank": 3,
+      "name_en": "Bubba Chandler",
+      "summary_en": "Bubba Chandler's control has been improving little by little, and he's performed respectably in his past four turns, putting together a 2.82 ERA, 1.03 WHIP and 7.3 K/9. That's not exactly dominant, but it's good enough to give him a second thought with two starts coming up.",
+      "summary_zh_tw": "Bubba Chandler近期控球逐漸穩定，過去四場先發表現不錯，本週有兩場先發機會。",
+      "tags": [
+        "improving control",
+        "two starts",
+        "solid ERA"
+      ]
+    },
+    {
+      "rank": 4,
+      "name_en": "Tatsuya Imai",
+      "summary_en": "Tatsuya Imai may finally be getting the hang of this MLB thing, having recorded 21 strikeouts while issuing just one walk in his past two turns, both quality starts. He's credited the turnaround to improving his fastball shape and tunneling his slider off it better, but in any case, it's time to give him another shot even with an iffy matchup against the Twins.",
+      "summary_zh_tw": "Tatsuya Imai過去兩場投出21次三振，只保送一次，顯示其投球技術提升，值得關注。",
+      "tags": [
+        "quality starts",
+        "high strikeouts",
+        "improved pitching"
+      ]
+    },
+    {
+      "rank": 5,
+      "name_en": "Roki Sasaki",
+      "summary_en": "Roki Sasaki's past couple turns might qualify as his one step back after two steps forward, but he still registered a ton of whiffs while issuing just one walk against the Orioles last time out. He has a much more favorable matchup against the Padres over the weekend, and provided that goes well, he'll face them again in Week 15.",
+      "summary_zh_tw": "Roki Sasaki最近雖有小退步，但仍投出大量三振，本週將面對較有利的教士隊。",
+      "tags": [
+        "high strikeouts",
+        "favorable matchup",
+        "two starts"
+      ]
+    },
+    {
+      "rank": 6,
+      "name_en": "Landen Roupp",
+      "summary_en": "Landen Roupp has emerged from a rough patch with back-to-back quality starts and still rates well in a number of critical areas such as average exit velocity, ground ball rate and strikeout rate. He's back to being a solid play most any week, but he's facing a team this week that ranks in the bottom half of the league in scoring.",
+      "summary_zh_tw": "Landen Roupp連續兩場優質先發，投球數據表現佳，本週面對積分偏低球隊。",
+      "tags": [
+        "quality starts",
+        "good pitching metrics",
+        "low scoring opponent"
+      ]
+    },
+    {
+      "rank": 7,
+      "name_en": "Cade Cavalli",
+      "summary_en": "Cade Cavalli just came through in a favorable matchup with the Phillies and now has an even more favorable one against a Red Sox lineup that ranks dead last in scoring. He's a middling pitcher overall but generally delivers with a good matchup, usually with a nice strikeout total.",
+      "summary_zh_tw": "Cade Cavalli近期在有利對決中表現不錯，本週將面對聯盟得分最低的紅襪隊。",
+      "tags": [
+        "favorable matchup",
+        "strikeout potential",
+        "low scoring opponent"
+      ]
+    },
+    {
+      "rank": 8,
+      "name_en": "Brandon Sproat",
+      "summary_en": "Brandon Sproat seemingly turned the corner in his last outing, striking out 10 while allowing just two baserunners in six innings. There's no telling how sustainable it is, but his prospect pedigree would suggest it's at least plausible, which makes him a fascinating boom-or-bust play in Week 15.",
+      "summary_zh_tw": "Brandon Sproat最近一場比賽投出10次三振，是本週的潛力爆發投手。",
+      "tags": [
+        "high strikeouts",
+        "boom-or-bust",
+        "prospect"
+      ]
+    },
+    {
+      "rank": 9,
+      "name_en": "Joey Cantillo",
+      "summary_en": "Joey Cantillo spammed his curveball in his last outing, and it worked wonders as he dominated a tough Astros lineup over eight innings. Provided he builds off that outing against the Mariners, then he'll be well worth using in Week 15 against a Rangers lineup that ranks third-to-last in scoring.",
+      "summary_zh_tw": "Joey Cantillo上一場用曲球成功壓制強敵，本週面對得分倒數第三的遊騎兵隊。",
+      "tags": [
+        "effective curveball",
+        "dominant performance",
+        "low scoring opponent"
+      ]
+    },
+    {
+      "rank": 10,
+      "name_en": "Ian Seymour",
+      "summary_en": "Ian Seymour showed Thursday what kind of impact he could have as a regular part of the Rays rotation, no-hitting the Royals over 6 2/3 innings. He said he feels \"more crisp\" in the rotation, and his 13 percent swinging-strike rate and 87.8 mph average exit velocity both point to him having genuine upside in the role. He'll be facing the Royals again next time out.",
+      "summary_zh_tw": "Ian Seymour在光芒隊輪值中表現亮眼，並且將再次面對皇家隊。",
+      "tags": [
+        "no-hitter",
+        "rotation role",
+        "high swinging-strike rate"
+      ]
+    }
+  ],
+  "pipeline": {
+    "version": "1.0",
+    "status": "complete"
+  }
+}

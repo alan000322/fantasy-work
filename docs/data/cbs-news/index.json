@@ -1,10 +1,37 @@
 {
-  "generated_at": "2026-06-19T13:48:23+00:00",
+  "generated_at": "2026-06-26T13:23:28+00:00",
   "latest_week_by_type": {
-    "sleeper_hitters": 14,
-    "sleeper_pitchers": 14
+    "sleeper_hitters": 15,
+    "sleeper_pitchers": 15
   },
   "articles": [
+    {
+      "article_type": "sleeper_pitchers",
+      "week": 15,
+      "title_en": "Fantasy Baseball Week 15 Preview: Top 10 sleeper pitchers include Sean Burke, Ian Seymour",
+      "published_at": "2026-06-26T13:23:28+00:00",
+      "source_url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-15-preview-top-10-sleeper-pitchers-include-sean-burke-ian-seymour/",
+      "path": "./data/cbs-news/articles/2026-06-26-fantasy-baseball-week-15-preview-top-10-sleeper-pitchers-include-sean-burke-ian-seymour.json",
+      "player_count": 10
+    },
+    {
+      "article_type": "sleeper_hitters",
+      "week": 15,
+      "title_en": "Fantasy Baseball Week 15 Preview: Top 10 sleeper hitters highlight Dansby Swanson, Cole Carrigg",
+      "published_at": "2026-06-26T13:23:06+00:00",
+      "source_url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-15-preview-top-10-sleeper-hitters-highlight-dansby-swanson-cole-carrigg/",
+      "path": "./data/cbs-news/articles/2026-06-26-fantasy-baseball-week-15-preview-top-10-sleeper-hitters-highlight-dansby-swanson-cole-carrigg.json",
+      "player_count": 10
+    },
+    {
+      "article_type": "sleeper_pitchers",
+      "week": 14,
+      "title_en": "Fantasy Baseball Week 14 Preview: Top 10 sleeper pitchers include Eduardo Rodriguez, Sean Burke",
+      "published_at": "2026-06-22T09:06:00+00:00",
+      "source_url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-14-preview-top-10-sleeper-pitchers-include-eduardo-rodriguez-sean-burke/",
+      "path": "./data/cbs-news/articles/2026-06-22-fantasy-baseball-week-14-preview-top-10-sleeper-pitchers-include-eduardo-rodriguez-sean-burke.json",
+      "player_count": 10
+    },
     {
       "article_type": "sleeper_hitters",
       "week": 14,
@@ -12,15 +39,6 @@
       "published_at": "2026-06-19T13:48:23+00:00",
       "source_url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-14-preview-top-10-sleeper-hitters/",
       "path": "./data/cbs-news/articles/2026-06-19-fantasy-baseball-week-14-preview-top-10-sleeper-hitters.json",
-      "player_count": 10
-    },
-    {
-      "article_type": "sleeper_pitchers",
-      "week": 14,
-      "title_en": "Fantasy Baseball Week 14 Preview: Top 10 sleeper pitchers feature Eduardo Rodriguez, Sean Burke",
-      "published_at": "2026-06-19T13:42:00+00:00",
-      "source_url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-14-preview-top-10-sleeper-pitchers/",
-      "path": "./data/cbs-news/articles/2026-06-19-fantasy-baseball-week-14-preview-top-10-sleeper-pitchers.json",
       "player_count": 10
     },
     {

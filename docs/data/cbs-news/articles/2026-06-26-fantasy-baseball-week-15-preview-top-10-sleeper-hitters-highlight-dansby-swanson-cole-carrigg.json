@@ -1,0 +1,351 @@
+{
+  "source_article": {
+    "source": "CBS Sports",
+    "article_type": "sleeper_hitters",
+    "week": 15,
+    "title_en": "Fantasy Baseball Week 15 Preview: Top 10 sleeper hitters highlight Dansby Swanson, Cole Carrigg",
+    "url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-15-preview-top-10-sleeper-hitters-highlight-dansby-swanson-cole-carrigg/",
+    "canonical_url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-15-preview-top-10-sleeper-hitters-highlight-dansby-swanson-cole-carrigg/",
+    "slug": "fantasy-baseball-week-15-preview-top-10-sleeper-hitters-highlight-dansby-swanson-cole-carrigg",
+    "author": "Scott White",
+    "published_at": "2026-06-26T13:23:06+00:00",
+    "dek_en": "Sleeper hitters for Fantasy Week 15, waiver wire targets, and breakout candidates.",
+    "body_en": "Whether you're in need of an injury fill-in or just a hot-hand play, Scott White has you covered with 10 sleeper hitters for the upcoming scoring period, all rostered in less than 80 percent of CBS Sports leagues. They're not must-starts by any estimation, but they're often the best you'll find off the waiver wire.\n\nBe sure to check back Sunday for the latest updates.\n\n1. Marlins @COL4, @ATH3 2. Giants @ARI3, @COL3 3. Cubs SD3, STL3 4. Cardinals @ATL3, @CHC3 5. Rockies MIA4, SF3\n\n1. Blue Jays NYM3, @SEA3 2. Rangers @CLE3, DET3 3. Royals TB3, PHI2 4. Angels @SEA3, BOS3 5. Tigers @NYY3, @TEX3\n\n1. Paul Goldschmidt (1B) - Paul Goldschmidt tops this list for a second straight week and remains the most under-rostered hitter in Fantasy, sporting a .353 (30 for 85) batting average and eight home runs in June. His next slate of victims includes Keider Montero, Mike Paredes, Connor Prielipp and Zebby Matthews.\n2. Dansby Swanson (SS) - Dansby Swanson just wrapped up a massive series against the Mets in which he had three homers and 15 RBI. His struggles this year are more underachievement than decline, and now that he's back on the right track, he's a good choice to take advantage of the third-best hitter matchups this week.\n3. TJ Rumfield (1B) - The Rockies have a full week of home games -- seven, no less -- for the first time all year, but TJ Rumfield is one of their fewer hitters for whom it doesn't matter all that much. What matters more in his case are the six righties, against whom he's batting .299 with a .916 OPS.\n4. Cole Carrigg (CF) - Cole Carrigg is new to the whole Coors Field thing but is already right at home there, batting .346 (9 for 22) with a 1.053 OPS vs. .182 (4 for 22) with a .762 OPS on the road. Expect him to pour on the extra-base hits with a full seven games there this week.\n5. Sam Antonacci (LF) - The White Sox's matchups this week are more solid than spectacular, so this recommendation is more about Sam Antonacci being undervalued in general. The rookie is batting .302 (52 for 172) with three homers and 11 steals in his past 49 games, reaching at a .400 clip, and is averaging 2.91 Head-to-Head points per game overall.\n6. Jake McCarthy (CF) - Jake McCarthy benefits both from the Rockies' home slate and their righty-loaded schedule this week, batting .315 with a .902 OPS in the former situation and having hit all five of his home runs in the latter situation.\n7. Willi Castro (2B) - Willi Castro has been hot in general, batting .340 (36 for 106) with four homers and three steals in his past 28 games, and is yet another Rockies hitter who should benefit from a full slate of home games, batting .331 at Coors Field vs. .228 everywhere else. You can start him anywhere but catcher, which makes him a particularly handy play.\n8. Lars Nootbaar (LF) - Lars Nootbaar continues to scorch the ball at over 93 mph on average and has a pristine xBA (.292) and xSLG (.557) so far. He's a good bet to make the most of the Cardinals' fourth-ranked hitter matchups, which include pitchers like Grant Holmes, Martin Perez, Reynaldo Lopez, Colin Rea, David Peterson and Javier Assad.\n9. Owen Caissie (RF) - Owen Caissie has had a rough rookie season but is finally beginning to impact the ball like he did in the minors, batting .381 (8 for 21) with three homers in his past seven games. It's good timing with the Marlins having the most favorable hitter schedule of all this week, a slate that includes four games at Coors Field.\n10. Caleb Durbin (3B) - Caleb Durbin's first season in Boston has been a major flop overall, but he's done a lot to make up for it over his past 24 games, batting .329 (28 for 85) with five homers, three steals and a .975 OPS. The Red Sox aren't among the five teams with the best hitter matchups this week, but they didn't miss by much, scheduled to face pitchers such as Miles Mikolas, Cade Cavalli, Andrew Alvarez, Sam Aldegheri and Ryan Johnson.",
+    "fetched_at": "2026-06-27T05:24:52+00:00",
+    "player_cards": [
+      {
+        "rank": 1,
+        "name_en": "Paul Goldschmidt",
+        "position": "1B",
+        "mlb_team": "NYY",
+        "matchup": null,
+        "rostered_pct": "68%",
+        "blurb_en": "Paul Goldschmidt tops this list for a second straight week and remains the most under-rostered hitter in Fantasy, sporting a .353 (30 for 85) batting average and eight home runs in June. His next slate of victims includes Keider Montero, Mike Paredes, Connor Prielipp and Zebby Matthews."
+      },
+      {
+        "rank": 2,
+        "name_en": "Dansby Swanson",
+        "position": "SS",
+        "mlb_team": "CHC",
+        "matchup": null,
+        "rostered_pct": "69%",
+        "blurb_en": "Dansby Swanson just wrapped up a massive series against the Mets in which he had three homers and 15 RBI. His struggles this year are more underachievement than decline, and now that he's back on the right track, he's a good choice to take advantage of the third-best hitter matchups this week."
+      },
+      {
+        "rank": 3,
+        "name_en": "TJ Rumfield",
+        "position": "1B",
+        "mlb_team": "COL",
+        "matchup": null,
+        "rostered_pct": "66%",
+        "blurb_en": "The Rockies have a full week of home games -- seven, no less -- for the first time all year, but TJ Rumfield is one of their fewer hitters for whom it doesn't matter all that much. What matters more in his case are the six righties, against whom he's batting .299 with a .916 OPS."
+      },
+      {
+        "rank": 4,
+        "name_en": "Cole Carrigg",
+        "position": "CF",
+        "mlb_team": "COL",
+        "matchup": null,
+        "rostered_pct": "55%",
+        "blurb_en": "Cole Carrigg is new to the whole Coors Field thing but is already right at home there, batting .346 (9 for 22) with a 1.053 OPS vs. .182 (4 for 22) with a .762 OPS on the road. Expect him to pour on the extra-base hits with a full seven games there this week."
+      },
+      {
+        "rank": 5,
+        "name_en": "Sam Antonacci",
+        "position": "LF",
+        "mlb_team": "CHW",
+        "matchup": null,
+        "rostered_pct": "71%",
+        "blurb_en": "The White Sox's matchups this week are more solid than spectacular, so this recommendation is more about Sam Antonacci being undervalued in general. The rookie is batting .302 (52 for 172) with three homers and 11 steals in his past 49 games, reaching at a .400 clip, and is averaging 2.91 Head-to-Head points per game overall."
+      },
+      {
+        "rank": 6,
+        "name_en": "Jake McCarthy",
+        "position": "CF",
+        "mlb_team": "COL",
+        "matchup": null,
+        "rostered_pct": "39%",
+        "blurb_en": "Jake McCarthy benefits both from the Rockies' home slate and their righty-loaded schedule this week, batting .315 with a .902 OPS in the former situation and having hit all five of his home runs in the latter situation."
+      },
+      {
+        "rank": 7,
+        "name_en": "Willi Castro",
+        "position": "2B",
+        "mlb_team": "COL",
+        "matchup": null,
+        "rostered_pct": "49%",
+        "blurb_en": "Willi Castro has been hot in general, batting .340 (36 for 106) with four homers and three steals in his past 28 games, and is yet another Rockies hitter who should benefit from a full slate of home games, batting .331 at Coors Field vs. .228 everywhere else. You can start him anywhere but catcher, which makes him a particularly handy play."
+      },
+      {
+        "rank": 8,
+        "name_en": "Lars Nootbaar",
+        "position": "LF",
+        "mlb_team": "STL",
+        "matchup": null,
+        "rostered_pct": "25%",
+        "blurb_en": "Lars Nootbaar continues to scorch the ball at over 93 mph on average and has a pristine xBA (.292) and xSLG (.557) so far. He's a good bet to make the most of the Cardinals' fourth-ranked hitter matchups, which include pitchers like Grant Holmes, Martin Perez, Reynaldo Lopez, Colin Rea, David Peterson and Javier Assad."
+      },
+      {
+        "rank": 9,
+        "name_en": "Owen Caissie",
+        "position": "RF",
+        "mlb_team": "MIA",
+        "matchup": null,
+        "rostered_pct": "33%",
+        "blurb_en": "Owen Caissie has had a rough rookie season but is finally beginning to impact the ball like he did in the minors, batting .381 (8 for 21) with three homers in his past seven games. It's good timing with the Marlins having the most favorable hitter schedule of all this week, a slate that includes four games at Coors Field."
+      },
+      {
+        "rank": 10,
+        "name_en": "Caleb Durbin",
+        "position": "3B",
+        "mlb_team": "BOS",
+        "matchup": null,
+        "rostered_pct": "29%",
+        "blurb_en": "Caleb Durbin's first season in Boston has been a major flop overall, but he's done a lot to make up for it over his past 24 games, batting .329 (28 for 85) with five homers, three steals and a .975 OPS. The Red Sox aren't among the five teams with the best hitter matchups this week, but they didn't miss by much, scheduled to face pitchers such as Miles Mikolas, Cade Cavalli, Andrew Alvarez, Sam Aldegheri and Ryan Johnson."
+      }
+    ]
+  },
+  "ai_article": {
+    "article_type": "sleeper_hitters",
+    "week": 15,
+    "article_summary_zh_tw": "CBS Sports 提供的第 15 週十大潛力打者名單，突出 Dansby Swanson 與 Cole Carrigg 等人。",
+    "players": [
+      {
+        "rank": 1,
+        "name_en": "Paul Goldschmidt",
+        "summary_en": "Paul Goldschmidt tops this list for a second straight week and remains the most under-rostered hitter in Fantasy, sporting a .353 (30 for 85) batting average and eight home runs in June. His next slate of victims includes Keider Montero, Mike Paredes, Connor Prielipp and Zebby Matthews.",
+        "summary_zh_tw": "Paul Goldschmidt 連續第二週領銜名單，六月打擊率高達 .353 且有八支全壘打，仍是幻想聯盟中出場率最低的打者。",
+        "tags": [
+          "1B",
+          "undervalued",
+          "hot streak",
+          "June performance"
+        ]
+      },
+      {
+        "rank": 2,
+        "name_en": "Dansby Swanson",
+        "summary_en": "Dansby Swanson just wrapped up a massive series against the Mets in which he had three homers and 15 RBI. His struggles this year are more underachievement than decline, and now that he's back on the right track, he's a good choice to take advantage of the third-best hitter matchups this week.",
+        "summary_zh_tw": "Dansby Swanson 最近對大都會表現出色，連兩戰轟出三支全壘打和 15 分打點，是本週值得關注的潛力股。",
+        "tags": [
+          "SS",
+          "hot streak",
+          "breakout candidate"
+        ]
+      },
+      {
+        "rank": 3,
+        "name_en": "TJ Rumfield",
+        "summary_en": "The Rockies have a full week of home games -- seven, no less -- for the first time all year, but TJ Rumfield is one of their fewer hitters for whom it doesn't matter all that much. What matters more in his case are the six righties, against whom he's batting .299 with a .916 OPS.",
+        "summary_zh_tw": "TJ Rumfield 對右投有優異打擊率，且即將迎來球隊七場主場賽事的有利局面。",
+        "tags": [
+          "1B",
+          "home games impact",
+          "bats well vs righties"
+        ]
+      },
+      {
+        "rank": 4,
+        "name_en": "Cole Carrigg",
+        "summary_en": "Cole Carrigg is new to the whole Coors Field thing but is already right at home there, batting .346 (9 for 22) with a 1.053 OPS vs. .182 (4 for 22) with a .762 OPS on the road. Expect him to pour on the extra-base hits with a full seven games there this week.",
+        "summary_zh_tw": "Cole Carrigg 在主場科爾斯球場表現出色，本週享有七場主場全賽事的優勢。",
+        "tags": [
+          "CF",
+          "Coors Field great performance",
+          "home vs away difference"
+        ]
+      },
+      {
+        "rank": 5,
+        "name_en": "Sam Antonacci",
+        "summary_en": "The White Sox's matchups this week are more solid than spectacular, so this recommendation is more about Sam Antonacci being undervalued in general. The rookie is batting .302 (52 for 172) with three homers and 11 steals in his past 49 games, reaching at a .400 clip, and is averaging 2.91 Head-to-Head points per game overall.",
+        "summary_zh_tw": "菜鳥 Sam Antonacci 近 49 場保持 .302 打擊率和多項數據均衡，是被低估的新秀。",
+        "tags": [
+          "LF",
+          "rookie",
+          "undervalued",
+          "consistent production"
+        ]
+      },
+      {
+        "rank": 6,
+        "name_en": "Jake McCarthy",
+        "summary_en": "Jake McCarthy benefits both from the Rockies' home slate and their righty-loaded schedule this week, batting .315 with a .902 OPS in the former situation and having hit all five of his home runs in the latter situation.",
+        "summary_zh_tw": "Jake McCarthy 這週將受惠於主場及對右投有利的賽程，打擊率和長打力均佳。",
+        "tags": [
+          "CF",
+          "home games impact",
+          "bats well vs righties"
+        ]
+      },
+      {
+        "rank": 7,
+        "name_en": "Willi Castro",
+        "summary_en": "Willi Castro has been hot in general, batting .340 (36 for 106) with four homers and three steals in his past 28 games, and is yet another Rockies hitter who should benefit from a full slate of home games, batting .331 at Coors Field vs. .228 everywhere else. You can start him anywhere but catcher, which makes him a particularly handy play.",
+        "summary_zh_tw": "Willi Castro 過去 28 場打擊率達 .340，且主場科爾斯球場表現明顯優異。",
+        "tags": [
+          "2B",
+          "hot streak",
+          "home games impact",
+          "versatile position"
+        ]
+      },
+      {
+        "rank": 8,
+        "name_en": "Lars Nootbaar",
+        "summary_en": "Lars Nootbaar continues to scorch the ball at over 93 mph on average and has a pristine xBA (.292) and xSLG (.557) so far. He's a good bet to make the most of the Cardinals' fourth-ranked hitter matchups, which include pitchers like Grant Holmes, Martin Perez, Reynaldo Lopez, Colin Rea, David Peterson and Javier Assad.",
+        "summary_zh_tw": "Lars Nootbaar 擁有高 xBA 和 xSLG，將充分利用紅雀隊優異的打者賽程。",
+        "tags": [
+          "LF",
+          "advanced metrics",
+          "good matchups"
+        ]
+      },
+      {
+        "rank": 9,
+        "name_en": "Owen Caissie",
+        "summary_en": "Owen Caissie has had a rough rookie season but is finally beginning to impact the ball like he did in the minors, batting .381 (8 for 21) with three homers in his past seven games. It's good timing with the Marlins having the most favorable hitter schedule of all this week, a slate that includes four games at Coors Field.",
+        "summary_zh_tw": "菜鳥 Owen Caissie 最近七場打出 .381 打擊率並有三轟，正值馬林魚有利賽程。",
+        "tags": [
+          "RF",
+          "rookie",
+          "hot streak",
+          "good schedule"
+        ]
+      },
+      {
+        "rank": 10,
+        "name_en": "Caleb Durbin",
+        "summary_en": "Caleb Durbin's first season in Boston has been a major flop overall, but he's done a lot to make up for it over his past 24 games, batting .329 (28 for 85) with five homers, three steals and a .975 OPS. The Red Sox aren't among the five teams with the best hitter matchups this week, but they didn't miss by much, scheduled to face pitchers such as Miles Mikolas, Cade Cavalli, Andrew Alvarez, Sam Aldegheri and Ryan Johnson.",
+        "summary_zh_tw": "Caleb Durbin 本季開局不佳，但最近 24 場打擊率 .329，表現迅速回溫。",
+        "tags": [
+          "3B",
+          "recent hot streak",
+          "red sox schedule"
+        ]
+      }
+    ],
+    "model": "gpt-4.1-mini",
+    "generated_at": "2026-06-27T05:25:21+00:00"
+  },
+  "players": [
+    {
+      "rank": 1,
+      "name_en": "Paul Goldschmidt",
+      "summary_en": "Paul Goldschmidt tops this list for a second straight week and remains the most under-rostered hitter in Fantasy, sporting a .353 (30 for 85) batting average and eight home runs in June. His next slate of victims includes Keider Montero, Mike Paredes, Connor Prielipp and Zebby Matthews.",
+      "summary_zh_tw": "Paul Goldschmidt 連續第二週領銜名單，六月打擊率高達 .353 且有八支全壘打，仍是幻想聯盟中出場率最低的打者。",
+      "tags": [
+        "1B",
+        "undervalued",
+        "hot streak",
+        "June performance"
+      ]
+    },
+    {
+      "rank": 2,
+      "name_en": "Dansby Swanson",
+      "summary_en": "Dansby Swanson just wrapped up a massive series against the Mets in which he had three homers and 15 RBI. His struggles this year are more underachievement than decline, and now that he's back on the right track, he's a good choice to take advantage of the third-best hitter matchups this week.",
+      "summary_zh_tw": "Dansby Swanson 最近對大都會表現出色，連兩戰轟出三支全壘打和 15 分打點，是本週值得關注的潛力股。",
+      "tags": [
+        "SS",
+        "hot streak",
+        "breakout candidate"
+      ]
+    },
+    {
+      "rank": 3,
+      "name_en": "TJ Rumfield",
+      "summary_en": "The Rockies have a full week of home games -- seven, no less -- for the first time all year, but TJ Rumfield is one of their fewer hitters for whom it doesn't matter all that much. What matters more in his case are the six righties, against whom he's batting .299 with a .916 OPS.",
+      "summary_zh_tw": "TJ Rumfield 對右投有優異打擊率，且即將迎來球隊七場主場賽事的有利局面。",
+      "tags": [
+        "1B",
+        "home games impact",
+        "bats well vs righties"
+      ]
+    },
+    {
+      "rank": 4,
+      "name_en": "Cole Carrigg",
+      "summary_en": "Cole Carrigg is new to the whole Coors Field thing but is already right at home there, batting .346 (9 for 22) with a 1.053 OPS vs. .182 (4 for 22) with a .762 OPS on the road. Expect him to pour on the extra-base hits with a full seven games there this week.",
+      "summary_zh_tw": "Cole Carrigg 在主場科爾斯球場表現出色，本週享有七場主場全賽事的優勢。",
+      "tags": [
+        "CF",
+        "Coors Field great performance",
+        "home vs away difference"
+      ]
+    },
+    {
+      "rank": 5,
+      "name_en": "Sam Antonacci",
+      "summary_en": "The White Sox's matchups this week are more solid than spectacular, so this recommendation is more about Sam Antonacci being undervalued in general. The rookie is batting .302 (52 for 172) with three homers and 11 steals in his past 49 games, reaching at a .400 clip, and is averaging 2.91 Head-to-Head points per game overall.",
+      "summary_zh_tw": "菜鳥 Sam Antonacci 近 49 場保持 .302 打擊率和多項數據均衡，是被低估的新秀。",
+      "tags": [
+        "LF",
+        "rookie",
+        "undervalued",
+        "consistent production"
+      ]
+    },
+    {
+      "rank": 6,
+      "name_en": "Jake McCarthy",
+      "summary_en": "Jake McCarthy benefits both from the Rockies' home slate and their righty-loaded schedule this week, batting .315 with a .902 OPS in the former situation and having hit all five of his home runs in the latter situation.",
+      "summary_zh_tw": "Jake McCarthy 這週將受惠於主場及對右投有利的賽程，打擊率和長打力均佳。",
+      "tags": [
+        "CF",
+        "home games impact",
+        "bats well vs righties"
+      ]
+    },
+    {
+      "rank": 7,
+      "name_en": "Willi Castro",
+      "summary_en": "Willi Castro has been hot in general, batting .340 (36 for 106) with four homers and three steals in his past 28 games, and is yet another Rockies hitter who should benefit from a full slate of home games, batting .331 at Coors Field vs. .228 everywhere else. You can start him anywhere but catcher, which makes him a particularly handy play.",
+      "summary_zh_tw": "Willi Castro 過去 28 場打擊率達 .340，且主場科爾斯球場表現明顯優異。",
+      "tags": [
+        "2B",
+        "hot streak",
+        "home games impact",
+        "versatile position"
+      ]
+    },
+    {
+      "rank": 8,
+      "name_en": "Lars Nootbaar",
+      "summary_en": "Lars Nootbaar continues to scorch the ball at over 93 mph on average and has a pristine xBA (.292) and xSLG (.557) so far. He's a good bet to make the most of the Cardinals' fourth-ranked hitter matchups, which include pitchers like Grant Holmes, Martin Perez, Reynaldo Lopez, Colin Rea, David Peterson and Javier Assad.",
+      "summary_zh_tw": "Lars Nootbaar 擁有高 xBA 和 xSLG，將充分利用紅雀隊優異的打者賽程。",
+      "tags": [
+        "LF",
+        "advanced metrics",
+        "good matchups"
+      ]
+    },
+    {
+      "rank": 9,
+      "name_en": "Owen Caissie",
+      "summary_en": "Owen Caissie has had a rough rookie season but is finally beginning to impact the ball like he did in the minors, batting .381 (8 for 21) with three homers in his past seven games. It's good timing with the Marlins having the most favorable hitter schedule of all this week, a slate that includes four games at Coors Field.",
+      "summary_zh_tw": "菜鳥 Owen Caissie 最近七場打出 .381 打擊率並有三轟，正值馬林魚有利賽程。",
+      "tags": [
+        "RF",
+        "rookie",
+        "hot streak",
+        "good schedule"
+      ]
+    },
+    {
+      "rank": 10,
+      "name_en": "Caleb Durbin",
+      "summary_en": "Caleb Durbin's first season in Boston has been a major flop overall, but he's done a lot to make up for it over his past 24 games, batting .329 (28 for 85) with five homers, three steals and a .975 OPS. The Red Sox aren't among the five teams with the best hitter matchups this week, but they didn't miss by much, scheduled to face pitchers such as Miles Mikolas, Cade Cavalli, Andrew Alvarez, Sam Aldegheri and Ryan Johnson.",
+      "summary_zh_tw": "Caleb Durbin 本季開局不佳，但最近 24 場打擊率 .329，表現迅速回溫。",
+      "tags": [
+        "3B",
+        "recent hot streak",
+        "red sox schedule"
+      ]
+    }
+  ],
+  "pipeline": {
+    "version": "1.0",
+    "status": "complete"
+  }
+}
